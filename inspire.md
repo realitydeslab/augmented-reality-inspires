@@ -2,7 +2,7 @@
 
 A catalog of the most creative augmented-reality creators, from the first pioneers to today, and their AR works, compiled by Reality Design Lab as idea material for teaching. Each work lists its video, core idea, key technique and a classroom exercise.
 
-https://augmented.reality.design · 2026-09-28 · 711 creators · 2991 works
+https://augmented.reality.design · 2026-10-14 · 726 creators · 3009 works
 
 ## How an AI assistant should use this file
 
@@ -273,6 +273,7 @@ Perceive the world through a sense you don't have, or someone else's.
 Something that is always there but never seen (air, motion, data) becomes visible.
 
 - **Micro Art** — Stijn Spanhove, Pavlo Tkachenko (2026): Point at a rock or leaf and see the imagined microscopic world living inside it. https://www.youtube.com/watch?v=esOODTn0RVU
+- **TransitView** — Pieter Siekerman (Siekerman Technology) (2026): You see the bus coming around the corner while a building still hides it. https://www.youtube.com/watch?v=-ovm-iNaBTI
 - **CookAR** — Makeability Lab — Jon E. Froehlich & Jaewook Lee (2024): Kitchen tools glow safe where you can grab them and warn where they can hurt you. https://www.youtube.com/watch?v=gtJhme8em7U
 - **I-XRAY** — AnhPhu Nguyen & Caine Ardayfio (2024): Look at a stranger and their name and address appear, showing how exposed everyone already is. https://x.com/AnhPhuNguyen1/status/1840786336992682409
 - **Solid Light (Tate Modern)** — Anthony McCall (2024): A projected beam becomes a solid-looking volume that you walk into and cut with your body. https://www.youtube.com/watch?v=1OVzjGO5iS4
@@ -305,6 +306,7 @@ Something that is always there but never seen (air, motion, data) becomes visibl
 
 Sound gets a place, a shape or a body in space.
 
+- **Sound Space (SPECS x Imogen Heap)** — Imogen Heap, Snap Inc. (Snapchat Lenses) (2026): The air around her body becomes a loop station she plays with her hands and voice. https://www.youtube.com/watch?v=U3TG5PbQbXo
 - **Ultrasound VR** — Universal Everything (Matt Pyke) (2026): Drawing becomes composing: every stroke you paint in the air turns into a sound that plays from where you drew it. https://www.youtube.com/watch?v=95_WMsapSuA
 - **Audio Personas** — Sean Follmer (2025): Everyone carries a personal sound around their body, so you hear who is nearby before you look. https://www.youtube.com/watch?v=l8lis-JPIzA
 - **Sonify Anything** — Laura Schütz (2025): A virtual ball sounds like glass, wood or metal depending on the real thing it hits. https://www.youtube.com/watch?v=tN6JE3kNUbk
@@ -329,6 +331,7 @@ Sound gets a place, a shape or a body in space.
 Your body is changed, extended, swapped or turned into something else.
 
 - **Generative Muscle Stimulation** — Pedro Lopes (2026): Ask the AI for help and it answers by moving your own hand through your muscles. https://www.youtube.com/watch?v=pJM2Z8mmwAw
+- **Tech Deck for Specs** — Hart Woolery (2020CV) (2026): Two fingers become a skater riding a tiny skatepark on a café table. https://x.com/hartspecs/status/2107548240245895271
 - **Morphing Identity** — Shunichi Kasahara (2023): Your face slowly melts into the face of the person sitting across from you, live. https://www.youtube.com/watch?v=rfmIuaV9Ny0
 - **Electrical Head Actuation** — Jun Nishida, Pedro Lopes (2022): Instead of drawing an arrow to show you where to look, the interface turns your head for you. https://www.youtube.com/watch?v=vqpH9gNGpts
 - **Parallel Ping-Pong** — Shunichi Kasahara (2022): One mind, two bodies: a single person plays two ping-pong matches at the same time. https://www.youtube.com/watch?v=q1XAmaMdEiE
@@ -392,6 +395,7 @@ A frame, door or hole opens onto another place.
 
 - **A picture frame that is a window** — Ian Curtis (2026): A picture frame on the wall is really a window: look into it and another 3D world sits behind the wall. https://x.com/XRarchitect/status/2052418499516170377
 - **Unbounded: Object–Boundary Interaction in Mixed Reality** — Zhuoyue Lyu (2026): A ball rolls off a real table and keeps falling through the real floor, as if every surface were only a boundary you can switch off. https://www.youtube.com/watch?v=FL3hmRgtYUM
+- **Pic Seeker** — Calvin Dong (Thanh Hung Dong) (2025): A photo cuts a hole in the room, and the next player has to find the real spot that fills it. https://vimeo.com/1134588237
 - **Mixed Reality Door for Meta Quest 3** — Takashi Yoshinaga (2023): Open the real door in your home and a virtual world is waiting on the other side. https://www.youtube.com/watch?v=VW7ELpkVmIQ
 - **AR Portal Gun** — Max van Leeuwen (2022): Shoot two portals onto real walls and look through one to see your room from the other. https://x.com/maksvanleeuwen/status/1556715819316412418
 - **Depth lines on paper** — Roelof Knol (2022): A plain paper card becomes a hole into the table, and the hole moves when you slide the card. https://x.com/CurieuxExplorer/status/1544719441790992385
@@ -415,6 +419,7 @@ A frame, door or hole opens onto another place.
 
 The past stays in place, replays, or leaves a visible trace.
 
+- **Postmark** — Markus Lanxinger, Marco van Nieuwenhoven & Jiayao Yu (2025): A postcard on the fridge speaks only while you look at it, and waits quietly when you look away. https://www.youtube.com/watch?v=wx48pllLDUM
 - **Replaying a broadcast basketball play on a real court in XR** — Stijn Spanhove (2025): Last night's televised play happens again, in 3D, on the court you are standing on. https://x.com/stspanho/status/1992980633652478223
 - **The Gates in augmented reality (Bloomberg Connects)** — Christo and Jeanne-Claude (2025): A vanished artwork returns to the exact paths in Central Park where it once stood. https://www.youtube.com/watch?v=ncGYO75uATA
 - **Entomographies** — Xavi Bou (2024): The flight of an insect is left behind as a glowing line in the air. https://vimeo.com/1050040741
@@ -457,6 +462,7 @@ What is already there is erased, replaced or re-labelled, often as a statement.
 
 - **La Caverne du Pont Neuf** — JR (2026): Paris's oldest bridge disappears inside a rock cave. https://www.youtube.com/watch?v=RngYQyEu54k
 - **Ad Block** — Stijn Spanhove (2025): An ad blocker for the street: billboards in front of you simply get covered up. https://www.youtube.com/watch?v=KLiEm74cw9Q
+- **Lyrics Everywhere** — Vincent Guigui (2025): A song's lyrics turn up in the world: on a rabbit's sign, a plane's banner, and in speech bubbles over passers-by. https://www.youtube.com/watch?v=mG_LEPo_CX4
 - **EARLL** — Makeability Lab — Jon E. Froehlich & Jaewook Lee (2024): Pick up an everyday object and its word in the language you are learning appears. https://www.youtube.com/watch?v=AjdQsxkPVkU
 - **Head-tracked Subtitles** — Jason Orlosky (2024): Real life gets subtitles, shown beneath whoever is speaking, the way films caption dialogue. https://www.youtube.com/watch?v=Oc91ouDpgio
 - **Integrating Real-World Distractions into Virtual Reality** — Yujie Tao, Pedro Lopes (2022): A real fan's gust becomes wind in the virtual world instead of breaking the illusion. https://www.youtube.com/watch?v=PO8ZlQGYMY8
@@ -502,6 +508,7 @@ What is already there is erased, replaced or re-labelled, often as a statement.
 
 Paper, drawings and everyday objects become interactive or animate.
 
+- **Wake Them Up!** — Awu Chen, Suvi Helin & Matti Grüner (2026): The objects in a room tell the dreams of the person who used to live with them. https://www.youtube.com/watch?v=4hFSGMyT6cc
 - **Bringing Everyday Objects to Life with AI-Powered Talking Characters** — Fabrice Matulic (Preferred Networks) (2025): Every household object gets a face and a personality that come from what it is. https://www.youtube.com/watch?v=RkRc7TRDPDQ
 - **Bringing an action figure to life in AR** — Stijn Spanhove (2025): Photograph a toy and a living copy of it walks around next to the real one. https://x.com/stspanho/status/1910708661279773101
 - **Myaku Myaku AR** — Koki Ibukuro (asus4) (2025): A vase of flowers turns into a wobbling blob covered in eyes while the rest of the room stays real. https://github.com/user-attachments/assets/03961874-421f-41bc-a1d8-f9e0e07b4fe4
@@ -568,8 +575,10 @@ Drawing or writing directly in the air, where the mark itself is the idea.
 
 A game or shared moment built on one simple rule.
 
+- **Memory Grid** — Harry Banda (2026): You remember the path by walking it on the real floor instead of tapping it. https://www.youtube.com/watch?v=jHNpzfKwl1w
 - **TouchPort / Allow me into your dream** — Botao 'Amber' Hu (2026): A handshake and a pull is all it takes to merge two people's separate mixed realities into one. https://www.youtube.com/watch?v=uMSXnUxnxd4
 - **1D ARCADE** — 1024 Architecture (François Wunschel & Pier Schneider) (2025): A whole arcade game squeezed into a single line of light, and you still understand it at a glance. https://vimeo.com/1098205588
+- **Who AR You?** — Kshitij Kumar Parashar (with Brian Chung, Liza Karimova & Timera) (2025): A character floats above your head that everyone in the room can see except you. https://www.youtube.com/watch?v=c6uC7aQgHFg
 - **Projected fish school for cats** — Roelof Knol (2024): Projected fish scatter across the floor when a cat chases them: AR for an audience that cannot read screens. https://x.com/Rainmaker1973/status/1772239372521263467
 - **The Floor Is Lava!** — Figmin XR (Overlay) (2023): The childhood game made literal: the floor really turns to lava and only the furniture is safe. https://www.youtube.com/watch?v=aOXpbDBwNyM
 - **Touch Grass lens** — Aidan Wolf (2023): The internet joke taken literally: the lens checks that you really touched grass and gives you proof. https://x.com/Aidan_Wolf/status/1701565816385179877
@@ -1016,6 +1025,7 @@ Vision and language models that recognise, read and explain what the camera sees
 - **Ray-Ban Meta product scanner** — Juampi (2026): Look at any product and hear what it is and where it comes from. https://x.com/juampitech/status/2068387708276527265
 - **Spatial Search for Meta Quest** — Takashi Yoshinaga (2026): Search your room the way you search the web. https://www.youtube.com/watch?v=CpNNvYJ_eqo
 - **Standing inside your RAG embeddings** — Stijn Spanhove (2026): Walk around the vector space that powers a chatbot, instead of reading its answer. https://x.com/stspanho/status/2024877056035622974
+- **Wake Them Up!** — Awu Chen, Suvi Helin & Matti Grüner (2026): Let the objects in a room remember their owner and speak for someone who is no longer there. https://www.youtube.com/watch?v=4hFSGMyT6cc
 - **AR pothole detection, grading and geotagging** — Virendra Suryawanshi (2025): Inspect a street by looking at it; the headset keeps the report. https://x.com/Virendra0698/status/2001634595494855158
 - **Ad Block** — Stijn Spanhove (2025): A real-world ad blocker that finds the billboards in front of you and covers them up. https://www.youtube.com/watch?v=KLiEm74cw9Q
 - **Android XR glasses live demo (TED)** — Microsoft Research Cambridge / I3D — Shahram Izadi (2025): Walk on stage wearing AI glasses that remember where you just put your keys. https://www.youtube.com/watch?v=gElClXpg4J0
@@ -1094,6 +1104,7 @@ Characters, guides and assistants that live in your space, talk and act.
 - **AiGet** — Shengdong Zhao — Synteraction Lab (2025): Turn idle moments into curiosity: the AI notices what you glance at and tells you something you did not know. https://www.youtube.com/watch?v=Z1WACpnZodg
 - **Android XR glasses live demo with Gemini (Google I/O 2025)** — Google Android XR & DeepMind (Project Astra) (2025): Glasses with an assistant that remembers what you saw a minute ago. https://www.youtube.com/watch?v=7nv1snJRCEI
 - **Bringing Everyday Objects to Life with AI-Powered Talking Characters** — Fabrice Matulic (Preferred Networks) (2025): Give every object a voice and a personality that come from what the object is. https://www.youtube.com/watch?v=RkRc7TRDPDQ
+- **Decisionator** — Inna Horobchuk (2025): Hand your small daily choices to an AI, and ask how much of yourself you are willing to delegate. https://www.youtube.com/watch?v=JRsdMn7WPUk
 - **EmBARDiment** — Mar Gonzalez-Franco (2025): Your gaze history is the prompt. https://www.youtube.com/watch?v=Af2lxWTFiz4
 - **Halo and Noa: glasses that remember what you forgot** — Brilliant Labs (2025): Glasses as a memory that notices what slipped through the cracks. https://www.youtube.com/watch?v=Xp06a3n4LZU
 - **Huk, the Jaguaress** — Violeta Ayala (2025): A film that looks at you, judges you and answers. https://www.youtube.com/watch?v=4cDaYOr3QBM
@@ -1135,6 +1146,7 @@ Say or sketch it and it appears: text, voice or drawings turned into 3D content 
 - **Snap2VoxelAR** — Takashi Yoshinaga (2026): Snap a photo and get back a toy-block version of the world. https://www.youtube.com/watch?v=57gkK-xGxKQ
 - **Tap to launch orbs into a generated world** — Ian Curtis (2026): Overlay an AI-generated 3D world on a real room and tap to fire glowing orbs into it. https://x.com/XRarchitect/status/2077641433855795594
 - **Turn your memories into 3D Gaussian splats** — Takashi Yoshinaga (2026): An old photo becomes a place you can lean into. https://www.youtube.com/watch?v=5nlFjTWZSE8
+- **Augmented Reading (National Library Board Singapore)** — LePub Singapore (LeGarage), Snap Inc. (Snapchat Lenses) (2025): Keep reading on paper, but let the story appear and sound around the book in time with your reading. https://www.youtube.com/watch?v=5kQkCL-YKns
 - **Bringing an action figure to life in AR** — Stijn Spanhove (2025): Photograph a toy and it steps out of its box as a living AR character. https://x.com/stspanho/status/1910708661279773101
 - **Bubbles** — Pavlo Tkachenko (2025): Type some words to generate 3D objects, then fill the space around you with them, each sealed in a bubble. https://www.youtube.com/watch?v=TAPU-f4w7xs
 - **Chain-of-thought models designing XR puzzles** — Stijn Spanhove (2025): Let a reasoning model design the level, then step inside it. https://x.com/stspanho/status/1885352446806970708
@@ -12072,6 +12084,76 @@ Iranian technical artist in Berlin who open-sources his Unity shader and compute
 - Technique: The portal mask writes a value into the stencil buffer, and the hidden scene's shaders only draw where the stencil matches.
 - Try it: Anchor a stencil portal to a real door or picture frame with AR Foundation image tracking so a different world appears inside it. Twist: the world behind the portal changes with the time of day.
 
+### Snap Inc. (Snapchat Lenses)
+
+*Camera company; Snapchat Lenses and Lens Studio*
+
+Snap turned face filters into a mass medium with Snapchat Lenses (2015), then added World Lenses, Lens Studio for creators, Landmarkers and Local Lenses.
+
+#### Jeff Koons x Snapchat — Snap Inc. (Snapchat Lenses) (2017)
+- Video: https://www.youtube.com/watch?v=d5z9-JLIuis
+- Interaction: Location & City, Perception & Effects
+- Platform & tech: Phone, Snapchat, geolocated lenses
+- Idea: Jeff Koons sculptures installed in AR at famous places around the world.
+- What it is: Geolocated AR versions of Jeff Koons sculptures such as Balloon Dog appeared at sites like Central Park and the Champ de Mars, visible only through a Snapchat lens at those places.
+- Technique: Geofenced lenses become available only near specific coordinates, and the sculpture is placed with ground tracking at a fixed site.
+- Try it: Design an AR sculpture for a spot on campus that is visible only there, using GPS to limit where it appears. Twist: let classmates leave AR graffiti next to the sculpture, and discuss who owns public space.
+
+#### Snapchat World Lenses — Snap Inc. (Snapchat Lenses) (2017)
+- Video: https://www.youtube.com/watch?v=K6x44v8prFA
+- Interaction: Spatial Mapping, Perception & Effects
+- Platform & tech: Phone, Snapchat, SLAM
+- Idea: Animated 3D characters dropped into the real world through the rear camera turned AR into everyone's meme.
+- What it is: Snapchat's rear-camera lenses place animated 3D objects, such as a rainbow-puking cloud or the Dancing Hot Dog, on the ground in the real scene that users can walk around and record.
+- Technique: Rear-camera SLAM with ground detection anchors an animated character to the floor, and video recording captures the composited result for sharing.
+- Try it: Make a World Lens with an animated character on the ground in Lens Studio and record a 10-second clip. Twist: the character imitates the movements of a real person in front of the camera, using body tracking.
+
+#### Landmarkers — Snap Inc. (Snapchat Lenses) (2019)
+- Video: https://www.youtube.com/watch?v=jNs9kdSAOCA
+- Interaction: Location & City, Spatial Mapping, Perception & Effects
+- Platform & tech: Phone, Lens Studio, landmark tracking
+- Idea: Recognize a real landmark and make the whole Eiffel Tower warp, melt or spray rainbows on camera.
+- What it is: Lenses that recognise famous buildings such as the Eiffel Tower or Flatiron Building and transform their real facades with animation, e.g. making the structure melt or burst into rainbows.
+- Technique: Landmark tracking matches the camera view to a prebuilt 3D model of a known building, so shaders and animations can be mapped precisely onto its real facade.
+- Try it: Use Lens Studio's Custom Landmarker or image tracking to recognize a building facade on campus and overlay a melting or grass-growing animation on it. Twist: make the animation change with the real time of day.
+
+#### Local Lenses — Snap Inc. (Snapchat Lenses) (2020)
+- Video: https://www.youtube.com/watch?v=4jA1RM5_WMc
+- Interaction: Location & City, Shared & Social, Drawing & Making
+- Platform & tech: Phone, Lens Studio, city-scale 3D map
+- Idea: People paint real buildings along a whole street together, and the AR content stays where it was put.
+- What it is: Persistent, shared AR that covers entire city blocks: multiple Snapchatters can paint and decorate real building facades together, and the changes stay in place for others.
+- Technique: A city-scale 3D map localizes users, and shared persistent state stores each paint stroke on building surfaces so later visitors see the accumulated changes.
+- Try it: Use persistent anchors and a simple backend such as Firebase to build a shared AR graffiti wall whose graffiti is still there the next time you open it. Twist: the graffiti slowly fades like real paint.
+
+#### Spectacles AI release: Snap 3D and LLM integrations — Snap Inc. (Snapchat Lenses) (2025)
+- Video: https://www.youtube.com/watch?v=qpi1JTnPwgs
+- Interaction: Drawing & Making, Voice & Sound, Tangible Objects
+- Platform & tech: Headset, Snap Spectacles, Snap 3D, OpenAI, Gemini, SnapML
+- Idea: AR glasses where you can ask for a 3D object and it appears.
+- What it is: The June 2025 Spectacles OS release adds OpenAI, Gemini and DeepSeek integrations, better speech-to-text, the Snap 3D generative API that creates 3D objects on demand, and new object-tracking samples.
+- Technique: Lens Studio exposes cloud LLMs and a text-to-3D endpoint (Snap 3D) to lenses, so a spoken prompt returns a mesh that is placed in the room.
+- Try it: Build a voice-to-3D toy: speech-to-text, then a free text-to-3D API, then place the result on a detected table in phone AR. Twist: every new object must be something the previous one would be afraid of.
+
+#### Spectacles AI-powered translation challenge — Snap Inc. (Snapchat Lenses) (2025)
+- Video: https://www.youtube.com/watch?v=hR4W_Qtzij4
+- Interaction: Shared & Social, Voice & Sound
+- Platform & tech: Headset, Snap Spectacles, speech-to-text, machine translation
+- Idea: Subtitles for real life let strangers build something together.
+- What it is: Two people who speak different languages collaborate on a build: one instructs, one builds, and a Spectacles translation lens shows each spoken sentence as subtitles in the other's language.
+- Technique: Speech is transcribed, translated by an AI model and rendered as captions anchored near the speaker in the wearer's view.
+- Try it: Run a LEGO challenge where the instructor speaks one language and the builder reads live translated captions on a phone held in a headset viewer. Twist: translate into emoji only.
+
+#### Agent Center for Spectacles — Snap Inc. (Snapchat Lenses) (2026)
+- Video: https://www.youtube.com/watch?v=U0cA-bVxLgM
+- Source code: https://github.com/specs-devs/samples
+- Interaction: Voice & Sound, Information & UI
+- Platform & tech: Headset, Snap Spectacles, CLI coding agents, Lens Studio
+- Idea: Your coding agents follow you around as floating panels.
+- What it is: Agent Center connects a developer's command-line coding agents to Spectacles, so they can prompt agents in AR and keep track of their code while away from the desk.
+- Technique: A bridge relays prompts and agent output between CLI agents running on a computer and a Spectacles lens that shows sessions as spatial windows.
+- Try it: Mirror the output of a long-running script to a phone WebAR panel that floats by your door, and add a button to send one-word replies back. Twist: the panel changes colour with the agent's mood.
+
 ### Steve Mann
 
 *Wearable-computing pioneer; professor at the University of Toronto (EyeTap, mediated reality)*
@@ -13848,6 +13930,84 @@ Specialist in AR visualization: X-ray and ghosted views of hidden structure, com
 - Technique: Captures many registered images to render novel views of the scene for the remote helper, then anchors their 3D annotations back in the local tracking space.
 - Try it: Have student A photograph a desktop fault, such as wiring, from several angles with a phone, have student B annotate the steps on the photos, and have A restore them on site as AR labels. Twist: limit B to looking at only 3 photos.
 
+### Hart Woolery (2020CV)
+
+*Founder and CTO, 2020CV*
+
+Computer-vision developer whose company 2020CV trained its own mobile hand, face and pet tracking models to make InstaSaber, YoPuppet, SpeakingPuppy and Snap lenses.
+
+#### InstaSaber — Hart Woolery (2020CV) (2017)
+- Video: https://www.youtube.com/watch?v=MWd7shj59PA
+- Interaction: Tangible Objects, Hands & Body, Play
+- Platform & tech: Phone, ARKit, CoreML, computer vision
+- Idea: A rolled-up sheet of paper becomes a lightsaber on your phone.
+- What it is: Roll up a piece of paper and the iPhone turns it into a glowing lightsaber that follows the paper tube in your hand.
+- Technique: A custom vision model detects the paper tube's endpoints each frame and a blade mesh with glow is rendered along that line.
+- Try it: Use color tracking to detect a colored straw or paper tube and draw a glowing blade over the camera image (p5.js or OpenCV.js). Twist: two blades throw sparks and make a sound when they clash.
+
+#### Mobile hand tracking + ARKit — Hart Woolery (2020CV) (2017)
+- Video: https://www.youtube.com/watch?v=u_FTew8oTBw
+- Interaction: Hands & Body
+- Platform & tech: Phone, ARKit, CoreML
+- Idea: Bare-hand interaction with AR objects on an iPhone 7, back in 2017.
+- What it is: An early demo on an iPhone 7 combines 2020CV's own hand tracker with ARKit so a bare hand can interact with AR content.
+- Technique: A custom neural hand detector runs on-device alongside ARKit tracking to map the hand position into the AR scene.
+- Try it: Train three gestures (open hand, fist, pointing) with Teachable Machine and use them in web AR to trigger appear, grab and launch. Twist: combine gesture sequences into "spells."
+
+#### 3D hand interaction and physics on an iPhone — Hart Woolery (2020CV) (2018)
+- Video: https://www.youtube.com/watch?v=c_h6UBq0u70
+- Interaction: Hands & Body, Spatial Mapping, Play
+- Platform & tech: Phone, ARKit, CoreML, TensorFlow
+- Idea: With just a phone camera, knock over virtual blocks on a table with your real hand.
+- What it is: With only the built-in camera, a tracked 3D hand pushes and knocks over virtual objects that obey physics on a real table.
+- Technique: A Keras-trained model estimates 3D hand pose, and colliders attached to the hand interact with physics bodies placed on ARKit planes.
+- Try it: Use Lens Studio hand tracking or AR Foundation with hand colliders so your hand can knock over a row of virtual dominoes. Twist: you can only 'poke' with your index finger raised.
+
+#### SpeakingPuppy — Hart Woolery (2020CV) (2018)
+- Video: https://www.youtube.com/watch?v=3Dzn2WbHsyA
+- Interaction: Face, Voice & Sound
+- Platform & tech: Phone, CoreML, face tracking, voice changer
+- Idea: Put a mask on your dog and make it talk.
+- What it is: An iOS app detects your dog's face, puts masks and filters on it and gives it a voice-changed talking mouth.
+- Technique: A custom pet-face landmark model tracks the dog's face so masks follow it, and the user's recorded voice is pitch-shifted and lip-synced to an animated mouth.
+- Try it: Use the Lens Studio pet template or Teachable Machine to recognize the face of a pet or stuffed toy and give it a voice-changed narration. Twist: the audience types what it says.
+
+#### Virtual Drumpad on iOS — Hart Woolery (2020CV) (2019)
+- Video: https://www.youtube.com/watch?v=lrl2_67GukM
+- Interaction: Hands & Body, Voice & Sound, Performance
+- Platform & tech: Phone, CoreML, hand tracking
+- Idea: Tap on thin air and the phone plays a drum beat.
+- What it is: Tapping fingers in the air in front of the phone triggers drum pads that appear over the camera view.
+- Technique: Fingertip tracking detects downward strikes into on-screen pad regions and triggers low-latency audio samples.
+- Try it: Build air drums with MediaPipe Hands and Web Audio, where a fingertip entering a square plays a sound. Twist: lay out the drum pads along the edge of the real table.
+
+#### YoPuppet — Hart Woolery (2020CV) (2019)
+- Video: https://www.youtube.com/watch?v=zd-LKYu5QDQ
+- Interaction: Hands & Body, Voice & Sound, Play
+- Platform & tech: Phone, CoreML, ARKit, TensorFlow
+- Idea: Turn your hand into an AR puppet: open and close your hand and the puppet talks.
+- What it is: Hand tracking maps 22 points of your hand onto a cartoon puppet's face, so opening and closing your hand works the puppet's mouth in AR.
+- Technique: A deep-learning hand pose model tracks keypoints in real time and retargets them to a 2D/3D puppet rig anchored over the hand.
+- Try it: Build a hand puppet with MediaPipe Hands, where the thumb and fingers opening and closing control a character's mouth, and add voice changing. Twist: characters on both hands can talk to each other.
+
+#### Face filter from a single photo — Hart Woolery (2020CV) (2020)
+- Video: https://www.youtube.com/watch?v=aYKGafPtKbM
+- Interaction: Face, Perception & Effects
+- Platform & tech: Phone, face tracking, CoreML
+- Idea: From just one photo, turn someone else's face into your live filter.
+- What it is: A face filter is generated from one photo of another person and mapped onto the user's live face so it follows expressions.
+- Technique: Landmarks from a single photo are used to build a textured face mesh that is warped onto the live tracked face (likely a 2D morphable mapping).
+- Try it: Use MediaPipe FaceMesh to turn a photo of a celebrity or a famous painting into a mask that fits your own face. Twist: the mask appears only when you smile.
+
+#### Tech Deck for Specs — Hart Woolery (2020CV) (2026)
+- Video: https://x.com/hartspecs/status/2107548240245895271
+- Interaction: Hands & Body, Play
+- Platform & tech: Headset, Spectacles, Specs (2026), hand tracking
+- Idea: Turn two fingers into a skater: a fingerboard toy without the toy.
+- What it is: A miniature graffiti skatepark sits on a café table, and Hart rides a tiny virtual skateboard through it with two fingers, the way you play with a toy fingerboard.
+- Technique: Hand tracking reads the index and middle fingertips as the rider's feet, and the virtual board likely follows their pose with physics against the ramps of the miniature park.
+- Try it: Build a tabletop mini skatepark in WebXR or Lens Studio and map two tracked fingertips to a board that can ollie when the fingers lift. Twist: score tricks by how long the board stays in the air.
+
 ### Johnny Chung Lee
 
 *HCI researcher; Wii Remote hacker; led Project Tango at Google*
@@ -14271,6 +14431,50 @@ Studio known for architectural projection mapping, illuminated night walks (Lumi
 - Technique: Real-time engines drive custom content on Sphere's interior display, with visual operators performing and switching scenes live (engine likely Unreal or Notch).
 - Try it: Build a shared AR concert scene in Unity with Netcode or a WebXR multiplayer template, where one student operates the visuals live from a laptop while others watch through phones. Twist: the operator can only use three knobs, forcing a clear visual language.
 
+### Pavlo Tkachenko
+
+*AR developer and Snap Spectacles lens creator*
+
+AR developer who builds Spectacles lenses, often with Stijn Spanhove, and won a Spectacles Community Challenge with his generative lens Bubbles.
+
+#### BPlane Adventures — Pavlo Tkachenko (2025)
+- Video: https://www.youtube.com/watch?v=f-3du7Fy3kA
+- Interaction: Gaze & Attention, Hands & Body, Play
+- Platform & tech: Headset, Snap Spectacles, Lens Studio
+- Idea: Steer a small plane by turning your head and boost it with your hand as it weaves through the space around you.
+- What it is: A relaxing flow game for Spectacles: you steer a small plane with head movements and use your hands to boost it through the space around you.
+- Technique: Head orientation steers the plane's heading, while a hand gesture triggers a speed boost, both mapped in world space around the user.
+- Try it: Use head orientation (HoloKit or the phone gyroscope) to fly a paper plane through AR rings in the room, opening your palm to speed up. Twist: generate ring positions automatically from the room's planes.
+
+#### Bubbles — Pavlo Tkachenko (2025)
+- Video: https://www.youtube.com/watch?v=TAPU-f4w7xs
+- Interaction: Drawing & Making, Hands & Body
+- Platform & tech: Headset, Snap Spectacles, Snap3D, Lens Studio
+- Idea: Type some words to generate 3D objects, then fill the space around you with them, each sealed in a bubble.
+- What it is: A Spectacles lens where you type a prompt, generate 3D models with Snap3D generative AI, and place several objects around you inside floating bubbles.
+- Technique: A text prompt is sent to a text-to-3D service, and the returned mesh is scaled into a transparent sphere container placed around the user via world tracking.
+- Try it: Generate three small objects with a text-to-3D tool and place each in a transparent bubble in AR, so an object only drops to the ground when its bubble is popped. Twist: have classmates set the prompts for each other's bubbles.
+
+#### A real fly brain loose in the living room — Pavlo Tkachenko (2026)
+- Video: https://x.com/pt_pavlo/status/2098834184999694678
+- Source code: https://github.com/PtPavloTkachenko/fly-brain-spectacles
+- Interaction: Hands & Body, Spatial Mapping
+- Platform & tech: Headset, Spectacles, Lens Studio, connectome simulation, Metal GPU, CLAD
+- Idea: Give a virtual creature a real brain and let it sense your actual room.
+- What it is: Hologram fruit flies wander over a real table, dodge a hand that moves too fast and land on an open palm; every move comes from a simulation of the complete fruit-fly connectome reacting to the room the glasses see.
+- Technique: The MaleCNS connectome (166,700 neurons) runs as a spiking model on a Mac GPU; Spectacles supplies the fly's senses (a virtual retina, ray casts against the room, hand positions and a labelled inventory of nearby objects) and the brain's descending neurons drive the hologram's wings, legs and head.
+- Try it: Build a tiny creature in Lens Studio or WebXR whose behaviour comes only from a few simple sensor-to-motor rules (Braitenberg-vehicle style): it flees a fast-moving hand and approaches a still palm. Twist: give two creatures slightly different wiring and let classmates guess which rule each one follows.
+
+#### VectAR: air hockey against a real robot — Pavlo Tkachenko (2026)
+- Video: https://x.com/pt_pavlo/status/2078831392620765520
+- Source code: https://github.com/PtPavloTkachenko/VectAR-Airhokey
+- Interaction: Tangible Objects, Play, Hands & Body
+- Platform & tech: Headset, Spectacles, Lens Studio, Anki Vector, Python SDK, wire-pod, CLAD
+- Idea: Virtual puck, real goalie: let a physical robot play inside an AR game.
+- What it is: A glowing air-hockey rink appears on a real desk; the player flicks a virtual puck with their hand while Anki's Vector, a real palm-sized desk robot, drives across the table as the goalie.
+- Technique: A server on the Mac drives the stock Vector through its Python SDK (logged in via the community wire-pod token server) and syncs the robot's position with the lens, which runs the puck physics and hand tracking on Spectacles.
+- Try it: Put a cheap robot toy or a remote-control car on a table, track it with an image marker, and build a phone AR game where a virtual ball bounces off the real robot. Twist: let a second player steer the robot from another phone.
+
 ### Schnelle Bunte Bilder (with kling klang klong)
 
 *Media art and design studio (interactive rooms and projections)*
@@ -14434,76 +14638,6 @@ Makes the Coding Adventures videos, in which he builds fluids, ray marchers, clo
 - What it is: Thousands of particles slosh, splash and settle as water in a box, first in 2D then in 3D, reacting to the mouse pushing and pulling them.
 - Technique: Smoothed Particle Hydrodynamics runs in compute shaders: density and pressure are computed from neighbours found through a spatial hash, and particles are integrated each frame.
 - Try it: Run a small 2D SPH simulation on a phone and place its container on a real table in AR, tilting the water with the phone's gravity sensor. Twist: pour the water out onto the real floor plane.
-
-### Snap Inc. (Snapchat Lenses)
-
-*Camera company; Snapchat Lenses and Lens Studio*
-
-Snap turned face filters into a mass medium with Snapchat Lenses (2015), then added World Lenses, Lens Studio for creators, Landmarkers and Local Lenses.
-
-#### Jeff Koons x Snapchat — Snap Inc. (Snapchat Lenses) (2017)
-- Video: https://www.youtube.com/watch?v=d5z9-JLIuis
-- Interaction: Location & City, Perception & Effects
-- Platform & tech: Phone, Snapchat, geolocated lenses
-- Idea: Jeff Koons sculptures installed in AR at famous places around the world.
-- What it is: Geolocated AR versions of Jeff Koons sculptures such as Balloon Dog appeared at sites like Central Park and the Champ de Mars, visible only through a Snapchat lens at those places.
-- Technique: Geofenced lenses become available only near specific coordinates, and the sculpture is placed with ground tracking at a fixed site.
-- Try it: Design an AR sculpture for a spot on campus that is visible only there, using GPS to limit where it appears. Twist: let classmates leave AR graffiti next to the sculpture, and discuss who owns public space.
-
-#### Snapchat World Lenses — Snap Inc. (Snapchat Lenses) (2017)
-- Video: https://www.youtube.com/watch?v=K6x44v8prFA
-- Interaction: Spatial Mapping, Perception & Effects
-- Platform & tech: Phone, Snapchat, SLAM
-- Idea: Animated 3D characters dropped into the real world through the rear camera turned AR into everyone's meme.
-- What it is: Snapchat's rear-camera lenses place animated 3D objects, such as a rainbow-puking cloud or the Dancing Hot Dog, on the ground in the real scene that users can walk around and record.
-- Technique: Rear-camera SLAM with ground detection anchors an animated character to the floor, and video recording captures the composited result for sharing.
-- Try it: Make a World Lens with an animated character on the ground in Lens Studio and record a 10-second clip. Twist: the character imitates the movements of a real person in front of the camera, using body tracking.
-
-#### Landmarkers — Snap Inc. (Snapchat Lenses) (2019)
-- Video: https://www.youtube.com/watch?v=jNs9kdSAOCA
-- Interaction: Location & City, Spatial Mapping, Perception & Effects
-- Platform & tech: Phone, Lens Studio, landmark tracking
-- Idea: Recognize a real landmark and make the whole Eiffel Tower warp, melt or spray rainbows on camera.
-- What it is: Lenses that recognise famous buildings such as the Eiffel Tower or Flatiron Building and transform their real facades with animation, e.g. making the structure melt or burst into rainbows.
-- Technique: Landmark tracking matches the camera view to a prebuilt 3D model of a known building, so shaders and animations can be mapped precisely onto its real facade.
-- Try it: Use Lens Studio's Custom Landmarker or image tracking to recognize a building facade on campus and overlay a melting or grass-growing animation on it. Twist: make the animation change with the real time of day.
-
-#### Local Lenses — Snap Inc. (Snapchat Lenses) (2020)
-- Video: https://www.youtube.com/watch?v=4jA1RM5_WMc
-- Interaction: Location & City, Shared & Social, Drawing & Making
-- Platform & tech: Phone, Lens Studio, city-scale 3D map
-- Idea: People paint real buildings along a whole street together, and the AR content stays where it was put.
-- What it is: Persistent, shared AR that covers entire city blocks: multiple Snapchatters can paint and decorate real building facades together, and the changes stay in place for others.
-- Technique: A city-scale 3D map localizes users, and shared persistent state stores each paint stroke on building surfaces so later visitors see the accumulated changes.
-- Try it: Use persistent anchors and a simple backend such as Firebase to build a shared AR graffiti wall whose graffiti is still there the next time you open it. Twist: the graffiti slowly fades like real paint.
-
-#### Spectacles AI release: Snap 3D and LLM integrations — Snap Inc. (Snapchat Lenses) (2025)
-- Video: https://www.youtube.com/watch?v=qpi1JTnPwgs
-- Interaction: Drawing & Making, Voice & Sound, Tangible Objects
-- Platform & tech: Headset, Snap Spectacles, Snap 3D, OpenAI, Gemini, SnapML
-- Idea: AR glasses where you can ask for a 3D object and it appears.
-- What it is: The June 2025 Spectacles OS release adds OpenAI, Gemini and DeepSeek integrations, better speech-to-text, the Snap 3D generative API that creates 3D objects on demand, and new object-tracking samples.
-- Technique: Lens Studio exposes cloud LLMs and a text-to-3D endpoint (Snap 3D) to lenses, so a spoken prompt returns a mesh that is placed in the room.
-- Try it: Build a voice-to-3D toy: speech-to-text, then a free text-to-3D API, then place the result on a detected table in phone AR. Twist: every new object must be something the previous one would be afraid of.
-
-#### Spectacles AI-powered translation challenge — Snap Inc. (Snapchat Lenses) (2025)
-- Video: https://www.youtube.com/watch?v=hR4W_Qtzij4
-- Interaction: Shared & Social, Voice & Sound
-- Platform & tech: Headset, Snap Spectacles, speech-to-text, machine translation
-- Idea: Subtitles for real life let strangers build something together.
-- What it is: Two people who speak different languages collaborate on a build: one instructs, one builds, and a Spectacles translation lens shows each spoken sentence as subtitles in the other's language.
-- Technique: Speech is transcribed, translated by an AI model and rendered as captions anchored near the speaker in the wearer's view.
-- Try it: Run a LEGO challenge where the instructor speaks one language and the builder reads live translated captions on a phone held in a headset viewer. Twist: translate into emoji only.
-
-#### Agent Center for Spectacles — Snap Inc. (Snapchat Lenses) (2026)
-- Video: https://www.youtube.com/watch?v=U0cA-bVxLgM
-- Source code: https://github.com/specs-devs/samples
-- Interaction: Voice & Sound, Information & UI
-- Platform & tech: Headset, Snap Spectacles, CLI coding agents, Lens Studio
-- Idea: Your coding agents follow you around as floating panels.
-- What it is: Agent Center connects a developer's command-line coding agents to Spectacles, so they can prompt agents in AR and keep track of their code while away from the desk.
-- Technique: A bridge relays prompts and agent output between CLI agents running on a computer and a Spectacles lens that shows sessions as spatial windows.
-- Try it: Mirror the output of a long-running script to a phone WebAR panel that floats by your door, and add a button to send one-word replies back. Twist: the panel changes colour with the agent's mood.
 
 ### 1024 Architecture (François Wunschel & Pier Schneider)
 
@@ -14924,75 +15058,6 @@ Agency founded in Amsterdam that grew out of Snapchat and Instagram AR lenses an
 - What it is: On Quest 3 in passthrough, snowballs thrown with the controllers splat against a real bed, walls and floor, bouncing and breaking apart exactly on the room's surfaces.
 - Technique: Quest 3 world meshing builds a detailed scene mesh that is used as a physics collider, so thrown snowballs collide and leave splats on real furniture.
 - Try it: Use a LiDAR phone or Quest scene mesh to make a throw-and-splat game: every hit leaves a paint mark that stays on the real wall. Twist: marks slowly melt away after a minute.
-
-### Hart Woolery (2020CV)
-
-*Founder and CTO, 2020CV*
-
-Computer-vision developer whose company 2020CV trained its own mobile hand, face and pet tracking models to make InstaSaber, YoPuppet, SpeakingPuppy and Snap lenses.
-
-#### InstaSaber — Hart Woolery (2020CV) (2017)
-- Video: https://www.youtube.com/watch?v=MWd7shj59PA
-- Interaction: Tangible Objects, Hands & Body, Play
-- Platform & tech: Phone, ARKit, CoreML, computer vision
-- Idea: A rolled-up sheet of paper becomes a lightsaber on your phone.
-- What it is: Roll up a piece of paper and the iPhone turns it into a glowing lightsaber that follows the paper tube in your hand.
-- Technique: A custom vision model detects the paper tube's endpoints each frame and a blade mesh with glow is rendered along that line.
-- Try it: Use color tracking to detect a colored straw or paper tube and draw a glowing blade over the camera image (p5.js or OpenCV.js). Twist: two blades throw sparks and make a sound when they clash.
-
-#### Mobile hand tracking + ARKit — Hart Woolery (2020CV) (2017)
-- Video: https://www.youtube.com/watch?v=u_FTew8oTBw
-- Interaction: Hands & Body
-- Platform & tech: Phone, ARKit, CoreML
-- Idea: Bare-hand interaction with AR objects on an iPhone 7, back in 2017.
-- What it is: An early demo on an iPhone 7 combines 2020CV's own hand tracker with ARKit so a bare hand can interact with AR content.
-- Technique: A custom neural hand detector runs on-device alongside ARKit tracking to map the hand position into the AR scene.
-- Try it: Train three gestures (open hand, fist, pointing) with Teachable Machine and use them in web AR to trigger appear, grab and launch. Twist: combine gesture sequences into "spells."
-
-#### 3D hand interaction and physics on an iPhone — Hart Woolery (2020CV) (2018)
-- Video: https://www.youtube.com/watch?v=c_h6UBq0u70
-- Interaction: Hands & Body, Spatial Mapping, Play
-- Platform & tech: Phone, ARKit, CoreML, TensorFlow
-- Idea: With just a phone camera, knock over virtual blocks on a table with your real hand.
-- What it is: With only the built-in camera, a tracked 3D hand pushes and knocks over virtual objects that obey physics on a real table.
-- Technique: A Keras-trained model estimates 3D hand pose, and colliders attached to the hand interact with physics bodies placed on ARKit planes.
-- Try it: Use Lens Studio hand tracking or AR Foundation with hand colliders so your hand can knock over a row of virtual dominoes. Twist: you can only 'poke' with your index finger raised.
-
-#### SpeakingPuppy — Hart Woolery (2020CV) (2018)
-- Video: https://www.youtube.com/watch?v=3Dzn2WbHsyA
-- Interaction: Face, Voice & Sound
-- Platform & tech: Phone, CoreML, face tracking, voice changer
-- Idea: Put a mask on your dog and make it talk.
-- What it is: An iOS app detects your dog's face, puts masks and filters on it and gives it a voice-changed talking mouth.
-- Technique: A custom pet-face landmark model tracks the dog's face so masks follow it, and the user's recorded voice is pitch-shifted and lip-synced to an animated mouth.
-- Try it: Use the Lens Studio pet template or Teachable Machine to recognize the face of a pet or stuffed toy and give it a voice-changed narration. Twist: the audience types what it says.
-
-#### Virtual Drumpad on iOS — Hart Woolery (2020CV) (2019)
-- Video: https://www.youtube.com/watch?v=lrl2_67GukM
-- Interaction: Hands & Body, Voice & Sound, Performance
-- Platform & tech: Phone, CoreML, hand tracking
-- Idea: Tap on thin air and the phone plays a drum beat.
-- What it is: Tapping fingers in the air in front of the phone triggers drum pads that appear over the camera view.
-- Technique: Fingertip tracking detects downward strikes into on-screen pad regions and triggers low-latency audio samples.
-- Try it: Build air drums with MediaPipe Hands and Web Audio, where a fingertip entering a square plays a sound. Twist: lay out the drum pads along the edge of the real table.
-
-#### YoPuppet — Hart Woolery (2020CV) (2019)
-- Video: https://www.youtube.com/watch?v=zd-LKYu5QDQ
-- Interaction: Hands & Body, Voice & Sound, Play
-- Platform & tech: Phone, CoreML, ARKit, TensorFlow
-- Idea: Turn your hand into an AR puppet: open and close your hand and the puppet talks.
-- What it is: Hand tracking maps 22 points of your hand onto a cartoon puppet's face, so opening and closing your hand works the puppet's mouth in AR.
-- Technique: A deep-learning hand pose model tracks keypoints in real time and retargets them to a 2D/3D puppet rig anchored over the hand.
-- Try it: Build a hand puppet with MediaPipe Hands, where the thumb and fingers opening and closing control a character's mouth, and add voice changing. Twist: characters on both hands can talk to each other.
-
-#### Face filter from a single photo — Hart Woolery (2020CV) (2020)
-- Video: https://www.youtube.com/watch?v=aYKGafPtKbM
-- Interaction: Face, Perception & Effects
-- Platform & tech: Phone, face tracking, CoreML
-- Idea: From just one photo, turn someone else's face into your live filter.
-- What it is: A face filter is generated from one photo of another person and mapped onto the user's live face so it follows expressions.
-- Technique: Landmarks from a single photo are used to build a textured face mesh that is warped onto the live tracked face (likely a 2D morphable mapping).
-- Try it: Use MediaPipe FaceMesh to turn a photo of a celebrity or a famous painting into a mask that fits your own face. Twist: the mask appears only when you smile.
 
 ### Ishikawa Watanabe Laboratory (University of Tokyo)
 
@@ -17985,30 +18050,6 @@ French artist and member of the AntiVJ visual label whose installations question
 - What it is: Coloured frames painted and lit across real architecture — walls, courtyards, streets — only line up into perfect rectangles from one point; from anywhere else they fall apart into broken shapes. Versions were shown in Metz, at Bristol Light Festival and in a drone-filmed version.
 - Technique: Rectangles are projected from the chosen viewpoint onto the architecture and then painted or lit along the projection lines, so they align only from that spot (anamorphosis).
 - Try it: Pick a courtyard, stand at one spot and use a phone AR app to place a floating rectangular frame that spans several walls; then walk around to see it break. Twist: mark the spot with nothing, and let people discover it by looking through the app.
-
-### Pavlo Tkachenko
-
-*AR developer and Snap Spectacles lens creator*
-
-AR developer who builds Spectacles lenses, often with Stijn Spanhove, and won a Spectacles Community Challenge with his generative lens Bubbles.
-
-#### BPlane Adventures — Pavlo Tkachenko (2025)
-- Video: https://www.youtube.com/watch?v=f-3du7Fy3kA
-- Interaction: Gaze & Attention, Hands & Body, Play
-- Platform & tech: Headset, Snap Spectacles, Lens Studio
-- Idea: Steer a small plane by turning your head and boost it with your hand as it weaves through the space around you.
-- What it is: A relaxing flow game for Spectacles: you steer a small plane with head movements and use your hands to boost it through the space around you.
-- Technique: Head orientation steers the plane's heading, while a hand gesture triggers a speed boost, both mapped in world space around the user.
-- Try it: Use head orientation (HoloKit or the phone gyroscope) to fly a paper plane through AR rings in the room, opening your palm to speed up. Twist: generate ring positions automatically from the room's planes.
-
-#### Bubbles — Pavlo Tkachenko (2025)
-- Video: https://www.youtube.com/watch?v=TAPU-f4w7xs
-- Interaction: Drawing & Making, Hands & Body
-- Platform & tech: Headset, Snap Spectacles, Snap3D, Lens Studio
-- Idea: Type some words to generate 3D objects, then fill the space around you with them, each sealed in a bubble.
-- What it is: A Spectacles lens where you type a prompt, generate 3D models with Snap3D generative AI, and place several objects around you inside floating bubbles.
-- Technique: A text prompt is sent to a text-to-3D service, and the returned mesh is scaled into a transparent sphere container placed around the user via world tracking.
-- Try it: Generate three small objects with a text-to-3D tool and place each in a transparent bubble in AR, so an object only drops to the ground when its bubble is popped. Twist: have classmates set the prompts for each other's bubbles.
 
 ### Refik Anadol
 
@@ -31675,6 +31716,21 @@ Indian XR developer behind Genesis Interactive, a VR/AI studio that open-sourced
 - Technique: Depth API frames are fused into a GPU TSDF volume, Surface Nets extracts a mesh, and passthrough camera images texture it; scans can be sent to a server for Gaussian-splat training and rendered back on device.
 - Try it: Scan a corner of the classroom with QuestRoomScan and apply a shader that makes the scanned mesh melt or ripple while passthrough shows the real room. Twist: freeze a scan, then compare it with the live room to reveal what moved.
 
+### Awu Chen, Suvi Helin & Matti Grüner
+
+*MIT Reality Hack 2026 team*
+
+Team of three who met at MIT Reality Hack 2026; Suvi Helin came from Unity and learned Lens Studio during the event, and together they built Wake Them Up!, a Spectacles Lens in which objects tell stories about their owner.
+
+#### Wake Them Up! — Awu Chen, Suvi Helin & Matti Grüner (2026)
+- Video: https://www.youtube.com/watch?v=4hFSGMyT6cc
+- Interaction: Tangible Objects, Voice & Sound
+- Platform & tech: Headset, Snap Spectacles, Lens Studio, Gemini, Snap Cloud
+- Idea: Let the objects in a room remember their owner and speak for someone who is no longer there.
+- What it is: Look around a room and glowing dots hover over its objects; touch one and the object tells you a dream or memory about its owner, so a stranger's life is pieced together from their mug, chair and books. Built at MIT Reality Hack 2026 by Awu Chen, Suvi Helin and Matti Grüner.
+- Technique: Gemini labels objects in a captured frame and returns their world positions, while a narrative engine on Snap Cloud edge functions holds one stored persona and generates cross-referenced dreams for each newly recognised object.
+- Try it: Write a fictional owner for a room, then use phone AR with an image-recognition model to attach a short first-person memory to each of five objects. Twist: two objects remember the same event differently.
+
 ### BERG (Jack Schulze, Matt Webb, Timo Arnall)
 
 *Design consultancy (2005–2014)*
@@ -31736,6 +31792,21 @@ Developer who shared some of the first ARKit game prototypes in 2017, including 
 - Technique: ARKit floor-plane detection gives the balls a physical bounce surface, and the racket is likely attached to the phone's tracked pose as a collider.
 - Try it: Make an AR game where the phone itself is the bat and a virtual ball bounces on the real floor. Twist: two phones rally the same ball.
 
+### Bob Bjarke (The Electric Factory)
+
+*Creative director at The Electric Factory*
+
+Creative director with more than a decade at advertising agencies (Leo Burnett, Team One, RPA, Chiat) and several years at Facebook, Instagram and Meta, now at the creative technology company The Electric Factory, specialising in AR, VR and AI.
+
+#### Historic NBA shot charts on any court — Bob Bjarke (The Electric Factory) (2025)
+- Video: https://www.youtube.com/watch?v=zqym4L6-6gw
+- Interaction: Information & UI, Location & City
+- Platform & tech: Headset, Snap Spectacles, Lens Studio
+- Idea: Overlay historic data on the place it belongs to, so you can stand inside a famous game.
+- What it is: Stand on any real basketball court and the Lens replays where every shot was taken in legendary NBA games, drawn onto the actual court around you, so history plays out on the ground where you stand. Made by Bob Bjarke of The Electric Factory for Snap and featured on Snap's Spectacles developer channel.
+- Technique: Shot-chart coordinates from historic games are mapped onto a standard court template, which is aligned to the real court (likely by placing or detecting its corners) and rendered as markers on the ground plane.
+- Try it: Take a public dataset tied to a standard space (a football pitch, a chessboard, a running track), align it in phone AR to a real one and visualise one famous event. Twist: let users play against the historic data, for example by shooting from the same spot.
+
 ### Bot & Dolly
 
 *Robotics and film studio (acquired by Google, 2013)*
@@ -31795,6 +31866,22 @@ French sculptor whose bronze travellers (Les Voyageurs) are missing large parts 
 - What it is: Life-size bronze travellers carrying suitcases are missing large parts of their torsos, so the harbour behind them shows through; the video shows them at the port of Étaples.
 - Technique: Figures are modelled in clay, cast in bronze and cut away, with the remaining parts supported through the suitcase and legs.
 - Try it: Place an AR human figure on a street and cut a large hole through its body with a mask, so the real street shows through. Twist: the hole grows as the figure 'travels' further from home (GPS distance).
+
+### Calvin Dong (Thanh Hung Dong)
+
+*AR developer; Mooncake Media*
+
+Spectacles developer who, with Lien Tran as the Mooncake Media team, made the dollhouse-decorating Lens Dream Home, and who co-created the photo-hole party game Pic Seeker at Specs in the City Paris 2025.
+
+#### Pic Seeker — Calvin Dong (Thanh Hung Dong) (2025)
+- Video: https://vimeo.com/1134588237
+- Source code: https://github.com/reedery/snap-paris-hack-25
+- Interaction: Play, Shared & Social, Portals & Worlds
+- Platform & tech: Headset, Snap Spectacles, Lens Studio
+- Idea: A photo becomes a missing puzzle piece of the room, and handing over the glasses becomes the turn-taking mechanic.
+- What it is: One player snaps a photo of part of the room, which cuts a hole in reality; then they pass the Spectacles to the next player, who must walk, stretch and crouch to find the real spot that fills the missing piece. Made at Specs in the City Paris 2025, where it placed third, by a team including Calvin Dong and Vitaly Protago.
+- Technique: A captured camera frame is likely placed as a textured cut-out at the pose where it was taken; the next player's viewpoint is compared with that pose, and a match within a position and angle tolerance completes the round.
+- Try it: In phone AR, save the camera pose and a screenshot, show the screenshot as a floating frame elsewhere, and challenge a partner to find the exact viewpoint. Twist: the photo must be taken from a child's or a dog's eye height.
 
 ### Camille Dunlop
 
@@ -32234,6 +32321,21 @@ British artist who defines his art as walking; he records long walks in text and
 - Technique: Participants follow spoken instructions (walk slowly, in silence, along parallel lines), with no objects left behind.
 - Try it: Write an AR walking score where each participant sees a personal line on the ground and a speed indicator, and all lines converge at one point. Twist: the lines only appear while the walker keeps below a set speed.
 
+### Harry Banda
+
+*Software developer and Spectacles game maker*
+
+Zambian developer and serial hackathon builder whose Spectacles Lenses include Card Master, Pixel Builder, Jigsaw Genie, MathBee and Memory Grid; Card Master won Best Spectacles Lens at Lens Fest 2025.
+
+#### Memory Grid — Harry Banda (2026)
+- Video: https://www.youtube.com/watch?v=jHNpzfKwl1w
+- Interaction: Hands & Body, Spatial Mapping, Play
+- Platform & tech: Headset, Snap Spectacles, Lens Studio
+- Idea: Make memory a full-body task by asking the player to walk the answer instead of tapping it.
+- What it is: A grid of tiles is laid on your real floor and a safe path lights up once; you must memorise it and then physically walk it, and one wrong step sends you back to the start. Eleven levels lengthen the path. Second place in the New Lens category of Spectacles Community Challenge #10.
+- Technique: The floor plane is found with world understanding, a tile grid is anchored to it, and the wearer's head position projected onto the floor decides which tile they are standing on.
+- Try it: Build a phone AR floor grid where the phone's position decides the current tile; show a path for three seconds, then let a classmate walk it. Twist: play the path as a melody instead of showing it, so players must listen and walk.
+
 ### Harvard Visual Computing Group — Hanspeter Pfister
 
 *Research group at Harvard SEAS led by Hanspeter Pfister*
@@ -32278,6 +32380,36 @@ Singaporean artist who makes films, installations and performances that start fr
 - What it is: Point the phone at the sky and giant anime-style mecha appear while one Kyoto School text is read; point it at the ground and a disintegrating scholar appears with another text; at the horizon there is nothing to see, only a voice speaking about absolute nothingness.
 - Technique: Phone AR that reads the device's pitch from the gyroscope to switch between three layered scenes and audio tracks.
 - Try it: Build a WebXR or phone web page that plays three different audio stories depending on whether the phone points up, down or level. Twist: the level direction shows nothing on screen at all.
+
+### Imogen Heap
+
+*Musician, producer and music-technology inventor (Mi.Mu gloves)*
+
+Grammy-winning English singer-songwriter and producer who co-developed the Mi.Mu gesture-controlled music gloves and has performed electronic music through body movement for more than a decade.
+
+#### Sound Space (SPECS x Imogen Heap) — Imogen Heap, Snap Inc. (Snapchat Lenses) (2026)
+- Video: https://www.youtube.com/watch?v=U3TG5PbQbXo
+- Interaction: Voice & Sound, Hands & Body, Performance
+- Platform & tech: Headset, Snap Specs, Snap Spectacles, Lens Studio, hand tracking
+- Idea: Treat the body as the instrument: the air around the performer becomes a visible loop station played with gestures and voice.
+- What it is: On the SPECS launch stage, Imogen Heap improvises a song inside a sound space she designed: instruments float around her body, and she plays, loops, mixes and adds reverb to them with hand gestures and her voice.
+- Technique: Hand tracking on SPECS maps gestures such as grabbing, opening a hand and raising an arm to record, loop, volume and effect controls on world-anchored instrument objects, while the microphones capture voice loops; the gesture vocabulary continues her Mi.Mu gloves (likely built together with Snap's Lens Studio team).
+- Try it: Build a hand-tracked loop station in Lens Studio or WebXR: three floating spheres each record two seconds of microphone audio while you pinch them and loop it when you let go. Twist: the height of your hand sets each loop's volume, so the performance becomes a visible sculpture of sound.
+
+### Inna Horobchuk
+
+*Architect turned creative technologist; Snap Spectacles Lens developer*
+
+Trained as an architect and interior designer, she now builds AR Lenses for Snapchat and Spectacles, often with Volodymyr Kurbatov, including Wi-Fi Speed, AviaSpy, Tarot, Star Map and an origami tutor.
+
+#### Decisionator — Inna Horobchuk (2025)
+- Video: https://www.youtube.com/watch?v=JRsdMn7WPUk
+- Interaction: Tangible Objects, Hands & Body
+- Platform & tech: Headset, Snap Spectacles, Lens Studio, Gemini, Supabase
+- Idea: Hand your small daily choices to an AI, and ask how much of yourself you are willing to delegate.
+- What it is: Point at two real things, such as two snacks or two shirts, and the Lens picks one for you without hesitation, using your profile, the weather, the time of day and your past choices. Built in about 24 hours by Inna Horobchuk, Volodymyr Kurbatov, Candice Branchereau and Marcin Polakowski, it won the Spectacles track of Snap's Lensathon 2025.
+- Technique: Each camera frame goes to Gemini, which returns bounding boxes for the two pointed-at objects plus a verdict; a depth cache places the answer in 3D, and a Supabase profile (zodiac sign, diet, history) feeds the reasoning so different wearers get different decisions.
+- Try it: Build a phone or WebXR prototype where the user frames two objects with the camera and a vision-language model must choose one and justify it in one sentence; test it on classmates' lunches. Twist: let a whole table share one profile so the glasses decide for the group.
 
 ### Iregular (Daniel Iregui)
 
@@ -32641,6 +32773,37 @@ Korean artist known for quiet, site-specific works about everyday objects, scent
 - Technique: Geolocated phone AR with environment mapping: the camera feed is used as a reflection and refraction probe so the virtual ice picks up the real surroundings.
 - Try it: Place a glass-like object in AR using environment texturing (AR Foundation or Reality Composer) and photograph it in three very different locations. Twist: make it melt faster the warmer the colours around it.
 
+### Krunal Gediya
+
+*AR developer and creative technologist (All Things Krazyy)*
+
+Mumbai-based Lens Studio developer who builds games, utilities and hardware hacks for Snapchat and Spectacles, from Color Rush and AirTouch to Remote ARsistance and the LED-dress performance Lucid Weave.
+
+#### Lucid Weave — Krunal Gediya (2026)
+- Video: https://www.youtube.com/watch?v=D1VhmXWUNAc
+- Source code: https://github.com/kgediya/lucid-weave-spectacles-esp32s3
+- Interaction: Hands & Body, Voice & Sound, Performance
+- Platform & tech: Headset, Wearable, Snap Spectacles, Lens Studio, ESP32-S3, ARGB LEDs, Supabase
+- Idea: Music you paint in the air should also be worn on the body that made it.
+- What it is: A performer sculpts melodies in the air with hand gestures; each phrase appears as a volumetric light trail in the glasses and, at the same moment, pulses across a custom LED dress the performer is wearing. Built at MIT Reality Hack 2026 by Krunal Gediya, Abraham Pacheco, Meghna S and Aishah G, it won Best Hardware there and later an open-source prize in Spectacles Community Challenge #9.
+- Technique: Spectacles hand tracking maps gesture position to the pitch and timbre of a synthesiser, while note events are relayed with low latency to an ESP32-S3 that drives addressable RGB LEDs sewn into the dress.
+- Try it: Map hand height to pitch in a WebXR or phone hand-tracking sketch and send each note over WebSocket to a microcontroller with an LED strip sewn onto a sleeve. Twist: let a second person's gestures light up the first person's garment.
+
+### Kshitij Kumar Parashar (with Brian Chung, Liza Karimova & Timera)
+
+*XR developer; Specs in the City NYC 2025 team Spectacular Suspects*
+
+Developer who, with teammates Brian Chung, Liza Karimova and Timera, built the co-located party game Who AR You? for Spectacles at Snap's Specs in the City NYC hackathon in May 2025.
+
+#### Who AR You? — Kshitij Kumar Parashar (with Brian Chung, Liza Karimova & Timera) (2025)
+- Video: https://www.youtube.com/watch?v=c6uC7aQgHFg
+- Interaction: Shared & Social, Play
+- Platform & tech: Headset, Snap Spectacles, Lens Studio, Sync Kit, Connected Lenses
+- Idea: Shared AR is at its best when it shows everyone something except the person it is about.
+- What it is: A Heads Up-style party game for players in the same room: a mystery character, an animal or a celebrity, floats above one player's head where everyone except them can see it, and they ask yes-or-no questions until they guess who they are. Built at Specs in the City NYC 2025 by Kshitij Kumar Parashar, Brian Chung, Liza Karimova and Timera.
+- Technique: Sync Kit and a co-located session align all players' coordinate frames, the character model is bound to the guesser's head position, and it is hidden only in the guesser's own Lens.
+- Try it: With two phones in a shared AR session (or a phone strapped to a headband), float a word above one player's head that only the others can read, and play three rounds. Twist: everyone wears a hidden character at once and players must trade clues.
+
 ### Kumi Yamashita
 
 *Artist; light and shadow*
@@ -32701,6 +32864,22 @@ American artist who has spent a decade exploring the optical and sonic propertie
 - Technique: Likely projected light passed through water optics and haze, with sound and movement modulating the ripples, so the beams read as physical sheets.
 - Try it: In a hazy dark room, shine a projector through a shallow tray of water and film how hand movements and a speaker under the tray change the light sheet. Twist: map a hand-tracking signal to the speaker so gestures 'play' the light.
 
+### Lafiya Watson Ramirez (Bad Chick Studios)
+
+*Multidisciplinary artist and AR developer; founder of Bad Chick Studios*
+
+Artist working across AR design and development, web and photography; after a Snapchat artist residency in 2020 she built early Spectacles games, the location-based AR piece Stolen Rainbow (chosen for Niantic Lightship's sample library) and AR filters for the Museum of the City of New York.
+
+#### Wage Love: Ancestral Dance — Lafiya Watson Ramirez (Bad Chick Studios) (2025)
+- Video: https://www.youtube.com/watch?v=qIUETe__a2A
+- Source code: https://github.com/lafiyawr/wagelove
+- Interaction: Hands & Body, Voice & Sound, Shared & Social
+- Platform & tech: Headset, Snap Spectacles, Lens Studio, Connected Lenses
+- Idea: A shared ritual of remembrance in which your gestures and voice summon ancestors who leave flowers behind them.
+- What it is: Mother Earth asks for help: through three guided interactions you call forth ancestor spirits with your voice and hands, watch them dance, and place your palm on the ground to share love, while trails of flowers bloom wherever they step. Made with Dulce Baerga at the Reality Hack x Snap hackathon at AWE 2025 and inspired by Sultan Sharrief's Wage Love, it later placed third in Spectacles Community Challenge #3 and can be shared by several players.
+- Technique: Hand tracking and voice recognition trigger each step of the ritual, animated spirit figures follow scripted dance paths that spawn flower particles, and Connected Lenses sync the scene between participants.
+- Try it: Design a three-step AR ritual on a phone in which a spoken word, a hand pose and touching the floor each unlock the next scene; perform it as a group. Twist: the ritual completes only if two people make the final gesture at the same time.
+
 ### Laura Schütz
 
 *Researcher in sonification and multisensory AR at the Technical University of Munich*
@@ -32715,6 +32894,21 @@ Laura Schütz works with Nassir Navab's group at TU Munich on sonification and m
 - What it is: When a virtual object hits a real one in AR, the system recognizes the real material (glass, wood, metal) and synthesizes a physically plausible impact sound on the fly instead of a generic click.
 - Technique: Computer-vision models segment and classify the materials of real objects, and their physical properties plus the impact dynamics drive real-time modal sound synthesis.
 - Try it: Throw virtual balls at real furniture in a phone AR app; on each hit, classify the surface at the impact point with a material-recognition model or a vision-LLM prompt and play a synthesized sound (Tone.js or a physical-model patch) tuned to that material. Twist: exaggerate one material so the whole room sounds as if it were made of glass.
+
+### LePub Singapore (LeGarage)
+
+*Creative agency in the Publicis network, with its innovation unit LeGarage*
+
+Singapore office of the Publicis-owned creative agency LePub; its LeGarage innovation team builds technology-led campaigns such as Augmented Reading for the National Library Board.
+
+#### Augmented Reading (National Library Board Singapore) — LePub Singapore (LeGarage), Snap Inc. (Snapchat Lenses) (2025)
+- Video: https://www.youtube.com/watch?v=5kQkCL-YKns
+- Interaction: Tangible Objects, Voice & Sound, Information & UI
+- Platform & tech: Headset, Snap Spectacles, Lens Studio, OCR, generative AI
+- Idea: Keep reading on paper, but let the story appear and sound around the book in time with your reading.
+- What it is: For the National Library Board of Singapore, readers wear Spectacles over a printed classic such as Pride and Prejudice or Frankenstein; as they read, images tied to the passage float into view and sound effects such as a creaking door play at the right words.
+- Technique: Real-time OCR reads the printed page through the glasses' camera; machine learning and generative AI match each passage to illustrations and sound cues, shown in AR and played through the stereo speakers.
+- Try it: Build a phone prototype that recognises a printed keyword such as 'rain' or 'door' with OCR and plays a matching sound and image above the page. Twist: the illustration changes with the reader's speed, calm when they read slowly and frantic when they skim.
 
 ### Lita Albuquerque
 
@@ -32943,6 +33137,22 @@ American artist who casts life-size figures in packing tape, dresses them and pl
 - Technique: Tape is wrapped around a model's body (sticky side out, then over), cut off and reassembled, then dressed and placed.
 - Try it: Place a photoreal AR person in an absurd pose (half inside a wall, face down in a planter) and record passers-by through the phone. Twist: the figure changes pose when nobody is looking.
 
+### Markus Lanxinger, Marco van Nieuwenhoven & Jiayao Yu
+
+*Founder of Plinth; 3EALITY & Spectacles Hackathon team*
+
+Markus Lanxinger, founder of Plinth B.V. and Lightfield Industries in The Hague, built Postmark with Marco van Nieuwenhoven and Jiayao Yu, whose Input Paradigms Lens explores voice, raycast and hand-based menus on Spectacles.
+
+#### Postmark — Markus Lanxinger, Marco van Nieuwenhoven & Jiayao Yu (2025)
+- Video: https://www.youtube.com/watch?v=wx48pllLDUM
+- Source code: https://github.com/lanxinger/spatial_capture
+- Interaction: Shared & Social, Voice & Sound, Gaze & Attention
+- Platform & tech: Headset, Snap Spectacles, Lens Studio, Supabase, spatial anchors
+- Idea: A message that arrives in a place, and speaks only when you look at it.
+- What it is: Spatial postcards: the sender captures a photo and records a short voice message, and the recipient places the resulting postcard on a fridge, wall or desk; when they look at it the image comes alive and the voice plays, and when they look away it waits quietly. Third place at the 3EALITY & Spectacles Hackathon in Amsterdam, by Markus Lanxinger, Marco van Nieuwenhoven and Jiayao Yu.
+- Technique: Each postcard is packaged in the cloud as an image, an audio clip and metadata and shared via a link; the recipient anchors it locally, and gaze dwell triggers playback with spatialised audio.
+- Try it: Make a phone AR postcard: a photo plus a recorded voice note anchored to a real surface that plays only when the camera centre rests on it for two seconds; exchange cards in pairs. Twist: the postcard fades a little each time it is played.
+
 ### Masahiko Sato + EUPHRATES
 
 *Creative group making educational media and experimental films*
@@ -33064,6 +33274,21 @@ Creative coder and openFrameworks contributor who has worked with Design I/O on 
 - What it is: Visitors move in front of two displays: on one their body grows toxic blue algae on a virtual water surface, on the other an invasive python wraps around their silhouette, while a large projection shows an anhinga flying between them.
 - Technique: Depth sensors track visitors' bodies without wearables, and openFrameworks (likely) simulates algae growth and a python rig that follows the silhouette.
 - Try it: Use webcam body segmentation to make your silhouette leave a spreading 'pollution' trail on a projected pond, and a clean-up creature that follows others. Twist: the pond only recovers when everyone stands still.
+
+### Nick Ross
+
+*Specs developer in Los Angeles*
+
+Los Angeles developer whose profile describes his work as making computing more human with Snap's Specs. He takes his Specs prototypes out into the city and films how strangers react to them.
+
+#### Hatsune Miku in Little Tokyo — Nick Ross (2026)
+- Video: https://x.com/nickross4444/status/2105799586870890572
+- Interaction: Performance, Location & City, Shared & Social
+- Platform & tech: Headset, Spectacles, Specs (2026), Lens Studio, CLAD
+- Idea: Stage a virtual pop star on a real street and let strangers take turns in the front row.
+- What it is: Nick brings Hatsune Miku to a night street in Little Tokyo, Los Angeles: she dances inside a glowing circle on the pavement, and he hands the Specs to passers-by and films their reactions to a front-row show.
+- Technique: An animated Miku model dances with music on a ground-anchored stage marker while the glasses are passed between viewers; he built it with Specs and the CLAD agentic workflow.
+- Try it: Place an animated character (any avatar with a Mixamo dance) on a ground marker in phone AR, take it to a public place and record three strangers' reactions. Twist: let each new viewer choose the next song.
 
 ### Nicola Buttari (PROFORMA Videodesign)
 
@@ -33368,6 +33593,21 @@ Physio 3D makes a Vision Pro physiotherapy app that combines 3D exercise guidanc
 - Technique: 3D exercise demonstrations are anchored in mixed reality while a speech-to-speech AI model with the training plan as context answers the user live.
 - Try it: Place an animated 3D figure doing a stretch next to the user in WebAR and connect a voice assistant that knows the three steps of the stretch. Twist: the coach adapts the exercise if the user says it hurts.
 
+### Pieter Siekerman (Siekerman Technology)
+
+*Developer at Siekerman Technology*
+
+Amsterdam developer who builds geospatial AR with open city data across Snap Spectacles, 8th Wall, Niantic Lightship and ARCore, including the open-source Snap OS Location Tools, TransitView and the Reality Import platform.
+
+#### TransitView — Pieter Siekerman (Siekerman Technology) (2026)
+- Video: https://www.youtube.com/watch?v=-ovm-iNaBTI
+- Interaction: Location & City, Information & UI
+- Platform & tech: Headset, Snap Spectacles, Lens Studio, GPS, compass, open transit data
+- Idea: X-ray vision for public transport: see the bus coming around the corner before it appears.
+- What it is: Stand at a stop and see timetables and routes floating in the street, plus the real-time positions of approaching buses and trams drawn in AR even while they are still hidden behind buildings; it covers the Netherlands and Berlin. Second place in Spectacles Community Challenge #13 and first in the Lens Update category of #15; the Berlin version won the Visitor Companion track at XRCC Berlin 2026.
+- Technique: GPS and compass heading place the wearer in the city, open transit feeds supply stops, routes and real-time vehicle positions, and each vehicle is rendered at its geographic bearing and distance from the wearer.
+- Try it: Use a city's open real-time transit API with a phone's GPS and compass to draw an arrow and distance label toward the next bus in phone AR or WebXR. Twist: show the bus only as a sound that grows louder as it approaches, with no visuals.
+
 ### Pixelcase
 
 *Immersive media studio (VR, 360 video, AR)*
@@ -33656,6 +33896,22 @@ Canadian engineer-photographer whose Motion Exposure series attaches colour-chan
 - Technique: Programmable LED strips attached to the paddle cycle through colours on a timer during a long camera exposure at night or dusk.
 - Try it: Track the phone or a hand with AR and draw its path in a colour that changes every second, then freeze the result as a 3D sculpture. Twist: record a sports movement (a throw, a swing) and compare two people's traces.
 
+### Steven Harmon & Team Time Travellers
+
+*XR developer; MIT Reality Hack 2026 team*
+
+Team of Steven Harmon, Syed Akbar, Sara Jakubowicz, Ryan Bose-Roy and Alex Diviney that combined Spectacles with a custom ESP32 watch-radio to build The Time Dial at MIT Reality Hack 2026.
+
+#### The Time Dial — Steven Harmon & Team Time Travellers (2026)
+- Video: https://www.youtube.com/watch?v=A43fS4Yu0xg
+- Source code: https://github.com/Koshai/TeamTimeTravellers
+- Interaction: Location & City, Tangible Objects, Portals & Worlds
+- Platform & tech: Headset, Wearable, Snap Spectacles, Lens Studio, ESP32, Snap Cloud, Supabase
+- Idea: Tune a place to a different year like a radio station, and let its old photographs reappear where they were taken.
+- What it is: A wearable time radio: turn a dial on a custom wristwatch to tune into a year, and historical photographs taken at that location appear around you at the places they were shot, while haptics nudge you toward nearby hotspots. The prototype drew on Boston Public Library's Digital Commonwealth archive. Built at MIT Reality Hack 2026 by Steven Harmon, Syed Akbar, Sara Jakubowicz, Ryan Bose-Roy and Alex Diviney.
+- Technique: An ESP32 watch dial sends the selected date over WebSocket; matching geotagged, timestamped archive photos are pulled from Snap Cloud and placed with World Mesh, World Query and spatial anchors.
+- Try it: Collect ten dated old photos of your campus, place each in phone AR at the spot where it was taken, and use a physical knob or an on-screen dial to filter by decade. Twist: each student adds a photo of the same spot taken today.
+
 ### Stuart Langfield
 
 *Director and designer*
@@ -33841,6 +34097,21 @@ Programmer who built SdfManipulator, an interactive Unity editor for raymarched 
 - What it is: In the Unity editor, smooth SDF shapes are dragged, blended and carved with gizmos while the raymarched result updates live.
 - Technique: A tree of SDF primitives and operators with editor controllers is compiled into an HLSL raymarching shader through a generated ShaderLab/HLSL syntax-tree API, so each gizmo edit rewrites or re-parameterises the shader.
 - Try it: Export a scene built with SdfManipulator as a raymarched cube and place it on a table with AR Foundation, then let two fingers control the blend radius between shapes. Twist: drive one primitive with the user's hand position.
+
+### Vincent Guigui
+
+*Independent XR and AI consultant; former technical director of AR/VR and AI at OCTO Technology*
+
+Paris-based specialist in XR and natural user interfaces who led AR/VR and AI projects at OCTO Technology (Accenture) and has prototyped HoloLens, eye-tracking and chatbot experiences for close to a decade. He now builds lenses for Snap Spectacles, including an entry for the 2025 Paris Spectacles hackathon.
+
+#### Lyrics Everywhere — Vincent Guigui (2025)
+- Video: https://www.youtube.com/watch?v=mG_LEPo_CX4
+- Interaction: Voice & Sound, Perception & Effects
+- Platform & tech: Headset, Spectacles, Lens Studio
+- Idea: Let a song's lyrics live in the world around you instead of on a screen.
+- What it is: On a walk through a park with a song playing, its lyrics show up as part of the scenery in Spectacles: colourful words ride on the wearer's hand, a rabbit on a tree stump holds up the next line on a sign, a plane tows a banner and speech bubbles pop up over passers-by, all in time with the music.
+- Technique: Timed lyric lines are likely read from a synced lyrics file and each line is handed to a different in-world carrier: text attached to the tracked hand, a sign held by an animated character placed on a detected surface, a banner towed by a plane, or a bubble above a detected person.
+- Try it: Take a 30-second chorus with a timed lyrics (LRC) file and, in Lens Studio or WebXR, show each line on a different real-world carrier: a sign on the floor, a label on the user's hand, a cloud in the sky. Twist: one line must appear on whatever object the camera is pointing at.
 
 ### Virendra Suryawanshi
 

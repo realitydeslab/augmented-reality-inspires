@@ -3136,6 +3136,118 @@
   "batch": "related-sky-light"
  },
  {
+  "name": "Mouth Cannon Crew (Hart Woolery, Sallia Goldstein, Ben Knutson & Ruya Baraz)",
+  "why": "Tongue Topple won the Lensathon 2025 Games track with a custom tongue-tip tracking ML model used to aim; a Snapchat phone Lens rather than Spectacles.",
+  "link": "https://blog.lenslist.co/2025/11/06/lens-fest-2025-awards-lensathon-recap-/",
+  "found_via": "snap-inc",
+  "status": "covered",
+  "batch": "specs-challenge"
+ },
+ {
+  "name": "Ghost Gait team",
+  "why": "Reality Hack x Snap at AWE 2025: explores ritualised, slightly uncanny discomfort as social feedback in wearable AR; the listed Vimeo video does not play.",
+  "link": "https://github.com/MagicMonkeyWow/GhostGait",
+  "found_via": "snap-inc",
+  "status": "no_video",
+  "batch": "specs-challenge"
+ },
+ {
+  "name": "Paradiddle (Drum Kit on Specs)",
+  "why": "VR drum studio whose Spectacles Drum Kit overlays lessons on a real drum set; named by Snap in 2025 and 2026 launch posts, but no Specs video found yet.",
+  "link": "https://paradiddleapp.com",
+  "found_via": "snap-inc",
+  "status": "no_video",
+  "batch": "specs-studios"
+ },
+ {
+  "name": "Headraft (Cookmate)",
+  "why": "Hamburg studio behind Cookmate, an AI cooking assistant on Spectacles that recognises ingredients and guides each step hands-free; only a podcast video found.",
+  "link": "https://headraft.com",
+  "found_via": "snap-inc",
+  "status": "no_video",
+  "batch": "specs-studios"
+ },
+ {
+  "name": "Gowaaa (Super Travel)",
+  "why": "Singapore AR studio whose Super Travel Lens translates signs and menus and converts prices on Spectacles; no demo video found.",
+  "link": "https://gowaaa.com",
+  "found_via": "snap-inc",
+  "status": "no_video",
+  "batch": "specs-studios"
+ },
+ {
+  "name": "Wabisabi Games (Doggo Quest)",
+  "why": "Spectacles Lens that recognises your dog with SnapML and turns walks into a quest with rewards (March 2025 OS update); no standalone video found.",
+  "link": "https://arinsider.co/2025/03/17/snap-commemorates-six-months-of-spectacles/",
+  "found_via": "snap-inc",
+  "status": "no_video",
+  "batch": "specs-studios"
+ },
+ {
+  "name": "Charles Pétillon (AR Studio Paris residency)",
+  "why": "First artist in Snap AR Studio Paris' Spectacles residency (May 2025), an installation about the meeting of real and virtual worlds; already a creator in the gallery, no Spectacles video found.",
+  "link": "https://newsroom.snap.com/paris-office-open-2025",
+  "found_via": "paris-ar-studio",
+  "status": "no_video",
+  "batch": "specs-studios"
+ },
+ {
+  "name": "Vector Fields (SPECS education Lens)",
+  "why": "Education Lens named at the AWE 2026 SPECS reveal that makes magnetic fields and airflow around a wing visible; developer and video not yet found.",
+  "link": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
+  "found_via": "snap-inc",
+  "status": "covered",
+  "batch": "specs-studios"
+ },
+ {
+  "name": "Chen Ji, Corina Sas & Katherine Isbister (TouchEmotion)",
+  "why": "TOCHI 2025 paper: three Spectacles prototypes that use metaphorical emotional trajectories and touchpad input to regulate anxiety, anger and boredom; no public video found.",
+  "link": "https://doi.org/10.1145/3777896",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "specs-studios"
+ },
+ {
+  "name": "Feifei Shen & Wei Wu (Oral Histories to Play, Northeastern)",
+  "why": "FDG 2026 paper turning Boston Chinatown oral histories into three site-specific AR encounters on Spectacles; no public video found.",
+  "link": "https://doi.org/10.1145/3815598.3815699",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "specs-studios"
+ },
+ {
+  "name": "Diya Hundiwala & Andrés Monroy-Hernández (AnchorNote)",
+  "why": "2026 Princeton study: spoken ideas become spatially anchored sticky notes via live transcription and LLM summaries for co-located brainstorming; device and video not confirmed.",
+  "link": "https://arxiv.org/abs/2603.20199",
+  "found_via": "andres-monroy-hernandez",
+  "status": "no_video",
+  "batch": "specs-studios"
+ },
+ {
+  "name": "Xia Zheng, Floris Roelofsen et al. (Augmented Remote Sign Language Interpreting)",
+  "why": "2025 University of Amsterdam study where a remote sign-language interpreter sees the deaf user's view through Spectacles '24 and appears in their glasses; no public video found.",
+  "link": "https://doi.org/10.1145/3742886.3756738",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "specs-studios"
+ },
+ {
+  "name": "Niantic Spatial x Liquid City (Peridot VPS agent demo, AWE 2025)",
+  "why": "Spectacles demo of a place-aware Peridot guide; it is the same work as Liquid City's Project Jade already in the gallery.",
+  "link": "https://www.youtube.com/watch?v=UftAu8JG62c",
+  "found_via": "niantic",
+  "status": "duplicate",
+  "batch": "specs-studios"
+ },
+ {
+  "name": "Vincent Guigui (Lyrics Everywhere)",
+  "why": "Spectacles Lens (2025) that turns song lyrics into diegetic objects: a rabbit holding a sign, a plane towing a banner, speech bubbles over passers-by synced to the music, dance steps at your feet.",
+  "link": "https://www.youtube.com/watch?v=mG_LEPo_CX4",
+  "found_via": "snap-inc",
+  "status": "covered",
+  "batch": "specs-studios"
+ },
+ {
   "name": "Roelof Knol",
   "why": "Amsterdam media artist whose projection pieces draw perspective-correct 3D lines and depth contours on floors and tables; several viral Pinterest pins.",
   "link": "https://www.roelofknol.com/",

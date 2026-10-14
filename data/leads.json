@@ -560,6 +560,174 @@
   "batch": "related-sky-light"
  },
  {
+  "name": "Nithin Shankar",
+  "why": "Spectacles Community Challenge winner: Fork Fighter (#9 runner-up) uses a real fork as the controller for a tabletop mixed reality game; also Catch Up (#15 3rd) and Globe Trotter. No YouTube video found; try X or LinkedIn.",
+  "link": "https://blog.lenslist.co/2026/02/26/spectacles-community-challenge-9-winners-announcement/",
+  "found_via": "snap-inc",
+  "status": "open",
+  "batch": "specs-challenge"
+ },
+ {
+  "name": "Sitan Doucara",
+  "why": "DOT TO DOT (Challenge #12 runner-up) turns a real sheet of paper and a real pencil into an AR connect-the-dots puzzle with an animated reveal. No public video found yet.",
+  "link": "https://blog.lenslist.co/2026/05/19/spectacles-community-challenge-12-winners-announcement/",
+  "found_via": "snap-inc",
+  "status": "open",
+  "batch": "specs-challenge"
+ },
+ {
+  "name": "GrowPile (Nikola Kazakov & Manuel Nikolov)",
+  "why": "The Heist (Challenge #9 1st): the Spectacles wearer cracks a safe while friends on phones read the manual and guide them through a live bodycam stream; also Hexenfurt Memories. Repo public, no video found.",
+  "link": "https://github.com/growpile/the-heist",
+  "found_via": "snap-inc",
+  "status": "open",
+  "batch": "specs-challenge"
+ },
+ {
+  "name": "Guillaume Dagens (DGNS)",
+  "why": "Prolific Spectacles developer: DGNS World FX (GLSL shaders projected onto the room), Pocket Garage (scan real cars into trading cards), CartDB (Lensathon 2025 2nd), Surf Sessions (finger surfing). Has a YouTube channel.",
+  "link": "https://www.youtube.com/channel/UCjx0OjqXIfIlmlZfuHMp4wg",
+  "found_via": "snap-inc",
+  "status": "open",
+  "batch": "specs-challenge"
+ },
+ {
+  "name": "BallAR team",
+  "why": "CalHacks 12.0 1st place: AR beer-pong coach on Spectacles that uses electrical muscle stimulation pads to move the player's arm. Verified video Kqn162iM-P0.",
+  "link": "https://devpost.com/software/ballar",
+  "found_via": "snap-inc",
+  "status": "open",
+  "batch": "specs-challenge"
+ },
+ {
+  "name": "Kavin Kumar (RBKAVIN studio)",
+  "why": "Projection Mapping Portal (Challenge #14 open source 2nd): pinch the four corners of a projected image and Spectacles head tracking turns it into a parallax window into another space; also Spatial Mapper. Repo public, no video found.",
+  "link": "https://github.com/rbkavin/Projection-Mapping-Portal",
+  "found_via": "snap-inc",
+  "status": "open",
+  "batch": "specs-challenge"
+ },
+ {
+  "name": "Sylvan Shen",
+  "why": "Lumia Combat (Challenge #13 open source 2nd): harvest colours from real objects and throw them at a real Philips Hue lamp, which only takes damage from the complementary hue. Demo video is only on Google Drive.",
+  "link": "https://github.com/sylvanerd/LumiaCombat",
+  "found_via": "snap-inc",
+  "status": "open",
+  "batch": "specs-challenge"
+ },
+ {
+  "name": "Shin (@shinbuilder)",
+  "why": "Anonymous builder (account from Sept 2026) who made a Yu-Gi-Oh! duel with physical cards on Specs and an Animal Crossing x Diablo mashup; idea is close to Matthew Hallberg's Pokémon cards, no bio yet.",
+  "link": "https://x.com/shinbuilder/status/2102533441527169056",
+  "found_via": "matthew-hallberg",
+  "status": "open",
+  "batch": "specs-creators"
+ },
+ {
+  "name": "Peng (@PengEricGuo)",
+  "why": "Works on Specs in Los Angeles; trains Pollen Robotics' Microduck with reinforcement learning inside a real room on Specs (physics, navigation, room understanding). Full name not confirmed.",
+  "link": "https://x.com/PengEricGuo/status/2110237420969152814",
+  "found_via": "alessio-grancini",
+  "status": "open",
+  "batch": "specs-creators"
+ },
+ {
+  "name": "Ömer Akyol (@tesla_tank)",
+  "why": "Stockholm game developer; RoboCop HUD lens for Specs and probably the office laser-tag Specs game that Aidan Wolf shared (his name appears in its HUD).",
+  "link": "https://x.com/tesla_tank/status/2108197959821373610",
+  "found_via": "matthew-hallberg",
+  "status": "open",
+  "batch": "specs-creators"
+ },
+ {
+  "name": "Unknown creator of the 'material sphere' Specs lens",
+  "why": "Gabriel (@GabRoXR) showed a Specs lens where you scan a surface, turn it into a fictional material sphere and leave it for others to find; creator not named in the post.",
+  "link": "https://x.com/GabRoXR/status/2108591819973910838",
+  "found_via": "stijn-spanhove",
+  "status": "open",
+  "batch": "specs-creators"
+ },
+ {
+  "name": "Caio Alves (@ncaioalves)",
+  "why": "Birth Planets: Spectacles experience showing the sky at your birth, now with GPS and city input; showcased by specsfordevs, may belong to the challenge batch.",
+  "link": "https://x.com/ncaioalves/status/2107912526096666959",
+  "found_via": "stijn-spanhove",
+  "status": "open",
+  "batch": "specs-creators"
+ },
+ {
+  "name": "dmvrg",
+  "why": "Spatial music tool in WebXR (77K views) that Nick Ross called a DAW he wants on Specs; check whether it runs on the Specs browser.",
+  "link": "https://x.com/dmvrg/status/2106964175813808513",
+  "found_via": "nick-ross",
+  "status": "open",
+  "batch": "specs-creators"
+ },
+ {
+  "name": "Reddit user Ok_Imagination7022",
+  "why": "Voice-driven procedural modelling and animation of a 3D molecule on Spectacles ('make this rotate continuously'), spotlighted by Alessio Grancini; real name unknown.",
+  "link": "https://x.com/alessiograncini/status/2085411503503442042",
+  "found_via": "alessio-grancini",
+  "status": "open",
+  "batch": "specs-creators"
+ },
+ {
+  "name": "@bwongxr",
+  "why": "Co-built the co-located Pokémon spectator view on Specs with Matthew Hallberg and Alessio Grancini.",
+  "link": "https://x.com/MatthewHallberg/status/2102170951039479968",
+  "found_via": "matthew-hallberg",
+  "status": "open",
+  "batch": "specs-creators"
+ },
+ {
+  "name": "Danny Pimentel",
+  "why": "Lord of the Rings-themed duck experience on Specs highlighted by specsfordevs; no own post found yet.",
+  "link": "https://x.com/specsfordevs/status/2109675578848588115",
+  "found_via": "pavlo-tkachenko",
+  "status": "open",
+  "batch": "specs-creators"
+ },
+ {
+  "name": "Paramount: Avatar: The Last Airbender Lens",
+  "why": "Airbending training Lens on Spectacles (2025): push air with head turns and hand gestures to knock down targets; its only video is shared with ILM's Holocron Histories.",
+  "link": "https://www.youtube.com/watch?v=LTqvlO0yZzk",
+  "found_via": "ilmxlab",
+  "status": "open",
+  "batch": "specs-studios"
+ },
+ {
+  "name": "RefractAR (Lauren Cason & Sam Jones)",
+  "why": "Studio co-founded by ex-Meow Wolf XR creative director Lauren Cason that builds games and remote-location features for Spectacles; only a Snap profile video found.",
+  "link": "https://www.youtube.com/watch?v=WKBBMi01hf4",
+  "found_via": "snap-inc",
+  "status": "open",
+  "batch": "specs-studios"
+ },
+ {
+  "name": "NBA / WNBA basketball experience on SPECS",
+  "why": "Shooting-form training app built with the NBA and WNBA for the 2026 SPECS launch; no dedicated video yet.",
+  "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+  "found_via": "snap-inc",
+  "status": "open",
+  "batch": "specs-studios"
+ },
+ {
+  "name": "RCA x Snap Augmented UnRealities",
+  "why": "Royal College of Art programme where student teams build public-exhibition AR works on Spectacles; programme video exists but individual projects are not documented yet.",
+  "link": "https://www.youtube.com/watch?v=fWbRWRFkixc",
+  "found_via": "snap-inc",
+  "status": "open",
+  "batch": "specs-studios"
+ },
+ {
+  "name": "OHI Studio Airmeter",
+  "why": "Studio ANRK/OHI app that shows live PM2.5 and NO2 levels from a street sensor as AR (phone 2024, Ray-Ban 2026), not on Spectacles; worth adding to Anrick Bregman's phone AR works.",
+  "link": "https://studioanrk.com/work/airmeter/",
+  "found_via": "anrick-bregman",
+  "status": "open",
+  "batch": "specs-studios"
+ },
+ {
   "name": "Saki Komikado (komietty)",
   "why": "Geometry programmer; open Unity moxi ink painting, CIP fluid, bitonic-sort SPH and vector-field repos; videos likely on X.",
   "link": "https://github.com/komietty",

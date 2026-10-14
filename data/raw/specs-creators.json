@@ -1,0 +1,301 @@
+{
+ "batch": "specs-creators",
+ "creators": [
+  {
+   "id": "nick-ross",
+   "name": "Nick Ross",
+   "role": "Specs developer in Los Angeles",
+   "based": "Los Angeles, US",
+   "bio": "Los Angeles developer whose profile describes his work as making computing more human with Snap's Specs. He takes his Specs prototypes out into the city and films how strangers react to them.",
+   "why": "He tests AR where it matters most for a consumer device: on the street, with people who have never worn the glasses.",
+   "links": {
+    "site": "",
+    "x": "https://x.com/nickross4444",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": "https://github.com/nickross4444"
+   },
+   "role_zh": "洛杉矶的 Specs 开发者",
+   "based_zh": "洛杉矶，美国",
+   "bio_zh": "洛杉矶的开发者，他在个人简介中把自己的工作描述为借助 Snap 的 Specs“让计算更有人情味”。他把 Specs 原型带到城市街头，拍下陌生人的反应。",
+   "why_zh": "他在对消费级设备最关键的地方测试 AR：在街头，面对从没戴过这副眼镜的人。",
+   "connected_to": [
+    "alessio-grancini"
+   ],
+   "discovered_via": "alessio-grancini"
+  },
+  {
+   "id": "vincent-guigui",
+   "name": "Vincent Guigui",
+   "role": "Independent XR and AI consultant; former technical director of AR/VR and AI at OCTO Technology",
+   "based": "Paris, France",
+   "bio": "Paris-based specialist in XR and natural user interfaces who led AR/VR and AI projects at OCTO Technology (Accenture) and has prototyped HoloLens, eye-tracking and chatbot experiences for close to a decade. He now builds lenses for Snap Spectacles, including an entry for the 2025 Paris Spectacles hackathon.",
+   "why": "He treats AR text as part of the scenery: song lyrics carried by characters and objects in the world instead of floating subtitles.",
+   "links": {
+    "site": "https://www.malt.fr/profile/vincentguigui",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "https://www.youtube.com/@XRImmersiveExperiences",
+    "github": ""
+   },
+   "role_zh": "独立 XR 与 AI 顾问；曾任 OCTO Technology 的 AR/VR 与 AI 技术总监",
+   "based_zh": "巴黎，法国",
+   "bio_zh": "常驻巴黎的 XR 与自然用户界面专家，曾在 OCTO Technology（埃森哲旗下）带领 AR/VR 与 AI 项目，近十年来一直在做 HoloLens、眼动追踪和聊天机器人等原型。如今他为 Snap Spectacles 开发 Lens，其中包括参加 2025 年巴黎 Spectacles 黑客马拉松的作品。",
+   "why_zh": "他把 AR 文字当作场景的一部分：歌词由世界里的角色和物体“携带”，而不是漂浮的字幕。",
+   "connected_to": [],
+   "discovered_via": "snap-inc"
+  }
+ ],
+ "works": [
+  {
+   "id": "pavlo-tkachenko--fly-brain-in-the-room",
+   "creator_ids": [
+    "pavlo-tkachenko"
+   ],
+   "title": "A real fly brain loose in the living room",
+   "year": 2026,
+   "description": "Hologram fruit flies wander over a real table, dodge a hand that moves too fast and land on an open palm; every move comes from a simulation of the complete fruit-fly connectome reacting to the room the glasses see.",
+   "description_zh": "全息果蝇在真实的桌面上游走，手靠得太快时会躲开，摊开手掌它们就落在掌心；每个动作都来自完整果蝇连接组的神经模拟，对眼镜看到的房间做出反应。",
+   "idea_en": "Give a virtual creature a real brain and let it sense your actual room.",
+   "idea_zh": "给虚拟生物装上一颗真实的大脑，让它感知你所在的真实房间。",
+   "technique": "The MaleCNS connectome (166,700 neurons) runs as a spiking model on a Mac GPU; Spectacles supplies the fly's senses (a virtual retina, ray casts against the room, hand positions and a labelled inventory of nearby objects) and the brain's descending neurons drive the hologram's wings, legs and head.",
+   "technique_zh": "MaleCNS 连接组（16.67 万个神经元）以脉冲神经网络的形式在 Mac 的 GPU 上运行；Spectacles 为果蝇提供感官（虚拟视网膜、对房间的射线检测、手的位置和附近物体的标注清单），大脑的下行神经元再驱动全息果蝇的翅膀、腿和头。",
+   "exercise_en": "Build a tiny creature in Lens Studio or WebXR whose behaviour comes only from a few simple sensor-to-motor rules (Braitenberg-vehicle style): it flees a fast-moving hand and approaches a still palm. Twist: give two creatures slightly different wiring and let classmates guess which rule each one follows.",
+   "exercise_zh": "在 Lens Studio 或 WebXR 中做一个小生物，它的行为只来自几条简单的“感官→运动”规则（类似布赖滕贝格小车）：快速移动的手会让它逃开，静止的手掌会吸引它靠近；变体：给两只生物略有不同的“接线”，让同学猜每只遵循的是哪条规则。",
+   "interaction": [
+    "hand-body",
+    "spatial-mapping"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Spectacles",
+    "Lens Studio",
+    "connectome simulation",
+    "Metal GPU",
+    "CLAD"
+   ],
+   "video": {
+    "platform": "x",
+    "id": "2098834184999694678",
+    "url": "https://x.com/pt_pavlo/status/2098834184999694678"
+   },
+   "source_url": "https://pavlo-stijn.dev/blog/posts/a-real-fly-brain-on-spectacles.html",
+   "code_url": "https://github.com/PtPavloTkachenko/fly-brain-spectacles"
+  },
+  {
+   "id": "pavlo-tkachenko--vectar-air-hockey",
+   "creator_ids": [
+    "pavlo-tkachenko"
+   ],
+   "title": "VectAR: air hockey against a real robot",
+   "year": 2026,
+   "description": "A glowing air-hockey rink appears on a real desk; the player flicks a virtual puck with their hand while Anki's Vector, a real palm-sized desk robot, drives across the table as the goalie.",
+   "description_zh": "一张发光的空气曲棍球台出现在真实书桌上；玩家用手拨动虚拟冰球，而 Anki 的 Vector——一台掌心大小的真实桌面机器人——在桌上来回移动当守门员。",
+   "idea_en": "Virtual puck, real goalie: let a physical robot play inside an AR game.",
+   "idea_zh": "虚拟的球、真实的守门员：让实体机器人走进 AR 游戏里一起玩。",
+   "technique": "A server on the Mac drives the stock Vector through its Python SDK (logged in via the community wire-pod token server) and syncs the robot's position with the lens, which runs the puck physics and hand tracking on Spectacles.",
+   "technique_zh": "Mac 上的服务器通过 Python SDK（借助社区的 wire-pod 令牌服务器登录）控制出厂固件的 Vector，并把机器人的位置同步给 Lens；冰球物理和手部追踪在 Spectacles 上运行。",
+   "exercise_en": "Put a cheap robot toy or a remote-control car on a table, track it with an image marker, and build a phone AR game where a virtual ball bounces off the real robot. Twist: let a second player steer the robot from another phone.",
+   "exercise_zh": "在桌上放一个便宜的机器人玩具或遥控车，用图像标记追踪它，做一个手机 AR 游戏，让虚拟小球从真实机器人身上弹开；变体：让另一位玩家用另一部手机操控这台机器人。",
+   "interaction": [
+    "tangible-object",
+    "game-play",
+    "hand-body"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Spectacles",
+    "Lens Studio",
+    "Anki Vector",
+    "Python SDK",
+    "wire-pod",
+    "CLAD"
+   ],
+   "video": {
+    "platform": "x",
+    "id": "2078831392620765520",
+    "url": "https://x.com/pt_pavlo/status/2078831392620765520"
+   },
+   "source_url": "https://pavlo-stijn.dev/blog/posts/vectar-a-robot-that-shares-a-brain.html",
+   "code_url": "https://github.com/PtPavloTkachenko/VectAR-Airhokey"
+  },
+  {
+   "id": "nick-ross--miku-in-little-tokyo",
+   "creator_ids": [
+    "nick-ross"
+   ],
+   "title": "Hatsune Miku in Little Tokyo",
+   "year": 2026,
+   "description": "Nick brings Hatsune Miku to a night street in Little Tokyo, Los Angeles: she dances inside a glowing circle on the pavement, and he hands the Specs to passers-by and films their reactions to a front-row show.",
+   "description_zh": "Nick 把初音未来带到洛杉矶小东京的夜晚街头：她在人行道上一个发光的圆圈里跳舞，他把 Specs 递给路人，拍下他们看到这场“前排演出”时的反应。",
+   "idea_en": "Stage a virtual pop star on a real street and let strangers take turns in the front row.",
+   "idea_zh": "在真实街头为虚拟偶像搭一个舞台，让陌生人轮流站到第一排。",
+   "technique": "An animated Miku model dances with music on a ground-anchored stage marker while the glasses are passed between viewers; he built it with Specs and the CLAD agentic workflow.",
+   "technique_zh": "带动画的初音未来模型配合音乐，在锚定于地面的舞台标记上跳舞，眼镜在观众之间传递；作品用 Specs 和 CLAD 智能体开发流程制作。",
+   "exercise_en": "Place an animated character (any avatar with a Mixamo dance) on a ground marker in phone AR, take it to a public place and record three strangers' reactions. Twist: let each new viewer choose the next song.",
+   "exercise_zh": "在手机 AR 中把一个带动画的角色（任意角色配上 Mixamo 舞蹈）放到地面标记上，带到公共场所，记录三位陌生人的反应；变体：让每位新观众挑选下一首歌。",
+   "interaction": [
+    "performance-stage",
+    "location-geo",
+    "multiplayer-social"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Spectacles",
+    "Specs (2026)",
+    "Lens Studio",
+    "CLAD"
+   ],
+   "video": {
+    "platform": "x",
+    "id": "2105799586870890572",
+    "url": "https://x.com/nickross4444/status/2105799586870890572"
+   },
+   "source_url": "https://x.com/nickross4444/status/2105799586870890572",
+   "found_via": {
+    "source": "x",
+    "url": "https://x.com/alessiograncini/status/2105803240839467251"
+   }
+  },
+  {
+   "id": "vincent-guigui--lyrics-everywhere",
+   "creator_ids": [
+    "vincent-guigui"
+   ],
+   "title": "Lyrics Everywhere",
+   "year": 2025,
+   "description": "On a walk through a park with a song playing, its lyrics show up as part of the scenery in Spectacles: colourful words ride on the wearer's hand, a rabbit on a tree stump holds up the next line on a sign, a plane tows a banner and speech bubbles pop up over passers-by, all in time with the music.",
+   "description_zh": "边散步边听歌时，歌词在 Spectacles 里成了周围景物的一部分：彩色文字落在佩戴者的手上，树桩上的小兔子举着写有下一句歌词的牌子，飞机拖着横幅飞过，路人头顶冒出对话气泡，一切都与音乐同步。",
+   "idea_en": "Let a song's lyrics live in the world around you instead of on a screen.",
+   "idea_zh": "让歌词住进你周围的世界，而不是停留在屏幕上。",
+   "technique": "Timed lyric lines are likely read from a synced lyrics file and each line is handed to a different in-world carrier: text attached to the tracked hand, a sign held by an animated character placed on a detected surface, a banner towed by a plane, or a bubble above a detected person.",
+   "technique_zh": "很可能从带时间轴的歌词文件中逐行读取，再把每一行交给不同的“场景内载体”：附着在被追踪的手上的文字、放在识别到的表面上的动画角色举起的牌子、飞机拖着的横幅，或识别到的路人头顶的气泡。",
+   "exercise_en": "Take a 30-second chorus with a timed lyrics (LRC) file and, in Lens Studio or WebXR, show each line on a different real-world carrier: a sign on the floor, a label on the user's hand, a cloud in the sky. Twist: one line must appear on whatever object the camera is pointing at.",
+   "exercise_zh": "选一段 30 秒的副歌和带时间轴的歌词（LRC）文件，在 Lens Studio 或 WebXR 中让每一句歌词出现在不同的真实世界载体上：地上的指示牌、用户手上的标签、天空中的云；变体：其中一句必须出现在摄像头正对着的任意物体上。",
+   "interaction": [
+    "voice-sound",
+    "perception-art"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Spectacles",
+    "Lens Studio"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "mG_LEPo_CX4",
+    "url": "https://www.youtube.com/watch?v=mG_LEPo_CX4"
+   },
+   "source_url": "https://www.youtube.com/watch?v=mG_LEPo_CX4"
+  },
+  {
+   "id": "hart-woolery--tech-deck-specs",
+   "creator_ids": [
+    "hart-woolery"
+   ],
+   "title": "Tech Deck for Specs",
+   "year": 2026,
+   "description": "A miniature graffiti skatepark sits on a café table, and Hart rides a tiny virtual skateboard through it with two fingers, the way you play with a toy fingerboard.",
+   "description_zh": "一座涂鸦风格的微缩滑板公园出现在咖啡桌上，Hart 像玩手指滑板玩具一样，用两根手指驾驶一块小小的虚拟滑板在其中穿梭。",
+   "idea_en": "Turn two fingers into a skater: a fingerboard toy without the toy.",
+   "idea_zh": "把两根手指变成滑板手：一套不需要实体玩具的手指滑板。",
+   "technique": "Hand tracking reads the index and middle fingertips as the rider's feet, and the virtual board likely follows their pose with physics against the ramps of the miniature park.",
+   "technique_zh": "手部追踪把食指和中指指尖当作滑手的双脚，虚拟滑板很可能根据它们的姿态，在微缩公园的坡道上进行物理运动。",
+   "exercise_en": "Build a tabletop mini skatepark in WebXR or Lens Studio and map two tracked fingertips to a board that can ollie when the fingers lift. Twist: score tricks by how long the board stays in the air.",
+   "exercise_zh": "在 WebXR 或 Lens Studio 中做一个桌面微缩滑板公园，把两个追踪到的指尖映射到一块滑板上，手指抬起时滑板就能起跳；变体：按滑板在空中停留的时间给技巧打分。",
+   "interaction": [
+    "hand-body",
+    "game-play"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Spectacles",
+    "Specs (2026)",
+    "hand tracking"
+   ],
+   "video": {
+    "platform": "x",
+    "id": "2107548240245895271",
+    "url": "https://x.com/hartspecs/status/2107548240245895271"
+   },
+   "source_url": "https://x.com/hartspecs/status/2107548240245895271"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Shin (@shinbuilder)",
+   "why": "Anonymous builder (account from Sept 2026) who made a Yu-Gi-Oh! duel with physical cards on Specs and an Animal Crossing x Diablo mashup; idea is close to Matthew Hallberg's Pokémon cards, no bio yet.",
+   "link": "https://x.com/shinbuilder/status/2102533441527169056",
+   "found_via": "matthew-hallberg",
+   "status": "open"
+  },
+  {
+   "name": "Peng (@PengEricGuo)",
+   "why": "Works on Specs in Los Angeles; trains Pollen Robotics' Microduck with reinforcement learning inside a real room on Specs (physics, navigation, room understanding). Full name not confirmed.",
+   "link": "https://x.com/PengEricGuo/status/2110237420969152814",
+   "found_via": "alessio-grancini",
+   "status": "open"
+  },
+  {
+   "name": "Ömer Akyol (@tesla_tank)",
+   "why": "Stockholm game developer; RoboCop HUD lens for Specs and probably the office laser-tag Specs game that Aidan Wolf shared (his name appears in its HUD).",
+   "link": "https://x.com/tesla_tank/status/2108197959821373610",
+   "found_via": "matthew-hallberg",
+   "status": "open"
+  },
+  {
+   "name": "Unknown creator of the 'material sphere' Specs lens",
+   "why": "Gabriel (@GabRoXR) showed a Specs lens where you scan a surface, turn it into a fictional material sphere and leave it for others to find; creator not named in the post.",
+   "link": "https://x.com/GabRoXR/status/2108591819973910838",
+   "found_via": "stijn-spanhove",
+   "status": "open"
+  },
+  {
+   "name": "Caio Alves (@ncaioalves)",
+   "why": "Birth Planets: Spectacles experience showing the sky at your birth, now with GPS and city input; showcased by specsfordevs, may belong to the challenge batch.",
+   "link": "https://x.com/ncaioalves/status/2107912526096666959",
+   "found_via": "stijn-spanhove",
+   "status": "open"
+  },
+  {
+   "name": "dmvrg",
+   "why": "Spatial music tool in WebXR (77K views) that Nick Ross called a DAW he wants on Specs; check whether it runs on the Specs browser.",
+   "link": "https://x.com/dmvrg/status/2106964175813808513",
+   "found_via": "nick-ross",
+   "status": "open"
+  },
+  {
+   "name": "Reddit user Ok_Imagination7022",
+   "why": "Voice-driven procedural modelling and animation of a 3D molecule on Spectacles ('make this rotate continuously'), spotlighted by Alessio Grancini; real name unknown.",
+   "link": "https://x.com/alessiograncini/status/2085411503503442042",
+   "found_via": "alessio-grancini",
+   "status": "open"
+  },
+  {
+   "name": "@bwongxr",
+   "why": "Co-built the co-located Pokémon spectator view on Specs with Matthew Hallberg and Alessio Grancini.",
+   "link": "https://x.com/MatthewHallberg/status/2102170951039479968",
+   "found_via": "matthew-hallberg",
+   "status": "open"
+  },
+  {
+   "name": "Danny Pimentel",
+   "why": "Lord of the Rings-themed duck experience on Specs highlighted by specsfordevs; no own post found yet.",
+   "link": "https://x.com/specsfordevs/status/2109675578848588115",
+   "found_via": "pavlo-tkachenko",
+   "status": "open"
+  }
+ ]
+}

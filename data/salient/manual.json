@@ -1,3 +1,48 @@
 {
- "_note": "Owner's manual picks for the Salient column, applied last. {work_id: {why_en, why_zh}} adds; {work_id: null} removes."
+ "_note": "Owner's manual picks for the Salient column, applied last. {work_id: {why_en, why_zh}} adds; {work_id: null} removes.",
+ "kshitij-parashar--who-ar-you": {
+  "why_en": "A character floats above your head that everyone in the room can see except you.",
+  "why_zh": "一个角色悬在你头顶，房间里所有人都看得见，唯独你自己看不见。",
+  "cat": "play"
+ },
+ "markus-lanxinger--postmark": {
+  "why_en": "A postcard on the fridge speaks only while you look at it, and waits quietly when you look away.",
+  "why_zh": "贴在冰箱上的明信片，只有你看着它时才开口说话，移开视线它就安静地等着。",
+  "cat": "time"
+ },
+ "calvin-dong--pic-seeker": {
+  "why_en": "A photo cuts a hole in the room, and the next player has to find the real spot that fills it.",
+  "why_zh": "一张照片在房间里挖出一个洞，下一位玩家要找到能把它补上的真实位置。",
+  "cat": "portal"
+ },
+ "harry-banda--memory-grid": {
+  "why_en": "You remember the path by walking it on the real floor instead of tapping it.",
+  "why_zh": "记住的路线要用双脚在真实地板上走出来，而不是用手指点出来。",
+  "cat": "play"
+ },
+ "pieter-siekerman--transitview": {
+  "why_en": "You see the bus coming around the corner while a building still hides it.",
+  "why_zh": "公交车还被楼挡着，你已经能看见它从拐角开过来。",
+  "cat": "invisible"
+ },
+ "awu-chen--wake-them-up": {
+  "why_en": "The objects in a room tell the dreams of the person who used to live with them.",
+  "why_zh": "房间里的物件替不在场的主人讲出他们的梦。",
+  "cat": "alive"
+ },
+ "hart-woolery--tech-deck-specs": {
+  "why_en": "Two fingers become a skater riding a tiny skatepark on a café table.",
+  "why_zh": "两根手指变成滑板手，在咖啡桌上的迷你滑板场里滑行。",
+  "cat": "body"
+ },
+ "imogen-heap--sound-space-specs": {
+  "why_en": "The air around her body becomes a loop station she plays with her hands and voice.",
+  "why_zh": "她身体周围的空气变成一台循环录音机，用手和声音来演奏。",
+  "cat": "sound"
+ },
+ "vincent-guigui--lyrics-everywhere": {
+  "why_en": "A song's lyrics turn up in the world: on a rabbit's sign, a plane's banner, and in speech bubbles over passers-by.",
+  "why_zh": "歌词出现在真实世界里：兔子举的牌子上、飞机拖的横幅上，还有路人头顶的对话气泡里。",
+  "cat": "rewrite"
+ }
 }

@@ -1,0 +1,245 @@
+{
+ "batch": "specs-studios",
+ "creators": [
+  {
+   "id": "imogen-heap",
+   "name": "Imogen Heap",
+   "role": "Musician, producer and music-technology inventor (Mi.Mu gloves)",
+   "based": "London, UK",
+   "bio": "Grammy-winning English singer-songwriter and producer who co-developed the Mi.Mu gesture-controlled music gloves and has performed electronic music through body movement for more than a decade.",
+   "why": "She has spent years turning gestures into music, and her SPECS Sound Space shows what that body-as-instrument idea becomes when the instruments float visibly in the air.",
+   "role_zh": "音乐人、制作人、音乐科技发明者（Mi.Mu 手套）",
+   "based_zh": "伦敦，英国",
+   "bio_zh": "获得格莱美奖的英国创作歌手和制作人，参与研发了用手势控制音乐的 Mi.Mu 手套，十多年来一直用身体动作来演奏电子音乐。",
+   "why_zh": "她多年来把手势变成音乐；SPECS 上的 Sound Space 展示了当乐器真的漂浮在空中、被看见时，“身体即乐器”的想法会变成什么样。",
+   "links": {
+    "site": "https://www.imogenheap.com",
+    "x": "https://x.com/imogenheap",
+    "instagram": "https://www.instagram.com/imogenheap",
+    "youtube": "https://www.youtube.com/@imogenheap"
+   },
+   "connected_to": [
+    "snap-inc"
+   ],
+   "discovered_via": "snap-inc"
+  },
+  {
+   "id": "lepub-singapore",
+   "name": "LePub Singapore (LeGarage)",
+   "role": "Creative agency in the Publicis network, with its innovation unit LeGarage",
+   "based": "Singapore",
+   "bio": "Singapore office of the Publicis-owned creative agency LePub; its LeGarage innovation team builds technology-led campaigns such as Augmented Reading for the National Library Board.",
+   "why": "It used AR glasses to argue for slow reading on paper instead of replacing books with screens.",
+   "role_zh": "Publicis 集团旗下创意代理公司，设有创新部门 LeGarage",
+   "based_zh": "新加坡",
+   "bio_zh": "Publicis 旗下创意公司 LePub 的新加坡办公室；其创新团队 LeGarage 专做以技术驱动的项目，例如为新加坡国家图书馆管理局打造的 Augmented Reading。",
+   "why_zh": "它用 AR 眼镜为纸本慢读辩护，而不是用屏幕取代书本。",
+   "links": {
+    "site": "https://www.lepub.com",
+    "youtube": "https://www.youtube.com/@LePub_Worldwide"
+   },
+   "connected_to": [
+    "snap-inc"
+   ],
+   "discovered_via": "snap-inc"
+  }
+ ],
+ "works": [
+  {
+   "id": "imogen-heap--sound-space-specs",
+   "creator_ids": [
+    "imogen-heap",
+    "snap-inc"
+   ],
+   "title": "Sound Space (SPECS x Imogen Heap)",
+   "year": 2026,
+   "description": "On the SPECS launch stage, Imogen Heap improvises a song inside a sound space she designed: instruments float around her body, and she plays, loops, mixes and adds reverb to them with hand gestures and her voice.",
+   "description_zh": "在 SPECS 发布会的舞台上，Imogen Heap 在她亲手设计的“声音空间”里即兴创作一首歌：乐器漂浮在她身体四周，她用手势和嗓音演奏、循环、混音，并随手加上混响。",
+   "idea_en": "Treat the body as the instrument: the air around the performer becomes a visible loop station played with gestures and voice.",
+   "idea_zh": "把身体当作乐器：表演者周围的空气变成一台看得见、靠手势和嗓音演奏的循环工作站。",
+   "technique": "Hand tracking on SPECS maps gestures such as grabbing, opening a hand and raising an arm to record, loop, volume and effect controls on world-anchored instrument objects, while the microphones capture voice loops; the gesture vocabulary continues her Mi.Mu gloves (likely built together with Snap's Lens Studio team).",
+   "technique_zh": "SPECS 的手部追踪把抓取、张开手掌、抬手等动作映射到锚定在空间中的乐器上，控制录音、循环、音量和效果，麦克风同时采集人声循环；这套手势语汇延续了她的 Mi.Mu 手套（很可能是与 Snap 的 Lens Studio 团队合作开发）。",
+   "exercise_en": "Build a hand-tracked loop station in Lens Studio or WebXR: three floating spheres each record two seconds of microphone audio while you pinch them and loop it when you let go. Twist: the height of your hand sets each loop's volume, so the performance becomes a visible sculpture of sound.",
+   "exercise_zh": "用 Lens Studio 或 WebXR 做一个手势循环工作站：空中漂浮三个球，捏住时录下两秒麦克风声音，松手后循环播放；变体：手的高度决定每个循环的音量，让整场表演变成一座看得见的声音雕塑。",
+   "interaction": [
+    "voice-sound",
+    "hand-body",
+    "performance-stage"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Snap Specs",
+    "Snap Spectacles",
+    "Lens Studio",
+    "hand tracking"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "U3TG5PbQbXo",
+    "url": "https://www.youtube.com/watch?v=U3TG5PbQbXo"
+   },
+   "source_url": "https://newsroom.snap.com/visionaries-bring-specs-to-life"
+  },
+  {
+   "id": "lepub-singapore--augmented-reading-nlb",
+   "creator_ids": [
+    "lepub-singapore",
+    "snap-inc"
+   ],
+   "title": "Augmented Reading (National Library Board Singapore)",
+   "year": 2025,
+   "description": "For the National Library Board of Singapore, readers wear Spectacles over a printed classic such as Pride and Prejudice or Frankenstein; as they read, images tied to the passage float into view and sound effects such as a creaking door play at the right words.",
+   "description_zh": "为新加坡国家图书馆管理局打造：读者戴上 Spectacles 阅读《傲慢与偏见》《弗兰肯斯坦》等纸质经典，读到哪里，与段落相关的画面就飘到眼前，读到某些词时还会响起开门声之类的音效。",
+   "idea_en": "Keep reading on paper, but let the story appear and sound around the book in time with your reading.",
+   "idea_zh": "依旧读纸质书，但让故事随着阅读的进度在书的周围显现、发出声音。",
+   "technique": "Real-time OCR reads the printed page through the glasses' camera; machine learning and generative AI match each passage to illustrations and sound cues, shown in AR and played through the stereo speakers.",
+   "technique_zh": "眼镜摄像头用实时 OCR 读取纸质书页，机器学习和生成式 AI 为每段文字匹配插图和音效，画面在 AR 中显示，声音由眼镜的立体声扬声器播放。",
+   "exercise_en": "Build a phone prototype that recognises a printed keyword such as 'rain' or 'door' with OCR and plays a matching sound and image above the page. Twist: the illustration changes with the reader's speed, calm when they read slowly and frantic when they skim.",
+   "exercise_zh": "做一个手机原型：用 OCR 识别书页上的关键词（如“雨”或“门”），在书页上方播放对应的声音和图像；变体：插图随阅读速度变化，读得慢时安静，匆匆浏览时变得躁动。",
+   "interaction": [
+    "tangible-object",
+    "voice-sound",
+    "data-information"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Snap Spectacles",
+    "Lens Studio",
+    "OCR",
+    "generative AI"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "5kQkCL-YKns",
+    "url": "https://www.youtube.com/watch?v=5kQkCL-YKns"
+   },
+   "source_url": "https://www.designboom.com/technology/snapchat-ar-glasses-lenses-visuals-sounds-book-reading-spectacles-05-29-2025/",
+   "ai_cat": "generate"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Paradiddle (Drum Kit on Specs)",
+   "why": "VR drum studio whose Spectacles Drum Kit overlays lessons on a real drum set; named by Snap in 2025 and 2026 launch posts, but no Specs video found yet.",
+   "link": "https://paradiddleapp.com",
+   "found_via": "snap-inc",
+   "status": "no_video"
+  },
+  {
+   "name": "Headraft (Cookmate)",
+   "why": "Hamburg studio behind Cookmate, an AI cooking assistant on Spectacles that recognises ingredients and guides each step hands-free; only a podcast video found.",
+   "link": "https://headraft.com",
+   "found_via": "snap-inc",
+   "status": "no_video"
+  },
+  {
+   "name": "Gowaaa (Super Travel)",
+   "why": "Singapore AR studio whose Super Travel Lens translates signs and menus and converts prices on Spectacles; no demo video found.",
+   "link": "https://gowaaa.com",
+   "found_via": "snap-inc",
+   "status": "no_video"
+  },
+  {
+   "name": "Wabisabi Games (Doggo Quest)",
+   "why": "Spectacles Lens that recognises your dog with SnapML and turns walks into a quest with rewards (March 2025 OS update); no standalone video found.",
+   "link": "https://arinsider.co/2025/03/17/snap-commemorates-six-months-of-spectacles/",
+   "found_via": "snap-inc",
+   "status": "no_video"
+  },
+  {
+   "name": "Paramount: Avatar: The Last Airbender Lens",
+   "why": "Airbending training Lens on Spectacles (2025): push air with head turns and hand gestures to knock down targets; its only video is shared with ILM's Holocron Histories.",
+   "link": "https://www.youtube.com/watch?v=LTqvlO0yZzk",
+   "found_via": "ilmxlab",
+   "status": "open"
+  },
+  {
+   "name": "Charles Pétillon (AR Studio Paris residency)",
+   "why": "First artist in Snap AR Studio Paris' Spectacles residency (May 2025), an installation about the meeting of real and virtual worlds; already a creator in the gallery, no Spectacles video found.",
+   "link": "https://newsroom.snap.com/paris-office-open-2025",
+   "found_via": "paris-ar-studio",
+   "status": "no_video"
+  },
+  {
+   "name": "RefractAR (Lauren Cason & Sam Jones)",
+   "why": "Studio co-founded by ex-Meow Wolf XR creative director Lauren Cason that builds games and remote-location features for Spectacles; only a Snap profile video found.",
+   "link": "https://www.youtube.com/watch?v=WKBBMi01hf4",
+   "found_via": "snap-inc",
+   "status": "open"
+  },
+  {
+   "name": "NBA / WNBA basketball experience on SPECS",
+   "why": "Shooting-form training app built with the NBA and WNBA for the 2026 SPECS launch; no dedicated video yet.",
+   "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+   "found_via": "snap-inc",
+   "status": "open"
+  },
+  {
+   "name": "Vector Fields (SPECS education Lens)",
+   "why": "Education Lens named at the AWE 2026 SPECS reveal that makes magnetic fields and airflow around a wing visible; developer and video not yet found.",
+   "link": "https://newsroom.snap.com/introducing-specs-augmented-reality-glasses",
+   "found_via": "snap-inc",
+   "status": "open"
+  },
+  {
+   "name": "Chen Ji, Corina Sas & Katherine Isbister (TouchEmotion)",
+   "why": "TOCHI 2025 paper: three Spectacles prototypes that use metaphorical emotional trajectories and touchpad input to regulate anxiety, anger and boredom; no public video found.",
+   "link": "https://doi.org/10.1145/3777896",
+   "found_via": "seed",
+   "status": "no_video"
+  },
+  {
+   "name": "Feifei Shen & Wei Wu (Oral Histories to Play, Northeastern)",
+   "why": "FDG 2026 paper turning Boston Chinatown oral histories into three site-specific AR encounters on Spectacles; no public video found.",
+   "link": "https://doi.org/10.1145/3815598.3815699",
+   "found_via": "seed",
+   "status": "no_video"
+  },
+  {
+   "name": "Diya Hundiwala & Andrés Monroy-Hernández (AnchorNote)",
+   "why": "2026 Princeton study: spoken ideas become spatially anchored sticky notes via live transcription and LLM summaries for co-located brainstorming; device and video not confirmed.",
+   "link": "https://arxiv.org/abs/2603.20199",
+   "found_via": "andres-monroy-hernandez",
+   "status": "no_video"
+  },
+  {
+   "name": "Xia Zheng, Floris Roelofsen et al. (Augmented Remote Sign Language Interpreting)",
+   "why": "2025 University of Amsterdam study where a remote sign-language interpreter sees the deaf user's view through Spectacles '24 and appears in their glasses; no public video found.",
+   "link": "https://doi.org/10.1145/3742886.3756738",
+   "found_via": "seed",
+   "status": "no_video"
+  },
+  {
+   "name": "RCA x Snap Augmented UnRealities",
+   "why": "Royal College of Art programme where student teams build public-exhibition AR works on Spectacles; programme video exists but individual projects are not documented yet.",
+   "link": "https://www.youtube.com/watch?v=fWbRWRFkixc",
+   "found_via": "snap-inc",
+   "status": "open"
+  },
+  {
+   "name": "Niantic Spatial x Liquid City (Peridot VPS agent demo, AWE 2025)",
+   "why": "Spectacles demo of a place-aware Peridot guide; it is the same work as Liquid City's Project Jade already in the gallery.",
+   "link": "https://www.youtube.com/watch?v=UftAu8JG62c",
+   "found_via": "niantic",
+   "status": "duplicate"
+  },
+  {
+   "name": "OHI Studio Airmeter",
+   "why": "Studio ANRK/OHI app that shows live PM2.5 and NO2 levels from a street sensor as AR (phone 2024, Ray-Ban 2026), not on Spectacles; worth adding to Anrick Bregman's phone AR works.",
+   "link": "https://studioanrk.com/work/airmeter/",
+   "found_via": "anrick-bregman",
+   "status": "open"
+  },
+  {
+   "name": "Vincent Guigui (Lyrics Everywhere)",
+   "why": "Spectacles Lens (2025) that turns song lyrics into diegetic objects: a rabbit holding a sign, a plane towing a banner, speech bubbles over passers-by synced to the music, dance steps at your feet.",
+   "link": "https://www.youtube.com/watch?v=mG_LEPo_CX4",
+   "found_via": "snap-inc",
+   "status": "open"
+  }
+ ]
+}

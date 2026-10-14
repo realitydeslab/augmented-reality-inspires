@@ -2,7 +2,7 @@
 
 从早期先驱到今天最有创意的增强现实创作者及其 AR 作品目录，由 Reality Design Lab 整理，作为教学的点子库。每件作品都列出视频、核心点子、关键技术和一个课堂练习。
 
-https://augmented.reality.design · 2026-09-28 · 711 位创作者 · 2991 件作品
+https://augmented.reality.design · 2026-10-14 · 726 位创作者 · 3009 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -273,6 +273,7 @@ Adrien Mondot 原本是计算机研究者和杂耍艺人，在 2000 年代中期
 一直存在却看不见的东西（空气、运动、数据）变得可见。
 
 - **Micro Art** — Stijn Spanhove, Pavlo Tkachenko (2026): 对准一块石头或一片叶子，就能看到它内部想象出来的微观世界。 https://www.youtube.com/watch?v=esOODTn0RVU
+- **TransitView** — Pieter Siekerman (Siekerman Technology) (2026): 公交车还被楼挡着，你已经能看见它从拐角开过来。 https://www.youtube.com/watch?v=-ovm-iNaBTI
 - **CookAR** — Makeability Lab — Jon E. Froehlich & Jaewook Lee (2024): 厨具上能抓的地方亮起安全色，会伤人的地方亮起警告色。 https://www.youtube.com/watch?v=gtJhme8em7U
 - **I-XRAY** — AnhPhu Nguyen & Caine Ardayfio (2024): 看一眼陌生人，他的名字和住址就浮现出来，揭示每个人早已暴露到什么程度。 https://x.com/AnhPhuNguyen1/status/1840786336992682409
 - **Solid Light (Tate Modern)** — Anthony McCall (2024): 投影光束变成看似实体的空间，你走进去，用身体把它切开。 https://www.youtube.com/watch?v=1OVzjGO5iS4
@@ -305,6 +306,7 @@ Adrien Mondot 原本是计算机研究者和杂耍艺人，在 2000 年代中期
 
 声音在空间里有了位置、形状或身体。
 
+- **Sound Space (SPECS x Imogen Heap)** — Imogen Heap, Snap Inc. (Snapchat Lenses) (2026): 她身体周围的空气变成一台循环录音机，用手和声音来演奏。 https://www.youtube.com/watch?v=U3TG5PbQbXo
 - **Ultrasound VR** — Universal Everything (Matt Pyke) (2026): 绘画就是作曲：你在空中画下的每一笔都变成声音，并从你落笔的位置响起。 https://www.youtube.com/watch?v=95_WMsapSuA
 - **Audio Personas** — Sean Follmer (2025): 每个人身上都带着一段专属声音，你还没转头就能听出谁在附近。 https://www.youtube.com/watch?v=l8lis-JPIzA
 - **Sonify Anything** — Laura Schütz (2025): 虚拟的球撞到玻璃、木头还是金属，就发出对应材质的声音。 https://www.youtube.com/watch?v=tN6JE3kNUbk
@@ -329,6 +331,7 @@ Adrien Mondot 原本是计算机研究者和杂耍艺人，在 2000 年代中期
 你的身体被改变、延伸、交换，或变成别的东西。
 
 - **Generative Muscle Stimulation** — Pedro Lopes (2026): 向 AI 求助，它不用说话，而是通过肌肉电刺激直接带着你的手去做。 https://www.youtube.com/watch?v=pJM2Z8mmwAw
+- **Tech Deck for Specs** — Hart Woolery (2020CV) (2026): 两根手指变成滑板手，在咖啡桌上的迷你滑板场里滑行。 https://x.com/hartspecs/status/2107548240245895271
 - **Morphing Identity** — Shunichi Kasahara (2023): 你的脸实时地慢慢变成对面那个人的脸。 https://www.youtube.com/watch?v=rfmIuaV9Ny0
 - **Electrical Head Actuation** — Jun Nishida, Pedro Lopes (2022): 界面不再画箭头提示你往哪看，而是直接帮你把头转过去。 https://www.youtube.com/watch?v=vqpH9gNGpts
 - **Parallel Ping-Pong** — Shunichi Kasahara (2022): 一个意识，两个身体：一个人同时打两场乒乓球。 https://www.youtube.com/watch?v=q1XAmaMdEiE
@@ -392,6 +395,7 @@ Adrien Mondot 原本是计算机研究者和杂耍艺人，在 2000 年代中期
 
 - **A picture frame that is a window** — Ian Curtis (2026): 墙上的画框其实是一扇窗，往里看，墙后藏着另一个立体世界。 https://x.com/XRarchitect/status/2052418499516170377
 - **Unbounded: Object–Boundary Interaction in Mixed Reality** — Zhuoyue Lyu (2026): 一个球滚下真实的桌子，又穿过真实的地板继续往下掉，好像每个表面都只是一条可以关掉的边界。 https://www.youtube.com/watch?v=FL3hmRgtYUM
+- **Pic Seeker** — Calvin Dong (Thanh Hung Dong) (2025): 一张照片在房间里挖出一个洞，下一位玩家要找到能把它补上的真实位置。 https://vimeo.com/1134588237
 - **Mixed Reality Door for Meta Quest 3** — Takashi Yoshinaga (2023): 打开家里真实的门，门后是一个虚拟世界。 https://www.youtube.com/watch?v=VW7ELpkVmIQ
 - **AR Portal Gun** — Max van Leeuwen (2022): 在真实的墙上打出两个传送门，透过一个门，从另一个门的位置看自己的房间。 https://x.com/maksvanleeuwen/status/1556715819316412418
 - **Depth lines on paper** — Roelof Knol (2022): 一张白纸卡变成桌面上的一个洞，推动纸卡，洞也跟着移动。 https://x.com/CurieuxExplorer/status/1544719441790992385
@@ -415,6 +419,7 @@ Adrien Mondot 原本是计算机研究者和杂耍艺人，在 2000 年代中期
 
 过去停留在原地、重新播放，或留下看得见的痕迹。
 
+- **Postmark** — Markus Lanxinger, Marco van Nieuwenhoven & Jiayao Yu (2025): 贴在冰箱上的明信片，只有你看着它时才开口说话，移开视线它就安静地等着。 https://www.youtube.com/watch?v=wx48pllLDUM
 - **Replaying a broadcast basketball play on a real court in XR** — Stijn Spanhove (2025): 昨晚电视里的那一球，在你脚下的球场上以 3D 重新打一遍。 https://x.com/stspanho/status/1992980633652478223
 - **The Gates in augmented reality (Bloomberg Connects)** — Christo and Jeanne-Claude (2025): 一件早已拆除的作品，回到它当年所在的中央公园小径上。 https://www.youtube.com/watch?v=ncGYO75uATA
 - **Entomographies** — Xavi Bou (2024): 昆虫飞过的路径，在空中留下一条发光的线。 https://vimeo.com/1050040741
@@ -457,6 +462,7 @@ Adrien Mondot 原本是计算机研究者和杂耍艺人，在 2000 年代中期
 
 - **La Caverne du Pont Neuf** — JR (2026): 巴黎最古老的桥消失在一座岩洞里。 https://www.youtube.com/watch?v=RngYQyEu54k
 - **Ad Block** — Stijn Spanhove (2025): 给街道装上广告拦截：眼前的广告牌直接被遮掉。 https://www.youtube.com/watch?v=KLiEm74cw9Q
+- **Lyrics Everywhere** — Vincent Guigui (2025): 歌词出现在真实世界里：兔子举的牌子上、飞机拖的横幅上，还有路人头顶的对话气泡里。 https://www.youtube.com/watch?v=mG_LEPo_CX4
 - **EARLL** — Makeability Lab — Jon E. Froehlich & Jaewook Lee (2024): 拿起一件日常物品，它在你正在学的语言里的名字就出现在眼前。 https://www.youtube.com/watch?v=AjdQsxkPVkU
 - **Head-tracked Subtitles** — Jason Orlosky (2024): 给现实生活加字幕，像电影字幕那样出现在说话的人下方。 https://www.youtube.com/watch?v=Oc91ouDpgio
 - **Integrating Real-World Distractions into Virtual Reality** — Yujie Tao, Pedro Lopes (2022): 真实风扇吹来的风变成了虚拟世界里的风，而不是打破沉浸感。 https://www.youtube.com/watch?v=PO8ZlQGYMY8
@@ -502,6 +508,7 @@ Adrien Mondot 原本是计算机研究者和杂耍艺人，在 2000 年代中期
 
 纸、画和日常物件变得可以交互，或者活了过来。
 
+- **Wake Them Up!** — Awu Chen, Suvi Helin & Matti Grüner (2026): 房间里的物件替不在场的主人讲出他们的梦。 https://www.youtube.com/watch?v=4hFSGMyT6cc
 - **Bringing Everyday Objects to Life with AI-Powered Talking Characters** — Fabrice Matulic (Preferred Networks) (2025): 每件家居物品都长出一张脸，性格由它本身是什么来决定。 https://www.youtube.com/watch?v=RkRc7TRDPDQ
 - **Bringing an action figure to life in AR** — Stijn Spanhove (2025): 给玩偶拍张照，一个活过来的它就在真玩偶旁边走来走去。 https://x.com/stspanho/status/1910708661279773101
 - **Myaku Myaku AR** — Koki Ibukuro (asus4) (2025): 一瓶花变成布满眼睛、晃来晃去的团子，房间其余部分保持原样。 https://github.com/user-attachments/assets/03961874-421f-41bc-a1d8-f9e0e07b4fe4
@@ -568,8 +575,10 @@ Adrien Mondot 原本是计算机研究者和杂耍艺人，在 2000 年代中期
 
 建立在一条简单规则上的游戏或共同时刻。
 
+- **Memory Grid** — Harry Banda (2026): 记住的路线要用双脚在真实地板上走出来，而不是用手指点出来。 https://www.youtube.com/watch?v=jHNpzfKwl1w
 - **TouchPort / Allow me into your dream** — Botao 'Amber' Hu (2026): 握手再一拉，两个人各自的混合现实就合成了一个共享空间。 https://www.youtube.com/watch?v=uMSXnUxnxd4
 - **1D ARCADE** — 1024 Architecture (François Wunschel & Pier Schneider) (2025): 整个街机游戏被压缩进一条光线里，一眼就能看懂怎么玩。 https://vimeo.com/1098205588
+- **Who AR You?** — Kshitij Kumar Parashar (with Brian Chung, Liza Karimova & Timera) (2025): 一个角色悬在你头顶，房间里所有人都看得见，唯独你自己看不见。 https://www.youtube.com/watch?v=c6uC7aQgHFg
 - **Projected fish school for cats** — Roelof Knol (2024): 投在地板上的鱼群被猫一追就四散逃开：给看不懂屏幕的观众做的 AR。 https://x.com/Rainmaker1973/status/1772239372521263467
 - **The Floor Is Lava!** — Figmin XR (Overlay) (2023): 把童年游戏变成真的：地板真的变成岩浆，只有家具上才安全。 https://www.youtube.com/watch?v=aOXpbDBwNyM
 - **Touch Grass lens** — Aidan Wolf (2023): 把网络梗当真：这个滤镜确认你真的摸到了草，并给你出去过的证明。 https://x.com/Aidan_Wolf/status/1701565816385179877
@@ -1016,6 +1025,7 @@ AI 本身就是点子的 AR：看懂场景的模型、空间里的智能体、�
 - **Ray-Ban Meta product scanner** — Juampi (2026): 看向任意商品，就能听到它是什么、从哪里来。 https://x.com/juampitech/status/2068387708276527265
 - **Spatial Search for Meta Quest** — Takashi Yoshinaga (2026): 像搜网页一样搜索你的房间。 https://www.youtube.com/watch?v=CpNNvYJ_eqo
 - **Standing inside your RAG embeddings** — Stijn Spanhove (2026): 不看聊天机器人的答案，而是走进支撑它的向量空间里转一圈。 https://x.com/stspanho/status/2024877056035622974
+- **Wake Them Up!** — Awu Chen, Suvi Helin & Matti Grüner (2026): 让房间里的物品记得它们的主人，替一个已不在场的人开口。 https://www.youtube.com/watch?v=4hFSGMyT6cc
 - **AR pothole detection, grading and geotagging** — Virendra Suryawanshi (2025): 看一眼街道就完成巡检，报告由头显来写。 https://x.com/Virendra0698/status/2001634595494855158
 - **Ad Block** — Stijn Spanhove (2025): 现实世界的广告拦截器：识别并遮挡眼前的广告牌。 https://www.youtube.com/watch?v=KLiEm74cw9Q
 - **Android XR glasses live demo (TED)** — Microsoft Research Cambridge / I3D — Shahram Izadi (2025): 戴着AI眼镜上台，眼镜记得你刚把钥匙放在哪里。 https://www.youtube.com/watch?v=gElClXpg4J0
@@ -1094,6 +1104,7 @@ AI 本身就是点子的 AR：看懂场景的模型、空间里的智能体、�
 - **AiGet** — Shengdong Zhao — Synteraction Lab (2025): 把无聊的片刻变成好奇心：AI 留意你瞥过的东西，告诉你一件你不知道的事。 https://www.youtube.com/watch?v=Z1WACpnZodg
 - **Android XR glasses live demo with Gemini (Google I/O 2025)** — Google Android XR & DeepMind (Project Astra) (2025): 眼镜里的助手，记得你一分钟前看到过什么。 https://www.youtube.com/watch?v=7nv1snJRCEI
 - **Bringing Everyday Objects to Life with AI-Powered Talking Characters** — Fabrice Matulic (Preferred Networks) (2025): 让每件物品都有声音和性格，而这些都来自它本身是什么。 https://www.youtube.com/watch?v=RkRc7TRDPDQ
+- **Decisionator** — Inna Horobchuk (2025): 把日常的小决定交给 AI，借此追问：我们愿意把多少“自我”交出去？ https://www.youtube.com/watch?v=JRsdMn7WPUk
 - **EmBARDiment** — Mar Gonzalez-Franco (2025): 你的注视历史就是提示词。 https://www.youtube.com/watch?v=Af2lxWTFiz4
 - **Halo and Noa: glasses that remember what you forgot** — Brilliant Labs (2025): 眼镜成为一份记忆，能注意到你遗漏的事情。 https://www.youtube.com/watch?v=Xp06a3n4LZU
 - **Huk, the Jaguaress** — Violeta Ayala (2025): 一部会看着你、评判你并回答你的电影。 https://www.youtube.com/watch?v=4cDaYOr3QBM
@@ -1135,6 +1146,7 @@ AI 本身就是点子的 AR：看懂场景的模型、空间里的智能体、�
 - **Snap2VoxelAR** — Takashi Yoshinaga (2026): 拍张照，拿回一个积木版的世界。 https://www.youtube.com/watch?v=57gkK-xGxKQ
 - **Tap to launch orbs into a generated world** — Ian Curtis (2026): 把 AI 生成的 3D 世界叠在真实房间里，点一下就向其中发射光球。 https://x.com/XRarchitect/status/2077641433855795594
 - **Turn your memories into 3D Gaussian splats** — Takashi Yoshinaga (2026): 一张旧照片变成可以探头进去看的地方。 https://www.youtube.com/watch?v=5nlFjTWZSE8
+- **Augmented Reading (National Library Board Singapore)** — LePub Singapore (LeGarage), Snap Inc. (Snapchat Lenses) (2025): 依旧读纸质书，但让故事随着阅读的进度在书的周围显现、发出声音。 https://www.youtube.com/watch?v=5kQkCL-YKns
 - **Bringing an action figure to life in AR** — Stijn Spanhove (2025): 给玩具拍张照，它就从包装盒里走出来，成为会动的 AR 角色。 https://x.com/stspanho/status/1910708661279773101
 - **Bubbles** — Pavlo Tkachenko (2025): 输入文字即生成3D物体，装在泡泡里摆满你周围。 https://www.youtube.com/watch?v=TAPU-f4w7xs
 - **Chain-of-thought models designing XR puzzles** — Stijn Spanhove (2025): 让推理模型来设计关卡，然后你走进去玩。 https://x.com/stspanho/status/1885352446806970708
@@ -12072,6 +12084,76 @@ IKEA 在哥本哈根设立的独立研究实验室，围绕食物、建筑和技
 - 关键技术: 传送门遮罩向模板缓冲写入一个值，隐藏场景的着色器只在模板值匹配的地方绘制。
 - 课堂练习: 用 AR Foundation 图像追踪把模板传送门锚定到真实的门或画框上，让里面出现另一个世界。变体：传送门后的世界随一天中的时间变化。
 
+### Snap Inc. (Snapchat Lenses)
+
+*相机公司；Snapchat Lenses 与 Lens Studio*
+
+Snap 通过 Snapchat Lenses（2015）把面部滤镜变成了大众媒介，随后又推出了 World Lenses、面向创作者的 Lens Studio、Landmarkers 和 Local Lenses。
+
+#### Jeff Koons x Snapchat — Snap Inc. (Snapchat Lenses) (2017)
+- 视频: https://www.youtube.com/watch?v=d5z9-JLIuis
+- 交互类型: 地点与城市, 感知与视觉艺术
+- 平台与技术: 手机, Snapchat, geolocated lenses
+- 创意点子: 把杰夫·昆斯的雕塑以AR形式'安放'在全球著名地点。
+- 作品内容: Jeff Koons 的《Balloon Dog》等雕塑以基于地理位置的 AR 形式出现在中央公园、战神广场等地，只有在这些地点通过 Snapchat 滤镜才能看到。
+- 关键技术: 地理围栏滤镜只在特定坐标附近开放，雕塑借助地面追踪放置在固定地点。
+- 课堂练习: 为校园中的某个地点设计一件只在那里可见的 AR 雕塑，用 GPS 限制出现范围；变体：让同学在雕塑旁留下 AR 涂鸦，思考公共空间的归属问题。
+
+#### Snapchat World Lenses — Snap Inc. (Snapchat Lenses) (2017)
+- 视频: https://www.youtube.com/watch?v=K6x44v8prFA
+- 交互类型: 空间理解, 感知与视觉艺术
+- 平台与技术: 手机, Snapchat, SLAM
+- 创意点子: 把动画3D角色放进后置镜头的真实世界，让AR成为全民表情包。
+- 作品内容: Snapchat 的后置摄像头滤镜把带动画的 3D 物体放在真实场景的地面上，比如吐彩虹的云朵或跳舞热狗，用户可以绕着它们走动并录制视频。
+- 关键技术: 后置摄像头 SLAM 结合地面检测，把动画角色锚定在地面上，并通过视频录制捕捉合成后的画面用于分享。
+- 课堂练习: 用 Lens Studio 做一个地面上的动画角色 World Lens，录一段 10 秒短视频；变体：角色会模仿镜头前真人的动作（用身体追踪）。
+
+#### Landmarkers — Snap Inc. (Snapchat Lenses) (2019)
+- 视频: https://www.youtube.com/watch?v=jNs9kdSAOCA
+- 交互类型: 地点与城市, 空间理解, 感知与视觉艺术
+- 平台与技术: 手机, Lens Studio, landmark tracking
+- 创意点子: 识别真实地标建筑，让整座埃菲尔铁塔在镜头里变形、融化、喷彩虹。
+- 作品内容: 这些镜头能识别埃菲尔铁塔、熨斗大厦等著名建筑，并用动画改造它们真实的立面，比如让建筑融化或迸发出彩虹。
+- 关键技术: 地标追踪把相机画面与已知建筑预先建好的 3D 模型匹配，从而把着色器和动画精确映射到其真实立面上。
+- 课堂练习: 用 Lens Studio 的 Custom Landmarker 或图像追踪识别校园中一栋建筑立面，在它上面叠加融化或长草的动画；变体：让动画跟随真实时间变化。
+
+#### Local Lenses — Snap Inc. (Snapchat Lenses) (2020)
+- 视频: https://www.youtube.com/watch?v=4jA1RM5_WMc
+- 交互类型: 地点与城市, 多人与社交, 空间绘画与创作
+- 平台与技术: 手机, Lens Studio, city-scale 3D map
+- 创意点子: 多人一起给整条街道的真实建筑涂装，AR内容会持久留在原地。
+- 作品内容: 覆盖整片城市街区的持久共享 AR：多位 Snapchat 用户可以一起给真实建筑立面上色和装饰，这些改动会保留在原处，供其他人看到。
+- 关键技术: 城市尺度的三维地图为用户定位，共享的持久化状态记录建筑表面上的每一笔涂装，后来的访客就能看到不断累积的改动。
+- 课堂练习: 用持久化锚点和一个简单后端（如 Firebase）做一面多人共享的 AR 涂鸦墙，涂鸦下次打开还在；变体：涂鸦会像真实油漆一样慢慢褪色。
+
+#### Spectacles AI release: Snap 3D and LLM integrations — Snap Inc. (Snapchat Lenses) (2025)
+- 视频: https://www.youtube.com/watch?v=qpi1JTnPwgs
+- 交互类型: 空间绘画与创作, 声音, 实体物件
+- 平台与技术: 头显, Snap Spectacles, Snap 3D, OpenAI, Gemini, SnapML
+- 创意点子: 在 AR 眼镜里说想要一个三维物体，它就出现了。
+- 作品内容: 2025 年 6 月的 Spectacles 系统更新加入了 OpenAI、Gemini 和 DeepSeek 集成、更好的语音转文字、可按需生成三维物体的 Snap 3D 生成接口，以及新的物体追踪示例。
+- 关键技术: Lens Studio 向镜头开放云端大语言模型和文生三维接口（Snap 3D），一句语音提示就能返回一个网格并放进房间。
+- 课堂练习: 做一个语音生三维小玩具：语音转文字，接免费文生三维接口，再放到手机 AR 检测到的桌面上。变体：每个新物体都必须是上一个物体会害怕的东西。
+
+#### Spectacles AI-powered translation challenge — Snap Inc. (Snapchat Lenses) (2025)
+- 视频: https://www.youtube.com/watch?v=hR4W_Qtzij4
+- 交互类型: 多人与社交, 声音
+- 平台与技术: 头显, Snap Spectacles, speech-to-text, machine translation
+- 创意点子: 给现实生活加上字幕，让陌生人可以一起动手做东西。
+- 作品内容: 两位说不同语言的人合作搭建：一人指挥、一人动手，Spectacles 的翻译镜头把每句话实时变成对方语言的字幕。
+- 关键技术: 语音被转写后由 AI 模型翻译，再以字幕形式锚定在佩戴者视野中说话人附近。
+- 课堂练习: 做一个乐高挑战：指挥者说一种语言，搭建者通过放在头戴支架里的手机读实时翻译字幕。变体：只翻译成表情符号。
+
+#### Agent Center for Spectacles — Snap Inc. (Snapchat Lenses) (2026)
+- 视频: https://www.youtube.com/watch?v=U0cA-bVxLgM
+- 源代码: https://github.com/specs-devs/samples
+- 交互类型: 声音, 信息与界面
+- 平台与技术: 头显, Snap Spectacles, CLI coding agents, Lens Studio
+- 创意点子: 你的编程智能体以悬浮面板的形式跟着你走。
+- 作品内容: Agent Center 把开发者的命令行编程智能体连接到 Spectacles，让人离开工位时也能在 AR 中给智能体下指令并追踪代码进度。
+- 关键技术: 一个桥接服务在电脑上的命令行智能体与 Spectacles 镜头之间转发提示和输出，镜头把各个会话显示为空间窗口。
+- 课堂练习: 把一个长时间运行脚本的输出同步到手机 WebAR 面板上，让它悬在门口，并加一个按钮回复一个词。变体：面板颜色随智能体的“情绪”变化。
+
 ### Steve Mann
 
 *可穿戴计算先驱；多伦多大学教授（EyeTap、介导现实）*
@@ -13848,6 +13930,84 @@ AR 可视化专家：研究隐藏结构的 X 光式与半透明视图、紧凑�
 - 关键技术: 采集大量经过配准的图像，为远程协助者渲染场景的新视角，再把他们的三维标注锚定回现场的追踪空间中。
 - 课堂练习: 让学生甲用手机从多个角度拍一个桌面故障（如接线），学生乙在照片上标注步骤，甲再用AR标签还原到现场；变化：限定乙只能看3张照片。
 
+### Hart Woolery (2020CV)
+
+*2020CV 创始人兼首席技术官*
+
+计算机视觉开发者，他的公司 2020CV 自行训练了移动端手部、面部和宠物追踪模型，并据此推出了 InstaSaber、YoPuppet、SpeakingPuppy 以及多款 Snap 镜头。
+
+#### InstaSaber — Hart Woolery (2020CV) (2017)
+- 视频: https://www.youtube.com/watch?v=MWd7shj59PA
+- 交互类型: 实体物件, 手势与身体, 游戏与玩法
+- 平台与技术: 手机, ARKit, CoreML, computer vision
+- 创意点子: 一卷纸在手机里变成光剑。
+- 作品内容: 把一张纸卷起来，iPhone 就会把它变成一把发光的光剑，跟随你手中的纸筒移动。
+- 关键技术: 定制的视觉模型逐帧检测纸筒的两个端点，再沿这条线渲染带辉光效果的剑身网格。
+- 课堂练习: 用颜色追踪识别一根彩色吸管/纸筒，在摄像头画面上画出发光剑身（p5.js/OpenCV.js）；加一个变化：两把剑相碰会发出火花和声音。
+
+#### Mobile hand tracking + ARKit — Hart Woolery (2020CV) (2017)
+- 视频: https://www.youtube.com/watch?v=u_FTew8oTBw
+- 交互类型: 手势与身体
+- 平台与技术: 手机, ARKit, CoreML
+- 创意点子: 2017 年就在 iPhone 7 上实现徒手与 AR 物体交互。
+- 作品内容: 一个在 iPhone 7 上运行的早期演示，把 2020CV 自研的手部追踪器与 ARKit 结合，让徒手就能与 AR 内容交互。
+- 关键技术: 定制的神经网络手部检测器与 ARKit 追踪同时在设备端运行，把手的位置映射到 AR 场景中。
+- 课堂练习: 用 Teachable Machine 训练 3 种手势（张开/握拳/指），在网页 AR 里分别触发出现、抓取、发射；加一个变化：手势序列组成'咒语'。
+
+#### 3D hand interaction and physics on an iPhone — Hart Woolery (2020CV) (2018)
+- 视频: https://www.youtube.com/watch?v=c_h6UBq0u70
+- 交互类型: 手势与身体, 空间理解, 游戏与玩法
+- 平台与技术: 手机, ARKit, CoreML, TensorFlow
+- 创意点子: 只用手机摄像头，就能用真手推倒桌上的虚拟积木。
+- 作品内容: 只靠手机自带的摄像头，被追踪的 3D 手就能推倒真实桌面上遵循物理规律的虚拟物体。
+- 关键技术: 用 Keras 训练的模型估计 3D 手部姿态，附着在手上的碰撞体与放在 ARKit 平面上的物理刚体相互作用。
+- 课堂练习: 用 Lens Studio 手部追踪或 AR Foundation + 手部碰撞体，让手推倒一排虚拟多米诺；加一个变化：只有竖起食指才能'戳'。
+
+#### SpeakingPuppy — Hart Woolery (2020CV) (2018)
+- 视频: https://www.youtube.com/watch?v=3Dzn2WbHsyA
+- 交互类型: 面部, 声音
+- 平台与技术: 手机, CoreML, face tracking, voice changer
+- 创意点子: 给狗狗戴上面具，还让它开口说话。
+- 作品内容: 一款 iOS 应用，能识别你家狗狗的脸，给它戴上面具和滤镜，还配上一张变声后会说话的嘴。
+- 关键技术: 自定义的宠物面部特征点模型追踪狗的脸，让面具跟随移动；用户录制的声音经过变调，并与动画嘴巴口型同步。
+- 课堂练习: 用 Lens Studio 宠物模板或 Teachable Machine 识别宠物/玩偶的脸，给它配上变声旁白；加一个变化：说话内容由观众打字决定。
+
+#### Virtual Drumpad on iOS — Hart Woolery (2020CV) (2019)
+- 视频: https://www.youtube.com/watch?v=lrl2_67GukM
+- 交互类型: 手势与身体, 声音, 表演与舞台
+- 平台与技术: 手机, CoreML, hand tracking
+- 创意点子: 对着空气敲，手机里就响起鼓点。
+- 作品内容: 在手机前方的空中敲击手指，就能触发浮现在相机画面上的鼓垫。
+- 关键技术: 指尖追踪检测手指向下击入屏幕上鼓垫区域的动作，并触发低延迟的音频采样。
+- 课堂练习: 用 MediaPipe Hands + 网页音频做空气鼓：指尖进入某个方块就发声；加一个变化：鼓垫会跟着真实桌面边缘排布。
+
+#### YoPuppet — Hart Woolery (2020CV) (2019)
+- 视频: https://www.youtube.com/watch?v=zd-LKYu5QDQ
+- 交互类型: 手势与身体, 声音, 游戏与玩法
+- 平台与技术: 手机, CoreML, ARKit, TensorFlow
+- 创意点子: 把手变成 AR 手偶：张合手掌，木偶就开口说话。
+- 作品内容: 手部追踪把你手上的 22 个点映射到一个卡通木偶的脸上，手掌一张一合，AR 中的木偶就跟着张嘴闭嘴。
+- 关键技术: 深度学习手部姿态模型实时追踪关键点，并把它们重定向到锚定在手上方的 2D/3D 木偶绑定上。
+- 课堂练习: 用 MediaPipe Hands 做'手偶'：拇指和四指的张合控制角色的嘴，并加上变声；加一个变化：两只手的角色可以对话。
+
+#### Face filter from a single photo — Hart Woolery (2020CV) (2020)
+- 视频: https://www.youtube.com/watch?v=aYKGafPtKbM
+- 交互类型: 面部, 感知与视觉艺术
+- 平台与技术: 手机, face tracking, CoreML
+- 创意点子: 只用一张照片，就能把别人的脸变成你的实时滤镜。
+- 作品内容: 根据另一个人的一张照片生成人脸滤镜，并映射到用户的实时面部上，跟随表情变化。
+- 关键技术: 利用单张照片中的面部关键点构建带纹理的面部网格，并将其变形贴合到实时追踪的人脸上（大概率是一种二维可变形映射）。
+- 课堂练习: 用 MediaPipe FaceMesh 把一张名人或名画照片做成贴合自己脸的面具；加一个变化：面具只在你笑时出现。
+
+#### Tech Deck for Specs — Hart Woolery (2020CV) (2026)
+- 视频: https://x.com/hartspecs/status/2107548240245895271
+- 交互类型: 手势与身体, 游戏与玩法
+- 平台与技术: 头显, Spectacles, Specs (2026), hand tracking
+- 创意点子: 把两根手指变成滑板手：一套不需要实体玩具的手指滑板。
+- 作品内容: 一座涂鸦风格的微缩滑板公园出现在咖啡桌上，Hart 像玩手指滑板玩具一样，用两根手指驾驶一块小小的虚拟滑板在其中穿梭。
+- 关键技术: 手部追踪把食指和中指指尖当作滑手的双脚，虚拟滑板很可能根据它们的姿态，在微缩公园的坡道上进行物理运动。
+- 课堂练习: 在 WebXR 或 Lens Studio 中做一个桌面微缩滑板公园，把两个追踪到的指尖映射到一块滑板上，手指抬起时滑板就能起跳；变体：按滑板在空中停留的时间给技巧打分。
+
 ### Johnny Chung Lee
 
 *人机交互研究者；Wii 遥控器改造达人；Google Project Tango 负责人*
@@ -14271,6 +14431,50 @@ AR 可视化专家：研究隐藏结构的 X 光式与半透明视图、紧凑�
 - 关键技术: 用实时引擎驱动 Sphere 内屏上的定制内容，由视觉操作者现场演奏、切换场景（引擎推测为 Unreal 或 Notch）。
 - 课堂练习: 用 Unity Netcode 或 WebXR 多人模板做一个共享 AR 音乐会场景，一位同学在笔记本上现场操控视觉，其他人用手机观看；变体：操作者只能用三个旋钮，迫使视觉语言足够清晰。
 
+### Pavlo Tkachenko
+
+*AR 开发者、Snap Spectacles 镜头创作者*
+
+AR 开发者，常与 Stijn Spanhove 合作开发 Spectacles 镜头，并凭借生成式镜头 Bubbles 赢得了 Spectacles 社区挑战赛。
+
+#### BPlane Adventures — Pavlo Tkachenko (2025)
+- 视频: https://www.youtube.com/watch?v=f-3du7Fy3kA
+- 交互类型: 注视, 手势与身体, 游戏与玩法
+- 平台与技术: 头显, Snap Spectacles, Lens Studio
+- 创意点子: 用头部转动驾驶小飞机，用手加速，在身边空间穿梭飞行。
+- 作品内容: 一款适合 Spectacles 的放松型心流游戏：用头部动作驾驶一架小飞机，再用手为它加速，穿梭于你身边的空间。
+- 关键技术: 头部朝向控制飞机的航向，手势触发加速，二者都映射在用户周围的世界空间中。
+- 课堂练习: 用头部朝向（HoloKit 或手机陀螺仪）控制一架纸飞机穿过房间里的 AR 圆环，张开手掌加速；变体：圆环摆放位置根据房间平面自动生成。
+
+#### Bubbles — Pavlo Tkachenko (2025)
+- 视频: https://www.youtube.com/watch?v=TAPU-f4w7xs
+- 交互类型: 空间绘画与创作, 手势与身体
+- 平台与技术: 头显, Snap Spectacles, Snap3D, Lens Studio
+- 创意点子: 输入文字即生成3D物体，装在泡泡里摆满你周围。
+- 作品内容: 一个 Spectacles 滤镜：输入一段提示词，用 Snap3D 生成式 AI 生成 3D 模型，再把多个物体装进漂浮的泡泡里摆在你周围。
+- 关键技术: 文本提示词被发送到文本生成 3D 服务，返回的网格被缩放后装进一个透明球体容器，并通过世界追踪放置在用户周围。
+- 课堂练习: 用文生 3D 工具生成三个小物体，在 AR 中分别放进透明泡泡，点破泡泡物体才会落地；变体：泡泡里的物体来自同学之间互相出题。
+
+#### A real fly brain loose in the living room — Pavlo Tkachenko (2026)
+- 视频: https://x.com/pt_pavlo/status/2098834184999694678
+- 源代码: https://github.com/PtPavloTkachenko/fly-brain-spectacles
+- 交互类型: 手势与身体, 空间理解
+- 平台与技术: 头显, Spectacles, Lens Studio, connectome simulation, Metal GPU, CLAD
+- 创意点子: 给虚拟生物装上一颗真实的大脑，让它感知你所在的真实房间。
+- 作品内容: 全息果蝇在真实的桌面上游走，手靠得太快时会躲开，摊开手掌它们就落在掌心；每个动作都来自完整果蝇连接组的神经模拟，对眼镜看到的房间做出反应。
+- 关键技术: MaleCNS 连接组（16.67 万个神经元）以脉冲神经网络的形式在 Mac 的 GPU 上运行；Spectacles 为果蝇提供感官（虚拟视网膜、对房间的射线检测、手的位置和附近物体的标注清单），大脑的下行神经元再驱动全息果蝇的翅膀、腿和头。
+- 课堂练习: 在 Lens Studio 或 WebXR 中做一个小生物，它的行为只来自几条简单的“感官→运动”规则（类似布赖滕贝格小车）：快速移动的手会让它逃开，静止的手掌会吸引它靠近；变体：给两只生物略有不同的“接线”，让同学猜每只遵循的是哪条规则。
+
+#### VectAR: air hockey against a real robot — Pavlo Tkachenko (2026)
+- 视频: https://x.com/pt_pavlo/status/2078831392620765520
+- 源代码: https://github.com/PtPavloTkachenko/VectAR-Airhokey
+- 交互类型: 实体物件, 游戏与玩法, 手势与身体
+- 平台与技术: 头显, Spectacles, Lens Studio, Anki Vector, Python SDK, wire-pod, CLAD
+- 创意点子: 虚拟的球、真实的守门员：让实体机器人走进 AR 游戏里一起玩。
+- 作品内容: 一张发光的空气曲棍球台出现在真实书桌上；玩家用手拨动虚拟冰球，而 Anki 的 Vector——一台掌心大小的真实桌面机器人——在桌上来回移动当守门员。
+- 关键技术: Mac 上的服务器通过 Python SDK（借助社区的 wire-pod 令牌服务器登录）控制出厂固件的 Vector，并把机器人的位置同步给 Lens；冰球物理和手部追踪在 Spectacles 上运行。
+- 课堂练习: 在桌上放一个便宜的机器人玩具或遥控车，用图像标记追踪它，做一个手机 AR 游戏，让虚拟小球从真实机器人身上弹开；变体：让另一位玩家用另一部手机操控这台机器人。
+
 ### Schnelle Bunte Bilder (with kling klang klong)
 
 *媒体艺术与设计工作室（互动空间与投影）*
@@ -14434,76 +14638,6 @@ AR 可视化专家：研究隐藏结构的 X 光式与半透明视图、紧凑�
 - 作品内容: 成千上万的粒子在盒子里像水一样晃动、飞溅、沉积，先是二维再到三维，并响应鼠标的推拉。
 - 关键技术: 在计算着色器中运行光滑粒子流体动力学（SPH）：通过空间哈希找到邻居，计算密度和压力，再逐帧积分粒子。
 - 课堂练习: 在手机上运行一个小型二维 SPH 模拟，用 AR 把容器放在真实桌面上，用手机重力传感器让水倾斜。变体：把水倒到真实的地面平面上。
-
-### Snap Inc. (Snapchat Lenses)
-
-*相机公司；Snapchat Lenses 与 Lens Studio*
-
-Snap 通过 Snapchat Lenses（2015）把面部滤镜变成了大众媒介，随后又推出了 World Lenses、面向创作者的 Lens Studio、Landmarkers 和 Local Lenses。
-
-#### Jeff Koons x Snapchat — Snap Inc. (Snapchat Lenses) (2017)
-- 视频: https://www.youtube.com/watch?v=d5z9-JLIuis
-- 交互类型: 地点与城市, 感知与视觉艺术
-- 平台与技术: 手机, Snapchat, geolocated lenses
-- 创意点子: 把杰夫·昆斯的雕塑以AR形式'安放'在全球著名地点。
-- 作品内容: Jeff Koons 的《Balloon Dog》等雕塑以基于地理位置的 AR 形式出现在中央公园、战神广场等地，只有在这些地点通过 Snapchat 滤镜才能看到。
-- 关键技术: 地理围栏滤镜只在特定坐标附近开放，雕塑借助地面追踪放置在固定地点。
-- 课堂练习: 为校园中的某个地点设计一件只在那里可见的 AR 雕塑，用 GPS 限制出现范围；变体：让同学在雕塑旁留下 AR 涂鸦，思考公共空间的归属问题。
-
-#### Snapchat World Lenses — Snap Inc. (Snapchat Lenses) (2017)
-- 视频: https://www.youtube.com/watch?v=K6x44v8prFA
-- 交互类型: 空间理解, 感知与视觉艺术
-- 平台与技术: 手机, Snapchat, SLAM
-- 创意点子: 把动画3D角色放进后置镜头的真实世界，让AR成为全民表情包。
-- 作品内容: Snapchat 的后置摄像头滤镜把带动画的 3D 物体放在真实场景的地面上，比如吐彩虹的云朵或跳舞热狗，用户可以绕着它们走动并录制视频。
-- 关键技术: 后置摄像头 SLAM 结合地面检测，把动画角色锚定在地面上，并通过视频录制捕捉合成后的画面用于分享。
-- 课堂练习: 用 Lens Studio 做一个地面上的动画角色 World Lens，录一段 10 秒短视频；变体：角色会模仿镜头前真人的动作（用身体追踪）。
-
-#### Landmarkers — Snap Inc. (Snapchat Lenses) (2019)
-- 视频: https://www.youtube.com/watch?v=jNs9kdSAOCA
-- 交互类型: 地点与城市, 空间理解, 感知与视觉艺术
-- 平台与技术: 手机, Lens Studio, landmark tracking
-- 创意点子: 识别真实地标建筑，让整座埃菲尔铁塔在镜头里变形、融化、喷彩虹。
-- 作品内容: 这些镜头能识别埃菲尔铁塔、熨斗大厦等著名建筑，并用动画改造它们真实的立面，比如让建筑融化或迸发出彩虹。
-- 关键技术: 地标追踪把相机画面与已知建筑预先建好的 3D 模型匹配，从而把着色器和动画精确映射到其真实立面上。
-- 课堂练习: 用 Lens Studio 的 Custom Landmarker 或图像追踪识别校园中一栋建筑立面，在它上面叠加融化或长草的动画；变体：让动画跟随真实时间变化。
-
-#### Local Lenses — Snap Inc. (Snapchat Lenses) (2020)
-- 视频: https://www.youtube.com/watch?v=4jA1RM5_WMc
-- 交互类型: 地点与城市, 多人与社交, 空间绘画与创作
-- 平台与技术: 手机, Lens Studio, city-scale 3D map
-- 创意点子: 多人一起给整条街道的真实建筑涂装，AR内容会持久留在原地。
-- 作品内容: 覆盖整片城市街区的持久共享 AR：多位 Snapchat 用户可以一起给真实建筑立面上色和装饰，这些改动会保留在原处，供其他人看到。
-- 关键技术: 城市尺度的三维地图为用户定位，共享的持久化状态记录建筑表面上的每一笔涂装，后来的访客就能看到不断累积的改动。
-- 课堂练习: 用持久化锚点和一个简单后端（如 Firebase）做一面多人共享的 AR 涂鸦墙，涂鸦下次打开还在；变体：涂鸦会像真实油漆一样慢慢褪色。
-
-#### Spectacles AI release: Snap 3D and LLM integrations — Snap Inc. (Snapchat Lenses) (2025)
-- 视频: https://www.youtube.com/watch?v=qpi1JTnPwgs
-- 交互类型: 空间绘画与创作, 声音, 实体物件
-- 平台与技术: 头显, Snap Spectacles, Snap 3D, OpenAI, Gemini, SnapML
-- 创意点子: 在 AR 眼镜里说想要一个三维物体，它就出现了。
-- 作品内容: 2025 年 6 月的 Spectacles 系统更新加入了 OpenAI、Gemini 和 DeepSeek 集成、更好的语音转文字、可按需生成三维物体的 Snap 3D 生成接口，以及新的物体追踪示例。
-- 关键技术: Lens Studio 向镜头开放云端大语言模型和文生三维接口（Snap 3D），一句语音提示就能返回一个网格并放进房间。
-- 课堂练习: 做一个语音生三维小玩具：语音转文字，接免费文生三维接口，再放到手机 AR 检测到的桌面上。变体：每个新物体都必须是上一个物体会害怕的东西。
-
-#### Spectacles AI-powered translation challenge — Snap Inc. (Snapchat Lenses) (2025)
-- 视频: https://www.youtube.com/watch?v=hR4W_Qtzij4
-- 交互类型: 多人与社交, 声音
-- 平台与技术: 头显, Snap Spectacles, speech-to-text, machine translation
-- 创意点子: 给现实生活加上字幕，让陌生人可以一起动手做东西。
-- 作品内容: 两位说不同语言的人合作搭建：一人指挥、一人动手，Spectacles 的翻译镜头把每句话实时变成对方语言的字幕。
-- 关键技术: 语音被转写后由 AI 模型翻译，再以字幕形式锚定在佩戴者视野中说话人附近。
-- 课堂练习: 做一个乐高挑战：指挥者说一种语言，搭建者通过放在头戴支架里的手机读实时翻译字幕。变体：只翻译成表情符号。
-
-#### Agent Center for Spectacles — Snap Inc. (Snapchat Lenses) (2026)
-- 视频: https://www.youtube.com/watch?v=U0cA-bVxLgM
-- 源代码: https://github.com/specs-devs/samples
-- 交互类型: 声音, 信息与界面
-- 平台与技术: 头显, Snap Spectacles, CLI coding agents, Lens Studio
-- 创意点子: 你的编程智能体以悬浮面板的形式跟着你走。
-- 作品内容: Agent Center 把开发者的命令行编程智能体连接到 Spectacles，让人离开工位时也能在 AR 中给智能体下指令并追踪代码进度。
-- 关键技术: 一个桥接服务在电脑上的命令行智能体与 Spectacles 镜头之间转发提示和输出，镜头把各个会话显示为空间窗口。
-- 课堂练习: 把一个长时间运行脚本的输出同步到手机 WebAR 面板上，让它悬在门口，并加一个按钮回复一个词。变体：面板颜色随智能体的“情绪”变化。
 
 ### 1024 Architecture (François Wunschel & Pier Schneider)
 
@@ -14924,75 +15058,6 @@ Disney Research 探索充满趣味和魔力的 AR：Ivan Poupyrev 的 REVEL 和 
 - 作品内容: 在 Quest 3 的透视画面里，用手柄扔出的雪球砸在真实的床、墙和地板上，恰好沿着房间表面弹跳、碎开。
 - 关键技术: Quest 3 的环境网格生成精细的场景网格并作为物理碰撞体，扔出的雪球会与真实家具碰撞并留下雪痕。
 - 课堂练习: 用带 LiDAR 的手机或 Quest 场景网格做一个“扔出去就留下痕迹”的游戏：每次击中都在真实墙面留下颜料印记。变体：印记一分钟后慢慢融化消失。
-
-### Hart Woolery (2020CV)
-
-*2020CV 创始人兼首席技术官*
-
-计算机视觉开发者，他的公司 2020CV 自行训练了移动端手部、面部和宠物追踪模型，并据此推出了 InstaSaber、YoPuppet、SpeakingPuppy 以及多款 Snap 镜头。
-
-#### InstaSaber — Hart Woolery (2020CV) (2017)
-- 视频: https://www.youtube.com/watch?v=MWd7shj59PA
-- 交互类型: 实体物件, 手势与身体, 游戏与玩法
-- 平台与技术: 手机, ARKit, CoreML, computer vision
-- 创意点子: 一卷纸在手机里变成光剑。
-- 作品内容: 把一张纸卷起来，iPhone 就会把它变成一把发光的光剑，跟随你手中的纸筒移动。
-- 关键技术: 定制的视觉模型逐帧检测纸筒的两个端点，再沿这条线渲染带辉光效果的剑身网格。
-- 课堂练习: 用颜色追踪识别一根彩色吸管/纸筒，在摄像头画面上画出发光剑身（p5.js/OpenCV.js）；加一个变化：两把剑相碰会发出火花和声音。
-
-#### Mobile hand tracking + ARKit — Hart Woolery (2020CV) (2017)
-- 视频: https://www.youtube.com/watch?v=u_FTew8oTBw
-- 交互类型: 手势与身体
-- 平台与技术: 手机, ARKit, CoreML
-- 创意点子: 2017 年就在 iPhone 7 上实现徒手与 AR 物体交互。
-- 作品内容: 一个在 iPhone 7 上运行的早期演示，把 2020CV 自研的手部追踪器与 ARKit 结合，让徒手就能与 AR 内容交互。
-- 关键技术: 定制的神经网络手部检测器与 ARKit 追踪同时在设备端运行，把手的位置映射到 AR 场景中。
-- 课堂练习: 用 Teachable Machine 训练 3 种手势（张开/握拳/指），在网页 AR 里分别触发出现、抓取、发射；加一个变化：手势序列组成'咒语'。
-
-#### 3D hand interaction and physics on an iPhone — Hart Woolery (2020CV) (2018)
-- 视频: https://www.youtube.com/watch?v=c_h6UBq0u70
-- 交互类型: 手势与身体, 空间理解, 游戏与玩法
-- 平台与技术: 手机, ARKit, CoreML, TensorFlow
-- 创意点子: 只用手机摄像头，就能用真手推倒桌上的虚拟积木。
-- 作品内容: 只靠手机自带的摄像头，被追踪的 3D 手就能推倒真实桌面上遵循物理规律的虚拟物体。
-- 关键技术: 用 Keras 训练的模型估计 3D 手部姿态，附着在手上的碰撞体与放在 ARKit 平面上的物理刚体相互作用。
-- 课堂练习: 用 Lens Studio 手部追踪或 AR Foundation + 手部碰撞体，让手推倒一排虚拟多米诺；加一个变化：只有竖起食指才能'戳'。
-
-#### SpeakingPuppy — Hart Woolery (2020CV) (2018)
-- 视频: https://www.youtube.com/watch?v=3Dzn2WbHsyA
-- 交互类型: 面部, 声音
-- 平台与技术: 手机, CoreML, face tracking, voice changer
-- 创意点子: 给狗狗戴上面具，还让它开口说话。
-- 作品内容: 一款 iOS 应用，能识别你家狗狗的脸，给它戴上面具和滤镜，还配上一张变声后会说话的嘴。
-- 关键技术: 自定义的宠物面部特征点模型追踪狗的脸，让面具跟随移动；用户录制的声音经过变调，并与动画嘴巴口型同步。
-- 课堂练习: 用 Lens Studio 宠物模板或 Teachable Machine 识别宠物/玩偶的脸，给它配上变声旁白；加一个变化：说话内容由观众打字决定。
-
-#### Virtual Drumpad on iOS — Hart Woolery (2020CV) (2019)
-- 视频: https://www.youtube.com/watch?v=lrl2_67GukM
-- 交互类型: 手势与身体, 声音, 表演与舞台
-- 平台与技术: 手机, CoreML, hand tracking
-- 创意点子: 对着空气敲，手机里就响起鼓点。
-- 作品内容: 在手机前方的空中敲击手指，就能触发浮现在相机画面上的鼓垫。
-- 关键技术: 指尖追踪检测手指向下击入屏幕上鼓垫区域的动作，并触发低延迟的音频采样。
-- 课堂练习: 用 MediaPipe Hands + 网页音频做空气鼓：指尖进入某个方块就发声；加一个变化：鼓垫会跟着真实桌面边缘排布。
-
-#### YoPuppet — Hart Woolery (2020CV) (2019)
-- 视频: https://www.youtube.com/watch?v=zd-LKYu5QDQ
-- 交互类型: 手势与身体, 声音, 游戏与玩法
-- 平台与技术: 手机, CoreML, ARKit, TensorFlow
-- 创意点子: 把手变成 AR 手偶：张合手掌，木偶就开口说话。
-- 作品内容: 手部追踪把你手上的 22 个点映射到一个卡通木偶的脸上，手掌一张一合，AR 中的木偶就跟着张嘴闭嘴。
-- 关键技术: 深度学习手部姿态模型实时追踪关键点，并把它们重定向到锚定在手上方的 2D/3D 木偶绑定上。
-- 课堂练习: 用 MediaPipe Hands 做'手偶'：拇指和四指的张合控制角色的嘴，并加上变声；加一个变化：两只手的角色可以对话。
-
-#### Face filter from a single photo — Hart Woolery (2020CV) (2020)
-- 视频: https://www.youtube.com/watch?v=aYKGafPtKbM
-- 交互类型: 面部, 感知与视觉艺术
-- 平台与技术: 手机, face tracking, CoreML
-- 创意点子: 只用一张照片，就能把别人的脸变成你的实时滤镜。
-- 作品内容: 根据另一个人的一张照片生成人脸滤镜，并映射到用户的实时面部上，跟随表情变化。
-- 关键技术: 利用单张照片中的面部关键点构建带纹理的面部网格，并将其变形贴合到实时追踪的人脸上（大概率是一种二维可变形映射）。
-- 课堂练习: 用 MediaPipe FaceMesh 把一张名人或名画照片做成贴合自己脸的面具；加一个变化：面具只在你笑时出现。
 
 ### Ishikawa Watanabe Laboratory (University of Tokyo)
 
@@ -17985,30 +18050,6 @@ Unity 特效开发者，几乎每周都会发布着色器和粒子实验，其�
 - 作品内容: 在真实建筑上——墙面、庭院、街道——绘制并照亮的彩色画框，只有从某一个点看才会对齐成完美的长方形；换个位置就散成破碎的形状。曾在梅斯、布里斯托灯光节展出，还有一个用无人机拍摄的版本。
 - 关键技术: 从选定视点把长方形投到建筑上，再沿投影线绘制或打光，因此只有从那个点看才会对齐（变形透视）。
 - 课堂练习: 选一个庭院，站在某一点，用手机 AR 放一个横跨几面墙的漂浮长方形画框，然后绕着走看它如何破碎；变体：不在地上做任何标记，让人们通过 App 自己发现那个点。
-
-### Pavlo Tkachenko
-
-*AR 开发者、Snap Spectacles 镜头创作者*
-
-AR 开发者，常与 Stijn Spanhove 合作开发 Spectacles 镜头，并凭借生成式镜头 Bubbles 赢得了 Spectacles 社区挑战赛。
-
-#### BPlane Adventures — Pavlo Tkachenko (2025)
-- 视频: https://www.youtube.com/watch?v=f-3du7Fy3kA
-- 交互类型: 注视, 手势与身体, 游戏与玩法
-- 平台与技术: 头显, Snap Spectacles, Lens Studio
-- 创意点子: 用头部转动驾驶小飞机，用手加速，在身边空间穿梭飞行。
-- 作品内容: 一款适合 Spectacles 的放松型心流游戏：用头部动作驾驶一架小飞机，再用手为它加速，穿梭于你身边的空间。
-- 关键技术: 头部朝向控制飞机的航向，手势触发加速，二者都映射在用户周围的世界空间中。
-- 课堂练习: 用头部朝向（HoloKit 或手机陀螺仪）控制一架纸飞机穿过房间里的 AR 圆环，张开手掌加速；变体：圆环摆放位置根据房间平面自动生成。
-
-#### Bubbles — Pavlo Tkachenko (2025)
-- 视频: https://www.youtube.com/watch?v=TAPU-f4w7xs
-- 交互类型: 空间绘画与创作, 手势与身体
-- 平台与技术: 头显, Snap Spectacles, Snap3D, Lens Studio
-- 创意点子: 输入文字即生成3D物体，装在泡泡里摆满你周围。
-- 作品内容: 一个 Spectacles 滤镜：输入一段提示词，用 Snap3D 生成式 AI 生成 3D 模型，再把多个物体装进漂浮的泡泡里摆在你周围。
-- 关键技术: 文本提示词被发送到文本生成 3D 服务，返回的网格被缩放后装进一个透明球体容器，并通过世界追踪放置在用户周围。
-- 课堂练习: 用文生 3D 工具生成三个小物体，在 AR 中分别放进透明泡泡，点破泡泡物体才会落地；变体：泡泡里的物体来自同学之间互相出题。
 
 ### Refik Anadol
 
@@ -31675,6 +31716,21 @@ Unity 最早的一批图形工程师之一，2006 至 2021 年参与引擎开发
 - 关键技术: 把 Depth API 的深度帧融合进 GPU 上的 TSDF 体积，用 Surface Nets 提取网格，再用透视摄像头图像给它贴图；扫描结果可发送到服务器训练高斯泼溅，再回到设备上渲染。
 - 课堂练习: 用 QuestRoomScan 扫描教室一角，给扫描网格加一个让它融化或波动的着色器，同时透视画面显示真实房间。变体：冻结一次扫描，再与实时房间对比，找出哪些东西移动过。
 
+### Awu Chen, Suvi Helin & Matti Grüner
+
+*MIT Reality Hack 2026 参赛团队*
+
+三人在 MIT Reality Hack 2026 上组队；Suvi Helin 原本使用 Unity，在比赛期间学会了 Lens Studio，三人共同完成了 Wake Them Up!：一个让物品讲述主人故事的 Spectacles Lens。
+
+#### Wake Them Up! — Awu Chen, Suvi Helin & Matti Grüner (2026)
+- 视频: https://www.youtube.com/watch?v=4hFSGMyT6cc
+- 交互类型: 实体物件, 声音
+- 平台与技术: 头显, Snap Spectacles, Lens Studio, Gemini, Snap Cloud
+- 创意点子: 让房间里的物品记得它们的主人，替一个已不在场的人开口。
+- 作品内容: 环顾房间，物品上方浮现发光的小点；触碰其中一个，这件物品就会讲述一段关于主人的梦或回忆，于是一个陌生人的一生从他的杯子、椅子和书里被拼凑出来。作品由 Awu Chen、Suvi Helin 和 Matti Grüner 在 MIT Reality Hack 2026 完成。
+- 关键技术: Gemini 识别截取画面中的物体并返回它们在世界中的位置，Snap Cloud 边缘函数上的叙事引擎保存一个固定人物设定，为每个新识别的物体生成相互呼应的梦境故事。
+- 课堂练习: 为一个房间虚构一位主人，再用手机 AR 加图像识别模型，为五件物品各配上一段第一人称的简短回忆。变体：让两件物品对同一件事的记忆互相矛盾。
+
 ### BERG (Jack Schulze, Matt Webb, Timo Arnall)
 
 *设计工作室（2005–2014）*
@@ -31736,6 +31792,21 @@ Unity 最早的一批图形工程师之一，2006 至 2021 年参与引擎开发
 - 关键技术: 用 ARKit 地面检测为球提供真实的弹跳面，球拍很可能绑定在手机被追踪到的位姿上充当碰撞体。
 - 课堂练习: 做一个 AR 游戏：手机本身就是球拍，虚拟球在真实地板上弹跳；变体：两部手机对打同一个球。
 
+### Bob Bjarke (The Electric Factory)
+
+*The Electric Factory 创意总监*
+
+创意总监，在 Leo Burnett、Team One、RPA、Chiat 等广告公司工作十余年，又在 Facebook、Instagram 和 Meta 任职数年，现就职于创意科技公司 The Electric Factory，专注 AR、VR 和 AI。
+
+#### Historic NBA shot charts on any court — Bob Bjarke (The Electric Factory) (2025)
+- 视频: https://www.youtube.com/watch?v=zqym4L6-6gw
+- 交互类型: 信息与界面, 地点与城市
+- 平台与技术: 头显, Snap Spectacles, Lens Studio
+- 创意点子: 把历史数据叠回它所属的场地上，让你站进一场著名比赛之中。
+- 作品内容: 站在任何一块真实的篮球场上，Lens 都会把 NBA 传奇比赛中每一次出手的位置画在你脚下的场地上，让历史在你所站的地面上重演。作品由 The Electric Factory 的 Bob Bjarke 为 Snap 制作，并在 Snap 官方 Spectacles 开发者频道展示。
+- 关键技术: 把历史比赛的投篮坐标映射到标准球场模板上，再将模板与真实球场对齐（很可能通过放置或识别球场角点），以标记形式渲染在地面上。
+- 课堂练习: 找一份与标准场地相关的公开数据集（足球场、棋盘、跑道），在手机 AR 中把它对齐到真实场地，并可视化一场著名赛事。变体：让用户与历史数据对战，比如从同一个位置投篮。
+
 ### Bot & Dolly
 
 *机器人与电影工作室（2013 年被 Google 收购）*
@@ -31795,6 +31866,22 @@ Boyu Li 与 Lin-Ping Yuan、Zeyu Wang 共同开发了 VideoCraft（UIST 2025）�
 - 作品内容: 等身青铜旅人拎着行李箱，身体大块缺失，身后的港口从中透出；视频展示了它们在埃塔普勒港的样子。
 - 关键技术: 人像以黏土塑造后铸成青铜，再切去部分，剩余部分通过行李箱和双腿支撑。
 - 课堂练习: 在街上放置一个 AR 人像，用遮罩在其身体上切出一个大洞，让真实街道透出来；变体：人像离“家”越远（按 GPS 距离），洞就越大。
+
+### Calvin Dong (Thanh Hung Dong)
+
+*AR 开发者；Mooncake Media*
+
+Spectacles 开发者，曾与 Lien Tran 以 Mooncake Media 团队名义制作装修娃娃屋的 Lens Dream Home，并在 Specs in the City Paris 2025 黑客松上参与创作了“照片挖洞”派对游戏 Pic Seeker。
+
+#### Pic Seeker — Calvin Dong (Thanh Hung Dong) (2025)
+- 视频: https://vimeo.com/1134588237
+- 源代码: https://github.com/reedery/snap-paris-hack-25
+- 交互类型: 游戏与玩法, 多人与社交, 传送门与世界替换
+- 平台与技术: 头显, Snap Spectacles, Lens Studio
+- 创意点子: 一张照片变成房间缺失的一块拼图，而把眼镜递给下一个人，就是轮流的玩法。
+- 作品内容: 一名玩家拍下房间某处的照片，现实中就被“挖”出一个洞；随后他把 Spectacles 递给下一位玩家，对方得走动、伸展、蹲下，找到能补上这块缺口的真实位置。作品由 Calvin Dong、Vitaly Protago 等人组成的团队在 Specs in the City Paris 2025 黑客松上完成，获第三名。
+- 关键技术: 拍下的画面很可能以带贴图的镂空形式放在拍摄时的位置和朝向上；系统将下一位玩家的视角与该位姿比较，位置和角度在容差范围内即判定完成。
+- 课堂练习: 在手机 AR 中保存相机位姿和截图，把截图作为漂浮画框放在别处，让同伴找出完全相同的视角。变体：照片要从小孩或小狗的视线高度拍摄。
 
 ### Camille Dunlop
 
@@ -32234,6 +32321,21 @@ FireDragonGameStudio 发布开源的 Quest 与 AR 实验，从透视摄像头物
 - 关键技术: 参与者遵循口头指令（缓慢、沉默地沿平行线行走），不留下任何物品。
 - 课堂练习: 编写一份 AR 行走乐谱：每位参与者在地面上看到一条属于自己的线和一个速度指示，所有线最终汇聚于一点；变体：只有当行走者保持在设定速度以下时，线才会出现。
 
+### Harry Banda
+
+*软件开发者、Spectacles 游戏制作者*
+
+赞比亚开发者，常年参加黑客松，他的 Spectacles Lens 包括 Card Master、Pixel Builder、Jigsaw Genie、MathBee 和 Memory Grid；其中 Card Master 获得 Lens Fest 2025 最佳 Spectacles Lens 奖。
+
+#### Memory Grid — Harry Banda (2026)
+- 视频: https://www.youtube.com/watch?v=jHNpzfKwl1w
+- 交互类型: 手势与身体, 空间理解, 游戏与玩法
+- 平台与技术: 头显, Snap Spectacles, Lens Studio
+- 创意点子: 让玩家用双脚走出答案而不是点出答案，把记忆变成一项全身运动。
+- 作品内容: 一张格子网铺在真实地板上，一条安全路径只亮起一次；你得记住它，然后亲自一步步走过去，踩错一格就回到起点。共 11 关，路径越来越长。获得 Spectacles Community Challenge #10 新 Lens 组第二名。
+- 关键技术: 通过环境理解找到地面并在上面锚定格子网，再把佩戴者的头部位置投影到地面，判断他正踩在哪一格。
+- 课堂练习: 做一个手机 AR 地面格子网，用手机的位置判断当前所在的格子；先显示路径三秒，再让同学走一遍。变体：路径不显示，而是用一段旋律播放出来，玩家要边听边走。
+
 ### Harvard Visual Computing Group — Hanspeter Pfister
 
 *哈佛大学工程与应用科学学院的研究组，由 Hanspeter Pfister 领导*
@@ -32278,6 +32380,36 @@ Dogstudio 创始人 Henry Daubrez 与 Samuel Honigstein 构思并制作了首届
 - 作品内容: 把手机指向天空，会出现巨大的动漫风格机甲，同时朗读一段京都学派的文本；指向地面，会出现一位正在瓦解的学者和另一段文本；指向地平线则什么也看不到，只听见谈论“绝对无”的声音。
 - 关键技术: 手机 AR 通过陀螺仪读取设备俯仰角，在三层场景和音轨之间切换。
 - 课堂练习: 做一个 WebXR 或手机网页，根据手机朝上、朝下或水平，播放三段不同的音频故事；变体：水平方向时屏幕上完全不显示任何东西。
+
+### Imogen Heap
+
+*音乐人、制作人、音乐科技发明者（Mi.Mu 手套）*
+
+获得格莱美奖的英国创作歌手和制作人，参与研发了用手势控制音乐的 Mi.Mu 手套，十多年来一直用身体动作来演奏电子音乐。
+
+#### Sound Space (SPECS x Imogen Heap) — Imogen Heap, Snap Inc. (Snapchat Lenses) (2026)
+- 视频: https://www.youtube.com/watch?v=U3TG5PbQbXo
+- 交互类型: 声音, 手势与身体, 表演与舞台
+- 平台与技术: 头显, Snap Specs, Snap Spectacles, Lens Studio, hand tracking
+- 创意点子: 把身体当作乐器：表演者周围的空气变成一台看得见、靠手势和嗓音演奏的循环工作站。
+- 作品内容: 在 SPECS 发布会的舞台上，Imogen Heap 在她亲手设计的“声音空间”里即兴创作一首歌：乐器漂浮在她身体四周，她用手势和嗓音演奏、循环、混音，并随手加上混响。
+- 关键技术: SPECS 的手部追踪把抓取、张开手掌、抬手等动作映射到锚定在空间中的乐器上，控制录音、循环、音量和效果，麦克风同时采集人声循环；这套手势语汇延续了她的 Mi.Mu 手套（很可能是与 Snap 的 Lens Studio 团队合作开发）。
+- 课堂练习: 用 Lens Studio 或 WebXR 做一个手势循环工作站：空中漂浮三个球，捏住时录下两秒麦克风声音，松手后循环播放；变体：手的高度决定每个循环的音量，让整场表演变成一座看得见的声音雕塑。
+
+### Inna Horobchuk
+
+*建筑师出身的创意技术专家；Snap Spectacles Lens 开发者*
+
+她受过建筑和室内设计训练，如今为 Snapchat 和 Spectacles 制作 AR Lens，常与 Volodymyr Kurbatov 合作，作品包括 Wi-Fi Speed、AviaSpy、Tarot、Star Map 以及一个折纸教学 Lens。
+
+#### Decisionator — Inna Horobchuk (2025)
+- 视频: https://www.youtube.com/watch?v=JRsdMn7WPUk
+- 交互类型: 实体物件, 手势与身体
+- 平台与技术: 头显, Snap Spectacles, Lens Studio, Gemini, Supabase
+- 创意点子: 把日常的小决定交给 AI，借此追问：我们愿意把多少“自我”交出去？
+- 作品内容: 用手指向两样真实的东西，比如两包零食或两件衬衫，Lens 会毫不犹豫地替你选一个，依据是你的个人档案、天气、时间和你以往的选择。作品由 Inna Horobchuk、Volodymyr Kurbatov、Candice Branchereau 和 Marcin Polakowski 在约 24 小时内完成，获得 Snap Lensathon 2025 Spectacles 赛道第一名。
+- 关键技术: 每帧画面发送给 Gemini，返回被指向的两个物体的边界框和选择结果；深度缓存把答案放回三维空间，Supabase 中保存的个人档案（星座、饮食、历史选择）参与推理，因此不同的人会得到不同的决定。
+- 课堂练习: 用手机或 WebXR 做一个原型：用户用摄像头框住两样东西，视觉语言模型必须选一个并用一句话说明理由，拿同学的午餐来测试。变体：让一桌人共享一个档案，由眼镜替整桌人做决定。
 
 ### Iregular (Daniel Iregui)
 
@@ -32641,6 +32773,37 @@ Karthik Ramani 的 Convergence Design Lab 推出过大量 AR 创作、实体交�
 - 关键技术: 带环境映射的地理定位手机 AR：把摄像头画面作为反射和折射探针，让虚拟冰块呈现出真实环境。
 - 课堂练习: 用环境贴图（AR Foundation 或 Reality Composer）在 AR 中放置一个玻璃质感的物体，并在三个截然不同的地点拍照；变体：周围颜色越暖，它融化得越快。
 
+### Krunal Gediya
+
+*AR 开发者、创意技术专家（All Things Krazyy）*
+
+常驻孟买的 Lens Studio 开发者，为 Snapchat 和 Spectacles 制作游戏、实用工具和硬件实验，作品从 Color Rush、AirTouch 到 Remote ARsistance，以及 LED 连衣裙表演 Lucid Weave。
+
+#### Lucid Weave — Krunal Gediya (2026)
+- 视频: https://www.youtube.com/watch?v=D1VhmXWUNAc
+- 源代码: https://github.com/kgediya/lucid-weave-spectacles-esp32s3
+- 交互类型: 手势与身体, 声音, 表演与舞台
+- 平台与技术: 头显, 可穿戴, Snap Spectacles, Lens Studio, ESP32-S3, ARGB LEDs, Supabase
+- 创意点子: 在空中画出的音乐，也应该穿在创造它的身体上。
+- 作品内容: 表演者用手势在空中塑造旋律；每段乐句在眼镜里化作立体光迹，同时在表演者身上定制的 LED 连衣裙上脉动。作品由 Krunal Gediya、Abraham Pacheco、Meghna S 和 Aishah G 在 MIT Reality Hack 2026 完成，获最佳硬件奖，之后又获得 Spectacles Community Challenge #9 开源组奖项。
+- 关键技术: Spectacles 的手部追踪把手势位置映射为合成器的音高和音色，音符事件以低延迟转发给 ESP32-S3，由它驱动缝在裙子里的可寻址 RGB 灯带。
+- 课堂练习: 在 WebXR 或手机手部追踪草图中把手的高度映射为音高，并通过 WebSocket 把每个音符发送给带 LED 灯带的单片机，灯带缝在袖子上。变体：让第二个人的手势去点亮第一个人身上的衣服。
+
+### Kshitij Kumar Parashar (with Brian Chung, Liza Karimova & Timera)
+
+*XR 开发者；Specs in the City NYC 2025 参赛团队 Spectacular Suspects*
+
+他与队友 Brian Chung、Liza Karimova 和 Timera 在 2025 年 5 月 Snap 举办的 Specs in the City NYC 黑客松上，为 Spectacles 开发了同场派对游戏 Who AR You?。
+
+#### Who AR You? — Kshitij Kumar Parashar (with Brian Chung, Liza Karimova & Timera) (2025)
+- 视频: https://www.youtube.com/watch?v=c6uC7aQgHFg
+- 交互类型: 多人与社交, 游戏与玩法
+- 平台与技术: 头显, Snap Spectacles, Lens Studio, Sync Kit, Connected Lenses
+- 创意点子: 共享 AR 最妙的用法，是让所有人都看到某样东西，唯独当事人看不到。
+- 作品内容: 一款面向同处一室玩家的派对游戏，玩法类似 Heads Up：一个神秘角色（动物或名人）漂浮在某位玩家头顶，除了他本人谁都看得见；他通过提出是非题来猜出自己是谁。作品由 Kshitij Kumar Parashar、Brian Chung、Liza Karimova 和 Timera 在 Specs in the City NYC 2025 黑客松上完成。
+- 关键技术: Sync Kit 和同场会话对齐所有玩家的坐标系，角色模型绑定在猜题者的头部位置，并且只在猜题者自己的 Lens 中隐藏。
+- 课堂练习: 用两部手机建立共享 AR 会话（或者把手机绑在头带上），在一位玩家头顶浮现一个只有别人能看到的词，玩三轮。变体：所有人头上同时都有隐藏角色，大家必须互相交换线索。
+
 ### Kumi Yamashita
 
 *艺术家；光与影*
@@ -32701,6 +32864,22 @@ Karthik Ramani 的 Convergence Design Lab 推出过大量 AR 创作、实体交�
 - 关键技术: 可能让投射光穿过水面光学结构和雾气，并用声音和动作调制波纹，使光束看起来像实体的薄片。
 - 课堂练习: 在有雾的暗房里，让投影光穿过一个浅水盘，拍下手部动作和水盘下的扬声器如何改变光幕；变体：把手部追踪信号映射到扬声器上，让手势来“演奏”光。
 
+### Lafiya Watson Ramirez (Bad Chick Studios)
+
+*跨学科艺术家、AR 开发者；Bad Chick Studios 创始人*
+
+她的创作横跨 AR 设计与开发、网页和摄影；2020 年参加 Snapchat 艺术家驻留后，她做过早期的 Spectacles 游戏、入选 Niantic Lightship 示例库的地点 AR 作品 Stolen Rainbow，以及为纽约市博物馆制作的 AR 滤镜。
+
+#### Wage Love: Ancestral Dance — Lafiya Watson Ramirez (Bad Chick Studios) (2025)
+- 视频: https://www.youtube.com/watch?v=qIUETe__a2A
+- 源代码: https://github.com/lafiyawr/wagelove
+- 交互类型: 手势与身体, 声音, 多人与社交
+- 平台与技术: 头显, Snap Spectacles, Lens Studio, Connected Lenses
+- 创意点子: 一场共同的追思仪式：你的手势和声音召唤出先祖，他们走过之处留下鲜花。
+- 作品内容: 大地母亲在求助：通过三段引导式互动，你用声音和双手召唤先祖之灵，看他们起舞，再把手掌贴在地面传递爱意，他们走过的地方会开出一路鲜花。作品由 Lafiya Watson Ramirez 与 Dulce Baerga 在 AWE 2025 的 Reality Hack x Snap 黑客松上完成，灵感来自 Sultan Sharrief 的 Wage Love，后获 Spectacles Community Challenge #3 新 Lens 组第三名，可多人同时体验。
+- 关键技术: 手部追踪和语音识别触发仪式的每一步，动画化的灵体沿预设舞蹈路径移动并生成花朵粒子，Connected Lenses 在参与者之间同步场景。
+- 课堂练习: 在手机上设计一个三步 AR 仪式：说出一个词、摆出一个手势、触碰地面，每一步解锁下一幕；以小组形式完成。变体：只有两个人同时做出最后一个手势，仪式才算完成。
+
 ### Laura Schütz
 
 *慕尼黑工业大学的声音化与多感官 AR 研究者*
@@ -32715,6 +32894,21 @@ Laura Schütz 在慕尼黑工业大学 Nassir Navab 团队从事声音化与多�
 - 作品内容: 在 AR 中，当虚拟物体撞上真实物体时，系统会识别真实物体的材质（玻璃、木头、金属），并实时合成符合物理规律的撞击声，而不是一声千篇一律的“咔哒”。
 - 关键技术: 计算机视觉模型对真实物体的材质进行分割与分类，再用材质的物理属性和撞击动力学驱动实时模态声音合成。
 - 课堂练习: 在手机 AR 应用中把虚拟小球扔向真实家具；每次击中时，用材质识别模型或视觉大模型提示判断撞击点表面的材质，播放针对该材质调好的合成音（Tone.js 或物理建模音色）。变体：夸大某一种材质，让整个房间听起来像是玻璃做的。
+
+### LePub Singapore (LeGarage)
+
+*Publicis 集团旗下创意代理公司，设有创新部门 LeGarage*
+
+Publicis 旗下创意公司 LePub 的新加坡办公室；其创新团队 LeGarage 专做以技术驱动的项目，例如为新加坡国家图书馆管理局打造的 Augmented Reading。
+
+#### Augmented Reading (National Library Board Singapore) — LePub Singapore (LeGarage), Snap Inc. (Snapchat Lenses) (2025)
+- 视频: https://www.youtube.com/watch?v=5kQkCL-YKns
+- 交互类型: 实体物件, 声音, 信息与界面
+- 平台与技术: 头显, Snap Spectacles, Lens Studio, OCR, generative AI
+- 创意点子: 依旧读纸质书，但让故事随着阅读的进度在书的周围显现、发出声音。
+- 作品内容: 为新加坡国家图书馆管理局打造：读者戴上 Spectacles 阅读《傲慢与偏见》《弗兰肯斯坦》等纸质经典，读到哪里，与段落相关的画面就飘到眼前，读到某些词时还会响起开门声之类的音效。
+- 关键技术: 眼镜摄像头用实时 OCR 读取纸质书页，机器学习和生成式 AI 为每段文字匹配插图和音效，画面在 AR 中显示，声音由眼镜的立体声扬声器播放。
+- 课堂练习: 做一个手机原型：用 OCR 识别书页上的关键词（如“雨”或“门”），在书页上方播放对应的声音和图像；变体：插图随阅读速度变化，读得慢时安静，匆匆浏览时变得躁动。
 
 ### Lita Albuquerque
 
@@ -32943,6 +33137,22 @@ Masquerade Technologies 由 Eugene Nevgen、Sergey Gonchar 和 Andrew Yanchurevi
 - 关键技术: 用胶带缠绕模特身体（先粘面朝外，再覆盖一层），剪下后重新拼合，穿上衣服后放置到位。
 - 课堂练习: 放置一个以荒诞姿势出现的逼真 AR 人物（半截身子在墙里、脸朝下埋在花盆里），并通过手机记录路人反应；变体：没人看时人物会改变姿势。
 
+### Markus Lanxinger, Marco van Nieuwenhoven & Jiayao Yu
+
+*Plinth 创始人；3EALITY & Spectacles 黑客松团队*
+
+Markus Lanxinger 是海牙 Plinth B.V. 和 Lightfield Industries 的创始人，他与 Marco van Nieuwenhoven 和 Jiayao Yu 一起做了 Postmark；Jiayao Yu 还做过 Input Paradigms Lens，探索 Spectacles 上的语音、射线和手部菜单交互。
+
+#### Postmark — Markus Lanxinger, Marco van Nieuwenhoven & Jiayao Yu (2025)
+- 视频: https://www.youtube.com/watch?v=wx48pllLDUM
+- 源代码: https://github.com/lanxinger/spatial_capture
+- 交互类型: 多人与社交, 声音, 注视
+- 平台与技术: 头显, Snap Spectacles, Lens Studio, Supabase, spatial anchors
+- 创意点子: 一条“抵达某个地方”的消息，只在你看向它时才开口。
+- 作品内容: 空间明信片：寄件人拍一张照片并录一段简短语音，收件人把生成的明信片贴在冰箱、墙上或书桌上；看向它时，画面动起来、声音响起；移开目光，它就静静待在原处。作品获阿姆斯特丹 3EALITY & Spectacles 黑客松第三名，由 Markus Lanxinger、Marco van Nieuwenhoven 和 Jiayao Yu 完成。
+- 关键技术: 每张明信片以图像、音频和元数据打包存到云端并通过链接分享；收件人在本地锚定它，注视停留会触发播放，声音为空间化音频。
+- 课堂练习: 做一张手机 AR 明信片：照片加一段录音，锚定在真实表面上，只有镜头中心在它上面停留两秒才播放；两人一组互相交换。变体：明信片每被播放一次就淡去一点。
+
 ### Masahiko Sato + EUPHRATES
 
 *制作教育媒体与实验影像的创意团体*
@@ -33064,6 +33274,21 @@ Masquerade Technologies 由 Eugene Nevgen、Sergey Gonchar 和 Andrew Yanchurevi
 - 作品内容: 观众在两块屏幕前移动：一边他们的身体会在虚拟水面上长出有毒的蓝藻，另一边一条入侵的蟒蛇缠绕住他们的剪影，中间的大投影上一只蛇鹈在两者之间飞行、游动、降落。
 - 关键技术: 深度传感器在无需穿戴设备的情况下追踪观众身体，（很可能使用）openFrameworks 模拟蓝藻生长和一条跟随剪影的蟒蛇骨骼。
 - 课堂练习: 用网络摄像头人体分割，让你的剪影在投影的池塘上留下不断扩散的“污染”痕迹，再加一只跟随其他人的清理生物；变体：只有所有人都静止不动时，池塘才会恢复。
+
+### Nick Ross
+
+*洛杉矶的 Specs 开发者*
+
+洛杉矶的开发者，他在个人简介中把自己的工作描述为借助 Snap 的 Specs“让计算更有人情味”。他把 Specs 原型带到城市街头，拍下陌生人的反应。
+
+#### Hatsune Miku in Little Tokyo — Nick Ross (2026)
+- 视频: https://x.com/nickross4444/status/2105799586870890572
+- 交互类型: 表演与舞台, 地点与城市, 多人与社交
+- 平台与技术: 头显, Spectacles, Specs (2026), Lens Studio, CLAD
+- 创意点子: 在真实街头为虚拟偶像搭一个舞台，让陌生人轮流站到第一排。
+- 作品内容: Nick 把初音未来带到洛杉矶小东京的夜晚街头：她在人行道上一个发光的圆圈里跳舞，他把 Specs 递给路人，拍下他们看到这场“前排演出”时的反应。
+- 关键技术: 带动画的初音未来模型配合音乐，在锚定于地面的舞台标记上跳舞，眼镜在观众之间传递；作品用 Specs 和 CLAD 智能体开发流程制作。
+- 课堂练习: 在手机 AR 中把一个带动画的角色（任意角色配上 Mixamo 舞蹈）放到地面标记上，带到公共场所，记录三位陌生人的反应；变体：让每位新观众挑选下一首歌。
 
 ### Nicola Buttari (PROFORMA Videodesign)
 
@@ -33368,6 +33593,21 @@ Physio 3D 开发了一款 Vision Pro 理疗应用，把三维动作指导和实�
 - 关键技术: 三维动作示范锚定在混合现实中，同时一个以训练计划为上下文的语音对语音 AI 模型实时回答用户。
 - 课堂练习: 在 WebAR 中把一个做拉伸的三维动画人放在用户旁边，并接入一个知道拉伸三个步骤的语音助手。变体：用户说疼时，教练会调整动作。
 
+### Pieter Siekerman (Siekerman Technology)
+
+*Siekerman Technology 开发者*
+
+阿姆斯特丹的开发者，利用开放城市数据在 Snap Spectacles、8th Wall、Niantic Lightship 和 ARCore 上开发地理空间 AR，作品包括开源的 Snap OS Location Tools、TransitView 和 Reality Import 平台。
+
+#### TransitView — Pieter Siekerman (Siekerman Technology) (2026)
+- 视频: https://www.youtube.com/watch?v=-ovm-iNaBTI
+- 交互类型: 地点与城市, 信息与界面
+- 平台与技术: 头显, Snap Spectacles, Lens Studio, GPS, compass, open transit data
+- 创意点子: 公共交通的透视眼：在公交车拐过街角之前就看到它。
+- 作品内容: 站在车站，你能看到悬浮在街道上的时刻表和线路，还能看到即将到站的公交和电车的实时位置在 AR 中被画出来，即使它们还被楼房挡着；目前覆盖荷兰和柏林。作品获得 Spectacles Community Challenge #13 新 Lens 组第二名和 #15 更新组第一名，柏林版本还获得 XRCC Berlin 2026 Visitor Companion 赛道第一名。
+- 关键技术: GPS 和指南针朝向确定佩戴者在城市中的位置，开放交通数据提供站点、线路和车辆实时位置，每辆车按其相对佩戴者的地理方位和距离渲染出来。
+- 课堂练习: 用某个城市的开放实时公交 API，加上手机的 GPS 和指南针，在手机 AR 或 WebXR 中画出指向下一班公交的箭头和距离标签。变体：不显示画面，只用一个随公交靠近而变响的声音来表示它。
+
 ### Pixelcase
 
 *沉浸式媒体工作室（VR、360 视频、AR）*
@@ -33656,6 +33896,22 @@ OneJS（把 JavaScript 界面带进 Unity）的开发者，也做了 Spark2D：�
 - 关键技术: 固定在船桨上的可编程 LED 灯带在夜间或黄昏的长曝光中按计时循环变色。
 - 课堂练习: 用 AR 追踪手机或手，画出颜色每秒变化的路径，并把结果凝固成一件三维雕塑；变体：记录一个运动动作（投掷、挥拍），比较两个人的轨迹。
 
+### Steven Harmon & Team Time Travellers
+
+*XR 开发者；MIT Reality Hack 2026 参赛团队*
+
+团队成员包括 Steven Harmon、Syed Akbar、Sara Jakubowicz、Ryan Bose-Roy 和 Alex Diviney，他们在 MIT Reality Hack 2026 上把 Spectacles 和一个定制的 ESP32 腕表收音机结合起来，做出了 The Time Dial。
+
+#### The Time Dial — Steven Harmon & Team Time Travellers (2026)
+- 视频: https://www.youtube.com/watch?v=A43fS4Yu0xg
+- 源代码: https://github.com/Koshai/TeamTimeTravellers
+- 交互类型: 地点与城市, 实体物件, 传送门与世界替换
+- 平台与技术: 头显, 可穿戴, Snap Spectacles, Lens Studio, ESP32, Snap Cloud, Supabase
+- 创意点子: 像调收音机一样把一个地方调到另一个年份，让旧照片回到它们被拍下的位置。
+- 作品内容: 一台可穿戴的“时间收音机”：转动定制腕表上的旋钮调到某一年，在这个地点拍摄的历史照片就会出现在你周围、出现在它们当年被拍下的位置，触觉振动还会引导你走向附近的热点。原型使用了波士顿公共图书馆 Digital Commonwealth 档案。作品由 Steven Harmon、Syed Akbar、Sara Jakubowicz、Ryan Bose-Roy 和 Alex Diviney 在 MIT Reality Hack 2026 完成。
+- 关键技术: ESP32 腕表旋钮通过 WebSocket 发送所选日期；系统从 Snap Cloud 拉取带地理标记和时间戳的对应档案照片，并借助 World Mesh、World Query 和空间锚点放置它们。
+- 课堂练习: 收集十张标有日期的校园老照片，用手机 AR 把每张放回拍摄地点，再用实体旋钮或屏幕上的转盘按年代筛选。变体：每位同学在同一地点拍一张今天的照片加进去。
+
 ### Stuart Langfield
 
 *导演、设计师*
@@ -33841,6 +34097,21 @@ Tianyi Xiao 在苏黎世联邦理工学院研究空间认知与增强现实。Sk
 - 作品内容: 在 Unity 编辑器里，用操作手柄拖动、融合和雕刻平滑的 SDF 形体，光线步进的结果实时更新。
 - 关键技术: 带编辑器控制器的 SDF 基本体和运算符树，通过自动生成的 ShaderLab/HLSL 语法树 API 编译成 HLSL 光线步进着色器，每次拖动手柄都会重写或重新设置着色器参数。
 - 课堂练习: 把 SdfManipulator 做出的场景导出成一个光线步进立方体，用 AR Foundation 放到桌面上，再让双指控制形体之间的融合半径。变体：让其中一个基本体跟随用户的手部位置。
+
+### Vincent Guigui
+
+*独立 XR 与 AI 顾问；曾任 OCTO Technology 的 AR/VR 与 AI 技术总监*
+
+常驻巴黎的 XR 与自然用户界面专家，曾在 OCTO Technology（埃森哲旗下）带领 AR/VR 与 AI 项目，近十年来一直在做 HoloLens、眼动追踪和聊天机器人等原型。如今他为 Snap Spectacles 开发 Lens，其中包括参加 2025 年巴黎 Spectacles 黑客马拉松的作品。
+
+#### Lyrics Everywhere — Vincent Guigui (2025)
+- 视频: https://www.youtube.com/watch?v=mG_LEPo_CX4
+- 交互类型: 声音, 感知与视觉艺术
+- 平台与技术: 头显, Spectacles, Lens Studio
+- 创意点子: 让歌词住进你周围的世界，而不是停留在屏幕上。
+- 作品内容: 边散步边听歌时，歌词在 Spectacles 里成了周围景物的一部分：彩色文字落在佩戴者的手上，树桩上的小兔子举着写有下一句歌词的牌子，飞机拖着横幅飞过，路人头顶冒出对话气泡，一切都与音乐同步。
+- 关键技术: 很可能从带时间轴的歌词文件中逐行读取，再把每一行交给不同的“场景内载体”：附着在被追踪的手上的文字、放在识别到的表面上的动画角色举起的牌子、飞机拖着的横幅，或识别到的路人头顶的气泡。
+- 课堂练习: 选一段 30 秒的副歌和带时间轴的歌词（LRC）文件，在 Lens Studio 或 WebXR 中让每一句歌词出现在不同的真实世界载体上：地上的指示牌、用户手上的标签、天空中的云；变体：其中一句必须出现在摄像头正对着的任意物体上。
 
 ### Virendra Suryawanshi
 

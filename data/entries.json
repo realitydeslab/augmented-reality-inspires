@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28",
+ "generated": "2026-10-14",
  "creators": [
   {
    "id": "shengzhi-wu",
@@ -2754,7 +2754,7 @@
    "bio": "AR developer who builds Spectacles lenses, often with Stijn Spanhove, and won a Spectacles Community Challenge with his generative lens Bubbles.",
    "why": "His lenses make AR glasses feel playful and physical: generating objects from a prompt, or flying a plane with head movement.",
    "discovered_via": "stijn-spanhove",
-   "work_count": 6,
+   "work_count": 8,
    "role_zh": "AR 开发者、Snap Spectacles 镜头创作者",
    "bio_zh": "AR 开发者，常与 Stijn Spanhove 合作开发 Spectacles 镜头，并凭借生成式镜头 Bubbles 赢得了 Spectacles 社区挑战赛。",
    "why_zh": "他的镜头让 AR 眼镜变得好玩又富有身体感：根据提示词生成物体，或者用头部动作驾驶飞机。"
@@ -3043,7 +3043,7 @@
    "bio": "Snap turned face filters into a mass medium with Snapchat Lenses (2015), then added World Lenses, Lens Studio for creators, Landmarkers and Local Lenses.",
    "why": "Built the largest daily AR audience and opened it to independent lens artists.",
    "discovered_via": "seed",
-   "work_count": 8,
+   "work_count": 10,
    "role_zh": "相机公司；Snapchat Lenses 与 Lens Studio",
    "bio_zh": "Snap 通过 Snapchat Lenses（2015）把面部滤镜变成了大众媒介，随后又推出了 World Lenses、面向创作者的 Lens Studio、Landmarkers 和 Local Lenses。",
    "why_zh": "它建立了规模最大的日常 AR 受众群体，并向独立镜头艺术家开放。",
@@ -4874,7 +4874,7 @@
    "bio": "Computer-vision developer whose company 2020CV trained its own mobile hand, face and pet tracking models to make InstaSaber, YoPuppet, SpeakingPuppy and Snap lenses.",
    "why": "He built phone hand tracking years before platforms shipped it, and wrapped it in instantly fun ideas like a paper-tube lightsaber and hand puppets.",
    "discovered_via": "seed",
-   "work_count": 7,
+   "work_count": 8,
    "role_zh": "2020CV 创始人兼首席技术官",
    "bio_zh": "计算机视觉开发者，他的公司 2020CV 自行训练了移动端手部、面部和宠物追踪模型，并据此推出了 InstaSaber、YoPuppet、SpeakingPuppy 以及多款 Snap 镜头。",
    "why_zh": "他比各大平台早好几年就实现了手机端手部追踪，并把它包装成即刻好玩的创意，比如纸筒光剑和手偶。",
@@ -14179,6 +14179,352 @@
    "work_count": 4
   },
   {
+   "id": "inna-horobchuk",
+   "links": {
+    "site": "https://www.linkedin.com/in/inna-sparrow",
+    "youtube": "https://www.youtube.com/channel/UCH_0jSMGr9cw0z56EbuDorw"
+   },
+   "connected_to": [
+    "snap-inc"
+   ],
+   "batches": [
+    "specs-challenge"
+   ],
+   "name": "Inna Horobchuk",
+   "role": "Architect turned creative technologist; Snap Spectacles Lens developer",
+   "based": "Czech Republic",
+   "bio": "Trained as an architect and interior designer, she now builds AR Lenses for Snapchat and Spectacles, often with Volodymyr Kurbatov, including Wi-Fi Speed, AviaSpy, Tarot, Star Map and an origami tutor.",
+   "why": "She makes invisible or abstract things legible in the room, from Wi-Fi coverage to decision fatigue, and won Snap's Lensathon 2025 and several Spectacles Community Challenges with them.",
+   "role_zh": "建筑师出身的创意技术专家；Snap Spectacles Lens 开发者",
+   "bio_zh": "她受过建筑和室内设计训练，如今为 Snapchat 和 Spectacles 制作 AR Lens，常与 Volodymyr Kurbatov 合作，作品包括 Wi-Fi Speed、AviaSpy、Tarot、Star Map 以及一个折纸教学 Lens。",
+   "why_zh": "她擅长把看不见或抽象的东西在房间里变得可读，从 Wi-Fi 覆盖到决策疲劳，并凭这些作品赢得 Snap Lensathon 2025 和多次 Spectacles Community Challenge。",
+   "based_zh": "捷克",
+   "discovered_via": "snap-inc",
+   "work_count": 1
+  },
+  {
+   "id": "krunal-gediya",
+   "links": {
+    "github": "https://github.com/kgediya",
+    "youtube": "https://www.youtube.com/channel/UCxMr8YC8t1gsQt9jJtRJVlw"
+   },
+   "connected_to": [
+    "snap-inc"
+   ],
+   "batches": [
+    "specs-challenge"
+   ],
+   "name": "Krunal Gediya",
+   "role": "AR developer and creative technologist (All Things Krazyy)",
+   "based": "Mumbai, India",
+   "bio": "Mumbai-based Lens Studio developer who builds games, utilities and hardware hacks for Snapchat and Spectacles, from Color Rush and AirTouch to Remote ARsistance and the LED-dress performance Lucid Weave.",
+   "why": "He keeps connecting Spectacles to the physical world (smart homes, RC cars, laptop screens, wearable LEDs) and won two Lens Fest 2025 Awards and repeated Spectacles Community Challenge prizes.",
+   "role_zh": "AR 开发者、创意技术专家（All Things Krazyy）",
+   "bio_zh": "常驻孟买的 Lens Studio 开发者，为 Snapchat 和 Spectacles 制作游戏、实用工具和硬件实验，作品从 Color Rush、AirTouch 到 Remote ARsistance，以及 LED 连衣裙表演 Lucid Weave。",
+   "why_zh": "他不断把 Spectacles 与物理世界连接起来（智能家居、遥控车、笔记本屏幕、可穿戴灯带），获得两项 Lens Fest 2025 大奖，并多次在 Spectacles Community Challenge 中获奖。",
+   "based_zh": "孟买，印度",
+   "discovered_via": "snap-inc",
+   "work_count": 1
+  },
+  {
+   "id": "lafiya-watson-ramirez",
+   "links": {
+    "site": "https://www.eyebeam.org/people/lafiya-watson",
+    "github": "https://github.com/lafiyawr",
+    "youtube": "https://www.youtube.com/@badchickstudios"
+   },
+   "connected_to": [
+    "snap-inc"
+   ],
+   "batches": [
+    "specs-challenge"
+   ],
+   "name": "Lafiya Watson Ramirez (Bad Chick Studios)",
+   "role": "Multidisciplinary artist and AR developer; founder of Bad Chick Studios",
+   "bio": "Artist working across AR design and development, web and photography; after a Snapchat artist residency in 2020 she built early Spectacles games, the location-based AR piece Stolen Rainbow (chosen for Niantic Lightship's sample library) and AR filters for the Museum of the City of New York.",
+   "why": "Her interactive storytelling uses wearable AR for ritual and memory, as in Wage Love, where gestures and voice summon ancestors who leave flowers behind.",
+   "role_zh": "跨学科艺术家、AR 开发者；Bad Chick Studios 创始人",
+   "bio_zh": "她的创作横跨 AR 设计与开发、网页和摄影；2020 年参加 Snapchat 艺术家驻留后，她做过早期的 Spectacles 游戏、入选 Niantic Lightship 示例库的地点 AR 作品 Stolen Rainbow，以及为纽约市博物馆制作的 AR 滤镜。",
+   "why_zh": "她用可穿戴 AR 讲述关于仪式与记忆的互动故事，比如 Wage Love：手势和声音召唤出先祖，他们走过之处留下鲜花。",
+   "discovered_via": "snap-inc",
+   "work_count": 1
+  },
+  {
+   "id": "calvin-dong",
+   "links": {
+    "vimeo": "https://vimeo.com/user109671228"
+   },
+   "connected_to": [
+    "snap-inc"
+   ],
+   "batches": [
+    "specs-challenge"
+   ],
+   "name": "Calvin Dong (Thanh Hung Dong)",
+   "role": "AR developer; Mooncake Media",
+   "bio": "Spectacles developer who, with Lien Tran as the Mooncake Media team, made the dollhouse-decorating Lens Dream Home, and who co-created the photo-hole party game Pic Seeker at Specs in the City Paris 2025.",
+   "why": "Pic Seeker shows how passing a single pair of glasses from hand to hand can itself be a game mechanic.",
+   "role_zh": "AR 开发者；Mooncake Media",
+   "bio_zh": "Spectacles 开发者，曾与 Lien Tran 以 Mooncake Media 团队名义制作装修娃娃屋的 Lens Dream Home，并在 Specs in the City Paris 2025 黑客松上参与创作了“照片挖洞”派对游戏 Pic Seeker。",
+   "why_zh": "Pic Seeker 说明，把一副眼镜在人与人之间传递，本身就可以成为一种游戏机制。",
+   "discovered_via": "snap-inc",
+   "work_count": 1
+  },
+  {
+   "id": "awu-chen",
+   "links": {
+    "youtube": "https://www.youtube.com/@awuchen2718"
+   },
+   "connected_to": [
+    "snap-inc"
+   ],
+   "batches": [
+    "specs-challenge"
+   ],
+   "name": "Awu Chen, Suvi Helin & Matti Grüner",
+   "role": "MIT Reality Hack 2026 team",
+   "bio": "Team of three who met at MIT Reality Hack 2026; Suvi Helin came from Unity and learned Lens Studio during the event, and together they built Wake Them Up!, a Spectacles Lens in which objects tell stories about their owner.",
+   "why": "Their prompt design kept Gemini in character as a storyteller instead of a helpful assistant, a useful lesson in using AI for narrative rather than utility.",
+   "role_zh": "MIT Reality Hack 2026 参赛团队",
+   "bio_zh": "三人在 MIT Reality Hack 2026 上组队；Suvi Helin 原本使用 Unity，在比赛期间学会了 Lens Studio，三人共同完成了 Wake Them Up!：一个让物品讲述主人故事的 Spectacles Lens。",
+   "why_zh": "他们通过提示词设计让 Gemini 始终扮演讲故事的人，而不是热心助手，为“用 AI 讲故事而非提供功能”提供了可借鉴的经验。",
+   "discovered_via": "snap-inc",
+   "work_count": 1
+  },
+  {
+   "id": "kshitij-parashar",
+   "links": {},
+   "connected_to": [
+    "snap-inc"
+   ],
+   "batches": [
+    "specs-challenge"
+   ],
+   "name": "Kshitij Kumar Parashar (with Brian Chung, Liza Karimova & Timera)",
+   "role": "XR developer; Specs in the City NYC 2025 team Spectacular Suspects",
+   "bio": "Developer who, with teammates Brian Chung, Liza Karimova and Timera, built the co-located party game Who AR You? for Spectacles at Snap's Specs in the City NYC hackathon in May 2025.",
+   "why": "Their game finds a social use of shared AR that only glasses can offer: information that everyone can see except the person wearing it above their head.",
+   "role_zh": "XR 开发者；Specs in the City NYC 2025 参赛团队 Spectacular Suspects",
+   "bio_zh": "他与队友 Brian Chung、Liza Karimova 和 Timera 在 2025 年 5 月 Snap 举办的 Specs in the City NYC 黑客松上，为 Spectacles 开发了同场派对游戏 Who AR You?。",
+   "why_zh": "他们的游戏为共享 AR 找到了一种只有眼镜才能实现的社交用法：一条除了头顶着它的当事人以外所有人都能看到的信息。",
+   "discovered_via": "snap-inc",
+   "work_count": 1
+  },
+  {
+   "id": "steven-harmon",
+   "links": {
+    "youtube": "https://www.youtube.com/@StevenHarmonGames"
+   },
+   "connected_to": [
+    "snap-inc"
+   ],
+   "batches": [
+    "specs-challenge"
+   ],
+   "name": "Steven Harmon & Team Time Travellers",
+   "role": "XR developer; MIT Reality Hack 2026 team",
+   "bio": "Team of Steven Harmon, Syed Akbar, Sara Jakubowicz, Ryan Bose-Roy and Alex Diviney that combined Spectacles with a custom ESP32 watch-radio to build The Time Dial at MIT Reality Hack 2026.",
+   "why": "Their tactile dial, inspired by science-fiction time devices, gives geolocated photo archives a physical, playful way in.",
+   "role_zh": "XR 开发者；MIT Reality Hack 2026 参赛团队",
+   "bio_zh": "团队成员包括 Steven Harmon、Syed Akbar、Sara Jakubowicz、Ryan Bose-Roy 和 Alex Diviney，他们在 MIT Reality Hack 2026 上把 Spectacles 和一个定制的 ESP32 腕表收音机结合起来，做出了 The Time Dial。",
+   "why_zh": "他们受科幻作品中时间装置启发设计的实体旋钮，为带地理信息的老照片档案提供了一种可触摸、好玩的入口。",
+   "discovered_via": "snap-inc",
+   "work_count": 1
+  },
+  {
+   "id": "markus-lanxinger",
+   "links": {
+    "site": "https://www.plinth.it",
+    "x": "https://x.com/Plinth_it",
+    "github": "https://github.com/lanxinger",
+    "youtube": "https://www.youtube.com/@MarkusLanxinger"
+   },
+   "connected_to": [
+    "snap-inc"
+   ],
+   "batches": [
+    "specs-challenge"
+   ],
+   "name": "Markus Lanxinger, Marco van Nieuwenhoven & Jiayao Yu",
+   "role": "Founder of Plinth; 3EALITY & Spectacles Hackathon team",
+   "based": "The Hague, Netherlands",
+   "bio": "Markus Lanxinger, founder of Plinth B.V. and Lightfield Industries in The Hague, built Postmark with Marco van Nieuwenhoven and Jiayao Yu, whose Input Paradigms Lens explores voice, raycast and hand-based menus on Spectacles.",
+   "why": "Postmark shows that spatial computing works best when it respects attention: quiet objects that wait until you look at them.",
+   "role_zh": "Plinth 创始人；3EALITY & Spectacles 黑客松团队",
+   "bio_zh": "Markus Lanxinger 是海牙 Plinth B.V. 和 Lightfield Industries 的创始人，他与 Marco van Nieuwenhoven 和 Jiayao Yu 一起做了 Postmark；Jiayao Yu 还做过 Input Paradigms Lens，探索 Spectacles 上的语音、射线和手部菜单交互。",
+   "why_zh": "Postmark 说明空间计算在尊重注意力时效果最好：那些安静等待、直到你看向它们才开口的物件。",
+   "based_zh": "海牙，荷兰",
+   "discovered_via": "snap-inc",
+   "work_count": 1
+  },
+  {
+   "id": "bob-bjarke",
+   "links": {},
+   "connected_to": [
+    "snap-inc"
+   ],
+   "batches": [
+    "specs-challenge"
+   ],
+   "name": "Bob Bjarke (The Electric Factory)",
+   "role": "Creative director at The Electric Factory",
+   "based": "US",
+   "bio": "Creative director with more than a decade at advertising agencies (Leo Burnett, Team One, RPA, Chiat) and several years at Facebook, Instagram and Meta, now at the creative technology company The Electric Factory, specialising in AR, VR and AI.",
+   "why": "His basketball Lens is a clean example of pulling outside-world data onto the exact real place it describes.",
+   "role_zh": "The Electric Factory 创意总监",
+   "bio_zh": "创意总监，在 Leo Burnett、Team One、RPA、Chiat 等广告公司工作十余年，又在 Facebook、Instagram 和 Meta 任职数年，现就职于创意科技公司 The Electric Factory，专注 AR、VR 和 AI。",
+   "why_zh": "他的篮球 Lens 是一个干净利落的范例：把外部世界的数据叠回它所描述的那个真实场地上。",
+   "based_zh": "美国",
+   "discovered_via": "snap-inc",
+   "work_count": 1
+  },
+  {
+   "id": "pieter-siekerman",
+   "links": {
+    "site": "http://technology.siekerman.nl/",
+    "github": "https://github.com/siekermantechnology",
+    "youtube": "https://www.youtube.com/channel/UCdHLmAbymqmXvWf52guqCXA"
+   },
+   "connected_to": [
+    "snap-inc"
+   ],
+   "batches": [
+    "specs-challenge"
+   ],
+   "name": "Pieter Siekerman (Siekerman Technology)",
+   "role": "Developer at Siekerman Technology",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Amsterdam developer who builds geospatial AR with open city data across Snap Spectacles, 8th Wall, Niantic Lightship and ARCore, including the open-source Snap OS Location Tools, TransitView and the Reality Import platform.",
+   "why": "He keeps showing what GPS, compass and public data can do on glasses, from city data overlays to buses seen through buildings.",
+   "role_zh": "Siekerman Technology 开发者",
+   "bio_zh": "阿姆斯特丹的开发者，利用开放城市数据在 Snap Spectacles、8th Wall、Niantic Lightship 和 ARCore 上开发地理空间 AR，作品包括开源的 Snap OS Location Tools、TransitView 和 Reality Import 平台。",
+   "why_zh": "他不断展示 GPS、指南针和公共数据在眼镜上能做什么，从城市数据叠加到“透过楼房看到公交车”。",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "discovered_via": "snap-inc",
+   "work_count": 1
+  },
+  {
+   "id": "harry-banda",
+   "links": {
+    "site": "https://harrybanda.com",
+    "github": "https://github.com/harrybanda",
+    "youtube": "https://www.youtube.com/channel/UCb9JxIeZJJUKqlmth-EHHOQ"
+   },
+   "connected_to": [
+    "snap-inc"
+   ],
+   "batches": [
+    "specs-challenge"
+   ],
+   "name": "Harry Banda",
+   "role": "Software developer and Spectacles game maker",
+   "based": "Lusaka, Zambia",
+   "bio": "Zambian developer and serial hackathon builder whose Spectacles Lenses include Card Master, Pixel Builder, Jigsaw Genie, MathBee and Memory Grid; Card Master won Best Spectacles Lens at Lens Fest 2025.",
+   "why": "He turns classic games and puzzles into well-tuned spatial play, and Memory Grid shows how simply asking players to walk can change a familiar mechanic.",
+   "role_zh": "软件开发者、Spectacles 游戏制作者",
+   "bio_zh": "赞比亚开发者，常年参加黑客松，他的 Spectacles Lens 包括 Card Master、Pixel Builder、Jigsaw Genie、MathBee 和 Memory Grid；其中 Card Master 获得 Lens Fest 2025 最佳 Spectacles Lens 奖。",
+   "why_zh": "他把经典游戏和益智玩法打磨成手感出色的空间游戏，Memory Grid 说明只要让玩家走起来，熟悉的玩法就会焕然一新。",
+   "based_zh": "卢萨卡，赞比亚",
+   "discovered_via": "snap-inc",
+   "work_count": 1
+  },
+  {
+   "id": "nick-ross",
+   "links": {
+    "x": "https://x.com/nickross4444",
+    "github": "https://github.com/nickross4444"
+   },
+   "connected_to": [
+    "alessio-grancini"
+   ],
+   "batches": [
+    "specs-creators"
+   ],
+   "name": "Nick Ross",
+   "role": "Specs developer in Los Angeles",
+   "based": "Los Angeles, US",
+   "bio": "Los Angeles developer whose profile describes his work as making computing more human with Snap's Specs. He takes his Specs prototypes out into the city and films how strangers react to them.",
+   "why": "He tests AR where it matters most for a consumer device: on the street, with people who have never worn the glasses.",
+   "role_zh": "洛杉矶的 Specs 开发者",
+   "based_zh": "洛杉矶，美国",
+   "bio_zh": "洛杉矶的开发者，他在个人简介中把自己的工作描述为借助 Snap 的 Specs“让计算更有人情味”。他把 Specs 原型带到城市街头，拍下陌生人的反应。",
+   "why_zh": "他在对消费级设备最关键的地方测试 AR：在街头，面对从没戴过这副眼镜的人。",
+   "discovered_via": "alessio-grancini",
+   "work_count": 1
+  },
+  {
+   "id": "vincent-guigui",
+   "links": {
+    "site": "https://www.malt.fr/profile/vincentguigui",
+    "youtube": "https://www.youtube.com/@XRImmersiveExperiences"
+   },
+   "connected_to": [],
+   "batches": [
+    "specs-creators"
+   ],
+   "name": "Vincent Guigui",
+   "role": "Independent XR and AI consultant; former technical director of AR/VR and AI at OCTO Technology",
+   "based": "Paris, France",
+   "bio": "Paris-based specialist in XR and natural user interfaces who led AR/VR and AI projects at OCTO Technology (Accenture) and has prototyped HoloLens, eye-tracking and chatbot experiences for close to a decade. He now builds lenses for Snap Spectacles, including an entry for the 2025 Paris Spectacles hackathon.",
+   "why": "He treats AR text as part of the scenery: song lyrics carried by characters and objects in the world instead of floating subtitles.",
+   "role_zh": "独立 XR 与 AI 顾问；曾任 OCTO Technology 的 AR/VR 与 AI 技术总监",
+   "based_zh": "巴黎，法国",
+   "bio_zh": "常驻巴黎的 XR 与自然用户界面专家，曾在 OCTO Technology（埃森哲旗下）带领 AR/VR 与 AI 项目，近十年来一直在做 HoloLens、眼动追踪和聊天机器人等原型。如今他为 Snap Spectacles 开发 Lens，其中包括参加 2025 年巴黎 Spectacles 黑客马拉松的作品。",
+   "why_zh": "他把 AR 文字当作场景的一部分：歌词由世界里的角色和物体“携带”，而不是漂浮的字幕。",
+   "discovered_via": "snap-inc",
+   "work_count": 1
+  },
+  {
+   "id": "imogen-heap",
+   "links": {
+    "site": "https://www.imogenheap.com",
+    "x": "https://x.com/imogenheap",
+    "instagram": "https://www.instagram.com/imogenheap",
+    "youtube": "https://www.youtube.com/@imogenheap"
+   },
+   "connected_to": [
+    "snap-inc"
+   ],
+   "batches": [
+    "specs-studios"
+   ],
+   "name": "Imogen Heap",
+   "role": "Musician, producer and music-technology inventor (Mi.Mu gloves)",
+   "based": "London, UK",
+   "bio": "Grammy-winning English singer-songwriter and producer who co-developed the Mi.Mu gesture-controlled music gloves and has performed electronic music through body movement for more than a decade.",
+   "why": "She has spent years turning gestures into music, and her SPECS Sound Space shows what that body-as-instrument idea becomes when the instruments float visibly in the air.",
+   "role_zh": "音乐人、制作人、音乐科技发明者（Mi.Mu 手套）",
+   "based_zh": "伦敦，英国",
+   "bio_zh": "获得格莱美奖的英国创作歌手和制作人，参与研发了用手势控制音乐的 Mi.Mu 手套，十多年来一直用身体动作来演奏电子音乐。",
+   "why_zh": "她多年来把手势变成音乐；SPECS 上的 Sound Space 展示了当乐器真的漂浮在空中、被看见时，“身体即乐器”的想法会变成什么样。",
+   "discovered_via": "snap-inc",
+   "work_count": 1
+  },
+  {
+   "id": "lepub-singapore",
+   "links": {
+    "site": "https://www.lepub.com",
+    "youtube": "https://www.youtube.com/@LePub_Worldwide"
+   },
+   "connected_to": [
+    "snap-inc"
+   ],
+   "batches": [
+    "specs-studios"
+   ],
+   "name": "LePub Singapore (LeGarage)",
+   "role": "Creative agency in the Publicis network, with its innovation unit LeGarage",
+   "based": "Singapore",
+   "bio": "Singapore office of the Publicis-owned creative agency LePub; its LeGarage innovation team builds technology-led campaigns such as Augmented Reading for the National Library Board.",
+   "why": "It used AR glasses to argue for slow reading on paper instead of replacing books with screens.",
+   "role_zh": "Publicis 集团旗下创意代理公司，设有创新部门 LeGarage",
+   "based_zh": "新加坡",
+   "bio_zh": "Publicis 旗下创意公司 LePub 的新加坡办公室；其创新团队 LeGarage 专做以技术驱动的项目，例如为新加坡国家图书馆管理局打造的 Augmented Reading。",
+   "why_zh": "它用 AR 眼镜为纸本慢读辩护，而不是用屏幕取代书本。",
+   "discovered_via": "snap-inc",
+   "work_count": 1
+  },
+  {
    "id": "joon-moon",
    "links": {
     "site": "https://joonmoon.net",
@@ -16794,6 +17140,47 @@
    "ai_cat": "generate"
   },
   {
+   "id": "pavlo-tkachenko--fly-brain-in-the-room",
+   "creator_ids": [
+    "pavlo-tkachenko"
+   ],
+   "title": "A real fly brain loose in the living room",
+   "year": 2026,
+   "description": "Hologram fruit flies wander over a real table, dodge a hand that moves too fast and land on an open palm; every move comes from a simulation of the complete fruit-fly connectome reacting to the room the glasses see.",
+   "description_zh": "全息果蝇在真实的桌面上游走，手靠得太快时会躲开，摊开手掌它们就落在掌心；每个动作都来自完整果蝇连接组的神经模拟，对眼镜看到的房间做出反应。",
+   "idea_en": "Give a virtual creature a real brain and let it sense your actual room.",
+   "idea_zh": "给虚拟生物装上一颗真实的大脑，让它感知你所在的真实房间。",
+   "technique": "The MaleCNS connectome (166,700 neurons) runs as a spiking model on a Mac GPU; Spectacles supplies the fly's senses (a virtual retina, ray casts against the room, hand positions and a labelled inventory of nearby objects) and the brain's descending neurons drive the hologram's wings, legs and head.",
+   "technique_zh": "MaleCNS 连接组（16.67 万个神经元）以脉冲神经网络的形式在 Mac 的 GPU 上运行；Spectacles 为果蝇提供感官（虚拟视网膜、对房间的射线检测、手的位置和附近物体的标注清单），大脑的下行神经元再驱动全息果蝇的翅膀、腿和头。",
+   "exercise_en": "Build a tiny creature in Lens Studio or WebXR whose behaviour comes only from a few simple sensor-to-motor rules (Braitenberg-vehicle style): it flees a fast-moving hand and approaches a still palm. Twist: give two creatures slightly different wiring and let classmates guess which rule each one follows.",
+   "exercise_zh": "在 Lens Studio 或 WebXR 中做一个小生物，它的行为只来自几条简单的“感官→运动”规则（类似布赖滕贝格小车）：快速移动的手会让它逃开，静止的手掌会吸引它靠近；变体：给两只生物略有不同的“接线”，让同学猜每只遵循的是哪条规则。",
+   "interaction": [
+    "hand-body",
+    "spatial-mapping"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Spectacles",
+    "Lens Studio",
+    "connectome simulation",
+    "Metal GPU",
+    "CLAD"
+   ],
+   "video": {
+    "platform": "x",
+    "id": "2098834184999694678",
+    "url": "https://x.com/pt_pavlo/status/2098834184999694678",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2098832646461898752/img/j-NLHyiE5F0sYkPy.jpg",
+    "video_title": "A fly that is a fly,  its own connectome brain, perceiving the real room through its own senses with power of AR now have digital 🪰\n\nFlow:\nSpectacles(retina + rays + hands) →  (room inventory) → sense",
+    "embeddable": true
+   },
+   "source_url": "https://pavlo-stijn.dev/blog/posts/a-real-fly-brain-on-spectacles.html",
+   "code_url": "https://github.com/PtPavloTkachenko/fly-brain-spectacles",
+   "batch": "specs-creators"
+  },
+  {
    "id": "figmin-xr--ai-agent-vision",
    "creator_ids": [
     "figmin-xr"
@@ -17986,6 +18373,50 @@
    }
   },
   {
+   "id": "nick-ross--miku-in-little-tokyo",
+   "creator_ids": [
+    "nick-ross"
+   ],
+   "title": "Hatsune Miku in Little Tokyo",
+   "year": 2026,
+   "description": "Nick brings Hatsune Miku to a night street in Little Tokyo, Los Angeles: she dances inside a glowing circle on the pavement, and he hands the Specs to passers-by and films their reactions to a front-row show.",
+   "description_zh": "Nick 把初音未来带到洛杉矶小东京的夜晚街头：她在人行道上一个发光的圆圈里跳舞，他把 Specs 递给路人，拍下他们看到这场“前排演出”时的反应。",
+   "idea_en": "Stage a virtual pop star on a real street and let strangers take turns in the front row.",
+   "idea_zh": "在真实街头为虚拟偶像搭一个舞台，让陌生人轮流站到第一排。",
+   "technique": "An animated Miku model dances with music on a ground-anchored stage marker while the glasses are passed between viewers; he built it with Specs and the CLAD agentic workflow.",
+   "technique_zh": "带动画的初音未来模型配合音乐，在锚定于地面的舞台标记上跳舞，眼镜在观众之间传递；作品用 Specs 和 CLAD 智能体开发流程制作。",
+   "exercise_en": "Place an animated character (any avatar with a Mixamo dance) on a ground marker in phone AR, take it to a public place and record three strangers' reactions. Twist: let each new viewer choose the next song.",
+   "exercise_zh": "在手机 AR 中把一个带动画的角色（任意角色配上 Mixamo 舞蹈）放到地面标记上，带到公共场所，记录三位陌生人的反应；变体：让每位新观众挑选下一首歌。",
+   "interaction": [
+    "performance-stage",
+    "location-geo",
+    "multiplayer-social"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Spectacles",
+    "Specs (2026)",
+    "Lens Studio",
+    "CLAD"
+   ],
+   "video": {
+    "platform": "x",
+    "id": "2105799586870890572",
+    "url": "https://x.com/nickross4444/status/2105799586870890572",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2105799528918204416/img/wdPTrgfNmAxj1o3b.jpg",
+    "video_title": "What better to do with AR glasses than get a front row show of the world's most famous AR popstar?\n\nBrought Hatsune Miku to little Tokyo in LA to see what people think.\n\nMade with Specs and CLAD. http",
+    "embeddable": true
+   },
+   "source_url": "https://x.com/nickross4444/status/2105799586870890572",
+   "found_via": {
+    "source": "x",
+    "url": "https://x.com/alessiograncini/status/2105803240839467251"
+   },
+   "batch": "specs-creators"
+  },
+  {
    "id": "zhou-zhou--inner-room-dance",
    "creator_ids": [
     "zhou-zhou"
@@ -18384,6 +18815,53 @@
    "ai_cat": "generate"
   },
   {
+   "id": "krunal-gediya--lucid-weave",
+   "creator_ids": [
+    "krunal-gediya"
+   ],
+   "title": "Lucid Weave",
+   "year": 2026,
+   "description": "A performer sculpts melodies in the air with hand gestures; each phrase appears as a volumetric light trail in the glasses and, at the same moment, pulses across a custom LED dress the performer is wearing. Built at MIT Reality Hack 2026 by Krunal Gediya, Abraham Pacheco, Meghna S and Aishah G, it won Best Hardware there and later an open-source prize in Spectacles Community Challenge #9.",
+   "description_zh": "表演者用手势在空中塑造旋律；每段乐句在眼镜里化作立体光迹，同时在表演者身上定制的 LED 连衣裙上脉动。作品由 Krunal Gediya、Abraham Pacheco、Meghna S 和 Aishah G 在 MIT Reality Hack 2026 完成，获最佳硬件奖，之后又获得 Spectacles Community Challenge #9 开源组奖项。",
+   "idea_en": "Music you paint in the air should also be worn on the body that made it.",
+   "idea_zh": "在空中画出的音乐，也应该穿在创造它的身体上。",
+   "technique": "Spectacles hand tracking maps gesture position to the pitch and timbre of a synthesiser, while note events are relayed with low latency to an ESP32-S3 that drives addressable RGB LEDs sewn into the dress.",
+   "technique_zh": "Spectacles 的手部追踪把手势位置映射为合成器的音高和音色，音符事件以低延迟转发给 ESP32-S3，由它驱动缝在裙子里的可寻址 RGB 灯带。",
+   "exercise_en": "Map hand height to pitch in a WebXR or phone hand-tracking sketch and send each note over WebSocket to a microcontroller with an LED strip sewn onto a sleeve. Twist: let a second person's gestures light up the first person's garment.",
+   "exercise_zh": "在 WebXR 或手机手部追踪草图中把手的高度映射为音高，并通过 WebSocket 把每个音符发送给带 LED 灯带的单片机，灯带缝在袖子上。变体：让第二个人的手势去点亮第一个人身上的衣服。",
+   "interaction": [
+    "hand-body",
+    "voice-sound",
+    "performance-stage"
+   ],
+   "platform": [
+    "headset",
+    "wearable"
+   ],
+   "tech": [
+    "Snap Spectacles",
+    "Lens Studio",
+    "ESP32-S3",
+    "ARGB LEDs",
+    "Supabase"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "D1VhmXWUNAc",
+    "url": "https://www.youtube.com/watch?v=D1VhmXWUNAc",
+    "thumbnail": "https://i.ytimg.com/vi/D1VhmXWUNAc/hqdefault.jpg",
+    "video_title": "LUCID WEAVE DEMO",
+    "embeddable": true
+   },
+   "source_url": "https://devpost.com/software/lucid-weave",
+   "code_url": "https://github.com/kgediya/lucid-weave-spectacles-esp32s3",
+   "found_via": {
+    "source": "article",
+    "url": "https://developers.snap.com/spectacles/spectacles-community/hackathon-showcase"
+   },
+   "batch": "specs-challenge"
+  },
+  {
    "id": "eyal-ofek--magicpen",
    "creator_ids": [
     "eyal-ofek"
@@ -18461,6 +18939,53 @@
    },
    "source_url": "https://zhouzhou.uk/me-see-i",
    "batch": "r4-aelab"
+  },
+  {
+   "id": "harry-banda--memory-grid",
+   "creator_ids": [
+    "harry-banda"
+   ],
+   "title": "Memory Grid",
+   "year": 2026,
+   "description": "A grid of tiles is laid on your real floor and a safe path lights up once; you must memorise it and then physically walk it, and one wrong step sends you back to the start. Eleven levels lengthen the path. Second place in the New Lens category of Spectacles Community Challenge #10.",
+   "description_zh": "一张格子网铺在真实地板上，一条安全路径只亮起一次；你得记住它，然后亲自一步步走过去，踩错一格就回到起点。共 11 关，路径越来越长。获得 Spectacles Community Challenge #10 新 Lens 组第二名。",
+   "idea_en": "Make memory a full-body task by asking the player to walk the answer instead of tapping it.",
+   "idea_zh": "让玩家用双脚走出答案而不是点出答案，把记忆变成一项全身运动。",
+   "technique": "The floor plane is found with world understanding, a tile grid is anchored to it, and the wearer's head position projected onto the floor decides which tile they are standing on.",
+   "technique_zh": "通过环境理解找到地面并在上面锚定格子网，再把佩戴者的头部位置投影到地面，判断他正踩在哪一格。",
+   "exercise_en": "Build a phone AR floor grid where the phone's position decides the current tile; show a path for three seconds, then let a classmate walk it. Twist: play the path as a melody instead of showing it, so players must listen and walk.",
+   "exercise_zh": "做一个手机 AR 地面格子网，用手机的位置判断当前所在的格子；先显示路径三秒，再让同学走一遍。变体：路径不显示，而是用一段旋律播放出来，玩家要边听边走。",
+   "interaction": [
+    "hand-body",
+    "spatial-mapping",
+    "game-play"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Snap Spectacles",
+    "Lens Studio"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "jHNpzfKwl1w",
+    "url": "https://www.youtube.com/watch?v=jHNpzfKwl1w",
+    "thumbnail": "https://i.ytimg.com/vi/jHNpzfKwl1w/hqdefault.jpg",
+    "video_title": "Memory Grid for Spectacles",
+    "embeddable": true
+   },
+   "source_url": "https://blog.lenslist.co/2026/03/24/spectacles-community-challenge-10-winners-announcement/",
+   "found_via": {
+    "source": "article",
+    "url": "https://blog.lenslist.co/2026/03/24/spectacles-community-challenge-10-winners-announcement/"
+   },
+   "batch": "specs-challenge",
+   "salient": {
+    "why_en": "You remember the path by walking it on the real floor instead of tapping it.",
+    "why_zh": "记住的路线要用双脚在真实地板上走出来，而不是用手指点出来。",
+    "cat": "play"
+   }
   },
   {
    "id": "keijiro-takahashi--meshslicer",
@@ -19614,6 +20139,52 @@
    "batch": "ai-creators"
   },
   {
+   "id": "imogen-heap--sound-space-specs",
+   "creator_ids": [
+    "imogen-heap",
+    "snap-inc"
+   ],
+   "title": "Sound Space (SPECS x Imogen Heap)",
+   "year": 2026,
+   "description": "On the SPECS launch stage, Imogen Heap improvises a song inside a sound space she designed: instruments float around her body, and she plays, loops, mixes and adds reverb to them with hand gestures and her voice.",
+   "description_zh": "在 SPECS 发布会的舞台上，Imogen Heap 在她亲手设计的“声音空间”里即兴创作一首歌：乐器漂浮在她身体四周，她用手势和嗓音演奏、循环、混音，并随手加上混响。",
+   "idea_en": "Treat the body as the instrument: the air around the performer becomes a visible loop station played with gestures and voice.",
+   "idea_zh": "把身体当作乐器：表演者周围的空气变成一台看得见、靠手势和嗓音演奏的循环工作站。",
+   "technique": "Hand tracking on SPECS maps gestures such as grabbing, opening a hand and raising an arm to record, loop, volume and effect controls on world-anchored instrument objects, while the microphones capture voice loops; the gesture vocabulary continues her Mi.Mu gloves (likely built together with Snap's Lens Studio team).",
+   "technique_zh": "SPECS 的手部追踪把抓取、张开手掌、抬手等动作映射到锚定在空间中的乐器上，控制录音、循环、音量和效果，麦克风同时采集人声循环；这套手势语汇延续了她的 Mi.Mu 手套（很可能是与 Snap 的 Lens Studio 团队合作开发）。",
+   "exercise_en": "Build a hand-tracked loop station in Lens Studio or WebXR: three floating spheres each record two seconds of microphone audio while you pinch them and loop it when you let go. Twist: the height of your hand sets each loop's volume, so the performance becomes a visible sculpture of sound.",
+   "exercise_zh": "用 Lens Studio 或 WebXR 做一个手势循环工作站：空中漂浮三个球，捏住时录下两秒麦克风声音，松手后循环播放；变体：手的高度决定每个循环的音量，让整场表演变成一座看得见的声音雕塑。",
+   "interaction": [
+    "voice-sound",
+    "hand-body",
+    "performance-stage"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Snap Specs",
+    "Snap Spectacles",
+    "Lens Studio",
+    "hand tracking"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "U3TG5PbQbXo",
+    "url": "https://www.youtube.com/watch?v=U3TG5PbQbXo",
+    "thumbnail": "https://i.ytimg.com/vi/U3TG5PbQbXo/hqdefault.jpg",
+    "video_title": "SPECS x Imogen | Live Improvised Performance",
+    "embeddable": true
+   },
+   "source_url": "https://newsroom.snap.com/visionaries-bring-specs-to-life",
+   "batch": "specs-studios",
+   "salient": {
+    "why_en": "The air around her body becomes a loop station she plays with her hands and voice.",
+    "why_zh": "她身体周围的空气变成一台循环录音机，用手和声音来演奏。",
+    "cat": "sound"
+   }
+  },
+  {
    "id": "takashi-yoshinaga--spatial-search-quest",
    "creator_ids": [
     "takashi-yoshinaga"
@@ -19854,6 +20425,49 @@
    "ai_cat": "generate"
   },
   {
+   "id": "hart-woolery--tech-deck-specs",
+   "creator_ids": [
+    "hart-woolery"
+   ],
+   "title": "Tech Deck for Specs",
+   "year": 2026,
+   "description": "A miniature graffiti skatepark sits on a café table, and Hart rides a tiny virtual skateboard through it with two fingers, the way you play with a toy fingerboard.",
+   "description_zh": "一座涂鸦风格的微缩滑板公园出现在咖啡桌上，Hart 像玩手指滑板玩具一样，用两根手指驾驶一块小小的虚拟滑板在其中穿梭。",
+   "idea_en": "Turn two fingers into a skater: a fingerboard toy without the toy.",
+   "idea_zh": "把两根手指变成滑板手：一套不需要实体玩具的手指滑板。",
+   "technique": "Hand tracking reads the index and middle fingertips as the rider's feet, and the virtual board likely follows their pose with physics against the ramps of the miniature park.",
+   "technique_zh": "手部追踪把食指和中指指尖当作滑手的双脚，虚拟滑板很可能根据它们的姿态，在微缩公园的坡道上进行物理运动。",
+   "exercise_en": "Build a tabletop mini skatepark in WebXR or Lens Studio and map two tracked fingertips to a board that can ollie when the fingers lift. Twist: score tricks by how long the board stays in the air.",
+   "exercise_zh": "在 WebXR 或 Lens Studio 中做一个桌面微缩滑板公园，把两个追踪到的指尖映射到一块滑板上，手指抬起时滑板就能起跳；变体：按滑板在空中停留的时间给技巧打分。",
+   "interaction": [
+    "hand-body",
+    "game-play"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Spectacles",
+    "Specs (2026)",
+    "hand tracking"
+   ],
+   "video": {
+    "platform": "x",
+    "id": "2107548240245895271",
+    "url": "https://x.com/hartspecs/status/2107548240245895271",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2107548167516614656/img/G6p91Uk6Ys7TW7j7.jpg",
+    "video_title": "🛹 Tech Deck for @Specs https://t.co/lhR5GYZAo0",
+    "embeddable": true
+   },
+   "source_url": "https://x.com/hartspecs/status/2107548240245895271",
+   "batch": "specs-creators",
+   "salient": {
+    "why_en": "Two fingers become a skater riding a tiny skatepark on a café table.",
+    "why_zh": "两根手指变成滑板手，在咖啡桌上的迷你滑板场里滑行。",
+    "cat": "body"
+   }
+  },
+  {
    "id": "paris-ar-studio--incredible-unknowns-louvre",
    "creator_ids": [
     "paris-ar-studio"
@@ -19928,6 +20542,53 @@
    "source_url": "https://www.waldemeyer.com",
    "batch": "r3-art",
    "related_cat": "responsive"
+  },
+  {
+   "id": "steven-harmon--the-time-dial",
+   "creator_ids": [
+    "steven-harmon"
+   ],
+   "title": "The Time Dial",
+   "year": 2026,
+   "description": "A wearable time radio: turn a dial on a custom wristwatch to tune into a year, and historical photographs taken at that location appear around you at the places they were shot, while haptics nudge you toward nearby hotspots. The prototype drew on Boston Public Library's Digital Commonwealth archive. Built at MIT Reality Hack 2026 by Steven Harmon, Syed Akbar, Sara Jakubowicz, Ryan Bose-Roy and Alex Diviney.",
+   "description_zh": "一台可穿戴的“时间收音机”：转动定制腕表上的旋钮调到某一年，在这个地点拍摄的历史照片就会出现在你周围、出现在它们当年被拍下的位置，触觉振动还会引导你走向附近的热点。原型使用了波士顿公共图书馆 Digital Commonwealth 档案。作品由 Steven Harmon、Syed Akbar、Sara Jakubowicz、Ryan Bose-Roy 和 Alex Diviney 在 MIT Reality Hack 2026 完成。",
+   "idea_en": "Tune a place to a different year like a radio station, and let its old photographs reappear where they were taken.",
+   "idea_zh": "像调收音机一样把一个地方调到另一个年份，让旧照片回到它们被拍下的位置。",
+   "technique": "An ESP32 watch dial sends the selected date over WebSocket; matching geotagged, timestamped archive photos are pulled from Snap Cloud and placed with World Mesh, World Query and spatial anchors.",
+   "technique_zh": "ESP32 腕表旋钮通过 WebSocket 发送所选日期；系统从 Snap Cloud 拉取带地理标记和时间戳的对应档案照片，并借助 World Mesh、World Query 和空间锚点放置它们。",
+   "exercise_en": "Collect ten dated old photos of your campus, place each in phone AR at the spot where it was taken, and use a physical knob or an on-screen dial to filter by decade. Twist: each student adds a photo of the same spot taken today.",
+   "exercise_zh": "收集十张标有日期的校园老照片，用手机 AR 把每张放回拍摄地点，再用实体旋钮或屏幕上的转盘按年代筛选。变体：每位同学在同一地点拍一张今天的照片加进去。",
+   "interaction": [
+    "location-geo",
+    "tangible-object",
+    "portal-world"
+   ],
+   "platform": [
+    "headset",
+    "wearable"
+   ],
+   "tech": [
+    "Snap Spectacles",
+    "Lens Studio",
+    "ESP32",
+    "Snap Cloud",
+    "Supabase"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "A43fS4Yu0xg",
+    "url": "https://www.youtube.com/watch?v=A43fS4Yu0xg",
+    "thumbnail": "https://i.ytimg.com/vi/A43fS4Yu0xg/hqdefault.jpg",
+    "video_title": "MIT Reality Hack 2026 - The Time Dial - Sizzle Reel",
+    "embeddable": true
+   },
+   "source_url": "https://devpost.com/software/the-time-dial",
+   "code_url": "https://github.com/Koshai/TeamTimeTravellers",
+   "found_via": {
+    "source": "article",
+    "url": "https://developers.snap.com/spectacles/spectacles-community/hackathon-showcase"
+   },
+   "batch": "specs-challenge"
   },
   {
    "id": "sila-sveta--holographic-ballet-swan-lake",
@@ -20089,6 +20750,55 @@
    "technique_zh": "户外 SLAM 结合地平面检测，从触摸点发出射线，使物体沿检测到的平面移动，被拖动的物体始终贴在草地上。",
    "exercise_en": "Get an AI to write a WebAR drag-and-drop scene using only two or three prompts, and record each prompt and its result. Twist: make the dragged object leave a trail line on the grass.",
    "ai_cat": "cocreate"
+  },
+  {
+   "id": "pieter-siekerman--transitview",
+   "creator_ids": [
+    "pieter-siekerman"
+   ],
+   "title": "TransitView",
+   "year": 2026,
+   "description": "Stand at a stop and see timetables and routes floating in the street, plus the real-time positions of approaching buses and trams drawn in AR even while they are still hidden behind buildings; it covers the Netherlands and Berlin. Second place in Spectacles Community Challenge #13 and first in the Lens Update category of #15; the Berlin version won the Visitor Companion track at XRCC Berlin 2026.",
+   "description_zh": "站在车站，你能看到悬浮在街道上的时刻表和线路，还能看到即将到站的公交和电车的实时位置在 AR 中被画出来，即使它们还被楼房挡着；目前覆盖荷兰和柏林。作品获得 Spectacles Community Challenge #13 新 Lens 组第二名和 #15 更新组第一名，柏林版本还获得 XRCC Berlin 2026 Visitor Companion 赛道第一名。",
+   "idea_en": "X-ray vision for public transport: see the bus coming around the corner before it appears.",
+   "idea_zh": "公共交通的透视眼：在公交车拐过街角之前就看到它。",
+   "technique": "GPS and compass heading place the wearer in the city, open transit feeds supply stops, routes and real-time vehicle positions, and each vehicle is rendered at its geographic bearing and distance from the wearer.",
+   "technique_zh": "GPS 和指南针朝向确定佩戴者在城市中的位置，开放交通数据提供站点、线路和车辆实时位置，每辆车按其相对佩戴者的地理方位和距离渲染出来。",
+   "exercise_en": "Use a city's open real-time transit API with a phone's GPS and compass to draw an arrow and distance label toward the next bus in phone AR or WebXR. Twist: show the bus only as a sound that grows louder as it approaches, with no visuals.",
+   "exercise_zh": "用某个城市的开放实时公交 API，加上手机的 GPS 和指南针，在手机 AR 或 WebXR 中画出指向下一班公交的箭头和距离标签。变体：不显示画面，只用一个随公交靠近而变响的声音来表示它。",
+   "interaction": [
+    "location-geo",
+    "data-information"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Snap Spectacles",
+    "Lens Studio",
+    "GPS",
+    "compass",
+    "open transit data"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "-ovm-iNaBTI",
+    "url": "https://www.youtube.com/watch?v=-ovm-iNaBTI",
+    "thumbnail": "https://i.ytimg.com/vi/-ovm-iNaBTI/hqdefault.jpg",
+    "video_title": "XRCC Berlin 2026 finals - Berlin public transport data in AR with realtime vehicle positions",
+    "embeddable": true
+   },
+   "source_url": "https://blog.lenslist.co/2026/09/03/spectacles-community-challenge-15-winners-announcement/",
+   "found_via": {
+    "source": "article",
+    "url": "https://blog.lenslist.co/2026/06/30/spectacles-community-challenge-13-winners-announcement/"
+   },
+   "batch": "specs-challenge",
+   "salient": {
+    "why_en": "You see the bus coming around the corner while a building still hides it.",
+    "why_zh": "公交车还被楼挡着，你已经能看见它从拐角开过来。",
+    "cat": "invisible"
+   }
   },
   {
    "id": "takashi-yoshinaga--memories-to-3dgs",
@@ -20259,6 +20969,49 @@
    }
   },
   {
+   "id": "pavlo-tkachenko--vectar-air-hockey",
+   "creator_ids": [
+    "pavlo-tkachenko"
+   ],
+   "title": "VectAR: air hockey against a real robot",
+   "year": 2026,
+   "description": "A glowing air-hockey rink appears on a real desk; the player flicks a virtual puck with their hand while Anki's Vector, a real palm-sized desk robot, drives across the table as the goalie.",
+   "description_zh": "一张发光的空气曲棍球台出现在真实书桌上；玩家用手拨动虚拟冰球，而 Anki 的 Vector——一台掌心大小的真实桌面机器人——在桌上来回移动当守门员。",
+   "idea_en": "Virtual puck, real goalie: let a physical robot play inside an AR game.",
+   "idea_zh": "虚拟的球、真实的守门员：让实体机器人走进 AR 游戏里一起玩。",
+   "technique": "A server on the Mac drives the stock Vector through its Python SDK (logged in via the community wire-pod token server) and syncs the robot's position with the lens, which runs the puck physics and hand tracking on Spectacles.",
+   "technique_zh": "Mac 上的服务器通过 Python SDK（借助社区的 wire-pod 令牌服务器登录）控制出厂固件的 Vector，并把机器人的位置同步给 Lens；冰球物理和手部追踪在 Spectacles 上运行。",
+   "exercise_en": "Put a cheap robot toy or a remote-control car on a table, track it with an image marker, and build a phone AR game where a virtual ball bounces off the real robot. Twist: let a second player steer the robot from another phone.",
+   "exercise_zh": "在桌上放一个便宜的机器人玩具或遥控车，用图像标记追踪它，做一个手机 AR 游戏，让虚拟小球从真实机器人身上弹开；变体：让另一位玩家用另一部手机操控这台机器人。",
+   "interaction": [
+    "tangible-object",
+    "game-play",
+    "hand-body"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Spectacles",
+    "Lens Studio",
+    "Anki Vector",
+    "Python SDK",
+    "wire-pod",
+    "CLAD"
+   ],
+   "video": {
+    "platform": "x",
+    "id": "2078831392620765520",
+    "url": "https://x.com/pt_pavlo/status/2078831392620765520",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2078820387299667969/img/sC-aAig17w1p8oai.jpg",
+    "video_title": "Controlling a robot in AR is one thing. A real working use case is another.\n\nAir hockey vs my Vector Robot on @specs  2024 virtual puck, real goalie. \n\nThis thing is playful, but imagine how far it ma",
+    "embeddable": true
+   },
+   "source_url": "https://pavlo-stijn.dev/blog/posts/vectar-a-robot-that-shares-a-brain.html",
+   "code_url": "https://github.com/PtPavloTkachenko/VectAR-Airhokey",
+   "batch": "specs-creators"
+  },
+  {
    "id": "harvard-vcg--vistar",
    "creator_ids": [
     "harvard-vcg"
@@ -20297,6 +21050,55 @@
    "ai_cat": "body",
    "source_url": "https://arxiv.org/abs/2602.22077",
    "batch": "ai-research"
+  },
+  {
+   "id": "awu-chen--wake-them-up",
+   "creator_ids": [
+    "awu-chen"
+   ],
+   "title": "Wake Them Up!",
+   "year": 2026,
+   "description": "Look around a room and glowing dots hover over its objects; touch one and the object tells you a dream or memory about its owner, so a stranger's life is pieced together from their mug, chair and books. Built at MIT Reality Hack 2026 by Awu Chen, Suvi Helin and Matti Grüner.",
+   "description_zh": "环顾房间，物品上方浮现发光的小点；触碰其中一个，这件物品就会讲述一段关于主人的梦或回忆，于是一个陌生人的一生从他的杯子、椅子和书里被拼凑出来。作品由 Awu Chen、Suvi Helin 和 Matti Grüner 在 MIT Reality Hack 2026 完成。",
+   "idea_en": "Let the objects in a room remember their owner and speak for someone who is no longer there.",
+   "idea_zh": "让房间里的物品记得它们的主人，替一个已不在场的人开口。",
+   "technique": "Gemini labels objects in a captured frame and returns their world positions, while a narrative engine on Snap Cloud edge functions holds one stored persona and generates cross-referenced dreams for each newly recognised object.",
+   "technique_zh": "Gemini 识别截取画面中的物体并返回它们在世界中的位置，Snap Cloud 边缘函数上的叙事引擎保存一个固定人物设定，为每个新识别的物体生成相互呼应的梦境故事。",
+   "exercise_en": "Write a fictional owner for a room, then use phone AR with an image-recognition model to attach a short first-person memory to each of five objects. Twist: two objects remember the same event differently.",
+   "exercise_zh": "为一个房间虚构一位主人，再用手机 AR 加图像识别模型，为五件物品各配上一段第一人称的简短回忆。变体：让两件物品对同一件事的记忆互相矛盾。",
+   "interaction": [
+    "tangible-object",
+    "voice-sound"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Snap Spectacles",
+    "Lens Studio",
+    "Gemini",
+    "Snap Cloud"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "4hFSGMyT6cc",
+    "url": "https://www.youtube.com/watch?v=4hFSGMyT6cc",
+    "thumbnail": "https://i.ytimg.com/vi/4hFSGMyT6cc/hqdefault.jpg",
+    "video_title": "30 seconds reel",
+    "embeddable": true
+   },
+   "source_url": "https://devpost.com/software/wake-them-up",
+   "found_via": {
+    "source": "article",
+    "url": "https://developers.snap.com/spectacles/spectacles-community/hackathon-showcase"
+   },
+   "ai_cat": "understand",
+   "batch": "specs-challenge",
+   "salient": {
+    "why_en": "The objects in a room tell the dreams of the person who used to live with them.",
+    "why_zh": "房间里的物件替不在场的主人讲出他们的梦。",
+    "cat": "alive"
+   }
   },
   {
    "id": "jun-nishida--wiredrum",
@@ -21138,6 +21940,48 @@
    }
   },
   {
+   "id": "lepub-singapore--augmented-reading-nlb",
+   "creator_ids": [
+    "lepub-singapore",
+    "snap-inc"
+   ],
+   "title": "Augmented Reading (National Library Board Singapore)",
+   "year": 2025,
+   "description": "For the National Library Board of Singapore, readers wear Spectacles over a printed classic such as Pride and Prejudice or Frankenstein; as they read, images tied to the passage float into view and sound effects such as a creaking door play at the right words.",
+   "description_zh": "为新加坡国家图书馆管理局打造：读者戴上 Spectacles 阅读《傲慢与偏见》《弗兰肯斯坦》等纸质经典，读到哪里，与段落相关的画面就飘到眼前，读到某些词时还会响起开门声之类的音效。",
+   "idea_en": "Keep reading on paper, but let the story appear and sound around the book in time with your reading.",
+   "idea_zh": "依旧读纸质书，但让故事随着阅读的进度在书的周围显现、发出声音。",
+   "technique": "Real-time OCR reads the printed page through the glasses' camera; machine learning and generative AI match each passage to illustrations and sound cues, shown in AR and played through the stereo speakers.",
+   "technique_zh": "眼镜摄像头用实时 OCR 读取纸质书页，机器学习和生成式 AI 为每段文字匹配插图和音效，画面在 AR 中显示，声音由眼镜的立体声扬声器播放。",
+   "exercise_en": "Build a phone prototype that recognises a printed keyword such as 'rain' or 'door' with OCR and plays a matching sound and image above the page. Twist: the illustration changes with the reader's speed, calm when they read slowly and frantic when they skim.",
+   "exercise_zh": "做一个手机原型：用 OCR 识别书页上的关键词（如“雨”或“门”），在书页上方播放对应的声音和图像；变体：插图随阅读速度变化，读得慢时安静，匆匆浏览时变得躁动。",
+   "interaction": [
+    "tangible-object",
+    "voice-sound",
+    "data-information"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Snap Spectacles",
+    "Lens Studio",
+    "OCR",
+    "generative AI"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "5kQkCL-YKns",
+    "url": "https://www.youtube.com/watch?v=5kQkCL-YKns",
+    "thumbnail": "https://i.ytimg.com/vi/5kQkCL-YKns/hqdefault.jpg",
+    "video_title": "NLB Singapore - Augmented Reading",
+    "embeddable": true
+   },
+   "source_url": "https://www.designboom.com/technology/snapchat-ar-glasses-lenses-visuals-sounds-book-reading-spectacles-05-29-2025/",
+   "ai_cat": "generate",
+   "batch": "specs-studios"
+  },
+  {
    "id": "ian-curtis--x996689",
    "creator_ids": [
     "ian-curtis"
@@ -21698,6 +22542,50 @@
    "source_url": "https://x.com/xrdevrob/status/1974535441811677627",
    "code_url": "https://github.com/xrdevrob/QuestCameraKit",
    "batch": "ai-creators"
+  },
+  {
+   "id": "inna-horobchuk--decisionator",
+   "creator_ids": [
+    "inna-horobchuk"
+   ],
+   "title": "Decisionator",
+   "year": 2025,
+   "description": "Point at two real things, such as two snacks or two shirts, and the Lens picks one for you without hesitation, using your profile, the weather, the time of day and your past choices. Built in about 24 hours by Inna Horobchuk, Volodymyr Kurbatov, Candice Branchereau and Marcin Polakowski, it won the Spectacles track of Snap's Lensathon 2025.",
+   "description_zh": "用手指向两样真实的东西，比如两包零食或两件衬衫，Lens 会毫不犹豫地替你选一个，依据是你的个人档案、天气、时间和你以往的选择。作品由 Inna Horobchuk、Volodymyr Kurbatov、Candice Branchereau 和 Marcin Polakowski 在约 24 小时内完成，获得 Snap Lensathon 2025 Spectacles 赛道第一名。",
+   "idea_en": "Hand your small daily choices to an AI, and ask how much of yourself you are willing to delegate.",
+   "idea_zh": "把日常的小决定交给 AI，借此追问：我们愿意把多少“自我”交出去？",
+   "technique": "Each camera frame goes to Gemini, which returns bounding boxes for the two pointed-at objects plus a verdict; a depth cache places the answer in 3D, and a Supabase profile (zodiac sign, diet, history) feeds the reasoning so different wearers get different decisions.",
+   "technique_zh": "每帧画面发送给 Gemini，返回被指向的两个物体的边界框和选择结果；深度缓存把答案放回三维空间，Supabase 中保存的个人档案（星座、饮食、历史选择）参与推理，因此不同的人会得到不同的决定。",
+   "exercise_en": "Build a phone or WebXR prototype where the user frames two objects with the camera and a vision-language model must choose one and justify it in one sentence; test it on classmates' lunches. Twist: let a whole table share one profile so the glasses decide for the group.",
+   "exercise_zh": "用手机或 WebXR 做一个原型：用户用摄像头框住两样东西，视觉语言模型必须选一个并用一句话说明理由，拿同学的午餐来测试。变体：让一桌人共享一个档案，由眼镜替整桌人做决定。",
+   "interaction": [
+    "tangible-object",
+    "hand-body"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Snap Spectacles",
+    "Lens Studio",
+    "Gemini",
+    "Supabase"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "JRsdMn7WPUk",
+    "url": "https://www.youtube.com/watch?v=JRsdMn7WPUk",
+    "thumbnail": "https://i.ytimg.com/vi/JRsdMn7WPUk/hqdefault.jpg",
+    "video_title": "Decisionator",
+    "embeddable": true
+   },
+   "source_url": "https://devpost.com/software/decisionator",
+   "found_via": {
+    "source": "article",
+    "url": "https://blog.lenslist.co/2025/11/06/lens-fest-2025-awards-lensathon-recap-/"
+   },
+   "ai_cat": "agent",
+   "batch": "specs-challenge"
   },
   {
    "id": "takashi-yoshinaga--dejaviewer",
@@ -22576,6 +23464,43 @@
    "batch": "ai-creators"
   },
   {
+   "id": "bob-bjarke--nba-shot-charts",
+   "creator_ids": [
+    "bob-bjarke"
+   ],
+   "title": "Historic NBA shot charts on any court",
+   "year": 2025,
+   "description": "Stand on any real basketball court and the Lens replays where every shot was taken in legendary NBA games, drawn onto the actual court around you, so history plays out on the ground where you stand. Made by Bob Bjarke of The Electric Factory for Snap and featured on Snap's Spectacles developer channel.",
+   "description_zh": "站在任何一块真实的篮球场上，Lens 都会把 NBA 传奇比赛中每一次出手的位置画在你脚下的场地上，让历史在你所站的地面上重演。作品由 The Electric Factory 的 Bob Bjarke 为 Snap 制作，并在 Snap 官方 Spectacles 开发者频道展示。",
+   "idea_en": "Overlay historic data on the place it belongs to, so you can stand inside a famous game.",
+   "idea_zh": "把历史数据叠回它所属的场地上，让你站进一场著名比赛之中。",
+   "technique": "Shot-chart coordinates from historic games are mapped onto a standard court template, which is aligned to the real court (likely by placing or detecting its corners) and rendered as markers on the ground plane.",
+   "technique_zh": "把历史比赛的投篮坐标映射到标准球场模板上，再将模板与真实球场对齐（很可能通过放置或识别球场角点），以标记形式渲染在地面上。",
+   "exercise_en": "Take a public dataset tied to a standard space (a football pitch, a chessboard, a running track), align it in phone AR to a real one and visualise one famous event. Twist: let users play against the historic data, for example by shooting from the same spot.",
+   "exercise_zh": "找一份与标准场地相关的公开数据集（足球场、棋盘、跑道），在手机 AR 中把它对齐到真实场地，并可视化一场著名赛事。变体：让用户与历史数据对战，比如从同一个位置投篮。",
+   "interaction": [
+    "data-information",
+    "location-geo"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Snap Spectacles",
+    "Lens Studio"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "zqym4L6-6gw",
+    "url": "https://www.youtube.com/watch?v=zqym4L6-6gw",
+    "thumbnail": "https://i.ytimg.com/vi/zqym4L6-6gw/hqdefault.jpg",
+    "video_title": "Creative Director Bob Bjarke (The Electric Factory) Takes The Court With Spectacles and Lens Studio",
+    "embeddable": true
+   },
+   "source_url": "https://www.youtube.com/watch?v=zqym4L6-6gw",
+   "batch": "specs-challenge"
+  },
+  {
    "id": "violeta-ayala--huk-the-jaguaress",
    "creator_ids": [
     "violeta-ayala"
@@ -23138,6 +24063,48 @@
    },
    "batch": "src-pinterest",
    "related_cat": "light"
+  },
+  {
+   "id": "vincent-guigui--lyrics-everywhere",
+   "creator_ids": [
+    "vincent-guigui"
+   ],
+   "title": "Lyrics Everywhere",
+   "year": 2025,
+   "description": "On a walk through a park with a song playing, its lyrics show up as part of the scenery in Spectacles: colourful words ride on the wearer's hand, a rabbit on a tree stump holds up the next line on a sign, a plane tows a banner and speech bubbles pop up over passers-by, all in time with the music.",
+   "description_zh": "边散步边听歌时，歌词在 Spectacles 里成了周围景物的一部分：彩色文字落在佩戴者的手上，树桩上的小兔子举着写有下一句歌词的牌子，飞机拖着横幅飞过，路人头顶冒出对话气泡，一切都与音乐同步。",
+   "idea_en": "Let a song's lyrics live in the world around you instead of on a screen.",
+   "idea_zh": "让歌词住进你周围的世界，而不是停留在屏幕上。",
+   "technique": "Timed lyric lines are likely read from a synced lyrics file and each line is handed to a different in-world carrier: text attached to the tracked hand, a sign held by an animated character placed on a detected surface, a banner towed by a plane, or a bubble above a detected person.",
+   "technique_zh": "很可能从带时间轴的歌词文件中逐行读取，再把每一行交给不同的“场景内载体”：附着在被追踪的手上的文字、放在识别到的表面上的动画角色举起的牌子、飞机拖着的横幅，或识别到的路人头顶的气泡。",
+   "exercise_en": "Take a 30-second chorus with a timed lyrics (LRC) file and, in Lens Studio or WebXR, show each line on a different real-world carrier: a sign on the floor, a label on the user's hand, a cloud in the sky. Twist: one line must appear on whatever object the camera is pointing at.",
+   "exercise_zh": "选一段 30 秒的副歌和带时间轴的歌词（LRC）文件，在 Lens Studio 或 WebXR 中让每一句歌词出现在不同的真实世界载体上：地上的指示牌、用户手上的标签、天空中的云；变体：其中一句必须出现在摄像头正对着的任意物体上。",
+   "interaction": [
+    "voice-sound",
+    "perception-art"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Spectacles",
+    "Lens Studio"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "mG_LEPo_CX4",
+    "url": "https://www.youtube.com/watch?v=mG_LEPo_CX4",
+    "thumbnail": "https://i.ytimg.com/vi/mG_LEPo_CX4/hqdefault.jpg",
+    "video_title": "Lyrics Everywhere for Snap Spectacles",
+    "embeddable": true
+   },
+   "source_url": "https://www.youtube.com/watch?v=mG_LEPo_CX4",
+   "batch": "specs-creators",
+   "salient": {
+    "why_en": "A song's lyrics turn up in the world: on a rabbit's sign, a plane's banner, and in speech bubbles over passers-by.",
+    "why_zh": "歌词出现在真实世界里：兔子举的牌子上、飞机拖的横幅上，还有路人头顶的对话气泡里。",
+    "cat": "rewrite"
+   }
   },
   {
    "id": "meta-reality-labs--meta-ray-ban-display",
@@ -23805,6 +24772,54 @@
    "ai_cat": "generate"
   },
   {
+   "id": "calvin-dong--pic-seeker",
+   "creator_ids": [
+    "calvin-dong"
+   ],
+   "title": "Pic Seeker",
+   "year": 2025,
+   "description": "One player snaps a photo of part of the room, which cuts a hole in reality; then they pass the Spectacles to the next player, who must walk, stretch and crouch to find the real spot that fills the missing piece. Made at Specs in the City Paris 2025, where it placed third, by a team including Calvin Dong and Vitaly Protago.",
+   "description_zh": "一名玩家拍下房间某处的照片，现实中就被“挖”出一个洞；随后他把 Spectacles 递给下一位玩家，对方得走动、伸展、蹲下，找到能补上这块缺口的真实位置。作品由 Calvin Dong、Vitaly Protago 等人组成的团队在 Specs in the City Paris 2025 黑客松上完成，获第三名。",
+   "idea_en": "A photo becomes a missing puzzle piece of the room, and handing over the glasses becomes the turn-taking mechanic.",
+   "idea_zh": "一张照片变成房间缺失的一块拼图，而把眼镜递给下一个人，就是轮流的玩法。",
+   "technique": "A captured camera frame is likely placed as a textured cut-out at the pose where it was taken; the next player's viewpoint is compared with that pose, and a match within a position and angle tolerance completes the round.",
+   "technique_zh": "拍下的画面很可能以带贴图的镂空形式放在拍摄时的位置和朝向上；系统将下一位玩家的视角与该位姿比较，位置和角度在容差范围内即判定完成。",
+   "exercise_en": "In phone AR, save the camera pose and a screenshot, show the screenshot as a floating frame elsewhere, and challenge a partner to find the exact viewpoint. Twist: the photo must be taken from a child's or a dog's eye height.",
+   "exercise_zh": "在手机 AR 中保存相机位姿和截图，把截图作为漂浮画框放在别处，让同伴找出完全相同的视角。变体：照片要从小孩或小狗的视线高度拍摄。",
+   "interaction": [
+    "game-play",
+    "multiplayer-social",
+    "portal-world"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Snap Spectacles",
+    "Lens Studio"
+   ],
+   "video": {
+    "platform": "vimeo",
+    "id": "1134588237",
+    "url": "https://vimeo.com/1134588237",
+    "thumbnail": "https://i.vimeocdn.com/video/2079603038-dad1b2bb03825b275209323f0a89b9bc9d7bda91cfcdc0215c9b1377473b57f4-d?f=webp&region=us",
+    "video_title": "pic seeker demo",
+    "embeddable": true
+   },
+   "source_url": "https://devpost.com/software/pic-seeker",
+   "code_url": "https://github.com/reedery/snap-paris-hack-25",
+   "found_via": {
+    "source": "article",
+    "url": "https://developers.snap.com/spectacles/spectacles-community/hackathon-showcase"
+   },
+   "batch": "specs-challenge",
+   "salient": {
+    "why_en": "A photo cuts a hole in the room, and the next player has to find the real spot that fills it.",
+    "why_zh": "一张照片在房间里挖出一个洞，下一位玩家要找到能把它补上的真实位置。",
+    "cat": "portal"
+   }
+  },
+  {
    "id": "keijiro-takahashi--pigment-mixing",
    "creator_ids": [
     "keijiro-takahashi"
@@ -23922,6 +24937,56 @@
    "source_url": "https://www.holosphere.co.uk/case-study/university-of-birmingham-125th-anniversary-show/",
    "batch": "r5-uk",
    "related_cat": "projection"
+  },
+  {
+   "id": "markus-lanxinger--postmark",
+   "creator_ids": [
+    "markus-lanxinger"
+   ],
+   "title": "Postmark",
+   "year": 2025,
+   "description": "Spatial postcards: the sender captures a photo and records a short voice message, and the recipient places the resulting postcard on a fridge, wall or desk; when they look at it the image comes alive and the voice plays, and when they look away it waits quietly. Third place at the 3EALITY & Spectacles Hackathon in Amsterdam, by Markus Lanxinger, Marco van Nieuwenhoven and Jiayao Yu.",
+   "description_zh": "空间明信片：寄件人拍一张照片并录一段简短语音，收件人把生成的明信片贴在冰箱、墙上或书桌上；看向它时，画面动起来、声音响起；移开目光，它就静静待在原处。作品获阿姆斯特丹 3EALITY & Spectacles 黑客松第三名，由 Markus Lanxinger、Marco van Nieuwenhoven 和 Jiayao Yu 完成。",
+   "idea_en": "A message that arrives in a place, and speaks only when you look at it.",
+   "idea_zh": "一条“抵达某个地方”的消息，只在你看向它时才开口。",
+   "technique": "Each postcard is packaged in the cloud as an image, an audio clip and metadata and shared via a link; the recipient anchors it locally, and gaze dwell triggers playback with spatialised audio.",
+   "technique_zh": "每张明信片以图像、音频和元数据打包存到云端并通过链接分享；收件人在本地锚定它，注视停留会触发播放，声音为空间化音频。",
+   "exercise_en": "Make a phone AR postcard: a photo plus a recorded voice note anchored to a real surface that plays only when the camera centre rests on it for two seconds; exchange cards in pairs. Twist: the postcard fades a little each time it is played.",
+   "exercise_zh": "做一张手机 AR 明信片：照片加一段录音，锚定在真实表面上，只有镜头中心在它上面停留两秒才播放；两人一组互相交换。变体：明信片每被播放一次就淡去一点。",
+   "interaction": [
+    "multiplayer-social",
+    "voice-sound",
+    "gaze-attention"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Snap Spectacles",
+    "Lens Studio",
+    "Supabase",
+    "spatial anchors"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "wx48pllLDUM",
+    "url": "https://www.youtube.com/watch?v=wx48pllLDUM",
+    "thumbnail": "https://i.ytimg.com/vi/wx48pllLDUM/hqdefault.jpg",
+    "video_title": "1765627137398~521382921751 specsv2 video",
+    "embeddable": true
+   },
+   "source_url": "https://devpost.com/software/postmark",
+   "code_url": "https://github.com/lanxinger/spatial_capture",
+   "found_via": {
+    "source": "article",
+    "url": "https://developers.snap.com/spectacles/spectacles-community/hackathon-showcase"
+   },
+   "batch": "specs-challenge",
+   "salient": {
+    "why_en": "A postcard on the fridge speaks only while you look at it, and waits quietly when you look away.",
+    "why_zh": "贴在冰箱上的明信片，只有你看着它时才开口说话，移开视线它就安静地等着。",
+    "cat": "time"
+   }
   },
   {
    "id": "meta-rl-research--promemassist",
@@ -25997,6 +27062,50 @@
    "batch": "ai-research"
   },
   {
+   "id": "lafiya-watson-ramirez--wage-love",
+   "creator_ids": [
+    "lafiya-watson-ramirez"
+   ],
+   "title": "Wage Love: Ancestral Dance",
+   "year": 2025,
+   "description": "Mother Earth asks for help: through three guided interactions you call forth ancestor spirits with your voice and hands, watch them dance, and place your palm on the ground to share love, while trails of flowers bloom wherever they step. Made with Dulce Baerga at the Reality Hack x Snap hackathon at AWE 2025 and inspired by Sultan Sharrief's Wage Love, it later placed third in Spectacles Community Challenge #3 and can be shared by several players.",
+   "description_zh": "大地母亲在求助：通过三段引导式互动，你用声音和双手召唤先祖之灵，看他们起舞，再把手掌贴在地面传递爱意，他们走过的地方会开出一路鲜花。作品由 Lafiya Watson Ramirez 与 Dulce Baerga 在 AWE 2025 的 Reality Hack x Snap 黑客松上完成，灵感来自 Sultan Sharrief 的 Wage Love，后获 Spectacles Community Challenge #3 新 Lens 组第三名，可多人同时体验。",
+   "idea_en": "A shared ritual of remembrance in which your gestures and voice summon ancestors who leave flowers behind them.",
+   "idea_zh": "一场共同的追思仪式：你的手势和声音召唤出先祖，他们走过之处留下鲜花。",
+   "technique": "Hand tracking and voice recognition trigger each step of the ritual, animated spirit figures follow scripted dance paths that spawn flower particles, and Connected Lenses sync the scene between participants.",
+   "technique_zh": "手部追踪和语音识别触发仪式的每一步，动画化的灵体沿预设舞蹈路径移动并生成花朵粒子，Connected Lenses 在参与者之间同步场景。",
+   "exercise_en": "Design a three-step AR ritual on a phone in which a spoken word, a hand pose and touching the floor each unlock the next scene; perform it as a group. Twist: the ritual completes only if two people make the final gesture at the same time.",
+   "exercise_zh": "在手机上设计一个三步 AR 仪式：说出一个词、摆出一个手势、触碰地面，每一步解锁下一幕；以小组形式完成。变体：只有两个人同时做出最后一个手势，仪式才算完成。",
+   "interaction": [
+    "hand-body",
+    "voice-sound",
+    "multiplayer-social"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Snap Spectacles",
+    "Lens Studio",
+    "Connected Lenses"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "qIUETe__a2A",
+    "url": "https://www.youtube.com/watch?v=qIUETe__a2A",
+    "thumbnail": "https://i.ytimg.com/vi/qIUETe__a2A/hqdefault.jpg",
+    "video_title": "wagelove submitted video",
+    "embeddable": true
+   },
+   "source_url": "https://devpost.com/software/wagelove",
+   "code_url": "https://github.com/lafiyawr/wagelove",
+   "found_via": {
+    "source": "article",
+    "url": "https://blog.lenslist.co/2025/07/14/spectacles-community-challenge-3-winners-announcement/"
+   },
+   "batch": "specs-challenge"
+  },
+  {
    "id": "collusion--walking-with-pride",
    "creator_ids": [
     "collusion"
@@ -26032,6 +27141,54 @@
    },
    "source_url": "https://www.collusion.org.uk",
    "batch": "r4-aelab"
+  },
+  {
+   "id": "kshitij-parashar--who-ar-you",
+   "creator_ids": [
+    "kshitij-parashar"
+   ],
+   "title": "Who AR You?",
+   "year": 2025,
+   "description": "A Heads Up-style party game for players in the same room: a mystery character, an animal or a celebrity, floats above one player's head where everyone except them can see it, and they ask yes-or-no questions until they guess who they are. Built at Specs in the City NYC 2025 by Kshitij Kumar Parashar, Brian Chung, Liza Karimova and Timera.",
+   "description_zh": "一款面向同处一室玩家的派对游戏，玩法类似 Heads Up：一个神秘角色（动物或名人）漂浮在某位玩家头顶，除了他本人谁都看得见；他通过提出是非题来猜出自己是谁。作品由 Kshitij Kumar Parashar、Brian Chung、Liza Karimova 和 Timera 在 Specs in the City NYC 2025 黑客松上完成。",
+   "idea_en": "Shared AR is at its best when it shows everyone something except the person it is about.",
+   "idea_zh": "共享 AR 最妙的用法，是让所有人都看到某样东西，唯独当事人看不到。",
+   "technique": "Sync Kit and a co-located session align all players' coordinate frames, the character model is bound to the guesser's head position, and it is hidden only in the guesser's own Lens.",
+   "technique_zh": "Sync Kit 和同场会话对齐所有玩家的坐标系，角色模型绑定在猜题者的头部位置，并且只在猜题者自己的 Lens 中隐藏。",
+   "exercise_en": "With two phones in a shared AR session (or a phone strapped to a headband), float a word above one player's head that only the others can read, and play three rounds. Twist: everyone wears a hidden character at once and players must trade clues.",
+   "exercise_zh": "用两部手机建立共享 AR 会话（或者把手机绑在头带上），在一位玩家头顶浮现一个只有别人能看到的词，玩三轮。变体：所有人头上同时都有隐藏角色，大家必须互相交换线索。",
+   "interaction": [
+    "multiplayer-social",
+    "game-play"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Snap Spectacles",
+    "Lens Studio",
+    "Sync Kit",
+    "Connected Lenses"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "c6uC7aQgHFg",
+    "url": "https://www.youtube.com/watch?v=c6uC7aQgHFg",
+    "thumbnail": "https://i.ytimg.com/vi/c6uC7aQgHFg/hqdefault.jpg",
+    "video_title": "Who AR you : Party Game for Snap Spectacles",
+    "embeddable": true
+   },
+   "source_url": "https://devpost.com/software/who-ar-you-by-spectacular-suspects",
+   "found_via": {
+    "source": "article",
+    "url": "https://developers.snap.com/spectacles/spectacles-community/hackathon-showcase"
+   },
+   "batch": "specs-challenge",
+   "salient": {
+    "why_en": "A character floats above your head that everyone in the room can see except you.",
+    "why_zh": "一个角色悬在你头顶，房间里所有人都看得见，唯独你自己看不见。",
+    "cat": "play"
+   }
   },
   {
    "id": "keiichi-matsuda--wisp-world",
