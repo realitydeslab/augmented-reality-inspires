@@ -2944,6 +2944,14 @@
   "batch": "r5-coders"
  },
  {
+  "name": "Mohamed Kari",
+  "why": "First author of TransforMR and SoundsRide (Porsche / ETH Zurich); mixed reality that re-skins the street and the car ride.",
+  "link": "https://mkari.de/transformr",
+  "found_via": "christian-holz",
+  "status": "covered",
+  "batch": "r5-research"
+ },
+ {
   "name": "Marco Tempest",
   "why": "Cyber illusionist who combines stage magic with AR, projection and drones; Magic and Storytelling was made with onformative.",
   "link": "https://vimeo.com/39346593",
@@ -3134,6 +3142,342 @@
   "found_via": "related-art",
   "status": "covered",
   "batch": "related-sky-light"
+ },
+ {
+  "name": "Shio Miyafuji, Arisa Kohtani & Hideki Koike — Chromotion",
+  "why": "CHI 2026: controls motion-induced colour along a moving object's path with high-speed temporal additive projection; no public video found",
+  "link": "https://doi.org/10.1145/3772318.3791975",
+  "found_via": "hideki-koike",
+  "status": "no_video",
+  "batch": "research-2026-hci"
+ },
+ {
+  "name": "Joyce E. Passananti, Tobias Höllerer & Jennifer Jacobs — Clay ARtools",
+  "why": "CHI 2026: edit clay 3D-printing toolpaths in AR with digital versions of hand ceramic tools, built with a ceramicist; no public video found",
+  "link": "https://sites.cs.ucsb.edu/~holl/pubs/Passananti-2026-CHI.pdf",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "research-2026-hci"
+ },
+ {
+  "name": "Yanni Mei, Samuel Wendt & Jan Gugenheimer — Meme, Myself and AR",
+  "why": "CHI 2026: sharing memes in face-to-face conversation through AR; no public video found",
+  "link": "https://programs.sigchi.org/chi/2026",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "research-2026-hci"
+ },
+ {
+  "name": "Jun Zhang et al. — Obscuring Undesirable Individuals with Diminished Reality",
+  "why": "CHI 2026: diminished reality that hides people who cause social discomfort; provocative, but no public video found",
+  "link": "https://programs.sigchi.org/chi/2026",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "research-2026-hci"
+ },
+ {
+  "name": "Tianyu Xu, Adarsh Kowdle et al. (Google) — MoXaRt",
+  "why": "CHI 2026: look at a face or instrument in XR to isolate or mute its sound; only a 21 s author demo online",
+  "link": "https://cadyxu.com/projects/moxart/",
+  "found_via": "ruofei-du",
+  "status": "covered",
+  "batch": "research-2026-hci"
+ },
+ {
+  "name": "Peisen Xu, Jérémie Garcia et al. — FleetScape",
+  "why": "UIST 2026 (Nov 2026): mixed-reality sandtable for supervising drone fleets; preprint only, no video yet",
+  "link": "https://arxiv.org/abs/2607.26423",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "research-2026-hci"
+ },
+ {
+  "name": "Jingyi Zhang, Simon Julier & Anthony Steed (UCL) — Do You See What I See?",
+  "why": "UIST 2025: brings live pedestrians into a remote VR user's replica of an outdoor AR site; only a 30 s preview and the talk are online",
+  "link": "https://www.youtube.com/watch?v=QL9QVNNA_ss",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "research-2026-hci"
+ },
+ {
+  "name": "Kaho Kagami & Kenri Kodaka — Copylight Hemispheres Illusion",
+  "why": "UIST 2025 demo: head tapping, hemisphere lighting and stereo sound make a bulb's colour feel 'teleported' into one side of the head; 30 s preview only, effect is not visible on video",
+  "link": "https://www.youtube.com/watch?v=W2dqCLYt5J8",
+  "found_via": "hideki-koike",
+  "status": "covered",
+  "batch": "research-2026-hci"
+ },
+ {
+  "name": "Jesse T. Gonzalez, Alexandra Ion, Scott E. Hudson et al. — Towards Fluent Interaction with Cyber-Physical Architecture",
+  "why": "CHI 2026 Best Paper on moving walls, but the contribution is workshops and a Wizard-of-Oz study rather than a working AR system",
+  "link": "https://www.youtube.com/watch?v=xvUrNpQRYok",
+  "found_via": "alexandra-ion",
+  "status": "not_ar",
+  "batch": "research-2026-hci"
+ },
+ {
+  "name": "Hayato Saiki, Chunggi Lee, Hanspeter Pfister et al. — BRIDGE",
+  "why": "CHI 2026 Best Paper: turns basketball broadcasts into 3D wheelchair-basketball reconstructions; video analytics, not AR",
+  "link": "https://arxiv.org/abs/2602.23288",
+  "found_via": "harvard-vcg",
+  "status": "not_ar",
+  "batch": "research-2026-hci"
+ },
+ {
+  "name": "Meta Reality Labs (Eric Whitmire, Hrvoje Benko et al.) — TouchFusion",
+  "why": "A wristband that turns any surface or the palm into a trackpad whose controls depend on where you tap, for AR glasses (arXiv 2602.15011, venue unknown). Strong idea, but its YouTube video 0fdCwHu7uaA has embedding disabled, so the checker rejects it; look for an embeddable copy.",
+  "link": "https://arxiv.org/abs/2602.15011",
+  "found_via": "meta-rl-research",
+  "status": "covered",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "Stanescu, Skreinig, Langlotz, Zollmann, Mohr, Schmalstieg, Billinghurst & Kalkofen — Seeing through the Eyes of AI: Situated Explainability in AR",
+  "why": "Shows an AI system's explanations live in the physical workspace (arXiv, October 2026, no venue). No video yet; recheck.",
+  "link": "https://arxiv.org/abs/2610.03232",
+  "found_via": "mark-billinghurst",
+  "status": "covered",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "Yuheng Wu, Jaewook Lee, Jon E. Froehlich, Yuhang Zhao et al. — SceneGlance",
+  "why": "Wearable AR for low-vision users that highlights objects by importance (ASSETS 2026). A video may appear around the conference (25–28 October 2026).",
+  "link": "https://arxiv.org/abs/2607.10902",
+  "found_via": "makeability-lab",
+  "status": "covered",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "Xiaoan Liu, Eric J. Gonzalez, Nels Numan, Ryo Suzuki, Mar Gonzalez-Franco et al. — Semantic Reality",
+  "why": "Vision Pro AR that draws how nearby objects relate to each other, using a multimodal LLM (arXiv 2604.05265). Only a 10-minute NYU ITP thesis talk exists (vimeo 1091961434); wait for a short demo cut.",
+  "link": "https://arxiv.org/abs/2604.05265",
+  "found_via": "ryo-suzuki",
+  "status": "covered",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "Xiaoan Liu, DaeHo Lee, Eric J. Gonzalez, Mar Gonzalez-Franco & Ryo Suzuki — VisionClaw",
+  "why": "Always-on smart-glasses agent (Meta Ray-Ban, Gemini Live, OpenClaw) that acts on what you look at, e.g. adds a product to an Amazon cart (arXiv 2604.03486). Its 26-second video sDzJoMhh2ro shows the same idea as the gallery's Ray-Ban product scanner, Sai-Fi and the Big Mac-ordering glasses.",
+  "link": "https://arxiv.org/abs/2604.03486",
+  "found_via": "ryo-suzuki",
+  "status": "duplicate",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "Peter He, Valdemar Danry, Daniel Kaijzer, Yutong Wu, Ashley Neall et al. (MIT Media Lab) — Human Operator",
+  "why": "MIT Hard Mode 2026 hackathon winner: an AI sees through a first-person camera and moves your hand with electrical muscle stimulation (video fCLxENGs7CY; scenes after 0:28 are imagined). Same idea as Pedro Lopes's Generative Muscle Stimulation, already in the gallery.",
+  "link": "https://www.media.mit.edu/projects/human-operator/overview/",
+  "found_via": "mit-fluid-interfaces",
+  "status": "duplicate",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "NTT Docomo R&D with NAIST CARE Lab (Kiyoshi Kiyokawa) — World Link Door",
+  "why": "Opening a real door in Vision Pro reveals an aligned virtual world you can step into; Expo 2025 demos and a Miraikan trial in 2026 (videos dTmxHglFMds, ohQwFjhEIsg). Concept already in the gallery via takashi-yoshinaga--mr-door-quest3.",
+  "link": "https://www.naist.jp/pressrelease/260611.pdf",
+  "found_via": "kiyoshi-kiyokawa",
+  "status": "duplicate",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "Nathan DeVrio, Vimal Mollyn & Chris Harrison — VelociTrack",
+  "why": "Touch on uninstrumented tables and walls from about 800 Hz headset-camera finger tracking (MobileHCI 2026, video yiul4vFNyhA). Incremental next to EgoTouch and MRTouch, already in the gallery.",
+  "link": "https://www.figlab.com/research/2026/velocitrack",
+  "found_via": "chris-harrison-figlab",
+  "status": "duplicate",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "Qinchuan Zhang, Weibo Xu & Yunge Wen — SyncSpace",
+  "why": "Scans a room with Quest 3, restyles it as a World Labs Marble Gaussian-splat world aligned to the room, and reveals it with a hand-tracked 'engulfment' gesture (arXiv, July 2026). No public video found.",
+  "link": "https://arxiv.org/abs/2607.10050",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "Bingyao Huang & Haibin Ling — LICOA",
+  "why": "A mobile robot with a steerable-mirror projector places projections where a spoken instruction asks (arXiv, October 2026). No public video found.",
+  "link": "https://arxiv.org/abs/2610.21282",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "Dzmitry Tsetserukou's lab (Skoltech) — OmniAI",
+  "why": "Follow-up to HoverAI: a drone switches its LLM replies between its onboard screen and projections on walls and floors (arXiv, August 2026). No public video found yet.",
+  "link": "https://arxiv.org/abs/2608.00721",
+  "found_via": "dzmitry-tsetserukou",
+  "status": "no_video",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "Anhong Guo's group (University of Michigan) — Generative Tutorial",
+  "why": "AR that generates goal images and demonstration videos from the user's own workspace (arXiv, September 2026). No public video found.",
+  "link": "https://arxiv.org/abs/2609.24955",
+  "found_via": "anhong-guo",
+  "status": "no_video",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "Zhang, Su, Kondoh, Asada, Starner, Kunze, Itoh & Rekimoto — OpticalAging",
+  "why": "Tunable-lens glasses that simulate presbyopia in one's 40s, 50s or 60s so designers can feel ageing eyesight (Augmented Humans 2026). Very relevant to design teaching; no public video found.",
+  "link": "https://arxiv.org/abs/2506.19307",
+  "found_via": "yuta-itoh",
+  "status": "no_video",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "Mikawa & Fukiage (NTT / University of Tokyo) — vection signage",
+  "why": "Moving stripes on public displays induce a sense of self-motion that steers pedestrians (arXiv, September 2026). No public video found.",
+  "link": "https://arxiv.org/abs/2609.11088",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "UCSB (Misha Sra, Tobias Höllerer et al.) — FenceXR",
+  "why": "Magic Leap 2 fencing replays with notes anchored to the fencer's joints (arXiv, September 2026). No public video found.",
+  "link": "https://arxiv.org/abs/2609.19505",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "Pengfei Xu (Shenzhen University) — ReRoom",
+  "why": "A mixed-reality agent that proposes room layouts in place (arXiv, September 2026). No public video found.",
+  "link": "https://arxiv.org/abs/2609.03596",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "Tianyi Xiao (ETH Zurich) — HolmeSketcher",
+  "why": "Generative 3D sketch mapping in XR for crime-scene investigation (arXiv 2604.18039). No public video found.",
+  "link": "https://arxiv.org/abs/2604.18039",
+  "found_via": "tianyi-xiao",
+  "status": "no_video",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "Chunggi Lee, Tica Lin, Yalong Yang & Hanspeter Pfister — Who's That Player?",
+  "why": "XR sports viewing that shows how the system interpreted a spoken query about the players (arXiv, August 2026). No public video found.",
+  "link": "https://arxiv.org/abs/2608.00876",
+  "found_via": "harvard-vcg",
+  "status": "no_video",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "Hundiwala & Andrés Monroy-Hernández (Princeton) — AnchorNote",
+  "why": "Speech turns into AR sticky notes anchored in the room (arXiv 2603.20199). No public video found.",
+  "link": "https://arxiv.org/abs/2603.20199",
+  "found_via": "andres-monroy-hernandez",
+  "status": "no_video",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "Meta — Gazeify Then Voiceify",
+  "why": "IUI 2026 paper from Meta on gaze followed by voice input. No public video found.",
+  "link": "https://arxiv.org/abs/2601.19281",
+  "found_via": "meta-rl-research",
+  "status": "no_video",
+  "batch": "research-2026-labs"
+ },
+ {
+  "name": "Sotaro Yokoi, Tsubasa Yoshida, Keigo Matsumoto & Takuji Narumi (University of Tokyo) — Interactive Impossible Objects",
+  "why": "SIGGRAPH 2025 Emerging Technologies: walk an endless staircase and touch a Penrose triangle in VR, using per-eye models plus redirected walking and hand redirection. Strong idea; no public video found.",
+  "link": "https://doi.org/10.1145/3721257.3734030",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "research-2026-xr"
+ },
+ {
+  "name": "Yanni Mei, Samuel Wendt, Florian Müller & Jan Gugenheimer (TU Darmstadt) — ShadAR",
+  "why": "ISMAR 2025 demo: describe a visual effect in words and an LLM writes a shader that restyles the AR passthrough in real time (colour-blindness simulation, underwater look). No public video found.",
+  "link": "https://arxiv.org/abs/2602.17481",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "research-2026-xr"
+ },
+ {
+  "name": "Christian Sandor (Université Paris-Saclay) — Flow Matching for Augmented Reality Applications",
+  "why": "ISMAR 2026 demo: prompt-based restyling of live camera video at 156 fps on AR glasses and a magic mirror. Recheck for a video after ISMAR 2026 uploads.",
+  "link": "https://www.ieeeismar.net/2026/demos/",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "research-2026-xr"
+ },
+ {
+  "name": "Kemeng Zhang & Yoshihiro Watanabe (Institute of Science Tokyo) — Text2Makeup-DPM",
+  "why": "ISMAR 2026: describe a makeup look in words and it is projected onto a moving face by dynamic projection mapping. No video for this paper yet.",
+  "link": "https://www.ieeeismar.net/2026/papers/",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "research-2026-xr"
+ },
+ {
+  "name": "Yusuke Koseki, Kizashi Nakano, Yusuke Arikawa, Hideaki Kuzuoka & Takuji Narumi — Sharp Body, Sour Taste",
+  "why": "ISMAR 2026: embodying a spiky 'Kiki' avatar in VR makes a lemon soda taste sourer. No public video found.",
+  "link": "https://www.ieeeismar.net/2026/papers/",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "research-2026-xr"
+ },
+ {
+  "name": "Yuri Mikawa & Taiki Fukiage — BrickDisplay",
+  "why": "SIGGRAPH Asia 2025 Emerging Technologies: a large 3D image that seems to protrude from several non-aligned monitors, using perceptual transparency. No public video found.",
+  "link": "https://history.siggraph.org/experience-overview/siggraph-asia-2025-emerging-technologies/",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "research-2026-xr"
+ },
+ {
+  "name": "Masami Hirabayashi, Kakuya Shiraishi & Scott Allen — DarkAR",
+  "why": "SIGGRAPH Asia 2025 XR: phone AR in dark music venues that uses the flicker patterns of stage LEDs instead of markers. Only a 20-minute Japanese talk video exists; no demo video.",
+  "link": "https://sa2025.conference-schedule.org/presentation/?id=xr_189&sess=sess185",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "research-2026-xr"
+ },
+ {
+  "name": "Pinyo Tanradtanamonthon, Sakolkorn Sakavee & Ratchapon Lungmart — Goo Goo Clash",
+  "why": "SIGGRAPH 2026 Immersive Pavilion: the arcade game Snake reimagined as a co-located mixed-reality sport. No public video found.",
+  "link": "https://s2026.siggraph.org/program/immersive-pavilion/",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "research-2026-xr"
+ },
+ {
+  "name": "Haruomi Higashi, Kouta Minamizawa et al. (Keio KMD Embodied Media) — Experience Sharing Box",
+  "why": "SIGGRAPH Asia 2025 Emerging Technologies Best Demo in Show: capture, store and play back multisensory memories. No public video found.",
+  "link": "https://asia.siggraph.org/2025/program/award-winners/",
+  "found_via": "seed",
+  "status": "no_video",
+  "batch": "research-2026-xr"
+ },
+ {
+  "name": "Yoshihiro Watanabe Lab (Institute of Science Tokyo)",
+  "why": "Dynamic projection mapping on moving faces and bodies (facial DPM, impression-guided projection makeup, Text2Makeup-DPM); successor lab to the Ishikawa Watanabe Laboratory work already in the gallery.",
+  "link": "https://www.youtube.com/channel/UCNTHeP6xHYyvdn9at06Bq4w",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "research-2026-xr"
+ },
+ {
+  "name": "Takuji Narumi — Cyber Interface Lab (University of Tokyo)",
+  "why": "Perception-bending VR and MR at SIGGRAPH and ISMAR every year: impossible objects, Bouba/Kiki avatars that change taste, Katakko modular robots, co-embodiment training.",
+  "link": "https://www.cyber.t.u-tokyo.ac.jp/",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "research-2026-xr"
+ },
+ {
+  "name": "Masahiko Inami Lab (University of Tokyo RCAST)",
+  "why": "Recent SIGGRAPH and SIGGRAPH Asia Emerging Technologies body-augmentation work with lab videos: Handoid, Feel What You See, EmoMime, Telekinetic Drive, Imaginary Joints and Muscles.",
+  "link": "https://www.youtube.com/channel/UCsvfTmXkqqyQuwg4HWWWdiw",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "research-2026-xr"
  },
  {
   "name": "Mouth Cannon Crew (Hart Woolery, Sallia Goldstein, Ben Knutson & Ruya Baraz)",

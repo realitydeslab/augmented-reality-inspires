@@ -19,6 +19,7 @@ alex-chinneck | Alex Chinneck | 3 works
 alex-olwal | Alex Olwal | 8 works
 alexander-calder | Alexander Calder | 4 works
 alexander-whitley | Alexander Whitley Dance Company | 9 works
+alexandra-ion | Alexandra Ion — Interactive Structures Lab (Carnegie Mellon) | 1 works
 alexandre-rivaux | Alexandre Rivaux (Bonjour Lab) | 1 works
 alicja-kwade | Alicja Kwade | 1 works
 amagi | AMAGI (Takayosi Amagi) | 1 works
@@ -60,8 +61,9 @@ arthur-bouffard | Arthur Bouffard | 2 works
 arthur-ganson | Arthur Ganson | 4 works
 arturo-castro | Arturo Castro | 2 works
 asad-malik | Asad J. Malik (1RIC / Jadu) | 3 works
+asier-marzo | Asier Marzo — UpnaLab (Public University of Navarra) | 2 works
 asobo-studio | Asobo Studio | 4 works
-autodesk-research | Autodesk Research (Fraser Anderson, Tovi Grossman, George Fitzmaurice et al.) | 7 works
+autodesk-research | Autodesk Research (Fraser Anderson, Tovi Grossman, George Fitzmaurice et al.) | 8 works
 awu-chen | Awu Chen, Suvi Helin & Matti Grüner | 1 works
 balasaravanan-thoravi-kumaravel | Balasaravanan Thoravi Kumaravel | 6 works
 bangbang-yang | Bangbang Yang | 1 works
@@ -79,7 +81,7 @@ blair-macintyre | Blair MacIntyre — Georgia Tech Augmented Environments Lab | 
 bob-bjarke | Bob Bjarke (The Electric Factory) | 1 works
 bordos-artworks | Bordos.ArtWorks (László Zsolt Bordos) | 3 works
 bot-and-dolly | Bot & Dolly | 1 works
-botao-amber-hu | Botao 'Amber' Hu | 13 works
+botao-amber-hu | Botao 'Amber' Hu | 14 works
 boyu-li | Boyu Li | 1 works
 brad-dwyer | Brad Dwyer | 2 works
 breakfast | BREAKFAST (Andrew Zolty) | 3 works
@@ -109,7 +111,7 @@ children-of-the-light | Children of the Light (Christopher Gabriel & Arnout Huls
 choi-jeong-hwa | Choi Jeong-hwa (최정화) | 1 works
 chris-drury | Chris Drury | 3 works
 chris-fraser | Chris Fraser | 2 works
-chris-harrison-figlab | Chris Harrison — CMU Future Interfaces Group | 8 works
+chris-harrison-figlab | Chris Harrison — CMU Future Interfaces Group | 9 works
 chris-milk | Chris Milk | 1 works
 chris-oshea | Chris O'Shea | 11 works
 chris-sugrue | Chris Sugrue | 7 works
@@ -141,6 +143,7 @@ cyanilux | Cyan (Cyanilux) | 2 works
 cybersaur-arts | Cybersaur Arts (Josh Garner) | 2 works
 cyborn | Cyborn | 1 works
 cyril-diagne | Cyril Diagne | 5 works
+daisuke-iwai | Daisuke Iwai — XR Group, University of Osaka | 1 works
 daito-manabe | Daito Manabe / Rhizomatiks | 22 works
 damien-rompapas | Damien Rompapas | 2 works
 damon-loren-baker | Damon Loren Baker | 1 works
@@ -154,7 +157,7 @@ danlin-huang | Danlin Huang | 4 works
 darkfield | DARKFIELD (David Rosenberg & Glen Neath) | 5 works
 darren-pearson | Darren Pearson (DARIUSTWIN) | 3 works
 david-bowen | David Bowen | 6 works
-david-lindlbauer | David Lindlbauer | 6 works
+david-lindlbauer | David Lindlbauer | 7 works
 david-rokeby | David Rokeby | 4 works
 decoi-hyposurface | dECOi / Mark Goulthorpe (HypoSurface) | 1 works
 denis-kalkofen | Denis Kalkofen | 8 works
@@ -162,8 +165,8 @@ deniz-bicer | Deniz Bicer | 2 works
 dennis-hlynsky | Dennis Hlynsky | 2 works
 dilmer-valecillos | Dilmer Valecillos | 6 works
 directive-games | Directive Games | 2 works
-disney-research-ar | Disney Research — Ivan Poupyrev, Robert Sumner & colleagues | 7 works
-doga-dogan | Mustafa Doga Dogan | 4 works
+disney-research-ar | Disney Research — Ivan Poupyrev, Robert Sumner & colleagues | 8 works
+doga-dogan | Mustafa Doga Dogan | 5 works
 dom-scott | Dom Scott | 2 works
 don-allen-stevenson-iii | Don Allen Stevenson III | 4 works
 dong-yoon-park | Dong Yoon Park (Yoon Park) | 6 works
@@ -173,12 +176,14 @@ doug-wheeler | Doug Wheeler | 1 works
 dpt | Dpt. | 6 works
 dumb-type | Dumb Type | 4 works
 dynamicland-bret-victor | Dynamicland — Bret Victor & collaborators | 6 works
+dzmitry-tsetserukou | Dzmitry Tsetserukou — Skoltech Intelligent Space Robotics Lab | 1 works
 eadweard-muybridge | Eadweard Muybridge | 4 works
 edward-ihnatowicz | Edward Ihnatowicz | 2 works
 elevenplay-mikiko | MIKIKO / ELEVENPLAY | 9 works
 elly-oldman | Elly Oldman | 1 works
 emily-gobeille | Emily Gobeille | 17 works
 enra | enra (Nobuyuki Hanabusa) | 5 works
+enrico-rukzio | Enrico Rukzio — Ulm University HCI (Pascal Jansen) | 1 works
 eric-freeman | Eric Freeman | 1 works
 eric-staller | Eric Staller | 1 works
 erik-nordeus | Erik Nordeus (Habrador) | 4 works
@@ -238,6 +243,7 @@ hecomi | hecomi | 5 works
 hellicar-and-lewis | Hellicar & Lewis (Pete Hellicar & Joel Gethin Lewis) | 4 works
 henry-daubrez-kikk | Henry Daubrez & Samuel Honigstein (Dogstudio / KIKK in Town) | 1 works
 herman-de-vries | herman de vries | 1 works
+hideki-koike | Hideki Koike — Koike Lab (Institute of Science Tokyo) | 1 works
 hiroaki-oishi | Hiroaki Oishi (irishoak) | 2 works
 hiroaki-umeda | Hiroaki Umeda (S20) | 5 works
 hirokazu-kato | Hirokazu Kato | 5 works
@@ -250,11 +256,13 @@ hsienyu-cheng | HsienYu Cheng (鄭先喻) | 2 works
 hugues-bruyere | Hugues Bruyère | 4 works
 humans-since-1982 | Humans since 1982 (Per Emanuelsson & Bastian Bischoff) | 3 works
 ian-curtis | Ian Curtis | 37 works
+ie-robotics-ai-lab | IE Robotics & AI Lab — Eduardo Castelló Ferrer | 1 works
 ilmxlab | ILMxLAB (Lucasfilm) | 2 works
 imogen-heap | Imogen Heap | 1 works
 ines-alpha | Ines Alpha | 5 works
 initi | INITI (Dan Gregor) | 5 works
 inna-horobchuk | Inna Horobchuk | 1 works
+inseok-hwang | Inseok Hwang (POSTECH) | 1 works
 instituto-stocos | Instituto Stocos (Muriel Romero, Pablo Palacio & Daniel Bisig) | 3 works
 iregular | Iregular (Daniel Iregui) | 1 works
 irene-alvarado | Irene Alvarado | 2 works
@@ -262,9 +270,10 @@ irini-kalaitzidi | Irini Kalaitzidi | 2 works
 isaac-cohen | Isaac Cohen (Cabbibo) | 3 works
 isaac-cordal | Isaac Cordal | 2 works
 isamu-noguchi | Isamu Noguchi | 1 works
-ishikawa-watanabe-lab | Ishikawa Watanabe Laboratory (University of Tokyo) | 7 works
+ishikawa-watanabe-lab | Ishikawa Watanabe Laboratory (University of Tokyo) | 8 works
 ivan-poupyrev | Ivan Poupyrev | 6 works
 jaagup-kuhi | Jaagup Kuhi | 1 works
+jake-bhattacharyya | Jake Bhattacharyya | 1 works
 jakob-kudsk-steensen | Jakob Kudsk Steensen | 1 works
 james-alliban | James Alliban | 5 works
 james-landay | James Landay — Stanford HCI | 1 works
@@ -297,6 +306,7 @@ joanie-lemercier | Joanie Lemercier (AntiVJ) | 6 works
 johanna-jaskowska | Johanna Jaskowska | 1 works
 john-cleater | John Cleater | 3 works
 john-craig-freeman | John Craig Freeman | 12 works
+john-desnoyers-stewart | John Desnoyers-Stewart | 1 works
 john-edmark | John Edmark | 1 works
 john-giorno | John Giorno | 1 works
 johnny-chung-lee | Johnny Chung Lee | 8 works
@@ -311,7 +321,7 @@ jorge-guevara | Jorge Guevara | 4 works
 joseph-delappe | Joseph DeLappe | 2 works
 jr | JR | 11 works
 juampi | Juampi | 1 works
-judith-amores | Judith Amores | 6 works
+judith-amores | Judith Amores | 7 works
 judy-chicago | Judy Chicago | 4 works
 julian-oliver | Julian Oliver | 2 works
 julian-triveri | Julian Triveri (anaglyph) | 3 works
@@ -323,6 +333,7 @@ julius-popp | Julius Popp | 2 works
 jun-nishida | Jun Nishida | 7 works
 jun-rekimoto | Jun Rekimoto | 8 works
 jure-triglav | Jure Triglav | 1 works
+kaist-make-lab | Make Lab (KAIST) — Andrea Bianchi | 1 works
 kaito-tsutsumi | Kaito Tsutsumi (にー兄さん / drumath2237) | 2 works
 kaiware007 | kaiware007 | 2 works
 karen-x-cheng | Karen X Cheng | 1 works
@@ -336,7 +347,7 @@ keiichi-matsuda | Keiichi Matsuda | 10 works
 keijiro-takahashi | Keijiro Takahashi | 147 works
 keiken | Keiken (Hana Omori, Isabel Ramos, Tanya Cruz) | 1 works
 keita-higuchi | Keita Higuchi | 2 works
-ken-nakagaki | Ken Nakagaki | 6 works
+ken-nakagaki | Ken Nakagaki | 7 works
 ken-perlin | Ken Perlin — NYU Future Reality Lab | 5 works
 kiani-del-valle | Kianí del Valle | 1 works
 kimchi-and-chips | Kimchi and Chips | 5 works
@@ -441,10 +452,12 @@ microsoft-hololens | Microsoft HoloLens team (Alex Kipman, Kudo Tsunoda & Micros
 mighty-coconut | Mighty Coconut | 1 works
 miguel-chevalier | Miguel Chevalier | 4 works
 mikko-haapoja | Mikko Haapoja | 5 works
+minchen-li | Minchen Li — Simulation Intelligence Group, CMU | 1 works
 ming-wai-chan | Ming Wai Chan (cinight) | 4 works
 mirza-beig | Mirza Beig | 6 works
-mit-fluid-interfaces | MIT Fluid Interfaces — Pattie Maes & Pranav Mistry | 10 works
+mit-fluid-interfaces | MIT Fluid Interfaces — Pattie Maes & Pranav Mistry | 11 works
 mit-tangible-media | MIT Tangible Media Group — Hiroshi Ishii | 15 works
+mohamed-kari | Mohamed Kari | 2 works
 mojang-minecraft-earth | Mojang Studios (Minecraft Earth) | 2 works
 molmol-kuo | Molmol Kuo | 6 works
 moment-factory | Moment Factory | 8 works
@@ -453,7 +466,7 @@ moritz-waldemeyer | Moritz Waldemeyer | 4 works
 morten-just | Morten Just | 6 works
 motion-bank | Motion Bank / Choreographic Coding Lab | 5 works
 msqrd | MSQRD (Masquerade Technologies) | 1 works
-msr-benko-wilson | Microsoft Research — Hrvoje Benko & Andy Wilson | 23 works
+msr-benko-wilson | Microsoft Research — Hrvoje Benko & Andy Wilson | 24 works
 msr-izadi-holoportation | Microsoft Research Cambridge / I3D — Shahram Izadi | 6 works
 musion | Musion (Musion Eyeliner) | 5 works
 myron-krueger | Myron Krueger | 2 works
@@ -525,6 +538,7 @@ paul-friedlander | Paul Friedlander | 5 works
 pavlo-tkachenko | Pavlo Tkachenko | 8 works
 pedro-lopes | Pedro Lopes | 13 works
 pell-ensemble | Pell Ensemble (Rebecca Evans) | 4 works
+pengcheng-an | Pengcheng An — ai{DEAL} Studio (SUSTech) | 1 works
 peter-mohr | Peter Mohr | 2 works
 peter-uithoven | Peter Uithoven | 1 works
 phil-walton | Phil Walton | 1 works
@@ -535,13 +549,15 @@ physio3d | Physio 3D | 1 works
 pierre-huyghe | Pierre Huyghe | 2 works
 pierrick-sorin | Pierrick Sorin | 3 works
 pieter-siekerman | Pieter Siekerman (Siekerman Technology) | 1 works
+ping-hsuan-han | Ping-Hsuan Han — XR Lab, National Taipei University of Technology | 1 works
 pipilotti-rist | Pipilotti Rist | 5 works
 pixelcase | Pixelcase | 1 works
 pol-bury | Pol Bury | 3 works
 preloaded | PRELOADED | 1 works
 przemyslaw-zaworski | Przemyslaw Zaworski | 4 works
+qingzhu-zhang | Qingzhu (Rachel) Zhang | 1 works
 rafael-lozano-hemmer | Rafael Lozano-Hemmer | 19 works
-raffaello-dandrea | Raffaello D'Andrea / Verity | 3 works
+raffaello-dandrea | Raffaello D'Andrea / Verity | 4 works
 rajinder-sodhi | Rajinder Sodhi | 2 works
 ralfonso | Ralfonso | 3 works
 random-international | Random International (Hannes Koch & Florian Ortkrass) | 9 works
@@ -564,7 +580,7 @@ rob-mulholland | Rob Mulholland | 3 works
 robert-henke | Robert Henke | 1 works
 robert-irwin | Robert Irwin | 2 works
 robert-smithson | Robert Smithson | 4 works
-robert-xiao | Robert Xiao | 4 works
+robert-xiao | Robert Xiao | 5 works
 roberto-coviello | Roberto Coviello | 3 works
 robin-seibold | Robin Seibold | 2 works
 roelof-knol | Roelof Knol | 17 works
@@ -575,7 +591,7 @@ ruofei-du | Ruofei Du | 12 works
 russ-maschmeyer | Russ Maschmeyer | 19 works
 ryan-hickman | Ryan Hickman | 1 works
 ryan-mcleod | Ryan McLeod | 1 works
-ryo-suzuki | Ryo Suzuki — Programmable Reality Lab | 14 works
+ryo-suzuki | Ryo Suzuki — Programmable Reality Lab | 15 works
 ryoji-ikeda | Ryoji Ikeda (池田亮司) | 6 works
 sallia-goldstein | Sallia Goldstein | 2 works
 sam-van-aken | Sam Van Aken | 1 works
@@ -601,6 +617,7 @@ shengdong-zhao | Shengdong Zhao — Synteraction Lab | 2 works
 shengzhi-wu | Shengzhi Wu | 24 works
 shigeo-fukuda | Shigeo Fukuda (福田繁雄) | 1 works
 shinji-ohmaki | Shinji Ohmaki (大巻伸嗣) | 3 works
+shogo-fukushima | Shogo Fukushima — Hacking Reality Lab, Kyushu University | 1 works
 shohei-mori | Shohei Mori | 3 works
 shopify-spatial-commerce | Shopify Spatial Commerce Team | 19 works
 shunichi-kasahara | Shunichi Kasahara | 11 works
@@ -626,6 +643,7 @@ stuart-langfield | Stuart Langfield | 1 works
 studio-drift | Studio DRIFT | 11 works
 studio-roosegaarde | Studio Roosegaarde (Daan Roosegaarde) | 3 works
 studio-swine | Studio Swine / A.A. Murakami (Azusa Murakami & Alexander Groves) | 2 works
+sung-hee-lee | Sung-Hee Lee — Motion Computing Lab, KAIST | 1 works
 supermassive-games | Supermassive Games | 2 works
 sutu | Sutu (Stuart Campbell) | 1 works
 tadashi-kawamata | Tadashi Kawamata (川俣正) | 1 works
@@ -699,6 +717,7 @@ world-of-zero | World of Zero (Sam Wronski) | 5 works
 xavi-bou | Xavi Bou | 7 works
 xr-masiso | xr masiso | 1 works
 xuan-luo | Xuan Luo | 1 works
+xueyang-wang | Xueyang Wang (Tsinghua University) | 1 works
 xulipa | Xulipa (Allan Yde) | 2 works
 yannick-jacquet | Yannick Jacquet (Legoman) | 3 works
 yasuhito-nagatomo | Yasuhito Nagatomo | 1 works

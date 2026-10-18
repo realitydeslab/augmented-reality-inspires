@@ -1,0 +1,782 @@
+{
+  "batch": "research-2026-hci",
+  "creators": [
+    {
+      "id": "mohamed-kari",
+      "name": "Mohamed Kari",
+      "role": "Mixed-reality researcher; built Reality Promises at Princeton with Parastoo Abtahi (formerly Porsche and ETH Zurich)",
+      "based": "Princeton, US",
+      "bio": "Mohamed Kari builds mixed reality that edits the physical world instead of only decorating it. With Christian Holz he made TransforMR, which swaps pedestrians and cars for virtual characters, and SoundsRide; at Princeton with Parastoo Abtahi he made Reality Promises, where a hidden robot carries out in the real room what you did to it in MR.",
+      "why": "Turns the gap between what MR shows and what the room actually does into a design material.",
+      "links": {
+        "site": "https://mkari.de/",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "https://www.youtube.com/@mokari",
+        "github": ""
+      },
+      "role_zh": "混合现实研究者；在普林斯顿与 Parastoo Abtahi 合作完成 Reality Promises（曾任职于 Porsche 与苏黎世联邦理工学院）",
+      "based_zh": "普林斯顿，美国",
+      "bio_zh": "Mohamed Kari 做的混合现实不只是给世界“贴图”，而是去改写物理世界本身。他与 Christian Holz 合作的 TransforMR 把街上的行人和车辆替换成虚拟角色，还做了 SoundsRide；在普林斯顿与 Parastoo Abtahi 合作的 Reality Promises 里，你在 MR 中对房间做的事，会由一台隐身机器人在真实房间里替你完成。",
+      "why_zh": "他把“MR 显示的”与“房间真正发生的”之间的落差，变成了一种设计材料。",
+      "connected_to": [
+        "christian-holz"
+      ],
+      "discovered_via": "christian-holz"
+    },
+    {
+      "id": "asier-marzo",
+      "name": "Asier Marzo — UpnaLab (Public University of Navarra)",
+      "role": "Researcher at the Public University of Navarra; leads UpnaLab (acoustic levitation, contactless haptics, mid-air and volumetric displays)",
+      "based": "Pamplona, Spain",
+      "bio": "Asier Marzo's UpnaLab combines computer science, physics and electronics to build interactive devices, and he is known for open-source acoustic levitators such as TinyLev. Recent papers include FlexiVol, a volumetric display with an elastic diffuser you can reach into, and StreamFog, which steers columns of fog with ultrasound to use them as moving projection screens.",
+      "why": "Makes mid-air graphics physical: light lands on fog and elastic bands that hands can pass through.",
+      "links": {
+        "site": "https://upnalab.com/",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "https://www.youtube.com/@UpnaLab",
+        "github": ""
+      },
+      "role_zh": "纳瓦拉公立大学研究员；领导 UpnaLab（声悬浮、非接触触觉、空中显示与体积显示）",
+      "based_zh": "潘普洛纳，西班牙",
+      "bio_zh": "Asier Marzo 的 UpnaLab 把计算机科学、物理和电子结合起来制作交互装置，他本人以 TinyLev 等开源声悬浮装置闻名。近期论文包括 FlexiVol——一台装有弹性漫射屏、可以把手伸进去的体积显示器，以及 StreamFog——用超声波驾驭一柱柱雾气，把它们当作可移动的投影屏。",
+      "why_zh": "他让空中影像变得有形：光落在雾气和弹力带上，手可以从中穿过。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "alexandra-ion",
+      "name": "Alexandra Ion — Interactive Structures Lab (Carnegie Mellon)",
+      "role": "Assistant Professor at the Carnegie Mellon HCII; directs the Interactive Structures Lab",
+      "based": "Pittsburgh, US",
+      "bio": "Alexandra Ion's lab designs interactive materials and robotic structures, from metamaterial mechanisms to shape-changing rooms. With Scott E. Hudson and students such as Violet Yinuo Han and Jesse T. Gonzalez it explores everyday objects and spaces that move on their own to help people.",
+      "why": "Imagines the physical world itself, not a screen, as the interface that responds to you.",
+      "links": {
+        "site": "https://interactive-structures.org/",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "https://www.youtube.com/@interactivestructureslab4288",
+        "github": ""
+      },
+      "role_zh": "卡内基梅隆大学人机交互研究所助理教授；主持 Interactive Structures Lab",
+      "based_zh": "匹兹堡，美国",
+      "bio_zh": "Alexandra Ion 的实验室设计交互材料与机器人结构，从超材料机构到会变形的房间。她与 Scott E. Hudson 以及 Violet Yinuo Han、Jesse T. Gonzalez 等学生一起，探索会自己移动来帮助人的日常物品和空间。",
+      "why_zh": "她把物理世界本身——而不是屏幕——想象成会回应你的界面。",
+      "connected_to": [
+        "chris-harrison-figlab",
+        "david-lindlbauer"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "enrico-rukzio",
+      "name": "Enrico Rukzio — Ulm University HCI (Pascal Jansen)",
+      "role": "Professor at Ulm University's Institute of Media Informatics; PhD researcher Pascal Jansen leads its automotive mediated-reality work",
+      "based": "Ulm, Germany",
+      "bio": "Enrico Rukzio's group at Ulm University studies interaction in cars, mixed reality and shared spaces. Pascal Jansen built MIRAGE, an open-source tool that adds, removes and restyles objects on a real road in real time, and earlier ShARe, an AR headset with a projector that lets people around the wearer join in.",
+      "why": "Treats the view through the windshield as editable reality, with safety as the design brief.",
+      "links": {
+        "site": "https://www.uni-ulm.de/in/mi/",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "https://www.youtube.com/@Moultigeforce",
+        "github": "https://github.com/J-Britten/MIRAGE"
+      },
+      "role_zh": "乌尔姆大学媒体信息学研究所教授；博士研究员 Pascal Jansen 主导其中的汽车介导现实研究",
+      "based_zh": "乌尔姆，德国",
+      "bio_zh": "Enrico Rukzio 在乌尔姆大学的团队研究车内交互、混合现实与共享空间。Pascal Jansen 开发了开源工具 MIRAGE，能在真实道路上实时增加、删除和改写物体的样子；更早的 ShARe 则给 AR 头显加上投影仪，让佩戴者身边的人也能参与进来。",
+      "why_zh": "他们把挡风玻璃外的景象当作可编辑的现实，并把安全作为设计命题。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "hideki-koike",
+      "name": "Hideki Koike — Koike Lab (Institute of Science Tokyo)",
+      "role": "Professor at the Institute of Science Tokyo (formerly Tokyo Institute of Technology); leads the Koike Lab",
+      "based": "Tokyo, Japan",
+      "bio": "Hideki Koike's lab has built projector-camera interfaces since EnhancedDesk around 2000 and also works on motion capture and skill training. Recent work with Shio Miyafuji uses high-speed projection and the timing of human vision to show images only to eyes that move in a certain way, or colours that appear only along a moving object's path.",
+      "why": "Uses the quirks of human vision as a display channel.",
+      "links": {
+        "site": "https://www.sar.comp.isct.ac.jp/en/",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "https://www.youtube.com/@koikelab",
+        "github": ""
+      },
+      "role_zh": "东京科学大学（原东京工业大学）教授；领导 Koike Lab",
+      "based_zh": "东京，日本",
+      "bio_zh": "Hideki Koike 的实验室从 2000 年前后的 EnhancedDesk 起就在做投影仪—摄像头交互，同时研究动作捕捉与技能训练。近期与 Shio Miyafuji 合作的工作利用高速投影和人眼的时间特性，让图像只对以特定方式移动的眼睛可见，或让颜色只沿着运动物体的轨迹出现。",
+      "why_zh": "他把人类视觉的“怪癖”变成了一条显示通道。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "inseok-hwang",
+      "name": "Inseok Hwang (POSTECH)",
+      "role": "Faculty member in Computer Science and Engineering at POSTECH",
+      "based": "Pohang, South Korea",
+      "bio": "Inseok Hwang's group at POSTECH builds mobile and ubiquitous systems that do more with devices people already own. Chameleon, with Seungwon Yang, Suwon Yoon and Jeongwon Choi, turns a phone lying on a table into a see-through window onto AR content that everyone around the table can share.",
+      "why": "Gets a convincing AR illusion out of an ordinary phone and a tabletop.",
+      "links": {
+        "site": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "https://www.youtube.com/@hislab.louie2020",
+        "github": ""
+      },
+      "role_zh": "浦项科技大学（POSTECH）计算机科学与工程系教师",
+      "based_zh": "浦项，韩国",
+      "bio_zh": "Inseok Hwang 在 POSTECH 的团队研究移动与泛在计算系统，让人们手里现有的设备做更多事。与 Seungwon Yang、Suwon Yoon、Jeongwon Choi 合作的 Chameleon，把平放在桌上的手机变成一扇透明窗，桌边的每个人都能共享窗里的 AR 内容。",
+      "why_zh": "只用一部普通手机和一张桌子，就做出了令人信服的 AR 错觉。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "pengcheng-an",
+      "name": "Pengcheng An — ai{DEAL} Studio (SUSTech)",
+      "role": "Faculty member at the School of Design, Southern University of Science and Technology; leads ai{DEAL} Studio",
+      "based": "Shenzhen, China",
+      "bio": "Pengcheng An's studio designs embodied AI for learning and play, from robots and toys to AR activities for children. ProjecTA gives a semi-humanoid teaching robot a projector, so its pointing gestures land as highlights and instructions on the real objects it talks about.",
+      "why": "Shows that a robot can point with light instead of a chest screen.",
+      "links": {
+        "site": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "https://www.youtube.com/@pengchengan4681",
+        "github": ""
+      },
+      "role_zh": "南方科技大学设计学院教师；领导 ai{DEAL} Studio",
+      "based_zh": "深圳，中国",
+      "bio_zh": "Pengcheng An 的工作室为学习与游戏设计具身 AI，从机器人、玩具到面向儿童的 AR 活动。ProjecTA 给一台半人形教学机器人装上投影仪，让它的指向手势化作落在真实物体上的高亮和说明。",
+      "why_zh": "他证明了机器人可以用光来“指”，而不必依赖胸前的屏幕。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "xueyang-wang",
+      "name": "Xueyang Wang (Tsinghua University)",
+      "role": "HCI researcher at Tsinghua University working on XR and smart glasses",
+      "based": "Beijing, China",
+      "bio": "Xueyang Wang studies how immersive systems can stay grounded in the physical room and respect bystanders, from privacy controls for camera glasses to room-aware VR. Roomify, with Robert Xiao, Xin Yi, Hewu Li and others, re-themes a scanned room for VR while keeping every wall and piece of furniture where it really is.",
+      "why": "Keeps fantasy worlds aligned with the real furniture you might bump into.",
+      "links": {
+        "site": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "https://www.youtube.com/@xueyangwang",
+        "github": ""
+      },
+      "role_zh": "清华大学人机交互研究者，研究 XR 与智能眼镜",
+      "based_zh": "北京，中国",
+      "bio_zh": "Xueyang Wang 研究沉浸式系统如何扎根于真实房间、并尊重身边的旁观者，从摄像头眼镜的隐私控制到感知房间的 VR。与 Robert Xiao、Xin Yi、Hewu Li 等合作的 Roomify，把扫描后的房间换上 VR 主题，同时让每面墙、每件家具都留在真实的位置。",
+      "why_zh": "让幻想世界和你可能撞上的真实家具保持对齐。",
+      "connected_to": [
+        "robert-xiao"
+      ],
+      "discovered_via": "robert-xiao"
+    }
+  ],
+  "works": [
+    {
+      "id": "mohamed-kari--reality-promises",
+      "creator_ids": [
+        "mohamed-kari"
+      ],
+      "title": "Reality Promises",
+      "year": 2025,
+      "description": "In a mixed-reality headset an animated bee seems to carry a real tube of chips, and a plant and a carton of coconut water move across the room at your command; out of sight, a mobile robot quietly moves the real objects to where the virtual ones landed. By Mohamed Kari and Parastoo Abtahi (Princeton University), UIST 2025 Best Paper.",
+      "description_zh": "戴上混合现实头显，一只卡通蜜蜂仿佛叼起了真实的薯片筒，一盆植物和一盒椰子水也听你指挥飞到房间另一头；在你看不见的地方，一台移动机器人悄悄把真实物体搬到虚拟物体落下的位置。作者 Mohamed Kari 与 Parastoo Abtahi（普林斯顿大学），UIST 2025 最佳论文。",
+      "idea_en": "Let virtual magic move real things instantly, and let a hidden robot keep the promise afterwards.",
+      "idea_zh": "先让虚拟魔法立刻“移动”真实物体，再让一台隐身机器人在幕后兑现承诺。",
+      "technique": "A Gaussian-splat scan of the room lets the headset render the scene without the robot, erasing it from view, while a mobile manipulator co-aligned with the user carries out each virtual manipulation between planned decoupling and recoupling moments.",
+      "technique_zh": "预先用 Gaussian Splatting 扫描整个房间，头显据此渲染出“没有机器人”的画面把它抹掉；与用户共用同一坐标系的移动机械臂机器人，则在规划好的“脱钩—重新耦合”时刻之间完成每一次虚拟操作对应的真实搬运。",
+      "exercise_en": "Stage a Wizard-of-Oz version: in phone AR (AR Foundation or Lens Studio), let a virtual creature 'carry' a real cup to a marked spot while the camera looks away, and have a hidden teammate move the real cup before the camera turns back. Twist: make the promise visible, with a glowing outline where the real object will be when you look again.",
+      "exercise_zh": "做一个“绿野仙踪”式版本：在手机 AR（AR Foundation 或 Lens Studio）里，让一个虚拟小生物把真实杯子“搬”到标记点，趁镜头转开时由躲在一旁的队友把真杯子挪过去，再让镜头转回来。变体：把“承诺”显示出来——在真实物体将会出现的位置留下一圈发光轮廓。",
+      "interaction": [
+        "tangible-object",
+        "perception-art",
+        "spatial-mapping"
+      ],
+      "platform": [
+        "headset"
+      ],
+      "tech": [
+        "video-passthrough MR headset",
+        "mobile manipulator robot",
+        "3D Gaussian Splatting"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "SdDXvIB79j0",
+        "url": "https://www.youtube.com/watch?v=SdDXvIB79j0"
+      },
+      "source_url": "https://mkari.de/reality-promises/"
+    },
+    {
+      "id": "judith-amores--storycaster",
+      "creator_ids": [
+        "judith-amores",
+        "msr-benko-wilson"
+      ],
+      "title": "Storycaster",
+      "year": 2026,
+      "description": "A room becomes the stage of a story you tell out loud: generative AI paints the walls with projected scenes, a narrator agent guides you, ambient sound and dialogue follow, and real objects in the room can be turned into story elements, all without a headset. By Naisha Agarwal, Judith Amores and Andrew D. Wilson (Microsoft Research), CHI 2026.",
+      "description_zh": "整个房间成了你口述故事的舞台：生成式 AI 把投影画面铺满墙面，旁白智能体引导你推进剧情，环境音和对白随之生成，房间里的真实物件也能被变成故事元素——全程不用戴头显。作者 Naisha Agarwal、Judith Amores 与 Andrew D. Wilson（Microsoft Research），CHI 2026。",
+      "idea_en": "Speak a story and the walls of your room become it.",
+      "idea_zh": "把故事说出来，房间的墙就变成故事本身。",
+      "technique": "Voice commands drive an LLM narrator that generates each scene's imagery, ambient audio and dialogue, and live camera feeds of the room are used so the generated images wrap the walls as cylindrical projections that blend with the physical space.",
+      "technique_zh": "语音指令驱动大语言模型旁白，为每一幕生成画面、环境音与对白；系统借助房间的实时摄像头画面，把生成的图像以环绕式柱面投影铺到墙上，与真实空间融为一体。",
+      "exercise_en": "Point a cheap projector at a wall, connect speech-to-text to an LLM that writes one-sentence scenes, send each sentence to an image model and project the result across the wall with a matching ambient sound loop. Twist: hold a real object up to a webcam and have the story adopt it as a character.",
+      "exercise_zh": "把一台便宜的投影仪对准墙面，把语音转文字接到大语言模型，让它每次写一句场景描述，再把这句话交给图像生成模型，结果铺满整面墙投出来，并配上相应的环境音循环。变体：把一件真实物品举到摄像头前，让故事把它收编成一个角色。",
+      "interaction": [
+        "projection",
+        "voice-sound",
+        "portal-world"
+      ],
+      "platform": [
+        "projection"
+      ],
+      "tech": [
+        "projectors",
+        "generative image and audio models",
+        "LLM narrator agent",
+        "speech recognition"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "ckCtta27LJQ",
+        "url": "https://www.youtube.com/watch?v=ckCtta27LJQ"
+      },
+      "source_url": "https://doi.org/10.1145/3772318.3791305",
+      "ai_cat": "generate"
+    },
+    {
+      "id": "ken-nakagaki--bloombeacon",
+      "creator_ids": [
+        "ken-nakagaki"
+      ],
+      "title": "BloomBeacon",
+      "year": 2026,
+      "description": "A compact device blooms a touchscreen out of thin air: a soft line spins so fast that persistence of vision turns it into a glowing surface you can read and touch, set over a paper map to show weather, beside a speaker to show album art, or at a shelf edge to warn someone reaching for a chemical without gloves. By Willa Yunqi Yang, Justice T. Andersen, David Dajun Yuan and Ken Nakagaki (AxLab, University of Chicago), CHI 2026.",
+      "description_zh": "一个小巧的装置能凭空“绽放”出一块触摸屏：一根柔软的线高速旋转，视觉暂留让它变成一片可读、可触的发光表面——可以立在纸质地图上显示天气，在音箱旁显示专辑封面，或者在货架边缘提醒没戴手套就去拿化学品的人。作者 Willa Yunqi Yang、Justice T. Andersen、David Dajun Yuan 与 Ken Nakagaki（芝加哥大学 AxLab），CHI 2026。",
+      "idea_en": "A screen that physically appears only when and where it is needed, and folds away to nothing.",
+      "idea_zh": "一块只在需要的时间和地点才真正出现、用完就消失的屏幕。",
+      "technique": "A soft rotating line with arch-shaped electrodes renders persistence-of-vision images in mid-air and senses touch on the swept surface, with blades designed so fingers barely disturb the rotation and processing that detects brief, noisy touches.",
+      "technique_zh": "一根带拱形电极的柔软旋转线，利用视觉暂留在空中显示图像，同时在扫出的表面上感应触摸；叶片经过特别设计以减少手指对旋转的干扰，并用算法识别短暂而嘈杂的触碰信号。",
+      "exercise_en": "Prototype a blooming display without hardware: in phone AR, anchor a disc-shaped panel above a real object (a map, a speaker, a plant) that unfolds with a spinning animation only when the camera comes close, then shows one glanceable piece of information. Twist: make it bloom only for a hazard, such as a hand approaching something hot.",
+      "exercise_zh": "先不用硬件做一个“绽放式”显示原型：在手机 AR 里，把一块圆盘面板锚定在真实物体（地图、音箱或盆栽）上方，只有摄像头靠近时才以旋转动画展开，并只显示一条一眼能看懂的信息。变体：只有遇到危险时才绽放，比如手靠近高温物体的时候。",
+      "interaction": [
+        "hand-body",
+        "data-information",
+        "perception-art"
+      ],
+      "platform": [
+        "desktop"
+      ],
+      "tech": [
+        "persistence-of-vision display",
+        "capacitive touch sensing",
+        "motor"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "ir3hBJ-Z51c",
+        "url": "https://www.youtube.com/watch?v=ir3hBJ-Z51c"
+      },
+      "source_url": "https://www.axlab.cs.uchicago.edu/projects/bloombeacon"
+    },
+    {
+      "id": "asier-marzo--streamfog",
+      "creator_ids": [
+        "asier-marzo"
+      ],
+      "title": "StreamFog",
+      "year": 2026,
+      "description": "Ultrasound beams raise, move and push columns of fog in a few hundred milliseconds so they can serve as projection screens; hands reach through the images without breaking them, and several fog columns glide around a mixed-reality tabletop game. By Unai Javier Fernández, Iván Fernández, Josu Irisarri, Iñigo Ezcurdia and Asier Marzo (UpnaLab, Public University of Navarra), CHI 2026.",
+      "description_zh": "超声波束能在几百毫秒内把一柱柱雾气升起、移动、推开，让它们充当投影屏；手可以穿过图像而不把它打散，好几根雾柱还能在一款混合现实桌面游戏上来回滑动。作者 Unai Javier Fernández、Iván Fernández、Josu Irisarri、Iñigo Ezcurdia 与 Asier Marzo（纳瓦拉公立大学 UpnaLab），CHI 2026。",
+      "idea_en": "Steer fog with sound so mid-air images can move around you.",
+      "idea_zh": "用声音驾驭雾气，让空中的影像能在你身边移动。",
+      "technique": "Ultrasonic beams (likely from phased transducer arrays) create acoustic streaming, a constrained airflow that carries aerosols quickly and controllably, so fog columns can be shaped and moved under a projector and stay stable when hands pass through.",
+      "technique_zh": "超声波束（很可能来自相控换能器阵列）产生声流，即一股受约束的气流，能快速、可控地带动雾滴，于是雾柱可以在投影仪下被塑形和移动，手穿过时也基本保持稳定。",
+      "exercise_en": "Build a fog screen from an ultrasonic mist maker, a PC fan and a pipe, project a small character onto it with a cheap projector, and use webcam hand tracking (MediaPipe) so the character reacts when a hand passes through. Twist: put the fog column on a motorised slider and make the projection follow it.",
+      "exercise_zh": "用超声波雾化器、电脑风扇和一段管子做一面雾幕，用便宜投影仪把一个小角色投到雾上，再用摄像头加 MediaPipe 做手部追踪，让手穿过时角色作出反应。变体：把雾柱装到电动滑轨上移动，让投影跟着它走。",
+      "interaction": [
+        "projection",
+        "hand-body",
+        "perception-art"
+      ],
+      "platform": [
+        "projection"
+      ],
+      "tech": [
+        "ultrasonic transducers",
+        "acoustic streaming",
+        "fog screen",
+        "projector"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "nuUFdCtVGsk",
+        "url": "https://www.youtube.com/watch?v=nuUFdCtVGsk"
+      },
+      "source_url": "https://doi.org/10.1145/3772318.3790754"
+    },
+    {
+      "id": "alexandra-ion--unobtrusive-physical-ai",
+      "creator_ids": [
+        "alexandra-ion"
+      ],
+      "title": "Towards Unobtrusive Physical AI",
+      "year": 2025,
+      "description": "Ordinary objects quietly help before you ask: for example a stapler slides over while you sort documents, or a knife moves away as you are about to lean against the counter. A language model watches the scene, infers what you are trying to do and decides which object should move. By Violet Yinuo Han, Jesse T. Gonzalez, Christina Yang, Zhiruo Wang, Scott E. Hudson and Alexandra Ion (Carnegie Mellon University), UIST 2025.",
+      "description_zh": "普通物品会在你开口前悄悄帮忙：比如你整理文件时订书机自己滑过来，或者你快要靠上台面时刀先挪开。大语言模型观察场景、推测你想做什么，再决定哪件物品该动。作者 Violet Yinuo Han、Jesse T. Gonzalez、Christina Yang、Zhiruo Wang、Scott E. Hudson 与 Alexandra Ion（卡内基梅隆大学），UIST 2025。",
+      "idea_en": "Give everyday objects intentions so they move to help you.",
+      "idea_zh": "给日常物品赋予意图，让它们主动挪过来帮你。",
+      "technique": "An LLM-based architecture perceives the environment and the user's activity, reasons about space and time to infer the user's goal, and generates object actions that match each object's properties, carried out by small robotic bases (likely hidden under the objects).",
+      "technique_zh": "基于大语言模型的架构感知环境与用户活动，进行时空推理以推断用户目标，再结合每件物品的属性生成相应动作，由小型机器人底座执行（很可能藏在物品下方）。",
+      "exercise_en": "In phone or headset AR, give three real desk objects virtual intent bubbles: send the camera frame to a multimodal LLM to guess the user's task, then animate a ghost arrow showing where each object would move to help. Twist: let one object refuse to move and explain why.",
+      "exercise_zh": "在手机或头显 AR 里给桌上三件真实物品加上虚拟“意图气泡”：把相机画面交给多模态大模型推测用户正在做什么，再用幽灵箭头动画标出每件物品为了帮忙会移动到哪里。变体：让其中一件物品拒绝移动，并说明理由。",
+      "interaction": [
+        "tangible-object",
+        "spatial-mapping"
+      ],
+      "platform": [
+        "desktop"
+      ],
+      "tech": [
+        "LLM",
+        "small mobile robots",
+        "camera-based scene perception"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "x3IRVDR3SjM",
+        "url": "https://www.youtube.com/watch?v=x3IRVDR3SjM"
+      },
+      "source_url": "https://interactive-structures.org/publications/2025-09-object-agents/",
+      "ai_cat": "agent"
+    },
+    {
+      "id": "enrico-rukzio--mirage",
+      "creator_ids": [
+        "enrico-rukzio"
+      ],
+      "title": "MIRAGE",
+      "year": 2026,
+      "description": "Riding in a real car on a real road, a passenger sees traffic edited live through a passthrough headset: cars get outlines and icons, distractions are erased and other objects are restyled, across 15 augmented, diminished and modified-reality effects. By Pascal Jansen, Julian Britten, Mark Colley, Markus Sasalovici and Enrico Rukzio (Ulm University, with UCL and Mercedes-Benz), CHI 2026.",
+      "description_zh": "坐在真实道路上行驶的真车里，乘客透过视频透视头显看到被实时改写的交通画面：车辆加上轮廓和图标，分散注意力的东西被抹掉，另一些物体被换了样子——共有 15 种增强、削减与改造现实的效果。作者 Pascal Jansen、Julian Britten、Mark Colley、Markus Sasalovici 与 Enrico Rukzio（乌尔姆大学，联合 UCL 与 Mercedes-Benz），CHI 2026。",
+      "idea_en": "Treat the road as editable reality: add, remove or restyle what people in the car see.",
+      "idea_zh": "把道路当作可编辑的现实：增加、删除或改写车里的人看到的东西。",
+      "technique": "Passthrough camera frames run through object detection, segmentation, depth estimation and inpainting models in real time, and the results drive overlays, removals and appearance changes shown in a video-passthrough headset (a Varjo XR-3 in the on-road study); the tool is open source.",
+      "technique_zh": "透视摄像头的画面实时经过目标检测、分割、深度估计和图像修补模型，结果用于生成叠加、删除和外观替换，并显示在视频透视头显中（道路实测使用 Varjo XR-3）；该工具已开源。",
+      "exercise_en": "Record a short street video from a car or bike, run it through a segmentation model (for example YOLO or SAM in a notebook) and render three versions: outline every pedestrian, erase every billboard, and turn every car into a cartoon. Twist: decide which effect must never be allowed while driving and argue why.",
+      "exercise_zh": "从汽车或自行车上录一段街景视频，用分割模型（例如在 notebook 里跑 YOLO 或 SAM）处理，做出三个版本：给所有行人描边、抹掉所有广告牌、把每辆车变成卡通。变体：判断哪一种效果在驾驶时绝不能允许，并说明理由。",
+      "interaction": [
+        "perception-art",
+        "portal-world",
+        "location-geo"
+      ],
+      "platform": [
+        "headset"
+      ],
+      "tech": [
+        "Varjo XR-3",
+        "object detection",
+        "segmentation",
+        "depth estimation",
+        "inpainting"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "MMBduUx9ZG4",
+        "url": "https://www.youtube.com/watch?v=MMBduUx9ZG4"
+      },
+      "source_url": "https://arxiv.org/abs/2601.19385",
+      "code_url": "https://github.com/J-Britten/MIRAGE",
+      "ai_cat": "restyle"
+    },
+    {
+      "id": "hideki-koike--gaze-fixation-display",
+      "creator_ids": [
+        "hideki-koike"
+      ],
+      "title": "A Display Visible Only During Gaze Fixation on Moving Objects",
+      "year": 2025,
+      "description": "A projected image that only eyes in motion can see: a street sign stays invisible until a passer-by keeps looking at their phone while walking, and a surface reveals content only when your gaze slides along with your tracing finger. By Ryusuke Miyazaki, Shio Miyafuji, Kyeongwan Kim and Hideki Koike (Institute of Science Tokyo), UIST 2025 (adjunct).",
+      "description_zh": "一种只有“移动中的眼睛”才看得见的投影画面：路边标识一直隐形，直到行人边走边盯着手机时才显现；表面上的内容也只有在你的目光跟着描画的手指一起滑动时才会浮现。作者 Ryusuke Miyazaki、Shio Miyafuji、Kyeongwan Kim 与 Hideki Koike（东京科学大学），UIST 2025（附录论文）。",
+      "idea_en": "Hide a message in how the eyes move, not in where they look.",
+      "idea_zh": "把信息藏在眼睛的运动方式里，而不是藏在视线所及之处。",
+      "technique": "A high-speed projector flashes striped patterns that likely blend into a plain field for a still eye but resolve into a different image when the eye follows a moving object in a particular direction.",
+      "technique_zh": "高速投影仪快速闪现条纹图案：对静止的眼睛来说它很可能融合成一片平淡的底色，而当眼睛朝特定方向追随移动物体时，另一幅图像才会显现。",
+      "exercise_en": "Explore the principle on a screen first: in p5.js, animate high-frequency stripes that hide a word for a still viewer and try to reveal it when the viewer's eyes follow a moving dot, comparing 60 Hz and 120 Hz displays. Twist: design a message meant only for people who are walking past.",
+      "exercise_zh": "先在屏幕上体验这个原理：用 p5.js 做高频条纹动画，让静止观看者看不见一个字，再尝试在眼睛追随移动小点时让它显现，并比较 60 Hz 与 120 Hz 屏幕的效果。变体：设计一条只给路过的行人看的信息。",
+      "interaction": [
+        "gaze-attention",
+        "projection",
+        "perception-art"
+      ],
+      "platform": [
+        "projection"
+      ],
+      "tech": [
+        "high-speed projector",
+        "smooth-pursuit eye movement",
+        "striped patterns"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "4W7_OK8vhOI",
+        "url": "https://www.youtube.com/watch?v=4W7_OK8vhOI"
+      },
+      "source_url": "https://doi.org/10.1145/3746058.3759000"
+    },
+    {
+      "id": "inseok-hwang--chameleon",
+      "creator_ids": [
+        "inseok-hwang"
+      ],
+      "title": "Chameleon",
+      "year": 2025,
+      "description": "Lay a phone flat on a table and it seems to vanish: the screen shows the tabletop pattern beneath it, plus digital content anchored to the surface that everyone around the table can see, and the content stays put when the phone slides around. By Seungwon Yang, Suwon Yoon, Jeongwon Choi and Inseok Hwang (POSTECH), UIST 2025 poster.",
+      "description_zh": "把手机平放在桌上，它好像消失了：屏幕显示出它身下的桌面纹理，再加上锚定在桌面上、围坐的人都能看到的数字内容；手机在桌上滑动时，内容依然停在原处。作者 Seungwon Yang、Suwon Yoon、Jeongwon Choi 与 Inseok Hwang（POSTECH），UIST 2025 海报论文。",
+      "idea_en": "Turn a phone lying on a table into a see-through window onto shared AR.",
+      "idea_zh": "把平放在桌上的手机变成一扇通向共享 AR 的透明窗。",
+      "technique": "The phone opportunistically captures the surrounding surface and uses language-model-assisted pattern generation to fill its screen with a matching texture, while augmented inertial sensing tracks how it slides so anchored content stays fixed.",
+      "technique_zh": "手机伺机采集周围桌面的样子，借助语言模型辅助的图案生成，在屏幕上铺满与之匹配的纹理；同时用增强过的惯性传感追踪它在桌面上的滑动，让锚定内容保持不动。",
+      "exercise_en": "Photograph your desk, show the photo full-screen on a phone lying on that spot, and draw a small animated creature 'under the glass'; when the phone moves, shift the crop by hand or with simple optical flow so the creature stays in place. Twist: two phones on the same table share one hidden world.",
+      "exercise_zh": "给桌面拍一张照片，让平放在原位的手机全屏显示这张照片，再在“玻璃下面”画一只会动的小生物；挪动手机时，手动或用简单的光流平移裁切区域，让小生物留在原地。变体：同一张桌上的两部手机共享同一个隐藏世界。",
+      "interaction": [
+        "tangible-object",
+        "multiplayer-social",
+        "perception-art"
+      ],
+      "platform": [
+        "phone"
+      ],
+      "tech": [
+        "smartphone",
+        "inertial sensing",
+        "language-model-assisted pattern generation"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "lcBdWX592iQ",
+        "url": "https://www.youtube.com/watch?v=lcBdWX592iQ"
+      },
+      "source_url": "https://arxiv.org/abs/2509.14643"
+    },
+    {
+      "id": "pengcheng-an--projecta",
+      "creator_ids": [
+        "pengcheng-an"
+      ],
+      "title": "ProjecTA",
+      "year": 2026,
+      "description": "A semi-humanoid teaching robot leads a makerspace tour and, instead of using a chest screen, points with light: arrows, highlights and step-by-step instructions are projected onto the machines it gestures at as it talks. By Hanqing Zhou, Yichuan Zhang, Zihan Zhang, Wei Zhang, Chao Wang and Pengcheng An (SUSTech, Shenzhen University and Honda Research Institute Europe), CHI 2026.",
+      "description_zh": "一台半人形教学机器人带人参观创客空间，它不用胸前的屏幕，而是“用光来指”：一边讲解，一边把箭头、高亮和分步说明投到它手势所指的设备上。作者 Hanqing Zhou、Yichuan Zhang、Zihan Zhang、Wei Zhang、Chao Wang 与 Pengcheng An（南方科技大学、深圳大学与 Honda Research Institute Europe），CHI 2026。",
+      "idea_en": "Let a robot's pointing gesture land as light on the thing it means.",
+      "idea_zh": "让机器人的指向手势化作一束光，直接落在它所指的东西上。",
+      "technique": "A projector on the gesture-capable robot casts overlays next to physical objects, timed with the robot's speech and pointing arm gestures, so visual, verbal and gestural cues all indicate the same target.",
+      "technique_zh": "装在能做手势的机器人身上的投影仪，把叠加图形投到实物旁边，并与机器人的语音和指向性手臂动作同步，让视觉、语言和手势三种线索指向同一目标。",
+      "exercise_en": "Mount a pico projector on a toy robot, a turntable or a desk-lamp arm and script a 60-second tour of three objects on a table: for each, turn toward it, project a highlight and play one spoken sentence. Twist: remove the voice and see whether light and motion alone can teach.",
+      "exercise_zh": "把微型投影仪装到玩具机器人、转台或台灯支架上，为桌上三件物品编一段 60 秒的导览：每到一件就转向它、投出高亮并播放一句语音讲解。变体：去掉声音，看看只靠光和动作能不能完成讲解。",
+      "interaction": [
+        "projection",
+        "hand-body",
+        "data-information"
+      ],
+      "platform": [
+        "projection"
+      ],
+      "tech": [
+        "semi-humanoid robot",
+        "projector",
+        "speech synthesis"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "6Rf5PFRwySU",
+        "url": "https://www.youtube.com/watch?v=6Rf5PFRwySU"
+      },
+      "source_url": "https://arxiv.org/abs/2601.11328"
+    },
+    {
+      "id": "asier-marzo--flexivol",
+      "creator_ids": [
+        "asier-marzo"
+      ],
+      "title": "FlexiVol",
+      "year": 2025,
+      "description": "A volumetric display you can put your hand inside: true 3D graphics are drawn on an oscillating elastic diffuser, so fingers can push into the volume to select, dock and trace virtual objects directly, with no headset. By Elodie Bouzbib, Iosune Sarasate, Unai Javier Fernández, Iván Fernández, Manuel López-Amo, Iñigo Ezcurdia and Asier Marzo (UpnaLab, Public University of Navarra), CHI 2025.",
+      "description_zh": "一台可以把手伸进去的体积显示器：真正的三维图像被画在一块振荡的弹性漫射屏上，手指能直接探入显示空间去选取、对接和描绘虚拟物体，不用戴头显。作者 Elodie Bouzbib、Iosune Sarasate、Unai Javier Fernández、Iván Fernández、Manuel López-Amo、Iñigo Ezcurdia 与 Asier Marzo（纳瓦拉公立大学 UpnaLab），CHI 2025。",
+      "idea_en": "Swap the rigid screen of a volumetric display for elastic bands so the 3D image becomes reachable.",
+      "idea_zh": "把体积显示器里的硬质屏幕换成弹力带，三维影像就伸手可及。",
+      "technique": "A swept-volume display projects fast image slices onto oscillating elastic polyester-elastane tapes and corrects the distortions the stretching introduces, so fingers can deform the diffuser without breaking the 3D image.",
+      "technique_zh": "扫掠式体积显示器把快速切换的图像切片投到振荡的弹性涤纶—氨纶带上，并校正拉伸带来的变形，所以手指按压漫射屏也不会破坏三维图像。",
+      "exercise_en": "Fake a reach-through volume: stretch elastic fabric over a frame, back-project onto it, and use a depth camera or MediaPipe to detect where a finger pushes in, so the poke drags a projected 3D object. Twist: map how deep you push to which depth layer of the object you touch.",
+      "exercise_zh": "模拟一个“可伸入”的体积：在框架上绷一块弹力布，从背面投影，再用深度相机或 MediaPipe 检测手指按入的位置，让这一戳能拖动投影出来的三维物体。变体：把按入的深浅映射到你触到的物体深度层。",
+      "interaction": [
+        "hand-body",
+        "projection",
+        "perception-art"
+      ],
+      "platform": [
+        "projection"
+      ],
+      "tech": [
+        "swept volumetric display",
+        "elastic diffuser",
+        "high-speed projector"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "4wwKOXxX9Ck",
+        "url": "https://www.youtube.com/watch?v=4wwKOXxX9Ck"
+      },
+      "source_url": "https://doi.org/10.1145/3706598.3714315"
+    },
+    {
+      "id": "chris-harrison-figlab--soundbubble",
+      "creator_ids": [
+        "chris-harrison-figlab"
+      ],
+      "title": "SoundBubble",
+      "year": 2026,
+      "description": "The microphones already in a headset or glasses are steered to listen at your fingertip wherever it goes, so tapping a desk, sliding a finger across a surface, rubbing skin on skin or flicking a passive widget becomes input. By Daehwa Kim and Chris Harrison (Future Interfaces Group, Carnegie Mellon University), CHI 2026.",
+      "description_zh": "头显或眼镜里已有的麦克风被“瞄准”到你的指尖，指尖移到哪里就听到哪里，于是敲桌子、手指划过表面、皮肤与皮肤的摩擦，或者拨动一个无源小部件，都能变成输入。作者 Daehwa Kim 与 Chris Harrison（卡内基梅隆大学 Future Interfaces Group），CHI 2026。",
+      "idea_en": "Place a virtual microphone on your fingertip so every surface you touch can be heard.",
+      "idea_zh": "在指尖放一个虚拟麦克风，让你摸到的每一个表面都能被“听见”。",
+      "technique": "Beamforming over the headset's microphone array, steered to the 3D fingertip position from hand tracking, isolates the faint sounds of finger contact from room noise.",
+      "technique_zh": "根据手部追踪得到的三维指尖位置，对头显麦克风阵列做波束成形，把手指接触产生的微弱声音从环境噪声中分离出来。",
+      "exercise_en": "Use a phone or laptop microphone and Teachable Machine's audio model to classify three finger sounds on a desk (tap, scratch, knock), and map each one to an AR or on-screen effect. Twist: turn the desk into a drum kit in which each sound triggers a different sample.",
+      "exercise_zh": "用手机或笔记本的麦克风，借助 Teachable Machine 的音频模型识别手指在桌上的三种声音（轻敲、刮擦、叩击），并把每一种映射到一个 AR 或屏幕效果。变体：把桌子变成一套鼓，每种声音触发不同的采样。",
+      "interaction": [
+        "voice-sound",
+        "hand-body",
+        "tangible-object"
+      ],
+      "platform": [
+        "headset"
+      ],
+      "tech": [
+        "microphone-array beamforming",
+        "hand tracking"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "UDyzusbP8C8",
+        "url": "https://www.youtube.com/watch?v=UDyzusbP8C8"
+      },
+      "source_url": "https://www.figlab.com/research/2026/soundbubble",
+      "code_url": "https://github.com/FIGLAB/SoundBubble"
+    },
+    {
+      "id": "autodesk-research--playwrite",
+      "creator_ids": [
+        "autodesk-research"
+      ],
+      "title": "PlayWrite",
+      "year": 2026,
+      "description": "Write a story by playing it: in mixed reality you move virtual characters and props around like toys, AI agents turn each action into a story beat shown as a marble on a timeline, and a language model writes the final narrative from the order you arrange. By Esen K. Tütüncü, Qian Zhou, Frederik Brudy, George Fitzmaurice and Fraser Anderson (Autodesk Research), CHI 2026.",
+      "description_zh": "通过“玩”来写故事：在混合现实里像摆弄玩具一样移动虚拟角色和道具，AI 智能体把每个动作转成一个故事节拍，以弹珠的形式排在时间线上，再由大语言模型按你排好的顺序写出最终故事。作者 Esen K. Tütüncü、Qian Zhou、Frederik Brudy、George Fitzmaurice 与 Fraser Anderson（Autodesk Research），CHI 2026。",
+      "idea_en": "Replace the text prompt with play: act the story out and let AI write it down.",
+      "idea_zh": "用“玩”代替文字提示：把故事演出来，让 AI 把它写下来。",
+      "technique": "A multi-agent AI pipeline interprets direct manipulations of virtual characters and props as structured Intent Frames, shown as rearrangeable story marbles, which a large language model then turns into prose.",
+      "technique_zh": "多智能体 AI 流程把对虚拟角色和道具的直接操作解读成结构化的“意图帧”，显示为可重新排列的故事弹珠，再由大语言模型写成文字。",
+      "exercise_en": "Film yourself moving two toys on a table through three short scenes, describe each clip with a vision-language model, write the descriptions on cards you can reorder, and ask an LLM to tell the story in that order. Twist: shuffle the cards and compare the stories.",
+      "exercise_zh": "拍下自己在桌上摆弄两个玩具、演出三个小场景的过程，用视觉语言模型描述每段视频，把描述写在可以调换顺序的卡片上，再让大语言模型按这个顺序讲出故事。变体：打乱卡片顺序，比较生成的故事有何不同。",
+      "interaction": [
+        "game-play",
+        "drawing-creation",
+        "hand-body"
+      ],
+      "platform": [
+        "headset"
+      ],
+      "tech": [
+        "mixed-reality headset",
+        "multi-agent LLM pipeline"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "RHvioD_b2Hc",
+        "url": "https://www.youtube.com/watch?v=RHvioD_b2Hc"
+      },
+      "source_url": "https://doi.org/10.1145/3772318.3791159",
+      "ai_cat": "cocreate"
+    },
+    {
+      "id": "xueyang-wang--roomify",
+      "creator_ids": [
+        "xueyang-wang",
+        "robert-xiao"
+      ],
+      "title": "Roomify",
+      "year": 2026,
+      "description": "Your own room, re-themed for VR: after an in-situ scan, AI maps each real wall and piece of furniture to a themed virtual counterpart in the same place, so the fantasy world keeps the room's layout and you can still sit on the real chair. By Xueyang Wang, Qinxuan Cen, Weitao Bi, Yunxiang Ma, Xin Yi, Robert Xiao, Xinyi Fu and Hewu Li (Tsinghua University and others), CHI 2026.",
+      "description_zh": "把你自己的房间换个主题搬进 VR：现场扫描之后，AI 把每面真实的墙和每件家具映射成同一位置上的主题化虚拟对应物，于是幻想世界保留了房间布局，你仍然可以坐到真实的椅子上。作者 Xueyang Wang、Qinxuan Cen、Weitao Bi、Yunxiang Ma、Xin Yi、Robert Xiao、Xinyi Fu 与 Hewu Li（清华大学等），CHI 2026。",
+      "idea_en": "Restyle a room completely but keep its geometry, so the virtual world stays safe to touch.",
+      "idea_zh": "彻底改换房间的风格，却保留它的几何结构，让虚拟世界依然可以安全触碰。",
+      "technique": "Scene understanding labels the scanned room's geometry and furniture, AI spatial reasoning maps each item to a theme-appropriate virtual object with the same footprint and function, and the generated environment is edited in mixed reality and previewed in VR.",
+      "technique_zh": "场景理解为扫描后的房间几何与家具打上标签，AI 空间推理把每件物品映射成占地和功能相同、但符合主题的虚拟物体，生成的环境先在混合现实中编辑，再在 VR 中预览。",
+      "exercise_en": "Scan your room with a phone (Polycam or Scaniverse), list each piece of furniture with its size, and ask an LLM to propose a same-size replacement for a chosen theme; block the replacements out in Unity or WebXR on top of the scan and walk through it. Twist: choose a theme in which the bed must become something you would never lie on.",
+      "exercise_zh": "用手机（Polycam 或 Scaniverse）扫描房间，列出每件家具及其尺寸，请大语言模型为选定主题给出尺寸相同的替代物；在 Unity 或 WebXR 里把这些替代物叠放在扫描模型上，走一遍。变体：选一个主题，让床必须变成一样你绝不会躺上去的东西。",
+      "interaction": [
+        "portal-world",
+        "spatial-mapping"
+      ],
+      "platform": [
+        "headset"
+      ],
+      "tech": [
+        "VR headset",
+        "room scanning",
+        "scene understanding",
+        "generative AI"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "zPEOMXafHVA",
+        "url": "https://www.youtube.com/watch?v=zPEOMXafHVA"
+      },
+      "source_url": "https://arxiv.org/abs/2603.04917",
+      "ai_cat": "restyle"
+    },
+    {
+      "id": "ryo-suzuki--humanoidturk",
+      "creator_ids": [
+        "ryo-suzuki"
+      ],
+      "title": "HumanoidTurk",
+      "year": 2026,
+      "description": "A humanoid robot becomes a force-feedback device: while you race in VR, a Unitree G1 standing behind your chair grips it and moves it in sync with the game's g-forces. By DaeHo Lee, Ryo Suzuki and Jin-Hyuk Hong (GIST and University of Colorado Boulder), CHI 2026.",
+      "description_zh": "一台人形机器人变成了力反馈装置：你在 VR 里赛车时，站在椅子后面的 Unitree G1 抓住椅背，随着游戏里的 G 力同步推动它。作者 DaeHo Lee、Ryo Suzuki 与 Jin-Hyuk Hong（光州科学技术院与科罗拉多大学博尔德分校），CHI 2026。",
+      "idea_en": "Repurpose a humanoid robot as a haptic medium instead of a companion.",
+      "idea_zh": "把人形机器人当作触觉媒介，而不是陪伴角色。",
+      "technique": "In-game g-force signals from a driving simulator are filtered into smooth motion commands that the humanoid executes through its grip on the seat, synchronised with the VR view on a Meta Quest 3.",
+      "technique_zh": "赛车模拟器里的 G 力信号经过滤波，转换成平滑的动作指令，由抓住座椅的人形机器人执行，并与 Meta Quest 3 中的 VR 画面同步。",
+      "exercise_en": "Pair up: one student plays a VR or phone racing game, the other stands behind the chair and pushes it only when a simple on-screen cue (driven by the game's turn direction) tells them to. Twist: replace the person with a cheap servo or a vibrating motor in the chair and compare.",
+      "exercise_zh": "两人一组：一人玩 VR 或手机赛车游戏，另一人站在椅子后面，只在屏幕提示出现时（由游戏的转向方向驱动）推动椅子。变体：把人换成椅子上的便宜舵机或振动马达，比较两者的感受。",
+      "interaction": [
+        "hand-body",
+        "game-play"
+      ],
+      "platform": [
+        "headset"
+      ],
+      "tech": [
+        "Unitree G1 humanoid",
+        "Meta Quest 3",
+        "Assetto Corsa"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "ggsCDhQv6Hg",
+        "url": "https://www.youtube.com/watch?v=ggsCDhQv6Hg"
+      },
+      "source_url": "https://arxiv.org/abs/2601.18975"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Shio Miyafuji, Arisa Kohtani & Hideki Koike — Chromotion",
+      "why": "CHI 2026: controls motion-induced colour along a moving object's path with high-speed temporal additive projection; no public video found",
+      "link": "https://doi.org/10.1145/3772318.3791975",
+      "found_via": "hideki-koike",
+      "status": "no_video"
+    },
+    {
+      "name": "Joyce E. Passananti, Tobias Höllerer & Jennifer Jacobs — Clay ARtools",
+      "why": "CHI 2026: edit clay 3D-printing toolpaths in AR with digital versions of hand ceramic tools, built with a ceramicist; no public video found",
+      "link": "https://sites.cs.ucsb.edu/~holl/pubs/Passananti-2026-CHI.pdf",
+      "found_via": "seed",
+      "status": "no_video"
+    },
+    {
+      "name": "Yanni Mei, Samuel Wendt & Jan Gugenheimer — Meme, Myself and AR",
+      "why": "CHI 2026: sharing memes in face-to-face conversation through AR; no public video found",
+      "link": "https://programs.sigchi.org/chi/2026",
+      "found_via": "seed",
+      "status": "no_video"
+    },
+    {
+      "name": "Jun Zhang et al. — Obscuring Undesirable Individuals with Diminished Reality",
+      "why": "CHI 2026: diminished reality that hides people who cause social discomfort; provocative, but no public video found",
+      "link": "https://programs.sigchi.org/chi/2026",
+      "found_via": "seed",
+      "status": "no_video"
+    },
+    {
+      "name": "Jonas Wombacher, Zhipeng Li & Jan Gugenheimer — SwitchAR",
+      "why": "UIST 2025: secretly switches passthrough AR to a 3D reconstruction (change blindness) to allow redirected walking in AR; only a 30 s preview and the talk are online, recheck for a full video figure",
+      "link": "https://www.youtube.com/watch?v=C1MEymMzFk8",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Tianyu Xu, Adarsh Kowdle et al. (Google) — MoXaRt",
+      "why": "CHI 2026: look at a face or instrument in XR to isolate or mute its sound; only a 21 s author demo online",
+      "link": "https://cadyxu.com/projects/moxart/",
+      "found_via": "ruofei-du",
+      "status": "open"
+    },
+    {
+      "name": "Exertion Games Lab (Florian 'Floyd' Mueller, Monash) — XTea and other CHI 2026 body/MR papers",
+      "why": "Bubble-tea cup whose headset environment an LLM retunes to change perceived flavour (CHI 2026); lab publishes many bodily-play MR papers, only talk videos found so far",
+      "link": "https://exertiongameslab.org/presentation-videos-from-chi-2026",
+      "found_via": "botao-amber-hu",
+      "status": "open"
+    },
+    {
+      "name": "Peisen Xu, Jérémie Garcia et al. — FleetScape",
+      "why": "UIST 2026 (Nov 2026): mixed-reality sandtable for supervising drone fleets; preprint only, no video yet",
+      "link": "https://arxiv.org/abs/2607.26423",
+      "found_via": "seed",
+      "status": "no_video"
+    },
+    {
+      "name": "Jingyi Zhang, Simon Julier & Anthony Steed (UCL) — Do You See What I See?",
+      "why": "UIST 2025: brings live pedestrians into a remote VR user's replica of an outdoor AR site; only a 30 s preview and the talk are online",
+      "link": "https://www.youtube.com/watch?v=QL9QVNNA_ss",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Guanhong Liu, Nan Cao et al. — ViviClay",
+      "why": "UIST 2025: ceramics with thermochromic coatings and internal pipes that animate their surface; possible Related Art pick, only preview and talk online",
+      "link": "https://www.youtube.com/watch?v=wHU2Uo78lPI",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Kaho Kagami & Kenri Kodaka — Copylight Hemispheres Illusion",
+      "why": "UIST 2025 demo: head tapping, hemisphere lighting and stereo sound make a bulb's colour feel 'teleported' into one side of the head; 30 s preview only, effect is not visible on video",
+      "link": "https://www.youtube.com/watch?v=W2dqCLYt5J8",
+      "found_via": "hideki-koike",
+      "status": "open"
+    },
+    {
+      "name": "Jesse T. Gonzalez, Alexandra Ion, Scott E. Hudson et al. — Towards Fluent Interaction with Cyber-Physical Architecture",
+      "why": "CHI 2026 Best Paper on moving walls, but the contribution is workshops and a Wizard-of-Oz study rather than a working AR system",
+      "link": "https://www.youtube.com/watch?v=xvUrNpQRYok",
+      "found_via": "alexandra-ion",
+      "status": "not_ar"
+    },
+    {
+      "name": "Hayato Saiki, Chunggi Lee, Hanspeter Pfister et al. — BRIDGE",
+      "why": "CHI 2026 Best Paper: turns basketball broadcasts into 3D wheelchair-basketball reconstructions; video analytics, not AR",
+      "link": "https://arxiv.org/abs/2602.23288",
+      "found_via": "harvard-vcg",
+      "status": "not_ar"
+    }
+  ]
+}

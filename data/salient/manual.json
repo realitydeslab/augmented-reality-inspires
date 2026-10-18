@@ -44,5 +44,25 @@
   "why_en": "A song's lyrics turn up in the world: on a rabbit's sign, a plane's banner, and in speech bubbles over passers-by.",
   "why_zh": "歌词出现在真实世界里：兔子举的牌子上、飞机拖的横幅上，还有路人头顶的对话气泡里。",
   "cat": "rewrite"
+ },
+ "david-lindlbauer--shadows-of-reality": {
+  "why_en": "Your private virtual windows cast real shadows on the floor, so people nearby know not to walk through them.",
+  "why_zh": "你私人的虚拟窗口在地板上投下真实的影子，让身边的人知道别从中间走过。",
+  "cat": "shadow"
+ },
+ "mit-fluid-interfaces--allegory-of-the-cave": {
+  "why_en": "A shadow character on the wall wants to switch off the real light, and you stop him by moving real objects into his way.",
+  "why_zh": "墙上的影子角色想关掉真正的灯，你只能把真实的物体挡在他面前来阻止他。",
+  "cat": "alive"
+ },
+ "qingzhu-zhang--taste-as-form": {
+  "why_en": "Every bite becomes a shape above your plate, so you can see what you taste.",
+  "why_zh": "每吃一口，盘子上方就长出一个形状，让你看见自己尝到的味道。",
+  "cat": "senses"
+ },
+ "judith-amores--storycaster": {
+  "why_en": "Tell a story out loud and the walls of the room become it.",
+  "why_zh": "把故事讲出来，房间的墙就变成故事本身。",
+  "cat": "rewrite"
  }
 }

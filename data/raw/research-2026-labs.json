@@ -1,0 +1,512 @@
+{
+  "batch": "research-2026-labs",
+  "creators": [
+    {
+      "id": "kaist-make-lab",
+      "name": "Make Lab (KAIST) — Andrea Bianchi",
+      "role": "HCI research group in KAIST's Department of Industrial Design, directed by Associate Professor Andrea Bianchi",
+      "based": "Daejeon, South Korea",
+      "bio": "Andrea Bianchi's Make Lab works where design meets engineering, building tools for electronics prototyping, digital fabrication, mixed-reality interaction and haptic or robotic interfaces for makers and designers. AdapTest, made with Adobe Research, lets designers author XR interfaces that respond to the room from inside the headset.",
+      "why": "Treats designers as the users of XR tools, so the room itself becomes something you design for.",
+      "links": {
+        "site": "https://make.kaist.ac.kr",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "https://www.youtube.com/@MAKinteract",
+        "github": "https://github.com/makelab-kaist"
+      },
+      "role_zh": "韩国科学技术院（KAIST）工业设计系的人机交互研究组，由副教授 Andrea Bianchi 领导",
+      "based_zh": "大田，韩国",
+      "bio_zh": "Andrea Bianchi 的 Make Lab 站在设计与工程的交界处，为创客和设计师开发电子原型、数字制造、混合现实交互以及触觉和机器人界面方面的工具。与 Adobe Research 合作的 AdapTest 让设计师直接在头显里创作会随房间环境变化的 XR 界面。",
+      "why_zh": "把设计师当作 XR 工具的使用者，让房间本身也成为需要设计的对象。",
+      "connected_to": [
+        "doga-dogan"
+      ],
+      "discovered_via": "doga-dogan"
+    },
+    {
+      "id": "ie-robotics-ai-lab",
+      "name": "IE Robotics & AI Lab — Eduardo Castelló Ferrer",
+      "role": "Robotics and AI lab (CyPhy Life, Robotics & AI Lab) at IE University's School of Science & Technology, led by Eduardo Castelló Ferrer",
+      "based": "Madrid, Spain",
+      "bio": "The lab builds robots that share everyday spaces with people. Its AIfred project mounts a projector on a desk robot arm so that generative-AI help lands on the paper a student is working on, following an earlier robotic study companion called Alfred (2025).",
+      "why": "Moves AI assistance off the screen and onto the physical work, carried there by a robot.",
+      "links": {
+        "site": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "https://www.youtube.com/@IERoboticsAILab",
+        "github": ""
+      },
+      "role_zh": "IE 大学科学与技术学院的机器人与人工智能实验室（CyPhy Life, Robotics & AI Lab），由 Eduardo Castelló Ferrer 领导",
+      "based_zh": "马德里，西班牙",
+      "bio_zh": "这个实验室研究与人共处日常空间的机器人。其 AIfred 项目在桌面机械臂末端装上投影仪，让生成式 AI 的帮助直接落在学生正在书写的纸上；它的前身是 2025 年的机器人学习伙伴 Alfred。",
+      "why_zh": "让机器人把 AI 的帮助从屏幕上搬到手头真实的作业上。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "dzmitry-tsetserukou",
+      "name": "Dzmitry Tsetserukou — Skoltech Intelligent Space Robotics Lab",
+      "role": "Robotics researcher at Skoltech (Skolkovo Institute of Science and Technology), where he leads the Intelligent Space Robotics Laboratory",
+      "based": "Moscow, Russia",
+      "bio": "Tsetserukou's group works on human-drone and human-robot interaction, combining aerial robotics with haptics, projection and language models. HoverAI gives a drone its own projector, screen and conversational avatar.",
+      "why": "Gives flying robots a face and a voice, so a drone can explain itself in a shared space.",
+      "links": {
+        "site": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "https://www.youtube.com/@Tsetserukou",
+        "github": ""
+      },
+      "role_zh": "斯科尔科沃科技学院（Skoltech）的机器人研究者，领导该校的智能空间机器人实验室",
+      "based_zh": "莫斯科，俄罗斯",
+      "bio_zh": "Tsetserukou 的团队研究人与无人机、人与机器人的交互，把空中机器人与触觉反馈、投影和大语言模型结合在一起。HoverAI 让一架无人机自带投影仪、屏幕和会对话的虚拟形象。",
+      "why_zh": "给会飞的机器人一张脸和一副嗓音，让无人机在共享空间里能说明自己要做什么。",
+      "connected_to": [],
+      "discovered_via": "seed"
+    }
+  ],
+  "works": [
+    {
+      "id": "mit-fluid-interfaces--allegory-of-the-cave",
+      "creator_ids": [
+        "mit-fluid-interfaces"
+      ],
+      "title": "Plato's [AI]legory of the Cave",
+      "year": 2026,
+      "description": "Flipping a real light switch wakes a projected shadow man whose only goal is to switch the light off again; visitors block his way with real blocks, frames and stairs, and he climbs, gives up or kicks, and the kicked blocks really move. By Sam Chin (MIT Media Lab Responsive Environments) with Skye Gao, Leonie Dong, Cathy Fang (Fluid Interfaces) and Alejandro Lopez-Rodriguez; Best in Show in the Expanded Play Gallery at Expanded 2026, Ars Electronica.",
+      "description_zh": "拨动一个真实的电灯开关，投影出的“影子人”便醒来，他唯一的目标就是把灯再关掉；观众用真实的积木、框架和台阶挡住他的路，他会攀爬、放弃，或者一脚踢开，而被踢的积木真的会动。作者为 Sam Chin（MIT Media Lab Responsive Environments 组）与 Skye Gao、Leonie Dong、Cathy Fang（Fluid Interfaces 组）和 Alejandro Lopez-Rodriguez；获 2026 年林茨电子艺术节 Expanded 大会 Expanded Play Gallery 的最佳展品奖。",
+      "idea_en": "An AI character that exists only as a shadow treats the objects you place as its world, and pushes back.",
+      "idea_zh": "一个只以影子形式存在的 AI 角色，把你摆放的物体当成它的世界，还会反过来推它们。",
+      "technique": "A camera thresholds the projected scene and turns shadows, figure, ground and switch into ASCII symbols for an LLM that picks walk, jump, climb or kick inside Matter.js physics; a kick fires an ESP32-driven electromagnet that shoves a magnet-embedded block.",
+      "technique_zh": "摄像头对投影画面做阈值分割，把影子、人物、地面和开关转换成 ASCII 符号交给大语言模型，由它在 Matter.js 物理世界里选择走、跳、爬或踢；一旦决定踢，ESP32 便驱动电磁铁，推动内嵌磁铁的积木。",
+      "exercise_en": "Project a stick figure onto a table and use a webcam to turn the shadows of objects that students place there into collision shapes (threshold the image, then convert contours into Matter.js or p5.js bodies); give the figure one goal, such as reaching a paper switch, and let it walk, jump and climb over the shadows. Twist: each turn, ask a language model to choose the figure's next move from an ASCII map of the scene.",
+      "exercise_zh": "把一个火柴人投影到桌面上，用网络摄像头把同学们放在桌上的物体的影子变成碰撞体（先做阈值分割，再把轮廓转成 Matter.js 或 p5.js 刚体）；给火柴人一个目标，比如走到一张纸做的开关前，让它在影子上走、跳、攀爬。变体：每一步都把场景的 ASCII 地图发给大语言模型，让它决定火柴人的下一步动作。",
+      "interaction": [
+        "projection",
+        "tangible-object",
+        "game-play"
+      ],
+      "platform": [
+        "projection"
+      ],
+      "tech": [
+        "projector",
+        "camera",
+        "LLM",
+        "Matter.js",
+        "ESP32",
+        "electromagnet"
+      ],
+      "video": {
+        "platform": "mp4",
+        "id": "https://samch.in/assets/images/projects/allegory-of-the-cave/cave-FINAL-compressed.mp4",
+        "url": "https://samch.in/assets/images/projects/allegory-of-the-cave/cave-FINAL-compressed.mp4"
+      },
+      "source_url": "https://www.media.mit.edu/projects/allegory-of-the-cave/overview/",
+      "ai_cat": "agent"
+    },
+    {
+      "id": "david-lindlbauer--shadows-of-reality",
+      "creator_ids": [
+        "david-lindlbauer"
+      ],
+      "title": "Shadows of Reality",
+      "year": 2025,
+      "description": "A headset user's virtual windows, invisible to everyone else, cast shadows that a ceiling projector draws on the floor, so a bystander crossing the room walks around them instead of through them. By Talha Khan, Abigail Zimmerman, Edward Andrews, David Lindlbauer and Jacob Biehl (CMU Augmented Perception Lab) at ACM SUI 2025, comparing always-on shadows with shadows that appear only on collision.",
+      "description_zh": "头显用户眼前的虚拟窗口别人看不见，但天花板上的投影仪会把它们的“影子”画在地板上，于是穿过房间的旁人会绕开这些窗口，而不是直接走进去。作者为 Talha Khan、Abigail Zimmerman、Edward Andrews、David Lindlbauer 和 Jacob Biehl（卡内基梅隆大学 Augmented Perception Lab），发表于 ACM SUI 2025，比较了常亮的影子与只在即将碰撞时出现的影子。",
+      "idea_en": "Give private virtual content a public shadow, so the people around you know where not to walk.",
+      "idea_zh": "给私人的虚拟内容投下一道公开的影子，让身边的人知道哪里不该走过去。",
+      "technique": "The positions and sizes of the MR user's virtual panels are mirrored into the room and their footprints are projected onto the floor in real time, either always on or only when a bystander is about to collide (bystander tracking likely external).",
+      "technique_zh": "把 MR 用户虚拟面板的位置和大小映射到真实房间里，实时把它们的“落地轮廓”投影到地板上，可以一直显示，也可以只在旁人快要撞上时出现（旁人的位置可能由外部系统追踪）。",
+      "exercise_en": "Pair a phone-AR or WebXR scene with a cheap projector: whenever a student places a virtual panel in the room, send its floor footprint over a WebSocket to a laptop that projects a soft grey rectangle at the matching spot on the floor (calibrate with four tape marks). Twist: let the shadow darken only as someone else gets close to it.",
+      "exercise_zh": "把手机 AR 或 WebXR 场景和一台便宜的投影仪连起来：同学每在房间里放一个虚拟面板，就通过 WebSocket 把它在地面上的轮廓发给笔记本电脑，由投影仪在地板对应位置投出一块柔和的灰色矩形（用四个胶带标记点做校准）。变体：只有当别人靠近时，影子才逐渐变深。",
+      "interaction": [
+        "projection",
+        "multiplayer-social",
+        "spatial-mapping"
+      ],
+      "platform": [
+        "headset",
+        "projection"
+      ],
+      "tech": [
+        "mixed-reality headset",
+        "floor projection"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "eipjYqtDhrk",
+        "url": "https://www.youtube.com/watch?v=eipjYqtDhrk"
+      },
+      "source_url": "https://augmented-perception.org/publications/2025-shadows.html"
+    },
+    {
+      "id": "ie-robotics-ai-lab--aifred",
+      "creator_ids": [
+        "ie-robotics-ai-lab"
+      ],
+      "title": "AIfred",
+      "year": 2026,
+      "description": "A small robot arm with a projector on its tip watches a student's desk and, when they point, projects AI help right next to their handwriting: maths hints, generated images and drawing guides. By Gregorio Orlando, Milan Groshev and Eduardo Castelló Ferrer (IE University Robotics & AI Lab), arXiv 2026, submitted to ICRA 2027; in their study, students kept more of what they learned once the help was removed than students who used ChatGPT on a laptop.",
+      "description_zh": "一只末端装着投影仪的小型机械臂注视着学生的书桌，学生一指，它就把 AI 的帮助直接投在手写内容旁边：数学提示、生成的图像和绘画引导线。作者为 Gregorio Orlando、Milan Groshev 和 Eduardo Castelló Ferrer（IE 大学机器人与人工智能实验室），2026 年发布于 arXiv，已投稿 ICRA 2027；他们的研究发现，撤掉帮助之后，用它学习的学生比在笔记本电脑上用 ChatGPT 的学生记住得更多。",
+      "idea_en": "Put the AI's answer where the pencil is, not on a second screen.",
+      "idea_zh": "把 AI 的回答放在笔尖旁边，而不是另一块屏幕上。",
+      "technique": "An overhead camera captures the page and detects a pointing gesture, Gemini models interpret the crop and generate guidance or images, and the arm aims its end-effector projector at the right spot on the desk (poses tracked with OptiTrack in the prototype).",
+      "technique_zh": "顶置摄像头拍下纸面并识别指向手势，Gemini 模型理解裁切出的画面并生成提示或图像，再由机械臂把末端的投影仪对准桌面上的合适位置（原型中用 OptiTrack 追踪位姿）。",
+      "exercise_en": "Mount a phone or pico projector above a desk, photograph a handwritten maths problem with a webcam, send it to a multimodal LLM API with the instruction 'give one hint, at most 10 words', and project the hint a few centimetres beside the problem using a four-corner calibration. Twist: project a faint sketch the student can trace instead of words.",
+      "exercise_zh": "在书桌上方架一台手机投影或微型投影仪，用网络摄像头拍下一道手写数学题，连同“只给一个提示，不超过 10 个字”的指令发给多模态大模型 API，再通过四角校准把提示投在题目旁边几厘米处。变体：不投文字，改投一张浅浅的草图，让学生照着描。",
+      "interaction": [
+        "projection",
+        "drawing-creation",
+        "data-information"
+      ],
+      "platform": [
+        "projection"
+      ],
+      "tech": [
+        "robot arm",
+        "mini projector",
+        "overhead camera",
+        "Gemini",
+        "OptiTrack"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "713YKEyMPpI",
+        "url": "https://www.youtube.com/watch?v=713YKEyMPpI"
+      },
+      "source_url": "https://arxiv.org/abs/2609.38737",
+      "ai_cat": "agent"
+    },
+    {
+      "id": "ishikawa-watanabe-lab--projection-mapping-makeup-impressions",
+      "creator_ids": [
+        "ishikawa-watanabe-lab"
+      ],
+      "title": "Impression-Guided Projection Mapping Makeup",
+      "year": 2026,
+      "description": "A user enters an impression word such as 'elegant', a model proposes matching eyeshadow, cheek and lip colours, and a high-speed projector paints them onto her moving face; she checks them in a hand mirror and refines the palette until it suits her skin. By Kemeng Zhang, Hao-Lun Peng and Yoshihiro Watanabe (Watanabe Laboratory, Institute of Science Tokyo), International Journal of Human–Computer Interaction 2026.",
+      "description_zh": "用户输入一个印象词，比如“优雅”，模型就给出相配的眼影、腮红和唇色，高速投影仪把这些颜色直接画在她转动的脸上；她拿着手镜查看效果，不断调整，直到找到最衬自己肤色的那一组。作者为 Kemeng Zhang、Hao-Lun Peng 和 Yoshihiro Watanabe（东京科学大学 Watanabe 实验室），发表于 2026 年的 International Journal of Human–Computer Interaction。",
+      "idea_en": "Try on what a word feels like: generated make-up colours appear on your own face, not on a screen.",
+      "idea_zh": "试戴一个词的感觉：生成的妆容颜色直接出现在你自己的脸上，而不是屏幕上。",
+      "technique": "A text-to-makeup-colour model maps impression words to palettes, and dynamic projection mapping with fast face tracking projects them onto the moving face in a projection-in-the-loop refinement cycle.",
+      "technique_zh": "“文本到妆容颜色”模型把印象词转换成配色，再通过高速人脸追踪的动态投影映射把颜色投到运动的脸上，用户在“投影在环”的循环中边看边调。",
+      "exercise_en": "Build a word-to-colour try-on: ask an LLM API to return three hex colours for a mood word, then project them onto a white mask or a volunteer's cheek with a cheap projector and a webcam face mesh (MediaPipe), masking out the eyes, so the colour follows the face. Twist: let the colours drift slowly with the tone of the user's voice.",
+      "exercise_zh": "做一个“词语试色”装置：让大模型 API 为一个情绪词返回三个十六进制颜色，再用便宜的投影仪和网络摄像头人脸网格（MediaPipe）把颜色投到白色面具或志愿者的脸颊上，并遮掉眼睛区域，让颜色跟着脸移动。变体：让颜色随用户说话的语气慢慢变化。",
+      "interaction": [
+        "face",
+        "projection"
+      ],
+      "platform": [
+        "projection"
+      ],
+      "tech": [
+        "dynamic projection mapping",
+        "high-speed projector",
+        "face tracking",
+        "text-to-colour model"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "xLcoilAGIns",
+        "url": "https://www.youtube.com/watch?v=xLcoilAGIns"
+      },
+      "source_url": "https://www.vision.ict.e.titech.ac.jp/projects/dyn_makeup_gen/",
+      "ai_cat": "generate"
+    },
+    {
+      "id": "mohamed-kari--x-oohri",
+      "creator_ids": [
+        "mohamed-kari"
+      ],
+      "title": "X-OOHRI (Explainable OOHRI)",
+      "year": 2026,
+      "description": "Seen through a Quest 3, the objects in a room are marked with what a home robot can and cannot do with them: colour codes and explanation tags give the reasons, a radial menu lists the possible actions, and the user drags virtual twins to set a goal before the real Stretch robot carries it out. By Lauren W. Wang, Mohamed Kari and Parastoo Abtahi (Princeton Situated Interactions Lab), HRI 2026.",
+      "description_zh": "戴上 Quest 3，房间里的物体都被标注出家用机器人能对它们做什么、不能做什么：颜色编码和解释标签说明原因，环形菜单列出可执行的动作，用户拖动物体的虚拟分身来设定目标，真实的 Stretch 机器人随后去完成。作者为 Lauren W. Wang、Mohamed Kari 和 Parastoo Abtahi（普林斯顿大学 Situated Interactions Lab），发表于 HRI 2026。",
+      "idea_en": "Before you ask a robot to act, let AR show its limits on the objects themselves.",
+      "idea_zh": "在让机器人动手之前，先用 AR 把它的能力边界直接标在物体上。",
+      "technique": "A vision-language model (GPT-5.1) turns passthrough images and robot scans into object-oriented descriptions of affordances and constraints; Unity renders them as signifiers on Quest 3, and confirmed commands go to a Hello Robot Stretch 3 over ROS2.",
+      "technique_zh": "视觉语言模型（GPT-5.1）把透视画面和机器人扫描结果转换成以物体为单位的可供性与限制描述，Unity 在 Quest 3 上把它们渲染成提示符号，确认后的指令通过 ROS2 发给 Hello Robot Stretch 3。",
+      "exercise_en": "Pick five objects on a table and decide, for an imaginary robot that can lift only 300 g and reach 40 cm, which actions are possible; then build a phone-AR scene (AR Foundation or Lens Studio) that colours each object green, yellow or red and shows a one-line reason on tap. Twist: ask a vision-language model to write those reasons from a photo instead of writing them yourself.",
+      "exercise_zh": "在桌上挑五件物体，假设有一台只能举起 300 克、手臂只够得到 40 厘米的机器人，判断它能对每件物体做什么；然后用 AR Foundation 或 Lens Studio 做一个手机 AR 场景，把每件物体标成绿、黄或红色，点一下就显示一句原因。变体：不自己写原因，而是拍一张照片，让视觉语言模型来写。",
+      "interaction": [
+        "data-information",
+        "tangible-object"
+      ],
+      "platform": [
+        "headset"
+      ],
+      "tech": [
+        "Meta Quest 3",
+        "Unity",
+        "GPT-5.1",
+        "Hello Robot Stretch 3",
+        "ROS2"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "eFOGPiuS-9Q",
+        "url": "https://www.youtube.com/watch?v=eFOGPiuS-9Q"
+      },
+      "source_url": "https://arxiv.org/abs/2601.14587",
+      "ai_cat": "understand"
+    },
+    {
+      "id": "kaist-make-lab--adaptest",
+      "creator_ids": [
+        "kaist-make-lab",
+        "doga-dogan"
+      ],
+      "title": "AdapTest",
+      "year": 2026,
+      "description": "Inside Apple Vision Pro, a designer selects parts of a floating interface and writes rules such as 'farther than 2.5 m: hide four elements and scale one by 1.2', 'dark' or 'occluded', compares the variants side by side, and walks around the room to watch them switch live. By Jungwoo Rhee, Guhn Lee, Yumin Jung, Mustafa Doga Dogan, Kongpyung Justin Moon and Andrea Bianchi (KAIST Make Lab with Adobe Research), ACM ISS 2026.",
+      "description_zh": "设计师戴着 Apple Vision Pro，选中悬浮界面中的元素，写下规则，比如“距离超过 2.5 米：隐藏四个元素、把一个元素放大 1.2 倍”，或“光线暗”“被遮挡”时怎么变；然后并排比较各个版本，再在房间里走动，看它们实时切换。作者为 Jungwoo Rhee、Guhn Lee、Yumin Jung、Mustafa Doga Dogan、Kongpyung Justin Moon 和 Andrea Bianchi（KAIST Make Lab 与 Adobe Research），发表于 ACM ISS 2026。",
+      "idea_en": "Design an interface for the room it will live in: distance, light and occlusion become design inputs.",
+      "idea_zh": "为界面将要“住”的房间来设计它：距离、光线和遮挡都成了设计的输入。",
+      "technique": "A React web editor and a SwiftUI visionOS app share one project; a rule engine reads live distance, brightness and occlusion values and applies variant-specific CSS to the HTML interface shown as a spatial window.",
+      "technique_zh": "React 网页编辑器和 SwiftUI 编写的 visionOS 应用共用同一个项目；规则引擎读取实时的距离、亮度和遮挡数值，为显示成空间窗口的 HTML 界面套用对应版本的 CSS。",
+      "exercise_en": "Make one WebXR or phone-AR info panel with three CSS variants (near, far, dark) and write if-then rules that switch between them from the camera distance and the average brightness of the camera feed; test it by walking around the room and dimming the lights. Twist: add a rule for when a real object covers part of the panel.",
+      "exercise_zh": "用 WebXR 或手机 AR 做一个信息面板，准备“近、远、暗”三个 CSS 版本，再写几条“如果……就……”规则，根据相机距离和画面平均亮度在版本之间切换；在房间里走动、调暗灯光来测试。变体：再加一条规则，处理真实物体挡住面板一部分的情况。",
+      "interaction": [
+        "spatial-mapping",
+        "data-information"
+      ],
+      "platform": [
+        "headset"
+      ],
+      "tech": [
+        "Apple Vision Pro",
+        "visionOS",
+        "SwiftUI",
+        "React"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "imBZi7NmE6o",
+        "url": "https://www.youtube.com/watch?v=imBZi7NmE6o"
+      },
+      "source_url": "https://make.kaist.ac.kr/project/2026-adaptest"
+    },
+    {
+      "id": "dzmitry-tsetserukou--hoverai",
+      "creator_ids": [
+        "dzmitry-tsetserukou"
+      ],
+      "title": "HoverAI",
+      "year": 2026,
+      "description": "A drone hovers in front of a person, listens, and answers through a lip-synced avatar that its own laser projector shows on a small screen it carries, adapting the avatar to the person it sees. By Yuhua Jin, Nikita Kuzmin, Georgii Demianchuk, Mariya Lezina, Fawad Mehboob, Issatay Tokmurziyev, Miguel Altamirano Cabrera, Muhammad Ahsan Mustafa and Dzmitry Tsetserukou (Skoltech), HRI 2026 late-breaking report.",
+      "description_zh": "一架无人机悬停在人面前，听人说话，再通过一个口型同步的虚拟形象来回答：这个形象由机上的激光投影仪投在它自带的小屏幕上，还会根据眼前的人调整外观。作者为 Yuhua Jin、Nikita Kuzmin、Georgii Demianchuk、Mariya Lezina、Fawad Mehboob、Issatay Tokmurziyev、Miguel Altamirano Cabrera、Muhammad Ahsan Mustafa 和 Dzmitry Tsetserukou（Skoltech），发表于 HRI 2026 的 Late-Breaking Report。",
+      "idea_en": "A flying assistant that carries its own face, so it can explain itself wherever it goes.",
+      "idea_zh": "一个自带“脸”的飞行助手，飞到哪里都能把自己的意图说清楚。",
+      "technique": "An onboard RGB camera and microphone feed voice-activity detection, Whisper speech recognition, LLM intent classification with retrieval and XTTS v2 speech, while a MEMS laser projector shows the lip-synced avatar on a front-mounted semi-rigid screen.",
+      "technique_zh": "机载 RGB 摄像头和麦克风的数据依次经过语音活动检测、Whisper 语音识别、结合检索的大语言模型意图分类和 XTTS v2 语音合成；MEMS 激光投影仪把口型同步的虚拟形象投在机头的半刚性屏幕上。",
+      "exercise_en": "Tape a phone to a cardboard 'drone' on a selfie stick, run a talking-avatar web page on it (speech recognition, an LLM API and text-to-speech, with the mouth opening to the audio volume), and carry it up to classmates to give directions around the building. Twist: let the avatar change its expression depending on how far away the listener stands.",
+      "exercise_zh": "把手机贴在绑着自拍杆的纸板“无人机”上，运行一个会说话的虚拟形象网页（语音识别 + 大模型 API + 语音合成，嘴巴随音量张合），举着它走到同学面前，为他们指引楼里的方向。变体：让虚拟形象的表情随听者站得远近而变化。",
+      "interaction": [
+        "voice-sound",
+        "projection",
+        "face"
+      ],
+      "platform": [
+        "projection"
+      ],
+      "tech": [
+        "drone",
+        "MEMS laser projector",
+        "Whisper",
+        "LLM",
+        "XTTS v2"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "FYU8qzoQSK0",
+        "url": "https://www.youtube.com/watch?v=FYU8qzoQSK0"
+      },
+      "source_url": "https://arxiv.org/abs/2601.13801",
+      "ai_cat": "agent"
+    },
+    {
+      "id": "raffaello-dandrea--way-of-water",
+      "creator_ids": [
+        "raffaello-dandrea"
+      ],
+      "title": "The Way of Water",
+      "year": 2025,
+      "description": "At night in the Venetian lagoon, a fleet of 24 lit autonomous water drones moves in choreographed formations to music, turning the water surface into a moving canvas of light and spray. Led by Aswin Ramachandran in Raffaello D'Andrea's Institute for Dynamical Systems and Control at ETH Zurich for Time Space Existence 2025 (Venice Biennale, Forte Marghera); the choreography framework is described in arXiv 2607.02174 (2026).",
+      "description_zh": "夜晚的威尼斯潟湖上，24 艘亮着灯的自主水面无人船随音乐变换队形，把水面变成一幅流动的光与水花之画。项目由 Aswin Ramachandran 在 Raffaello D'Andrea 领导的苏黎世联邦理工学院动态系统与控制研究所主导，参展 2025 年威尼斯双年展期间的 Time Space Existence 展（Forte Marghera）；其编舞框架发表于 arXiv 2607.02174（2026）。",
+      "idea_en": "Choreograph many small lit robots like dancers on a timeline; in AR, a swarm of anchored lights can turn a pond or a plaza into a stage.",
+      "idea_zh": "像给舞者编舞一样，在时间轴上编排一群发光的小机器人；在 AR 里，一群锚定在场地上的光点也能把池塘或广场变成舞台。",
+      "technique": "Distributed control with about 5 cm navigation accuracy keeps the boats synchronised, while a DAW-like 'Studio' timeline sequences each boat's path, water nozzles and lights to the music.",
+      "technique_zh": "分布式控制让各艘船以约 5 厘米的导航精度保持同步，一个类似音乐制作软件（DAW）的“Studio”时间轴按音乐编排每艘船的路线、喷嘴和灯光。",
+      "exercise_en": "Choreograph 12 glowing virtual buoys on a real pond, fountain or floor with phone AR (AR Foundation or 8th Wall), keyframing their paths and colours on a simple timeline synced to a 60-second music track. Twist: give each visitor's phone control of one buoy and challenge the group to hold a formation.",
+      "exercise_zh": "用手机 AR（AR Foundation 或 8th Wall）在真实的池塘、喷泉或地面上编排 12 个发光的虚拟浮标，在一条与 60 秒音乐同步的简单时间轴上为它们的路线和颜色打关键帧。变体：让每位观众用自己的手机控制一个浮标，挑战大家一起保持队形。",
+      "interaction": [
+        "performance-stage",
+        "location-geo",
+        "perception-art"
+      ],
+      "platform": [
+        "projection"
+      ],
+      "tech": [
+        "autonomous water drones",
+        "distributed control",
+        "timeline choreography"
+      ],
+      "video": {
+        "platform": "youtube",
+        "id": "G4cM6xbG7PA",
+        "url": "https://www.youtube.com/watch?v=G4cM6xbG7PA"
+      },
+      "source_url": "https://arxiv.org/abs/2607.02174",
+      "related_cat": "sky"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Meta Reality Labs (Eric Whitmire, Hrvoje Benko et al.) — TouchFusion",
+      "why": "A wristband that turns any surface or the palm into a trackpad whose controls depend on where you tap, for AR glasses (arXiv 2602.15011, venue unknown). Strong idea, but its YouTube video 0fdCwHu7uaA has embedding disabled, so the checker rejects it; look for an embeddable copy.",
+      "link": "https://arxiv.org/abs/2602.15011",
+      "found_via": "meta-rl-research",
+      "status": "open"
+    },
+    {
+      "name": "Stanescu, Skreinig, Langlotz, Zollmann, Mohr, Schmalstieg, Billinghurst & Kalkofen — Seeing through the Eyes of AI: Situated Explainability in AR",
+      "why": "Shows an AI system's explanations live in the physical workspace (arXiv, October 2026, no venue). No video yet; recheck.",
+      "link": "https://arxiv.org/abs/2610.03232",
+      "found_via": "mark-billinghurst",
+      "status": "open"
+    },
+    {
+      "name": "Yuheng Wu, Jaewook Lee, Jon E. Froehlich, Yuhang Zhao et al. — SceneGlance",
+      "why": "Wearable AR for low-vision users that highlights objects by importance (ASSETS 2026). A video may appear around the conference (25–28 October 2026).",
+      "link": "https://arxiv.org/abs/2607.10902",
+      "found_via": "makeability-lab",
+      "status": "open"
+    },
+    {
+      "name": "Xiaoan Liu, Eric J. Gonzalez, Nels Numan, Ryo Suzuki, Mar Gonzalez-Franco et al. — Semantic Reality",
+      "why": "Vision Pro AR that draws how nearby objects relate to each other, using a multimodal LLM (arXiv 2604.05265). Only a 10-minute NYU ITP thesis talk exists (vimeo 1091961434); wait for a short demo cut.",
+      "link": "https://arxiv.org/abs/2604.05265",
+      "found_via": "ryo-suzuki",
+      "status": "open"
+    },
+    {
+      "name": "Xiaoan Liu, DaeHo Lee, Eric J. Gonzalez, Mar Gonzalez-Franco & Ryo Suzuki — VisionClaw",
+      "why": "Always-on smart-glasses agent (Meta Ray-Ban, Gemini Live, OpenClaw) that acts on what you look at, e.g. adds a product to an Amazon cart (arXiv 2604.03486). Its 26-second video sDzJoMhh2ro shows the same idea as the gallery's Ray-Ban product scanner, Sai-Fi and the Big Mac-ordering glasses.",
+      "link": "https://arxiv.org/abs/2604.03486",
+      "found_via": "ryo-suzuki",
+      "status": "duplicate"
+    },
+    {
+      "name": "Peter He, Valdemar Danry, Daniel Kaijzer, Yutong Wu, Ashley Neall et al. (MIT Media Lab) — Human Operator",
+      "why": "MIT Hard Mode 2026 hackathon winner: an AI sees through a first-person camera and moves your hand with electrical muscle stimulation (video fCLxENGs7CY; scenes after 0:28 are imagined). Same idea as Pedro Lopes's Generative Muscle Stimulation, already in the gallery.",
+      "link": "https://www.media.mit.edu/projects/human-operator/overview/",
+      "found_via": "mit-fluid-interfaces",
+      "status": "duplicate"
+    },
+    {
+      "name": "NTT Docomo R&D with NAIST CARE Lab (Kiyoshi Kiyokawa) — World Link Door",
+      "why": "Opening a real door in Vision Pro reveals an aligned virtual world you can step into; Expo 2025 demos and a Miraikan trial in 2026 (videos dTmxHglFMds, ohQwFjhEIsg). Concept already in the gallery via takashi-yoshinaga--mr-door-quest3.",
+      "link": "https://www.naist.jp/pressrelease/260611.pdf",
+      "found_via": "kiyoshi-kiyokawa",
+      "status": "duplicate"
+    },
+    {
+      "name": "Nathan DeVrio, Vimal Mollyn & Chris Harrison — VelociTrack",
+      "why": "Touch on uninstrumented tables and walls from about 800 Hz headset-camera finger tracking (MobileHCI 2026, video yiul4vFNyhA). Incremental next to EgoTouch and MRTouch, already in the gallery.",
+      "link": "https://www.figlab.com/research/2026/velocitrack",
+      "found_via": "chris-harrison-figlab",
+      "status": "duplicate"
+    },
+    {
+      "name": "Qinchuan Zhang, Weibo Xu & Yunge Wen — SyncSpace",
+      "why": "Scans a room with Quest 3, restyles it as a World Labs Marble Gaussian-splat world aligned to the room, and reveals it with a hand-tracked 'engulfment' gesture (arXiv, July 2026). No public video found.",
+      "link": "https://arxiv.org/abs/2607.10050",
+      "found_via": "seed",
+      "status": "no_video"
+    },
+    {
+      "name": "Bingyao Huang & Haibin Ling — LICOA",
+      "why": "A mobile robot with a steerable-mirror projector places projections where a spoken instruction asks (arXiv, October 2026). No public video found.",
+      "link": "https://arxiv.org/abs/2610.21282",
+      "found_via": "seed",
+      "status": "no_video"
+    },
+    {
+      "name": "Dzmitry Tsetserukou's lab (Skoltech) — OmniAI",
+      "why": "Follow-up to HoverAI: a drone switches its LLM replies between its onboard screen and projections on walls and floors (arXiv, August 2026). No public video found yet.",
+      "link": "https://arxiv.org/abs/2608.00721",
+      "found_via": "dzmitry-tsetserukou",
+      "status": "no_video"
+    },
+    {
+      "name": "Anhong Guo's group (University of Michigan) — Generative Tutorial",
+      "why": "AR that generates goal images and demonstration videos from the user's own workspace (arXiv, September 2026). No public video found.",
+      "link": "https://arxiv.org/abs/2609.24955",
+      "found_via": "anhong-guo",
+      "status": "no_video"
+    },
+    {
+      "name": "Zhang, Su, Kondoh, Asada, Starner, Kunze, Itoh & Rekimoto — OpticalAging",
+      "why": "Tunable-lens glasses that simulate presbyopia in one's 40s, 50s or 60s so designers can feel ageing eyesight (Augmented Humans 2026). Very relevant to design teaching; no public video found.",
+      "link": "https://arxiv.org/abs/2506.19307",
+      "found_via": "yuta-itoh",
+      "status": "no_video"
+    },
+    {
+      "name": "Mikawa & Fukiage (NTT / University of Tokyo) — vection signage",
+      "why": "Moving stripes on public displays induce a sense of self-motion that steers pedestrians (arXiv, September 2026). No public video found.",
+      "link": "https://arxiv.org/abs/2609.11088",
+      "found_via": "seed",
+      "status": "no_video"
+    },
+    {
+      "name": "UCSB (Misha Sra, Tobias Höllerer et al.) — FenceXR",
+      "why": "Magic Leap 2 fencing replays with notes anchored to the fencer's joints (arXiv, September 2026). No public video found.",
+      "link": "https://arxiv.org/abs/2609.19505",
+      "found_via": "seed",
+      "status": "no_video"
+    },
+    {
+      "name": "Pengfei Xu (Shenzhen University) — ReRoom",
+      "why": "A mixed-reality agent that proposes room layouts in place (arXiv, September 2026). No public video found.",
+      "link": "https://arxiv.org/abs/2609.03596",
+      "found_via": "seed",
+      "status": "no_video"
+    },
+    {
+      "name": "Tianyi Xiao (ETH Zurich) — HolmeSketcher",
+      "why": "Generative 3D sketch mapping in XR for crime-scene investigation (arXiv 2604.18039). No public video found.",
+      "link": "https://arxiv.org/abs/2604.18039",
+      "found_via": "tianyi-xiao",
+      "status": "no_video"
+    },
+    {
+      "name": "Chunggi Lee, Tica Lin, Yalong Yang & Hanspeter Pfister — Who's That Player?",
+      "why": "XR sports viewing that shows how the system interpreted a spoken query about the players (arXiv, August 2026). No public video found.",
+      "link": "https://arxiv.org/abs/2608.00876",
+      "found_via": "harvard-vcg",
+      "status": "no_video"
+    },
+    {
+      "name": "Hundiwala & Andrés Monroy-Hernández (Princeton) — AnchorNote",
+      "why": "Speech turns into AR sticky notes anchored in the room (arXiv 2603.20199). No public video found.",
+      "link": "https://arxiv.org/abs/2603.20199",
+      "found_via": "andres-monroy-hernandez",
+      "status": "no_video"
+    },
+    {
+      "name": "Meta — Gazeify Then Voiceify",
+      "why": "IUI 2026 paper from Meta on gaze followed by voice input. No public video found.",
+      "link": "https://arxiv.org/abs/2601.19281",
+      "found_via": "meta-rl-research",
+      "status": "no_video"
+    }
+  ]
+}

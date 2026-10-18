@@ -208,14 +208,6 @@
   "batch": "r5-research"
  },
  {
-  "name": "Mohamed Kari",
-  "why": "First author of TransforMR and SoundsRide (Porsche / ETH Zurich); mixed reality that re-skins the street and the car ride.",
-  "link": "https://mkari.de/transformr",
-  "found_via": "christian-holz",
-  "status": "open",
-  "batch": "r5-research"
- },
- {
   "name": "Philip Schuette",
   "why": "Dutch artist behind playful interactive installations SUN (a bouncy ball moves the sun) and BODY (your pose as an image search) with Random Studio.",
   "link": "https://www.philipschuette.com",
@@ -558,6 +550,46 @@
   "found_via": "related-art",
   "status": "open",
   "batch": "related-sky-light"
+ },
+ {
+  "name": "Jonas Wombacher, Zhipeng Li & Jan Gugenheimer — SwitchAR",
+  "why": "UIST 2025: secretly switches passthrough AR to a 3D reconstruction (change blindness) to allow redirected walking in AR; only a 30 s preview and the talk are online, recheck for a full video figure",
+  "link": "https://www.youtube.com/watch?v=C1MEymMzFk8",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "research-2026-hci"
+ },
+ {
+  "name": "Exertion Games Lab (Florian 'Floyd' Mueller, Monash) — XTea and other CHI 2026 body/MR papers",
+  "why": "Bubble-tea cup whose headset environment an LLM retunes to change perceived flavour (CHI 2026); lab publishes many bodily-play MR papers, only talk videos found so far",
+  "link": "https://exertiongameslab.org/presentation-videos-from-chi-2026",
+  "found_via": "botao-amber-hu",
+  "status": "open",
+  "batch": "research-2026-hci"
+ },
+ {
+  "name": "Guanhong Liu, Nan Cao et al. — ViviClay",
+  "why": "UIST 2025: ceramics with thermochromic coatings and internal pipes that animate their surface; possible Related Art pick, only preview and talk online",
+  "link": "https://www.youtube.com/watch?v=wHU2Uo78lPI",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "research-2026-hci"
+ },
+ {
+  "name": "Bingyao Huang (Southwest University)",
+  "why": "Projector-camera research at IEEE VR and ISMAR: Setup-Independent Full Projector Compensation (IEEE VR 2026 Best Paper), GS-ProCams, ProCap and DiffPC. Check for demo videos on GitHub project pages.",
+  "link": "https://github.com/BingyaoHuang",
+  "found_via": "daisuke-iwai",
+  "status": "open",
+  "batch": "research-2026-xr"
+ },
+ {
+  "name": "Kaho Kagami & Kenri Kodaka — Hands-On Magnetic Head",
+  "why": "UIST 2025 demo from Kodaka Lab (the 'magnet-head' illusion: touch and sound make a sound seem to come from inside your head); lab video exists (8fdMUg42gnI). UIST is outside this batch's venues, so it is left for the HCI round.",
+  "link": "https://www.youtube.com/watch?v=8fdMUg42gnI",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "research-2026-xr"
  },
  {
   "name": "Nithin Shankar",

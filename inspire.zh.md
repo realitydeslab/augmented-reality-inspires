@@ -2,7 +2,7 @@
 
 从早期先驱到今天最有创意的增强现实创作者及其 AR 作品目录，由 Reality Design Lab 整理，作为教学的点子库。每件作品都列出视频、核心点子、关键技术和一个课堂练习。
 
-https://augmented.reality.design · 2026-10-14 · 726 位创作者 · 3009 件作品
+https://augmented.reality.design · 2026-10-18 · 745 位创作者 · 3041 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -254,6 +254,7 @@ Adrien Mondot 原本是计算机研究者和杂耍艺人，在 2000 年代中期
 
 用你本来没有的感官、或别人的感官去感知世界。
 
+- **Taste as Form** — Qingzhu (Rachel) Zhang (2026): 每吃一口，盘子上方就长出一个形状，让你看见自己尝到的味道。 https://www.youtube.com/watch?v=YOYLN3olZB0
 - **FeltSight** — Botao 'Amber' Hu (2025): 借用星鼻鼹鼠的感官：用指尖去触摸周围的空间，而不是用眼睛去看。 https://www.youtube.com/watch?v=7Pq6s3VnD0A
 - **Live caption glasses for the Deaf and hard of hearing** — Cayden Pierce (Mentra / AugmentOS) (2025): 给现实生活加字幕，字幕就浮在说话的人旁边。 https://www.youtube.com/watch?v=CRyhfPrfywU
 - **EchoVision** — Botao 'Amber' Hu (2024): 戴上面具发出声音，回声把空间照亮，你就像蝙蝠一样“听见”了空间。 https://www.youtube.com/watch?v=0JyHmEApctg
@@ -356,6 +357,7 @@ Adrien Mondot 原本是计算机研究者和杂耍艺人，在 2000 年代中期
 你的影子或镜像开始有了自己的行为。
 
 - **AR Sundial** — Max van Leeuwen (2025): 一个被真实太阳照亮的虚拟日晷，投下的影子报出真实的时间。 https://x.com/maksvanleeuwen/status/1953056369818439790
+- **Shadows of Reality** — David Lindlbauer (2025): 你私人的虚拟窗口在地板上投下真实的影子，让身边的人知道别从中间走过。 https://www.youtube.com/watch?v=eipjYqtDhrk
 - **Chameleon** — Universal Everything (Matt Pyke) (2024): 街头的数字生物像变色龙一样，模仿路人的动作和样子。 https://www.youtube.com/watch?v=EkGLZ_Ck_-w
 - **Prototype: Someone - a random mirror** — Universal Everything (Matt Pyke) (2024): 一面从不照出你自己的镜子，镜中永远是另一个人在跟着你动。 https://www.youtube.com/watch?v=OS3rX7QU468
 - **The Building (Liberty Science Center)** — Leandro Erlich (2023): 躺在铺在地上的楼房立面上，头顶的大镜子里你就挂在了楼外墙上。 https://www.youtube.com/watch?v=heWqEr-MqEI
@@ -461,6 +463,7 @@ Adrien Mondot 原本是计算机研究者和杂耍艺人，在 2000 年代中期
 把已经存在的东西抹去、替换或重新标注，往往带着观点。
 
 - **La Caverne du Pont Neuf** — JR (2026): 巴黎最古老的桥消失在一座岩洞里。 https://www.youtube.com/watch?v=RngYQyEu54k
+- **Storycaster** — Judith Amores, Microsoft Research — Hrvoje Benko & Andy Wilson (2026): 把故事讲出来，房间的墙就变成故事本身。 https://www.youtube.com/watch?v=ckCtta27LJQ
 - **Ad Block** — Stijn Spanhove (2025): 给街道装上广告拦截：眼前的广告牌直接被遮掉。 https://www.youtube.com/watch?v=KLiEm74cw9Q
 - **Lyrics Everywhere** — Vincent Guigui (2025): 歌词出现在真实世界里：兔子举的牌子上、飞机拖的横幅上，还有路人头顶的对话气泡里。 https://www.youtube.com/watch?v=mG_LEPo_CX4
 - **EARLL** — Makeability Lab — Jon E. Froehlich & Jaewook Lee (2024): 拿起一件日常物品，它在你正在学的语言里的名字就出现在眼前。 https://www.youtube.com/watch?v=AjdQsxkPVkU
@@ -508,6 +511,7 @@ Adrien Mondot 原本是计算机研究者和杂耍艺人，在 2000 年代中期
 
 纸、画和日常物件变得可以交互，或者活了过来。
 
+- **Plato's [AI]legory of the Cave** — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2026): 墙上的影子角色想关掉真正的灯，你只能把真实的物体挡在他面前来阻止他。 https://samch.in/assets/images/projects/allegory-of-the-cave/cave-FINAL-compressed.mp4
 - **Wake Them Up!** — Awu Chen, Suvi Helin & Matti Grüner (2026): 房间里的物件替不在场的主人讲出他们的梦。 https://www.youtube.com/watch?v=4hFSGMyT6cc
 - **Bringing Everyday Objects to Life with AI-Powered Talking Characters** — Fabrice Matulic (Preferred Networks) (2025): 每件家居物品都长出一张脸，性格由它本身是什么来决定。 https://www.youtube.com/watch?v=RkRc7TRDPDQ
 - **Bringing an action figure to life in AR** — Stijn Spanhove (2025): 给玩偶拍张照，一个活过来的它就在真玩偶旁边走来走去。 https://x.com/stspanho/status/1910708661279773101
@@ -890,6 +894,7 @@ Adrien Mondot 原本是计算机研究者和杂耍艺人，在 2000 年代中期
 - **Fluo: fluid and spectral color visualizer** — Keijiro Takahashi (2025): 相机画面成为流体里的颜料。 https://x.com/_kzr/status/1962518821111280037 · 源代码: https://github.com/keijiro/Fluo
 - **Pigment-based color mixing: fluid art** — Keijiro Takahashi (2025): 像颜料那样混色，而不是像光那样。 https://x.com/_kzr/status/1952365070601855069 · 源代码: https://github.com/keijiro/PigmentTest
 - **TrackpadFluid: ten-finger fluid** — Keijiro Takahashi (2025): 触控板变成一个可以多指搅动的颜料池。 https://x.com/_kzr/status/1956332698592805220 · 源代码: https://github.com/keijiro/TrackpadFluid
+- **VR-Doh** — Minchen Li — Simulation Intelligence Group, CMU (2025): 当回应你双手的是材料本身而不是菜单时，XR 里的雕塑才变得自然。 https://www.youtube.com/watch?v=Vdjg6W9O3Ss · 源代码: https://github.com/Simulation-Intelligence/VR-Doh
 - **Coding Adventure: Simulating Fluids** — Sebastian Lague (2023): 水不过是许多努力保持密度恒定的粒子。 https://www.youtube.com/watch?v=rSKMYc1CQHE · 源代码: https://github.com/SebLague/Fluid-Sim
 - **Counter-Strike 2 Smoke Grenades** — Acerola (Garrett Gunnell) (2023): 懂得房间形状的烟：它填满空处，也能被推开。 https://www.youtube.com/watch?v=ryB8hT5TMSg · 源代码: https://github.com/GarrettGunnell/CS2-Smoke-Grenades
 - **Eulerian Fluid Simulator** — Erik Nordeus (Habrador) (2023): 流体不过是一张保持无散度的速度网格。 https://www.youtube.com/watch?v=6Jw1CsTOkDg · 源代码: https://github.com/Habrador/Ten-Minute-Physics-Unity
@@ -1026,6 +1031,7 @@ AI 本身就是点子的 AR：看懂场景的模型、空间里的智能体、�
 - **Spatial Search for Meta Quest** — Takashi Yoshinaga (2026): 像搜网页一样搜索你的房间。 https://www.youtube.com/watch?v=CpNNvYJ_eqo
 - **Standing inside your RAG embeddings** — Stijn Spanhove (2026): 不看聊天机器人的答案，而是走进支撑它的向量空间里转一圈。 https://x.com/stspanho/status/2024877056035622974
 - **Wake Them Up!** — Awu Chen, Suvi Helin & Matti Grüner (2026): 让房间里的物品记得它们的主人，替一个已不在场的人开口。 https://www.youtube.com/watch?v=4hFSGMyT6cc
+- **X-OOHRI (Explainable OOHRI)** — Mohamed Kari (2026): 在让机器人动手之前，先用 AR 把它的能力边界直接标在物体上。 https://www.youtube.com/watch?v=eFOGPiuS-9Q
 - **AR pothole detection, grading and geotagging** — Virendra Suryawanshi (2025): 看一眼街道就完成巡检，报告由头显来写。 https://x.com/Virendra0698/status/2001634595494855158
 - **Ad Block** — Stijn Spanhove (2025): 现实世界的广告拦截器：识别并遮挡眼前的广告牌。 https://www.youtube.com/watch?v=KLiEm74cw9Q
 - **Android XR glasses live demo (TED)** — Microsoft Research Cambridge / I3D — Shahram Izadi (2025): 戴着AI眼镜上台，眼镜记得你刚把钥匙放在哪里。 https://www.youtube.com/watch?v=gElClXpg4J0
@@ -1092,10 +1098,13 @@ AI 本身就是点子的 AR：看懂场景的模型、空间里的智能体、�
 住在你身边空间里、会说话会行动的角色、向导和助手。
 
 - **AI Building Blocks: multimodal LLMs in mixed reality** — Dilmer Valecillos (2026): 向你的房间提问，让模型先看一眼再回答。 https://www.youtube.com/watch?v=Q8BFLkRYOy0
+- **AIfred** — IE Robotics & AI Lab — Eduardo Castelló Ferrer (2026): 把 AI 的回答放在笔尖旁边，而不是另一块屏幕上。 https://www.youtube.com/watch?v=713YKEyMPpI
 - **AgentHands** — Ruofei Du (2026): 给会说话的 AI 一双手，让它可以指给你看，而不是描述给你听。 https://www.youtube.com/watch?v=O4Gma0XqRgM
 - **ChatMuse** — Chen Chen & Shaoze Zhou (2026): 在真实对话的侧幕里轻声提词的 AI。 https://www.youtube.com/watch?v=IMoYRhvsHsI
 - **Gemini Vision Navigator** — FireDragonGameStudio (2026): 无需信标的室内导航：一个读懂房间、告诉你往哪走的智能体。 https://www.youtube.com/watch?v=m61hl5wy9cE
+- **HoverAI** — Dzmitry Tsetserukou — Skoltech Intelligent Space Robotics Lab (2026): 一个自带“脸”的飞行助手，飞到哪里都能把自己的意图说清楚。 https://www.youtube.com/watch?v=FYU8qzoQSK0
 - **Physio3D: mixed-reality physiotherapy with a real-time AI voice coach** — Physio 3D (2026): 一个会回话的理疗师，就站在你真正锻炼的地方。 https://www.youtube.com/watch?v=TlQLjDA5XSY
+- **Plato's [AI]legory of the Cave** — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2026): 一个只以影子形式存在的 AI 角色，把你摆放的物体当成它的世界，还会反过来推它们。 https://samch.in/assets/images/projects/allegory-of-the-cave/cave-FINAL-compressed.mp4
 - **Sai-Fi: talk to a computer-use agent through Ray-Ban glasses** — Simular (2026): 眼镜负责派活，智能体在家里替你点鼠标。 https://x.com/SimularAI/status/2090926852974297577
 - **Smart glasses AI tour guide** — Cayden Pierce (Mentra / AugmentOS) (2026): 为任何一条街准备的私人导游，用开放眼镜一个周末就能做出来。 https://www.youtube.com/watch?v=pEm8m59k3KQ
 - **Spectacles controlling a Reachy Mini robot** — Alessio Grancini (2026): AR 眼镜成为桌上 AI 机器人的遥控器和“脸”。 https://www.youtube.com/watch?v=7-7kT0e0knQ
@@ -1115,6 +1124,7 @@ AI 本身就是点子的 AR：看懂场景的模型、空间里的智能体、�
 - **Revisiting Put-That-There** — Mar Gonzalez-Franco (2025): 语音加指向是最古老的多模态想法，而大语言模型终于能解决其中的歧义。 https://www.youtube.com/watch?v=iyBkON2r9QI
 - **Rubikon** — Anhong Guo — Human-AI Lab (University of Michigan) (2025): 手里始终是真实的物体，却让 AI 改写它的状态，让每一轮练习都命中你的弱点。 https://www.youtube.com/watch?v=4Jes_0nd3kY
 - **Sensible Agent** — Ruofei Du (2025): 好的助手在开口之前会先读懂社交场合。 https://www.youtube.com/watch?v=iYayksCTYGI
+- **Towards Unobtrusive Physical AI** — Alexandra Ion — Interactive Structures Lab (Carnegie Mellon) (2025): 给日常物品赋予意图，让它们主动挪过来帮你。 https://www.youtube.com/watch?v=x3IRVDR3SjM
 - **Wisp World (Liquid City)** — Keiichi Matsuda (2025): 与会说话的小精灵在真实房间里冒险的AI+AR游戏 https://www.youtube.com/watch?v=CtP9FERiL0w
 - **Even AI on Even G1 glasses** — Even Realities (2024): 一个把回答化作私密文字、放在你视线中的助手。 https://www.youtube.com/watch?v=Quam8jLa8pY
 - **Hybrid Thinking smart glasses** — Cayden Pierce (Mentra / AugmentOS) (2024): 在真实对话进行中就和 AI 一起思考，而不是事后再查。 https://www.youtube.com/watch?v=DWyLFKIVrfM
@@ -1139,11 +1149,13 @@ AI 本身就是点子的 AR：看懂场景的模型、空间里的智能体、�
 - **A picture frame that is a window** — Ian Curtis (2026): 墙上挂一个“相框”，里面其实是通往另一个 3D 世界的窗户。 https://x.com/XRarchitect/status/2052418499516170377
 - **A pocket holodeck in WebAR** — Ian Curtis (2026): 每个 AI 生成的场景只有 5MB，放在身边就是随身全息甲板。 https://x.com/XRarchitect/status/2014383901268181253
 - **An LLM turns a home scan into an editable scene with a portal** — Bilawal Sidhu (2026): 多模态大语言模型也许已跨过“逆向图形学”的门槛：扫描变成可以导演的世界。 https://x.com/bilawalsidhu/status/2096810261730505075
+- **Impression-Guided Projection Mapping Makeup** — Ishikawa Watanabe Laboratory (University of Tokyo) (2026): 试戴一个词的感觉：生成的妆容颜色直接出现在你自己的脸上，而不是屏幕上。 https://www.youtube.com/watch?v=xLcoilAGIns
 - **Living room redesign as WebAR splat** — Ian Curtis (2026): 把 AI 设计的新客厅以 1:1 叠在旧客厅上，用手机走进“未来的房间”。 https://x.com/XRarchitect/status/2076932513822617966
 - **Off-axis window into a generated world** — Ian Curtis (2026): 先用简单体块搭场景，再用 AI 生成细节，最后用人脸追踪把屏幕变成通往世界的窗。 https://x.com/XRarchitect/status/2034675907898876133
 - **Re-coaching a World Cup goal in AR** — Stijn Spanhove (2026): 暂停真实世界杯进球，挪动防守球员，让AI重渲染另一种结局。 https://www.youtube.com/watch?v=uPpCLfgWbdA
 - **Shrunk to action-figure size on the coffee table** — Ian Curtis (2026): 把自己缩小成手办大小，在茶几上的迷你世界里探险。 https://x.com/XRarchitect/status/2053874498630468078
 - **Snap2VoxelAR** — Takashi Yoshinaga (2026): 拍张照，拿回一个积木版的世界。 https://www.youtube.com/watch?v=57gkK-xGxKQ
+- **Storycaster** — Judith Amores, Microsoft Research — Hrvoje Benko & Andy Wilson (2026): 把故事说出来，房间的墙就变成故事本身。 https://www.youtube.com/watch?v=ckCtta27LJQ
 - **Tap to launch orbs into a generated world** — Ian Curtis (2026): 把 AI 生成的 3D 世界叠在真实房间里，点一下就向其中发射光球。 https://x.com/XRarchitect/status/2077641433855795594
 - **Turn your memories into 3D Gaussian splats** — Takashi Yoshinaga (2026): 一张旧照片变成可以探头进去看的地方。 https://www.youtube.com/watch?v=5nlFjTWZSE8
 - **Augmented Reading (National Library Board Singapore)** — LePub Singapore (LeGarage), Snap Inc. (Snapchat Lenses) (2025): 依旧读纸质书，但让故事随着阅读的进度在书的周围显现、发出声音。 https://www.youtube.com/watch?v=5kQkCL-YKns
@@ -1188,9 +1200,11 @@ AI 本身就是点子的 AR：看懂场景的模型、空间里的智能体、�
 
 - **AI-transformed video call on Spectacles** — Alessio Grancini (2026): 远程在场时，你看到的人一边说话一边被重新想象。 https://x.com/alessiograncini/status/2079985282510631174
 - **Art Morph (Hands-on Hallucinations) at the Cleveland Museum of Art** — Hugues Bruyère (2026): 你的双手成了画笔，把你变进博物馆的画里。 https://x.com/smallfly/status/2089105114183381042
+- **MIRAGE** — Enrico Rukzio — Ulm University HCI (Pascal Jansen) (2026): 把道路当作可编辑的现实：增加、删除或改写车里的人看到的东西。 https://www.youtube.com/watch?v=MMBduUx9ZG4
 - **Prop-Chromeleon** — Ludwig Sidenmark & Haoyu Wang (2026): 用一句提示词给手中的物体“换皮”，并以它真实的形状为约束。 https://www.youtube.com/watch?v=IKRM-_YxGpM
 - **Real-time AI style transfer on AR glasses** — Alessio Grancini (2026): 现实滤镜不再在手机屏幕上，而是戴在你的眼镜上。 https://x.com/alessiograncini/status/2082150582467387856
 - **Room restyled as Studio Ghibli, live on Vision Pro** — Wenbo Tao (2026): 先把房间重建成可编辑的物体，再随心所欲地改画风。 https://x.com/wenbq_me/status/2104174834276061569
+- **Roomify** — Xueyang Wang (Tsinghua University), Robert Xiao (2026): 彻底改换房间的风格，却保留它的几何结构，让虚拟世界依然可以安全触碰。 https://www.youtube.com/watch?v=zPEOMXafHVA
 - **AI Teleport** — Stijn Spanhove (2025): 用生成式AI实时把周围环境'传送'成另一种世界。 https://www.youtube.com/watch?v=GvBRlCcgJ_g
 - **Decart XR: speak a prompt and transform the world** — Roberto Coviello (2025): 说出一个世界，不出房间就走进去。 https://x.com/xrdevrob/status/1974535441811677627
 - **Frame-a-scene spatial pixel art (first Spectacles lens)** — Stijn Spanhove (2025): 手指就是相机，AI 把你框住的东西就地变成像素画。 https://x.com/stspanho/status/1894776068600447319
@@ -1251,6 +1265,7 @@ AI 本身就是点子的 AR：看懂场景的模型、空间里的智能体、�
 - **AI Agent Vision: rebuilding a photo as an XR sketch** — Figmin XR (Overlay) (2026): 一个从照片出发、在你身边画三维草图的 AI 智能体。 https://www.youtube.com/watch?v=Sbk1b6-lcK8
 - **Agent Center for Spectacles** — Snap Inc. (Snapchat Lenses) (2026): 你的编程智能体以悬浮面板的形式跟着你走。 https://www.youtube.com/watch?v=U0cA-bVxLgM
 - **Arcade Hoops: a mixed-reality game built with AI in 30 days** — Dilmer Valecillos (2026): 一个开发者加上编程智能体，一个月就能上架一款混合现实游戏。 https://www.youtube.com/watch?v=eS0f7W6Y6cE
+- **PlayWrite** — Autodesk Research (Fraser Anderson, Tovi Grossman, George Fitzmaurice et al.) (2026): 用“玩”代替文字提示：把故事演出来，让 AI 把它写下来。 https://www.youtube.com/watch?v=RHvioD_b2Hc
 - **Splat worlds as AR camera stand-ins** — Ian Curtis (2026): 用 AR 手机当“虚拟摄影机”，在生成的 3D 场景里走位拍镜头，再交给视频模型出成片。 https://x.com/XRarchitect/status/2072207377106153797
 - **Touching grass: two-prompt WebAR** — Ian Curtis (2026): 用两句 prompt 生成一个户外 WebAR 原型：AI 写代码，人直接在草地上摆弄虚拟物体。 https://x.com/XRarchitect/status/2072573377714471177
 - **AI-powered scripting: a school of fish** — Figmin XR (Overlay) (2025): 不只是物体，连行为也可以用一句话生成。 https://www.youtube.com/watch?v=o_bxxVkN1Ag
@@ -1821,6 +1836,7 @@ AI 本身就是点子的 AR：看懂场景的模型、空间里的智能体、�
 - **Drone text performance, Museum of Islamic Art, Doha** — Jenny Holzer (2026): 写在天空中的文字能被整群人同时读到；天空中的 AR 文字也能做到，只要每部手机都朝上看。 https://www.youtube.com/watch?v=MwJdMC7g7Ug
 - **Electric Sky** — Studio DRIFT (2025): 群体可以模仿天气而不是图像；AR 天空内容不一定要展示图画，它可以像自然现象一样运动。 https://www.youtube.com/watch?v=uApCaBR8Gl0
 - **Grace for the World: the Sistine Chapel in drones** — Nova Sky Stories (2025): 把天顶画搬到露天的天空，就把室内的私密观看变成了公共观看；AR 也可以把建筑内部的图像释放出来，展示在建筑外面。 https://www.youtube.com/watch?v=PozwuT-67pc
+- **The Way of Water** — Raffaello D'Andrea / Verity (2025): 像给舞者编舞一样，在时间轴上编排一群发光的小机器人；在 AR 里，一群锚定在场地上的光点也能把池塘或广场变成舞台。 https://www.youtube.com/watch?v=G4cM6xbG7PA
 - **Drones and fireworks at the Eiffel Tower** — Groupe F (2024): 无人机画出精确的图像，烟火带来原始的能量；AR 设计也可以把一层清晰可读的内容和一层松散的粒子效果搭配起来，增强冲击力。 https://www.youtube.com/watch?v=6VaMZJaD_Xo
 - **When the Sky Blooms with Sakura** — Cai Guo-Qiang (蔡国强) (2023): 同样的效果放在有记忆的地方，意义就不同了；场地特定的 AR，当它的图像回应这个地点的历史时，才会有分量。 https://www.youtube.com/watch?v=I2uIi0GT8Qg
 - **Earthtime 1.26 Munich** — Janet Echelman (2021): 一个点出看不见的变化（一天变短了）的标题，给漂浮的形体一个存在的理由；AR 作品也会因为把可见的形状和看不见的事实联系起来而更有力量。 https://www.youtube.com/watch?v=CYbeC1txB1g
@@ -1861,6 +1877,7 @@ AI 本身就是点子的 AR：看懂场景的模型、空间里的智能体、�
 变形绘画、镜面和只有从某个视点才成立的视觉把戏。
 
 - **La Caverne du Pont Neuf** — JR (2026): 把一座桥变成洞穴，是城市尺度的“替换世界”，再配上手机滤镜，展示了实体图层与 AR 图层如何讲同一个故事。 https://www.youtube.com/watch?v=RngYQyEu54k
+- **LookingGlass: Generative Anamorphoses** — Disney Research — Ivan Poupyrev, Robert Sumner & colleagues (2025): 一张图，两种含义：你看到什么，取决于你透过什么去看。 https://www.youtube.com/watch?v=B3AZay43688
 - **Optical theatre for 'From Kalila wa Dimna to La Fontaine' (Louvre Abu Dhabi)** — Pierrick Sorin (2024): 博物馆展柜不用头显也能容纳一个活的场景；同样的框景方式（盒子、窗口、被照亮的布景）能让 AR 内容显得有位置、有意图。 https://www.youtube.com/watch?v=8IjXXyl3GwA
 - **Reality Rifts** — Christian Holz (2023): 去掉原因、保留结果，人们会自己想象出其余部分。 https://www.youtube.com/watch?v=68oIgasJ0hs
 - **The Building (Liberty Science Center)** — Leandro Erlich (2023): 当你把镜子当成舞台来设计，一个成熟的幻象就变成了游戏空间：AR 自拍效果最好的时候，是摄像头画面才是演出，而实体场景只是后台。 https://www.youtube.com/watch?v=heWqEr-MqEI
@@ -4863,6 +4880,120 @@ Unity 日本工程师，在 GitHub 上开源了数百个实时视觉特效、深
 - 关键技术: 把文本编码成高维向量，再降维成三维坐标（很可能用 UMAP 或 t-SNE），语音提问用同样方式编码，最近的邻居在空间中被高亮。
 - 课堂练习: 用免费的向量接口把 50 段短文本（歌词、课堂笔记）编码，降维到三维，在 WebXR 房间里做成漂浮标签；大声提问，高亮最近的五个。变体：让两个人的问题把点云往不同方向拉。
 
+### Microsoft Research — Hrvoje Benko & Andy Wilson
+
+*Microsoft Research 雷德蒙德首席研究员（Benko 后任职于 Meta Reality Labs Research）*
+
+Andy Wilson（PlayAnywhere、TouchLight、Surface）与 Hrvoje Benko 在 Microsoft Research 主导了长达十年的投影仪加深度相机空间 AR 研究，参与者还包括 Brett Jones、Rajinder Sodhi、Tomislav Pejsa 等实习生。在他们的房间里，每一面墙、每一张桌子乃至每一个身体都能变成互动显示屏。
+
+#### PlayAnywhere — Microsoft Research — Hrvoje Benko & Andy Wilson (2005)
+- 视频: https://www.youtube.com/watch?v=o8DBRgxpZYA
+- 交互类型: 投影增强, 手势与身体, 实体物件
+- 平台与技术: 投影, projector, IR camera, computer vision
+- 创意点子: 一台小推车上的投影+摄像头，把任何桌子变成可触控的游戏桌。
+- 作品内容: Andy Wilson 设计的紧凑型前投式桌面系统：小推车上的投影仪和摄像头能把任何一张桌子变成可感知触摸和物体的表面，用于玩游戏、看地图和分享照片。
+- 关键技术: 短焦投影仪加上带红外照明的红外摄像头，通过分析阴影和接触来感知手指触摸，并利用视觉编码和光流检测普通桌面上的物体和纸张。
+- 课堂练习: 把小投影仪和手机摄像头装在支架上俯视桌面，通过手指与其影子的距离判断“触摸”，实现一个投影的拼图或地图拖动；变体：让桌上的真实物品（杯子、钥匙）成为游戏中的障碍物。
+
+#### LightSpace — Microsoft Research — Hrvoje Benko & Andy Wilson (2010)
+- 视频: https://www.youtube.com/watch?v=xx5kBqxyaHE
+- 交互类型: 投影增强, 手势与身体, 空间理解
+- 平台与技术: 投影, depth cameras, projectors
+- 创意点子: 把投影的照片从桌上'捧'起来，放在手上走过去，再'倒'到墙上。
+- 作品内容: 深度相机和投影仪让整个房间都能互动：从桌上拿起一张投影照片，托在手上走过去，再把它放到墙上。
+- 关键技术: 多台经过标定的深度相机和投影仪共享同一个房间坐标系，对点云做虚拟“深度相机”投影，用于检测手何时触碰表面或托着投影物体，从而让内容在各个表面和身体之间移动。
+- 课堂练习: 用一台投影仪和一个深度相机（或 MediaPipe 检测手掌位置）实现“捡起”投影在桌上的一张照片，让它跟随手掌移动，再“放”到墙上；变体：在搬运过程中让照片发生变化（翻面、变旧或变成声音）。
+
+#### Beamatron — Microsoft Research — Hrvoje Benko & Andy Wilson (2012)
+- 视频: https://www.youtube.com/watch?v=L9yccRm3Zu8
+- 交互类型: 投影增强, 空间理解, 游戏与玩法
+- 平台与技术: 投影, steerable projector, Kinect
+- 创意点子: 会转头的投影机器人，让虚拟遥控车在真实房间的家具上开来开去。
+- 作品内容: 装在云台上的可转向投影仪和 Kinect 跟随房间里的人移动，投射出一辆虚拟小车，在真实的家具和地板上行驶。
+- 关键技术: 投影仪和 Kinect 安装在电动云台上；房间事先被扫描成三维模型，云台转动时按表面对画面进行预畸变，使内容在跨越家具移动时仍保持正确。
+- 课堂练习: 把小投影仪放在可手动或舵机转动的云台上，用 TouchDesigner 根据角度切换画面，让一辆投影的小车沿墙和地板“开”过去；变体：让小车追着房间里的某个人（用摄像头检测）跑。
+
+#### Holoflector — Microsoft Research — Hrvoje Benko & Andy Wilson (2012)
+- 视频: https://www.youtube.com/watch?v=2Xv6FnM1SrE
+- 交互类型: 手势与身体, 感知与视觉艺术
+- 平台与技术: 桌面, Kinect, half-silvered mirror
+- 创意点子: 一面魔镜：镜中的你能接住虚拟的球，镜像与虚拟物体完美对位。
+- 作品内容: 一面大尺寸半透半反镜，背后装有显示屏并配合 Kinect 身体追踪：虚拟物体会出现在你的镜像中，并对你真实的身体作出反应。
+- 关键技术: LCD 前方的半透半反镜把真实的镜像与渲染出的图形合在一起，Kinect 骨架追踪确定虚拟物体的位置，使其与用户镜像中的身体对齐。
+- 课堂练习: 用一台平板加一块亚克力半透镜（或用镜像的摄像头画面）做一面“魔镜”，用 MediaPipe Pose 让虚拟小球落在你反射的肩膀上并可被拍掉；变体：镜子里的你做出和你不一样的动作。
+
+#### MirageTable — Microsoft Research — Hrvoje Benko & Andy Wilson (2012)
+- 视频: https://www.youtube.com/watch?v=ll2K4tPD47E
+- 交互类型: 投影增强, 手势与身体, 多人与社交
+- 平台与技术: 投影, Kinect, stereo projector, shutter glasses
+- 创意点子: 弯曲桌面+立体投影，徒手抓取虚拟物体，并与远方的人'隔桌相对'。
+- 作品内容: 一张配合立体眼镜和 Kinect 的弧形投影桌面：用户可以徒手抓取虚拟三维物体，还能与远程伙伴见面，对方看起来就像坐在桌子对面。
+- 关键技术: Kinect 把用户和远程伙伴采集为深度网格，带头部追踪的立体投影在弧形屏幕上渲染视点相关的三维画面，物理引擎让手部几何能推动虚拟物体。
+- 课堂练习: 用 three.js 做一个基于人脸追踪（MediaPipe Face）的视差桌面：摄像头追踪头部，屏幕或投影上的 3D 物体随视角变化产生“离屏”错觉；变体：把另一台电脑传来的对方视频放进这个 3D 空间里，做一个“隔桌对坐”的小游戏。
+
+#### IllumiRoom — Microsoft Research — Hrvoje Benko & Andy Wilson (2013)
+- 视频: https://www.youtube.com/watch?v=L2w-XqW7bF4
+- 交互类型: 投影增强, 游戏与玩法, 感知与视觉艺术
+- 平台与技术: 投影, Kinect, projector, Xbox
+- 创意点子: 游戏画面冲出电视，雪花飘落在客厅墙上，爆炸时整个房间都在抖。
+- 作品内容: 电视周围的一台投影仪把 Xbox 游戏延伸到客厅的墙面和家具上：雪花在房间里飘落，爆炸时整个房间都在震动，视野也超出了屏幕的边界。
+- 关键技术: Kinect 扫描电视周围的几何形状，投影仪据此完成标定，再用具备深度感知的投影映射在屏幕四周渲染由游戏驱动的效果（外围视野延伸、边缘高亮、径向畸变）。
+- 课堂练习: 把投影仪对准显示器周围的墙面，在 TouchDesigner 中实时抓取屏幕边缘颜色并向外扩展，同时在屏幕内出现爆炸时让投影画面震动；变体：让房间效果与剧情反着来，比如游戏越激烈，房间越安静。
+
+#### Mano-a-Mano (Dyadic Projected SAR) — Microsoft Research — Hrvoje Benko & Andy Wilson (2014)
+- 视频: https://www.youtube.com/watch?v=Df7fZAYVAIE
+- 交互类型: 投影增强, 多人与社交, 游戏与玩法
+- 平台与技术: 投影, projectors, Kinect, view-dependent rendering
+- 创意点子: 两个人面对面，都能在投影出的立体空间里看到对的透视，互相扔火球。
+- 作品内容: 两个人在投影房间中面对面，各自都能看到两人之间透视正确的三维物体：互扔火球、传球，或者用虚拟物体玩接抛游戏。
+- 关键技术: Kinect 追踪两位用户的头部，每个投影物体都按其中一位用户的视角进行视点相关渲染，于是投在对方身后表面上的物体，看起来就像悬浮在两人之间的三维空间里。
+- 课堂练习: 用 MediaPipe Face 追踪一位同学的头部位置，在投影墙上按其视角渲染一个“悬浮在空中”的球，另一人用手势把球“扔”过去；变体：两人轮流获得正确视角，讨论第三个旁观者看到了什么。
+
+#### RoomAlive — Microsoft Research — Hrvoje Benko & Andy Wilson (2014)
+- 视频: https://www.youtube.com/watch?v=GYkRRbP7m8s
+- 交互类型: 投影增强, 空间理解, 游戏与玩法
+- 平台与技术: 投影, Kinect, projectors, RoomAlive Toolkit
+- 创意点子: 整个客厅每一面墙、每件家具都成了游戏场，怪物从沙发里爬出来。
+- 作品内容: 多台可自动标定的投影仪-相机单元覆盖整个客厅，让游戏可以发生在每一个表面上：打地鼠式的小怪物从沙发里爬出来，你还得用身体躲避陷阱。
+- 关键技术: 每个投影仪-相机单元投射格雷码（Gray code）结构光并由 Kinect 观测，从而完成自动标定，得到统一的房间三维模型；游戏通过逐表面投影映射渲染到房间里，并用基于深度的身体追踪进行交互。
+- 课堂练习: 用一台投影仪 + 摄像头做 Gray code 结构光标定（或手动四角映射），把房间一角变成打地鼠游戏：小怪物从沙发边缘钻出，用 MediaPipe 检测手拍到它的位置；变体：让怪物躲避你而不是等你打。
+
+#### RoomAlive: The Other Resident — Microsoft Research — Hrvoje Benko & Andy Wilson (2014)
+- 视频: https://www.youtube.com/watch?v=NXxVXQYlSXc
+- 交互类型: 投影增强, 游戏与玩法, 传送门与世界替换
+- 平台与技术: 投影, RoomAlive Toolkit
+- 创意点子: 用房间级投影在自家客厅里上演一出闹鬼剧。
+- 作品内容: 一款基于 RoomAlive 投影系统制作的惊悚叙事游戏，一个幽灵般的存在在玩家身处的真实房间里作祟。
+- 关键技术: 游戏基于 RoomAlive Toolkit 中经过标定的投影仪-相机单元，利用扫描得到的房间模型把投影效果（阴影、幽灵、污渍）放在特定家具上，并由玩家被追踪的位置触发。
+- 课堂练习: 用一台投影仪在宿舍或教室角落做一段 3 分钟的恐怖叙事：摄像头检测观众走到某个位置时，墙上出现影子、门框渗出污迹；变体：让“幽灵”只在观众背对它时移动。
+
+#### FoveAR — Microsoft Research — Hrvoje Benko & Andy Wilson (2015)
+- 视频: https://www.youtube.com/watch?v=A5M6xk1Itgo
+- 交互类型: 投影增强, 感知与视觉艺术, 游戏与玩法
+- 平台与技术: 头显, 投影, optical see-through HMD, projectors
+- 创意点子: 眼镜负责视野中心，投影负责四周余光，拼出超大视场的AR。
+- 作品内容: 它把光学透视头显（负责中央视野）与房间投影（负责周边视野）结合起来，让 AR 获得极宽的视场。
+- 关键技术: 光学透视 HMD 渲染中央视野，经过标定的房间投影仪在周边渲染同一场景，头部追踪让两部分画面保持对齐。
+- 课堂练习: 让一位同学戴 HoloKit 看中心的虚拟物体，同时用投影仪在其周围墙面渲染同一场景的外围部分（如雨、星空），比较有无投影时的沉浸感；变体：故意让外围画面和中心画面讲不同的故事。
+
+#### Room2Room — Microsoft Research — Hrvoje Benko & Andy Wilson (2016)
+- 视频: https://www.youtube.com/watch?v=2o6krhxpUGk
+- 交互类型: 多人与社交, 投影增强
+- 平台与技术: 投影, Kinect, projectors
+- 创意点子: 把远方的人按真人大小投影到你家沙发上，不用戴任何设备。
+- 作品内容: 真人大小的远程临场：远方的人被 3D 捕捉后投影到你的房间里，以正确的比例坐在你真实的沙发上。
+- 关键技术: Kinect 把远端的人捕捉为带颜色的深度网格，借助投影仪—相机标定以及本地用户的头部追踪，把其以真人大小、经透视校正后渲染到一件真实家具上。
+- 课堂练习: 用 MediaPipe Selfie Segmentation 把远端同学的视频抠像，投影成真人大小坐在本地真实椅子上，并通过视频通话交谈；变体：让远端的人只在你看向椅子时出现。
+
+#### SnapToReality — Microsoft Research — Hrvoje Benko & Andy Wilson (2016)
+- 视频: https://www.youtube.com/watch?v=phImnaIVQOQ
+- 交互类型: 空间理解, 空间绘画与创作
+- 平台与技术: 头显, depth sensing, HoloLens-style AR
+- 创意点子: 让全息物体像PPT吸附对齐一样'吸'到真实桌边和墙面上。
+- 作品内容: AR 中的虚拟物体会自动吸附到真实世界的边缘和平面上，让全息影像与家具的精确对齐变得毫不费力。
+- 关键技术: 从深度数据中实时提取平面和主要边缘，当被操作的虚拟物体进入距离和角度阈值范围内时，便吸附到最近的对齐约束上。
+- 课堂练习: 在 AR Foundation 中实现拖动虚拟相框时自动吸附到最近的检测平面和平面边缘（距离小于 5cm 时吸附）；变体：设计一种“反吸附”，让某些物体总是躲开真实表面漂浮。
+
 ### Shengzhi Wu
 
 *AR 与 AI 方向的资深产品设计师（Meta；曾任职 Google AR 与 Android XR）*
@@ -5084,120 +5215,6 @@ Unity 日本工程师，在 GitHub 上开源了数百个实时视觉特效、深
 - 作品内容: 与 Google 研究者合作的 IMWUT/UbiComp 2023 系统：表面覆盖回射小球的无源、无电池控制器，可以被一体式 AR 头显进行 3D 追踪。
 - 关键技术: 近红外照明让回射小球在头显相机中呈现为亮点，再通过双目三角测量恢复它们的三维位置。
 - 课堂练习: 在一根棍子上贴回射贴纸，在浏览器里用手机摄像头和闪光灯追踪亮点。变体：把它变成光剑或画笔。
-
-### Microsoft Research — Hrvoje Benko & Andy Wilson
-
-*Microsoft Research 雷德蒙德首席研究员（Benko 后任职于 Meta Reality Labs Research）*
-
-Andy Wilson（PlayAnywhere、TouchLight、Surface）与 Hrvoje Benko 在 Microsoft Research 主导了长达十年的投影仪加深度相机空间 AR 研究，参与者还包括 Brett Jones、Rajinder Sodhi、Tomislav Pejsa 等实习生。在他们的房间里，每一面墙、每一张桌子乃至每一个身体都能变成互动显示屏。
-
-#### PlayAnywhere — Microsoft Research — Hrvoje Benko & Andy Wilson (2005)
-- 视频: https://www.youtube.com/watch?v=o8DBRgxpZYA
-- 交互类型: 投影增强, 手势与身体, 实体物件
-- 平台与技术: 投影, projector, IR camera, computer vision
-- 创意点子: 一台小推车上的投影+摄像头，把任何桌子变成可触控的游戏桌。
-- 作品内容: Andy Wilson 设计的紧凑型前投式桌面系统：小推车上的投影仪和摄像头能把任何一张桌子变成可感知触摸和物体的表面，用于玩游戏、看地图和分享照片。
-- 关键技术: 短焦投影仪加上带红外照明的红外摄像头，通过分析阴影和接触来感知手指触摸，并利用视觉编码和光流检测普通桌面上的物体和纸张。
-- 课堂练习: 把小投影仪和手机摄像头装在支架上俯视桌面，通过手指与其影子的距离判断“触摸”，实现一个投影的拼图或地图拖动；变体：让桌上的真实物品（杯子、钥匙）成为游戏中的障碍物。
-
-#### LightSpace — Microsoft Research — Hrvoje Benko & Andy Wilson (2010)
-- 视频: https://www.youtube.com/watch?v=xx5kBqxyaHE
-- 交互类型: 投影增强, 手势与身体, 空间理解
-- 平台与技术: 投影, depth cameras, projectors
-- 创意点子: 把投影的照片从桌上'捧'起来，放在手上走过去，再'倒'到墙上。
-- 作品内容: 深度相机和投影仪让整个房间都能互动：从桌上拿起一张投影照片，托在手上走过去，再把它放到墙上。
-- 关键技术: 多台经过标定的深度相机和投影仪共享同一个房间坐标系，对点云做虚拟“深度相机”投影，用于检测手何时触碰表面或托着投影物体，从而让内容在各个表面和身体之间移动。
-- 课堂练习: 用一台投影仪和一个深度相机（或 MediaPipe 检测手掌位置）实现“捡起”投影在桌上的一张照片，让它跟随手掌移动，再“放”到墙上；变体：在搬运过程中让照片发生变化（翻面、变旧或变成声音）。
-
-#### Beamatron — Microsoft Research — Hrvoje Benko & Andy Wilson (2012)
-- 视频: https://www.youtube.com/watch?v=L9yccRm3Zu8
-- 交互类型: 投影增强, 空间理解, 游戏与玩法
-- 平台与技术: 投影, steerable projector, Kinect
-- 创意点子: 会转头的投影机器人，让虚拟遥控车在真实房间的家具上开来开去。
-- 作品内容: 装在云台上的可转向投影仪和 Kinect 跟随房间里的人移动，投射出一辆虚拟小车，在真实的家具和地板上行驶。
-- 关键技术: 投影仪和 Kinect 安装在电动云台上；房间事先被扫描成三维模型，云台转动时按表面对画面进行预畸变，使内容在跨越家具移动时仍保持正确。
-- 课堂练习: 把小投影仪放在可手动或舵机转动的云台上，用 TouchDesigner 根据角度切换画面，让一辆投影的小车沿墙和地板“开”过去；变体：让小车追着房间里的某个人（用摄像头检测）跑。
-
-#### Holoflector — Microsoft Research — Hrvoje Benko & Andy Wilson (2012)
-- 视频: https://www.youtube.com/watch?v=2Xv6FnM1SrE
-- 交互类型: 手势与身体, 感知与视觉艺术
-- 平台与技术: 桌面, Kinect, half-silvered mirror
-- 创意点子: 一面魔镜：镜中的你能接住虚拟的球，镜像与虚拟物体完美对位。
-- 作品内容: 一面大尺寸半透半反镜，背后装有显示屏并配合 Kinect 身体追踪：虚拟物体会出现在你的镜像中，并对你真实的身体作出反应。
-- 关键技术: LCD 前方的半透半反镜把真实的镜像与渲染出的图形合在一起，Kinect 骨架追踪确定虚拟物体的位置，使其与用户镜像中的身体对齐。
-- 课堂练习: 用一台平板加一块亚克力半透镜（或用镜像的摄像头画面）做一面“魔镜”，用 MediaPipe Pose 让虚拟小球落在你反射的肩膀上并可被拍掉；变体：镜子里的你做出和你不一样的动作。
-
-#### MirageTable — Microsoft Research — Hrvoje Benko & Andy Wilson (2012)
-- 视频: https://www.youtube.com/watch?v=ll2K4tPD47E
-- 交互类型: 投影增强, 手势与身体, 多人与社交
-- 平台与技术: 投影, Kinect, stereo projector, shutter glasses
-- 创意点子: 弯曲桌面+立体投影，徒手抓取虚拟物体，并与远方的人'隔桌相对'。
-- 作品内容: 一张配合立体眼镜和 Kinect 的弧形投影桌面：用户可以徒手抓取虚拟三维物体，还能与远程伙伴见面，对方看起来就像坐在桌子对面。
-- 关键技术: Kinect 把用户和远程伙伴采集为深度网格，带头部追踪的立体投影在弧形屏幕上渲染视点相关的三维画面，物理引擎让手部几何能推动虚拟物体。
-- 课堂练习: 用 three.js 做一个基于人脸追踪（MediaPipe Face）的视差桌面：摄像头追踪头部，屏幕或投影上的 3D 物体随视角变化产生“离屏”错觉；变体：把另一台电脑传来的对方视频放进这个 3D 空间里，做一个“隔桌对坐”的小游戏。
-
-#### IllumiRoom — Microsoft Research — Hrvoje Benko & Andy Wilson (2013)
-- 视频: https://www.youtube.com/watch?v=L2w-XqW7bF4
-- 交互类型: 投影增强, 游戏与玩法, 感知与视觉艺术
-- 平台与技术: 投影, Kinect, projector, Xbox
-- 创意点子: 游戏画面冲出电视，雪花飘落在客厅墙上，爆炸时整个房间都在抖。
-- 作品内容: 电视周围的一台投影仪把 Xbox 游戏延伸到客厅的墙面和家具上：雪花在房间里飘落，爆炸时整个房间都在震动，视野也超出了屏幕的边界。
-- 关键技术: Kinect 扫描电视周围的几何形状，投影仪据此完成标定，再用具备深度感知的投影映射在屏幕四周渲染由游戏驱动的效果（外围视野延伸、边缘高亮、径向畸变）。
-- 课堂练习: 把投影仪对准显示器周围的墙面，在 TouchDesigner 中实时抓取屏幕边缘颜色并向外扩展，同时在屏幕内出现爆炸时让投影画面震动；变体：让房间效果与剧情反着来，比如游戏越激烈，房间越安静。
-
-#### Mano-a-Mano (Dyadic Projected SAR) — Microsoft Research — Hrvoje Benko & Andy Wilson (2014)
-- 视频: https://www.youtube.com/watch?v=Df7fZAYVAIE
-- 交互类型: 投影增强, 多人与社交, 游戏与玩法
-- 平台与技术: 投影, projectors, Kinect, view-dependent rendering
-- 创意点子: 两个人面对面，都能在投影出的立体空间里看到对的透视，互相扔火球。
-- 作品内容: 两个人在投影房间中面对面，各自都能看到两人之间透视正确的三维物体：互扔火球、传球，或者用虚拟物体玩接抛游戏。
-- 关键技术: Kinect 追踪两位用户的头部，每个投影物体都按其中一位用户的视角进行视点相关渲染，于是投在对方身后表面上的物体，看起来就像悬浮在两人之间的三维空间里。
-- 课堂练习: 用 MediaPipe Face 追踪一位同学的头部位置，在投影墙上按其视角渲染一个“悬浮在空中”的球，另一人用手势把球“扔”过去；变体：两人轮流获得正确视角，讨论第三个旁观者看到了什么。
-
-#### RoomAlive — Microsoft Research — Hrvoje Benko & Andy Wilson (2014)
-- 视频: https://www.youtube.com/watch?v=GYkRRbP7m8s
-- 交互类型: 投影增强, 空间理解, 游戏与玩法
-- 平台与技术: 投影, Kinect, projectors, RoomAlive Toolkit
-- 创意点子: 整个客厅每一面墙、每件家具都成了游戏场，怪物从沙发里爬出来。
-- 作品内容: 多台可自动标定的投影仪-相机单元覆盖整个客厅，让游戏可以发生在每一个表面上：打地鼠式的小怪物从沙发里爬出来，你还得用身体躲避陷阱。
-- 关键技术: 每个投影仪-相机单元投射格雷码（Gray code）结构光并由 Kinect 观测，从而完成自动标定，得到统一的房间三维模型；游戏通过逐表面投影映射渲染到房间里，并用基于深度的身体追踪进行交互。
-- 课堂练习: 用一台投影仪 + 摄像头做 Gray code 结构光标定（或手动四角映射），把房间一角变成打地鼠游戏：小怪物从沙发边缘钻出，用 MediaPipe 检测手拍到它的位置；变体：让怪物躲避你而不是等你打。
-
-#### RoomAlive: The Other Resident — Microsoft Research — Hrvoje Benko & Andy Wilson (2014)
-- 视频: https://www.youtube.com/watch?v=NXxVXQYlSXc
-- 交互类型: 投影增强, 游戏与玩法, 传送门与世界替换
-- 平台与技术: 投影, RoomAlive Toolkit
-- 创意点子: 用房间级投影在自家客厅里上演一出闹鬼剧。
-- 作品内容: 一款基于 RoomAlive 投影系统制作的惊悚叙事游戏，一个幽灵般的存在在玩家身处的真实房间里作祟。
-- 关键技术: 游戏基于 RoomAlive Toolkit 中经过标定的投影仪-相机单元，利用扫描得到的房间模型把投影效果（阴影、幽灵、污渍）放在特定家具上，并由玩家被追踪的位置触发。
-- 课堂练习: 用一台投影仪在宿舍或教室角落做一段 3 分钟的恐怖叙事：摄像头检测观众走到某个位置时，墙上出现影子、门框渗出污迹；变体：让“幽灵”只在观众背对它时移动。
-
-#### FoveAR — Microsoft Research — Hrvoje Benko & Andy Wilson (2015)
-- 视频: https://www.youtube.com/watch?v=A5M6xk1Itgo
-- 交互类型: 投影增强, 感知与视觉艺术, 游戏与玩法
-- 平台与技术: 头显, 投影, optical see-through HMD, projectors
-- 创意点子: 眼镜负责视野中心，投影负责四周余光，拼出超大视场的AR。
-- 作品内容: 它把光学透视头显（负责中央视野）与房间投影（负责周边视野）结合起来，让 AR 获得极宽的视场。
-- 关键技术: 光学透视 HMD 渲染中央视野，经过标定的房间投影仪在周边渲染同一场景，头部追踪让两部分画面保持对齐。
-- 课堂练习: 让一位同学戴 HoloKit 看中心的虚拟物体，同时用投影仪在其周围墙面渲染同一场景的外围部分（如雨、星空），比较有无投影时的沉浸感；变体：故意让外围画面和中心画面讲不同的故事。
-
-#### Room2Room — Microsoft Research — Hrvoje Benko & Andy Wilson (2016)
-- 视频: https://www.youtube.com/watch?v=2o6krhxpUGk
-- 交互类型: 多人与社交, 投影增强
-- 平台与技术: 投影, Kinect, projectors
-- 创意点子: 把远方的人按真人大小投影到你家沙发上，不用戴任何设备。
-- 作品内容: 真人大小的远程临场：远方的人被 3D 捕捉后投影到你的房间里，以正确的比例坐在你真实的沙发上。
-- 关键技术: Kinect 把远端的人捕捉为带颜色的深度网格，借助投影仪—相机标定以及本地用户的头部追踪，把其以真人大小、经透视校正后渲染到一件真实家具上。
-- 课堂练习: 用 MediaPipe Selfie Segmentation 把远端同学的视频抠像，投影成真人大小坐在本地真实椅子上，并通过视频通话交谈；变体：让远端的人只在你看向椅子时出现。
-
-#### SnapToReality — Microsoft Research — Hrvoje Benko & Andy Wilson (2016)
-- 视频: https://www.youtube.com/watch?v=phImnaIVQOQ
-- 交互类型: 空间理解, 空间绘画与创作
-- 平台与技术: 头显, depth sensing, HoloLens-style AR
-- 创意点子: 让全息物体像PPT吸附对齐一样'吸'到真实桌边和墙面上。
-- 作品内容: AR 中的虚拟物体会自动吸附到真实世界的边缘和平面上，让全息影像与家具的精确对齐变得毫不费力。
-- 关键技术: 从深度数据中实时提取平面和主要边缘，当被操作的虚拟物体进入距离和角度阈值范围内时，便吸附到最近的对齐约束上。
-- 课堂练习: 在 AR Foundation 中实现拖动虚拟相框时自动吸附到最近的检测平面和平面边缘（距离小于 5cm 时吸附）；变体：设计一种“反吸附”，让某些物体总是躲开真实表面漂浮。
 
 ### Daito Manabe / Rhizomatiks
 
@@ -8250,138 +8267,6 @@ Hiroshi Ishii（石井裕）的 Tangible Media Group 长期探索“Tangible Bit
 - 关键技术: 可变形的实体装置在空间上与 MR 头显配准，其物理形态会被驱动变形，以匹配用户伸手去触碰的虚拟物体，从而提供被动的触觉代理反馈。
 - 课堂练习: 在 HoloKit 或手机 AR 中把一个实体盒子注册为虚拟物体的“替身”，当虚拟物体变形时提示同学手动调整盒子（或用舵机撑开），让手摸到的形状与看到的一致；变体：故意让看到的和摸到的不一致，测试多大差别会被察觉。
 
-### Olafur Eliasson
-
-*艺术家；Studio Olafur Eliasson*
-
-冰岛裔丹麦艺术家，他关于光、色彩与感知的装置（The Weather Project）通过 Wunderkammer 和儿童气候应用 Earth Speakr 延伸到了 AR 领域。
-
-#### Beauty — Olafur Eliasson (1993)
-- 视频: https://www.youtube.com/watch?v=vQ0Eq097RKA
-- 交互类型: 感知与视觉艺术, 手势与身体, 注视
-- 平台与技术: 投影, water mist, spotlight, perforated hose
-- 创意点子: 彩虹只存在于光、水滴和你的眼睛之间：依赖观者位置的效果是私人的，AR 可以让每位观众看到不同的版本。
-- 作品内容: 在黑暗的房间里，一道细密的水雾从天花板落下，一盏聚光灯穿过它；只有站在合适的角度才会看到彩虹，而且彩虹随你移动而变化。
-- 关键技术: 带孔的水管放下一层水滴，灯光从观者身后照来，在约 42 度角处折射，每只眼睛都看到属于自己的彩虹。
-- 课堂练习: 在 Lens Studio 或 AR Foundation 里做一道 AR 水雾幕，彩虹根据虚拟光源和手机之间的角度计算，只在某些位置出现。变体：两部手机并排，证明它们各自看到不同的弧。
-
-#### Room for one colour — Olafur Eliasson (1997)
-- 视频: https://www.youtube.com/watch?v=hd077pa-5CI
-- 交互类型: 感知与视觉艺术, 多人与社交
-- 平台与技术: 投影, mono-frequency lamps, white room
-- 创意点子: 改变光而不是物体，就能一下子改变整个世界；AR 里一次整体调色，可能比加任何三维模型更能改造一个房间。
-- 作品内容: 一个白色房间只用单频黄灯照明；观众、他们的衣服和皮肤都变成灰色和黄色，仿佛颜色被关掉了。
-- 关键技术: 低压钠灯只发出单一波长的黄光，眼睛无法分辨其他色相，只能看到黄色和黑色。
-- 课堂练习: 写一个 WebXR 或 Lens Studio 着色器，把透视摄像画面映射成只剩一种色相和亮度，让同学戴着它尝试给彩色物体分类。变体：只让一个物体保留真实颜色，作为唯一的例外。
-
-#### La situazione antispettiva — Olafur Eliasson (2003)
-- 视频: https://www.youtube.com/watch?v=d8yLRu2QwDk
-- 交互类型: 感知与视觉艺术, 传送门与世界替换
-- 平台与技术: 桌面, mirrors, kaleidoscope structure
-- 创意点子: 以精确角度摆放的镜子，把一个视角变成无限图案；AR 可以把实时摄像画面当作几何复制的原料。
-- 作品内容: 威尼斯双年展上一个内衬镜面的结构，把周围的花园和观众折叠成万花筒般的重复，外面的世界从里面看被成倍增加。
-- 关键技术: 镜面板以固定角度拼接（可能是一个万花筒式多面体），让周围环境的倒影按规则图案重复。
-- 课堂练习: 在 Lens Studio 或 WebXR 里做一个效果：把实时摄像画面切成三角形，并在空间中某个锚点周围像万花筒一样重复。变体：让镜面的数量取决于用户走得有多近。
-
-#### The weather project — Olafur Eliasson (2003)
-- 视频: https://www.youtube.com/watch?v=_1Vgeose43g
-- 交互类型: 感知与视觉艺术, 多人与社交, 注视
-- 平台与技术: 投影, mono-frequency lamps, mirror ceiling, haze
-- 创意点子: 半个物体加一面镜子就成了完整的物体，镜面天花板让观众自己成为展品：AR 场景也可以把观众本身加进奇观里。
-- 作品内容: Tate Modern 涡轮大厅里，一个由黄色灯组成的巨大半圆，被镜面天花板反射成一轮太阳；观众在雾气中躺在地上，在天花板里寻找自己。
-- 关键技术: 半圆形幕布后面的数百盏单频灯只发出窄波段黄光，使其他颜色都变得灰暗；镜面膜天花板让大厅翻倍，雾机制造出空气感。
-- 课堂练习: 在 AR 里的走廊尽头放半个太阳，并把整个场景（包括人的实时摄像画面）镜像到一块虚拟天花板上。变体：把场景切换成单一黄色波长，让透视画面里的所有颜色都变成灰色。
-
-#### Round rainbow — Olafur Eliasson (2005)
-- 视频: https://www.youtube.com/watch?v=BuYH6nLMR-c
-- 交互类型: 感知与视觉艺术, 投影增强
-- 平台与技术: 投影, acrylic ring, spotlight, motor
-- 创意点子: 一个小小的旋转物体就能用光涂满整个房间；在 AR 里，一个会动的发光源就足以占据并重新定义一个空间。
-- 作品内容: 一个缓慢旋转的亚克力环悬在黑暗的房间里，被聚光灯照亮；圆环把一圈彩虹和移动的光投到观众四周的墙上。
-- 关键技术: 精确切割的亚克力环把光束折射成光谱，马达带动它旋转，投射出的彩虹在墙上扫过。
-- 课堂练习: 在 AR 里放一个虚拟的旋转棱镜环，利用房间网格把它的彩虹焦散投到真实墙面上，并随旋转更新。变体：用手机手电筒作为光源。
-
-#### The New York City Waterfalls — Olafur Eliasson (2008)
-- 视频: https://www.youtube.com/watch?v=6wUwV0eDDQI
-- 交互类型: 地点与城市, 感知与视觉艺术
-- 平台与技术: 桌面, scaffolding, pumped river water, harbour
-- 创意点子: 把幻觉背后的脚手架也展示出来，让人同时看见效果和其制作方式，许多 AR 作品都可以采用这种立场。
-- 作品内容: 四座高 27 至 37 米、以裸露脚手架搭成的人造瀑布，在三个月里把河水倒回纽约东河与港口。
-- 关键技术: 水泵把河水抽到每座脚手架塔的顶部，再让它以水幕形式落回河中。
-- 课堂练习: 在真实的建筑或桥梁边缘加一道倾泻而下的 AR 瀑布，并把水泵和脚手架以线框渲染出来；变体：水流量跟随实时河流水文数据变化。
-
-#### Your atmospheric colour atlas — Olafur Eliasson (2009)
-- 视频: https://www.youtube.com/watch?v=lRSY61HVlBM
-- 交互类型: 感知与视觉艺术, 空间理解
-- 平台与技术: 投影, fog, fluorescent lights, DMX control
-- 创意点子: 房间可以是一张可以走进去的色彩地图：AR 可以把颜色或声音分配到地面网格的位置上，让位置成为控制器。
-- 作品内容: 一个充满浓雾的房间被天花板上排成网格的彩色灯照亮；你走动时，周围的雾从一种颜色渐变到另一种，其他观众时隐时现。
-- 关键技术: 红、绿、蓝荧光灯管排布在天花板网格里，浓雾把它们的光在整个房间里混合成渐变。
-- 课堂练习: 用 AR Foundation 在教室地面锚定一个看不见的 4×4 色彩网格，用当前所在格子的颜色给整个视野染上雾，并在相邻格子之间混合。变体：给每个格子加一个柔和音调，让房间可以像乐器一样被演奏。
-
-#### Din blinde passager (Your blind passenger) — Olafur Eliasson (2010)
-- 视频: https://www.youtube.com/watch?v=wYxxNA_WTs8
-- 交互类型: 感知与视觉艺术, 空间理解, 手势与身体
-- 平台与技术: 投影, fog, fluorescent lighting, tunnel
-- 创意点子: 视野受限时，身体会靠声音和触觉导航；AR 不一定要让人看到更多，也可以拿走可见性，让人感受空间。
-- 作品内容: 观众穿过一条 90 米长、充满浓雾的隧道，只能看清前方一米半左右，灯光颜色在不同区段之间变化。
-- 关键技术: 雾机让狭长走廊充满浓雾，光向各个方向散射，彩色荧光灯管划分出黄、白、蓝等区段（可能如此）。
-- 课堂练习: 利用 AR Foundation 的深度或网格数据，渲染一层雾，遮住离手机超过 1.5 米的一切，让同学拿着它穿过房间。变体：根据他们所处的房间区域改变雾的颜色。
-
-#### Your uncertain shadow (colour) — Olafur Eliasson (2010)
-- 视频: https://www.youtube.com/watch?v=PeBH6fTQNSc
-- 交互类型: 手势与身体, 感知与视觉艺术, 投影增强
-- 平台与技术: 投影, coloured lamps, additive colour mixing
-- 创意点子: 五盏彩色灯把你的影子分解成一串彩虹
-- 作品内容: 五盏彩色灯照在一面白墙上，每位观众都会投下一排相互重叠、随人移动的彩色影子，身体仿佛被拆分成一道光谱。
-- 关键技术: 并排放置的彩色 HMI 灯通过加色混合发光；挡住其中一盏灯，就会留下它的补色，因此每个影子都呈现不同的色调。
-- 课堂练习: 用红绿蓝三盏手机灯（或彩色玻璃纸）照白墙，研究影子颜色；变化：用舞蹈动作让彩色影子拼出一个字母。
-
-#### Your rainbow panorama — Olafur Eliasson (2011)
-- 视频: https://www.youtube.com/watch?v=ZsMCfOW0SRA
-- 交互类型: 地点与城市, 感知与视觉艺术, 注视
-- 平台与技术: 桌面, coloured glass, circular walkway, rooftop
-- 创意点子: 你站在哪里，就决定你看到哪种滤镜：在 AR 里把颜色或效果对应到方位，走路本身就成了交互界面。
-- 作品内容: 奥胡斯 ARoS 美术馆的屋顶上有一条 150 米长的环形玻璃步道，玻璃涵盖光谱中的所有颜色；绕着它走，城市景色会被染上不断变化的色调。
-- 关键技术: 彩色夹胶玻璃按光谱顺序排成一圈，色调随观者的方位而变化。
-- 课堂练习: 做一个手机 AR 滤镜，根据指南针方向给摄像画面染色，原地转一圈就扫过整个光谱。变体：让两位同学面对面站着，彼此看到对方是互补色。
-
-#### Contact — Olafur Eliasson (2014)
-- 视频: https://www.youtube.com/watch?v=NXXuyotR8us
-- 交互类型: 感知与视觉艺术, 手势与身体, 传送门与世界替换
-- 平台与技术: 投影, mirrors, light line, shadow
-- 创意点子: 一道地平线加一面镜子，就足以在墙后造出一个世界；AR 传送门也可以用同样极简的线索。
-- 作品内容: 在路易威登基金会，地上一道光线变成地平线：镜子、移动的阴影和黑暗，让观众像是走在一颗行星的边缘。
-- 关键技术: 一道贴近地面的光缝被落地镜复制成无尽的地平线，一盏缓慢旋转的灯把观众的影子投在上面（可能如此）。
-- 课堂练习: 在 AR 里沿真实墙面画一道发光的地平线，线后渲染一个镜像的房间，让追踪到的同学身体沿线投下虚拟影子。变体：让地平线慢慢倾斜，房间仿佛在翻滚。
-
-#### Ice Watch — Olafur Eliasson (2014)
-- 视频: https://www.youtube.com/watch?v=qd-JRGBKSXA
-- 交互类型: 地点与城市, 实体物件, 信息与界面
-- 平台与技术: 桌面, Greenlandic glacial ice, public square
-- 创意点子: 触摸正在融化的冰让气候数据变得可触可感，这是数据 AR 的一课：让人把数字握在手里。
-- 作品内容: Eliasson 与地质学家 Minik Rosing 合作，把十二块从格陵兰海面打捞的浮冰摆成钟面，放在哥本哈根、巴黎（COP21 期间）和伦敦的广场上，任其在人们触摸中融化。
-- 关键技术: 从格陵兰冰盖崩解入峡湾的冰被打捞，用冷藏集装箱运输，再摆成钟面形状。
-- 课堂练习: 在广场上把十二块 AR 冰块摆成钟面，并按当天气温实时融化；变体：每块冰显示走完一圈所需的时间里格陵兰失去了多少冰。
-
-#### Riverbed — Olafur Eliasson (2014)
-- 视频: https://www.youtube.com/watch?v=s_xA_8ps_Co
-- 交互类型: 空间理解, 手势与身体, 感知与视觉艺术
-- 平台与技术: 桌面, Icelandic stones, water, museum rooms
-- 创意点子: 把博物馆地面替换成需要攀爬的风景，改变了身体的移动方式，这是全房间 AR 替换的有力案例。
-- 作品内容: 在丹麦路易斯安那现代艺术博物馆，一整个展厅被来自冰岛的石头和砾石填满，一条溪流从中穿过，观众在博物馆内沿河床行走。
-- 关键技术: 数吨岩石被运入并铺在展厅地面上，水泵驱动的溪流在各房间中循环。
-- 课堂练习: 用 ARKit 场景重建把走廊地面替换成由岩石和流水组成的 AR 河床，并尊重真实的墙壁和门洞；变体：水依据手机测得的地面坡度向低处流。
-
-#### Earth Speakr — Olafur Eliasson (2020)
-- 视频: https://www.youtube.com/watch?v=oneExExNwZw
-- 交互类型: 面部, 声音, 地点与城市
-- 平台与技术: 手机, face tracking, mobile AR
-- 创意点子: 孩子把自己的脸和声音借给树木、河流，让地球开口说话
-- 作品内容: 一款面向儿童的 AR 应用：孩子们录下自己的声音和面部表情，把它们“借给”世界上的地点和物体——树木、河流、建筑——让它们为地球发声。
-- 关键技术: 面部追踪捕捉孩子的表情和声音，并将其映射到手机摄像头检测到的真实物体上放置的 AR“脸”上。
-- 课堂练习: 用AR面部驱动（如Snap Lens或Reality Composer）把自己的表情贴到校园的一棵树上，录一句“树想说的话”；变化：全班的树组成一场对话。
-
 ### Ryo Suzuki — Programmable Reality Lab
 
 *科罗拉多大学博尔德分校助理教授（此前任职于卡尔加里大学）；主持 Programmable Reality Lab*
@@ -8514,6 +8399,15 @@ Ryo Suzuki 开发让现实世界变得动态、可编程的 AR 工具：能响�
 - 关键技术: 用 AI 动作捕捉（DeepMotion）从二维视频中提取三维动作，驱动 HoloLens 2 中的虚拟人，同时用 Azure Kinect 追踪用户，对比姿势并触发各种增强效果。
 - 课堂练习: 选一段十秒的舞蹈或瑜伽片段，用免费的 AI 动作捕捉工具（DeepMotion、Rokoko Video 或 MediaPipe）提取三维动作，重定向到 Mixamo 角色，在手机 AR 中让它站在你身旁的地面上。变体：当你自己的姿势（由 MediaPipe 追踪）偏离太多时，让虚拟人自动放慢。
 
+#### HumanoidTurk — Ryo Suzuki — Programmable Reality Lab (2026)
+- 视频: https://www.youtube.com/watch?v=ggsCDhQv6Hg
+- 交互类型: 手势与身体, 游戏与玩法
+- 平台与技术: 头显, Unitree G1 humanoid, Meta Quest 3, Assetto Corsa
+- 创意点子: 把人形机器人当作触觉媒介，而不是陪伴角色。
+- 作品内容: 一台人形机器人变成了力反馈装置：你在 VR 里赛车时，站在椅子后面的 Unitree G1 抓住椅背，随着游戏里的 G 力同步推动它。作者 DaeHo Lee、Ryo Suzuki 与 Jin-Hyuk Hong（光州科学技术院与科罗拉多大学博尔德分校），CHI 2026。
+- 关键技术: 赛车模拟器里的 G 力信号经过滤波，转换成平滑的动作指令，由抓住座椅的人形机器人执行，并与 Meta Quest 3 中的 VR 画面同步。
+- 课堂练习: 两人一组：一人玩 VR 或手机赛车游戏，另一人站在椅子后面，只在屏幕提示出现时（由游戏的转向方向驱动）推动椅子。变体：把人换成椅子上的便宜舵机或振动马达，比较两者的感受。
+
 ### Botao 'Amber' Hu
 
 *设计师、研究者；Reality Design Lab 创始人；HoloKit 发明者*
@@ -8574,6 +8468,15 @@ Ryo Suzuki 开发让现实世界变得动态、可编程的 AR 工具：能响�
 - 关键技术: 把指尖到扫描几何体的距离映射为可穿戴执行器的振动强度，同时削弱视觉反馈，让触觉成为主要感官。
 - 课堂练习: 用手机 LiDAR 或深度估计测量摄像头前方物体的距离，映射成手机震动强度，闭眼在教室里摸索前进；变体：把震动节奏换成不同“动物”的触觉语言。
 
+#### I Become Tentacle, We Become "Tentacus" — Botao 'Amber' Hu (2025)
+- 视频: https://www.youtube.com/watch?v=kK_MMQv0PEU
+- 交互类型: 手势与身体, 表演与舞台, 多人与社交
+- 平台与技术: 手机, 可穿戴, smartphones, textile gloves, motion sensing, haptics
+- 创意点子: 把一群舞者变成一只章鱼，没有任何一个身体说了算。
+- 作品内容: 舞者戴上内嵌智能手机的柔软织物手套，并通过一个共享的圆环彼此相连；每个人都成了同一只生物的一条触手，每个动作都要通过圆环彼此协商。作者 Yiyang Sun、Ziying Chen、La Luo（中国美术学院）与 Botao Amber Hu（Reality Design Lab），SIGGRAPH Asia 2025 XR。
+- 关键技术: 嵌在手套里的智能手机同时充当动作传感器和执行器（很可能是振动和声音），每条“触手”既通过共享的圆环、也通过自己手机的反馈感知其他人。
+- 课堂练习: 把手机绑在三四位同学的手腕上，把加速度计数据实时传到同一个网页（p5.js 加 WebSocket），一旦大家的动作不同步，就让每部手机振动或发出提示音；然后大家一起握着呼啦圈跳舞。变体：在投影或屏幕上给小组一个共同的 AR 生物，只有当所有人都“同意”时，它的身体才会动。
+
 #### TouchPort / Allow me into your dream — Botao 'Amber' Hu (2026)
 - 视频: https://www.youtube.com/watch?v=uMSXnUxnxd4
 - 交互类型: 多人与社交, 手势与身体
@@ -8582,6 +8485,138 @@ Ryo Suzuki 开发让现实世界变得动态、可编程的 AR 工具：能响�
 - 作品内容: 一种混合现实共享协议：一次握手加一拉的动作表达意图、协商同意，并在两个人各自独立的混合现实之间开启一个临时的共享层。
 - 关键技术: 手部追踪识别两位用户之间“握手再拉”的手势，由此通过网络触发一次同意确认，并把双方各自的 AR 图层合并为一个共享会话。
 - 课堂练习: 设计一个两人手机 AR 流程：双方同时做出某个手势后，才能看到对方放在空间里的私人物品；变体：任何一方松手，共享层立即消失。
+
+### Olafur Eliasson
+
+*艺术家；Studio Olafur Eliasson*
+
+冰岛裔丹麦艺术家，他关于光、色彩与感知的装置（The Weather Project）通过 Wunderkammer 和儿童气候应用 Earth Speakr 延伸到了 AR 领域。
+
+#### Beauty — Olafur Eliasson (1993)
+- 视频: https://www.youtube.com/watch?v=vQ0Eq097RKA
+- 交互类型: 感知与视觉艺术, 手势与身体, 注视
+- 平台与技术: 投影, water mist, spotlight, perforated hose
+- 创意点子: 彩虹只存在于光、水滴和你的眼睛之间：依赖观者位置的效果是私人的，AR 可以让每位观众看到不同的版本。
+- 作品内容: 在黑暗的房间里，一道细密的水雾从天花板落下，一盏聚光灯穿过它；只有站在合适的角度才会看到彩虹，而且彩虹随你移动而变化。
+- 关键技术: 带孔的水管放下一层水滴，灯光从观者身后照来，在约 42 度角处折射，每只眼睛都看到属于自己的彩虹。
+- 课堂练习: 在 Lens Studio 或 AR Foundation 里做一道 AR 水雾幕，彩虹根据虚拟光源和手机之间的角度计算，只在某些位置出现。变体：两部手机并排，证明它们各自看到不同的弧。
+
+#### Room for one colour — Olafur Eliasson (1997)
+- 视频: https://www.youtube.com/watch?v=hd077pa-5CI
+- 交互类型: 感知与视觉艺术, 多人与社交
+- 平台与技术: 投影, mono-frequency lamps, white room
+- 创意点子: 改变光而不是物体，就能一下子改变整个世界；AR 里一次整体调色，可能比加任何三维模型更能改造一个房间。
+- 作品内容: 一个白色房间只用单频黄灯照明；观众、他们的衣服和皮肤都变成灰色和黄色，仿佛颜色被关掉了。
+- 关键技术: 低压钠灯只发出单一波长的黄光，眼睛无法分辨其他色相，只能看到黄色和黑色。
+- 课堂练习: 写一个 WebXR 或 Lens Studio 着色器，把透视摄像画面映射成只剩一种色相和亮度，让同学戴着它尝试给彩色物体分类。变体：只让一个物体保留真实颜色，作为唯一的例外。
+
+#### La situazione antispettiva — Olafur Eliasson (2003)
+- 视频: https://www.youtube.com/watch?v=d8yLRu2QwDk
+- 交互类型: 感知与视觉艺术, 传送门与世界替换
+- 平台与技术: 桌面, mirrors, kaleidoscope structure
+- 创意点子: 以精确角度摆放的镜子，把一个视角变成无限图案；AR 可以把实时摄像画面当作几何复制的原料。
+- 作品内容: 威尼斯双年展上一个内衬镜面的结构，把周围的花园和观众折叠成万花筒般的重复，外面的世界从里面看被成倍增加。
+- 关键技术: 镜面板以固定角度拼接（可能是一个万花筒式多面体），让周围环境的倒影按规则图案重复。
+- 课堂练习: 在 Lens Studio 或 WebXR 里做一个效果：把实时摄像画面切成三角形，并在空间中某个锚点周围像万花筒一样重复。变体：让镜面的数量取决于用户走得有多近。
+
+#### The weather project — Olafur Eliasson (2003)
+- 视频: https://www.youtube.com/watch?v=_1Vgeose43g
+- 交互类型: 感知与视觉艺术, 多人与社交, 注视
+- 平台与技术: 投影, mono-frequency lamps, mirror ceiling, haze
+- 创意点子: 半个物体加一面镜子就成了完整的物体，镜面天花板让观众自己成为展品：AR 场景也可以把观众本身加进奇观里。
+- 作品内容: Tate Modern 涡轮大厅里，一个由黄色灯组成的巨大半圆，被镜面天花板反射成一轮太阳；观众在雾气中躺在地上，在天花板里寻找自己。
+- 关键技术: 半圆形幕布后面的数百盏单频灯只发出窄波段黄光，使其他颜色都变得灰暗；镜面膜天花板让大厅翻倍，雾机制造出空气感。
+- 课堂练习: 在 AR 里的走廊尽头放半个太阳，并把整个场景（包括人的实时摄像画面）镜像到一块虚拟天花板上。变体：把场景切换成单一黄色波长，让透视画面里的所有颜色都变成灰色。
+
+#### Round rainbow — Olafur Eliasson (2005)
+- 视频: https://www.youtube.com/watch?v=BuYH6nLMR-c
+- 交互类型: 感知与视觉艺术, 投影增强
+- 平台与技术: 投影, acrylic ring, spotlight, motor
+- 创意点子: 一个小小的旋转物体就能用光涂满整个房间；在 AR 里，一个会动的发光源就足以占据并重新定义一个空间。
+- 作品内容: 一个缓慢旋转的亚克力环悬在黑暗的房间里，被聚光灯照亮；圆环把一圈彩虹和移动的光投到观众四周的墙上。
+- 关键技术: 精确切割的亚克力环把光束折射成光谱，马达带动它旋转，投射出的彩虹在墙上扫过。
+- 课堂练习: 在 AR 里放一个虚拟的旋转棱镜环，利用房间网格把它的彩虹焦散投到真实墙面上，并随旋转更新。变体：用手机手电筒作为光源。
+
+#### The New York City Waterfalls — Olafur Eliasson (2008)
+- 视频: https://www.youtube.com/watch?v=6wUwV0eDDQI
+- 交互类型: 地点与城市, 感知与视觉艺术
+- 平台与技术: 桌面, scaffolding, pumped river water, harbour
+- 创意点子: 把幻觉背后的脚手架也展示出来，让人同时看见效果和其制作方式，许多 AR 作品都可以采用这种立场。
+- 作品内容: 四座高 27 至 37 米、以裸露脚手架搭成的人造瀑布，在三个月里把河水倒回纽约东河与港口。
+- 关键技术: 水泵把河水抽到每座脚手架塔的顶部，再让它以水幕形式落回河中。
+- 课堂练习: 在真实的建筑或桥梁边缘加一道倾泻而下的 AR 瀑布，并把水泵和脚手架以线框渲染出来；变体：水流量跟随实时河流水文数据变化。
+
+#### Your atmospheric colour atlas — Olafur Eliasson (2009)
+- 视频: https://www.youtube.com/watch?v=lRSY61HVlBM
+- 交互类型: 感知与视觉艺术, 空间理解
+- 平台与技术: 投影, fog, fluorescent lights, DMX control
+- 创意点子: 房间可以是一张可以走进去的色彩地图：AR 可以把颜色或声音分配到地面网格的位置上，让位置成为控制器。
+- 作品内容: 一个充满浓雾的房间被天花板上排成网格的彩色灯照亮；你走动时，周围的雾从一种颜色渐变到另一种，其他观众时隐时现。
+- 关键技术: 红、绿、蓝荧光灯管排布在天花板网格里，浓雾把它们的光在整个房间里混合成渐变。
+- 课堂练习: 用 AR Foundation 在教室地面锚定一个看不见的 4×4 色彩网格，用当前所在格子的颜色给整个视野染上雾，并在相邻格子之间混合。变体：给每个格子加一个柔和音调，让房间可以像乐器一样被演奏。
+
+#### Din blinde passager (Your blind passenger) — Olafur Eliasson (2010)
+- 视频: https://www.youtube.com/watch?v=wYxxNA_WTs8
+- 交互类型: 感知与视觉艺术, 空间理解, 手势与身体
+- 平台与技术: 投影, fog, fluorescent lighting, tunnel
+- 创意点子: 视野受限时，身体会靠声音和触觉导航；AR 不一定要让人看到更多，也可以拿走可见性，让人感受空间。
+- 作品内容: 观众穿过一条 90 米长、充满浓雾的隧道，只能看清前方一米半左右，灯光颜色在不同区段之间变化。
+- 关键技术: 雾机让狭长走廊充满浓雾，光向各个方向散射，彩色荧光灯管划分出黄、白、蓝等区段（可能如此）。
+- 课堂练习: 利用 AR Foundation 的深度或网格数据，渲染一层雾，遮住离手机超过 1.5 米的一切，让同学拿着它穿过房间。变体：根据他们所处的房间区域改变雾的颜色。
+
+#### Your uncertain shadow (colour) — Olafur Eliasson (2010)
+- 视频: https://www.youtube.com/watch?v=PeBH6fTQNSc
+- 交互类型: 手势与身体, 感知与视觉艺术, 投影增强
+- 平台与技术: 投影, coloured lamps, additive colour mixing
+- 创意点子: 五盏彩色灯把你的影子分解成一串彩虹
+- 作品内容: 五盏彩色灯照在一面白墙上，每位观众都会投下一排相互重叠、随人移动的彩色影子，身体仿佛被拆分成一道光谱。
+- 关键技术: 并排放置的彩色 HMI 灯通过加色混合发光；挡住其中一盏灯，就会留下它的补色，因此每个影子都呈现不同的色调。
+- 课堂练习: 用红绿蓝三盏手机灯（或彩色玻璃纸）照白墙，研究影子颜色；变化：用舞蹈动作让彩色影子拼出一个字母。
+
+#### Your rainbow panorama — Olafur Eliasson (2011)
+- 视频: https://www.youtube.com/watch?v=ZsMCfOW0SRA
+- 交互类型: 地点与城市, 感知与视觉艺术, 注视
+- 平台与技术: 桌面, coloured glass, circular walkway, rooftop
+- 创意点子: 你站在哪里，就决定你看到哪种滤镜：在 AR 里把颜色或效果对应到方位，走路本身就成了交互界面。
+- 作品内容: 奥胡斯 ARoS 美术馆的屋顶上有一条 150 米长的环形玻璃步道，玻璃涵盖光谱中的所有颜色；绕着它走，城市景色会被染上不断变化的色调。
+- 关键技术: 彩色夹胶玻璃按光谱顺序排成一圈，色调随观者的方位而变化。
+- 课堂练习: 做一个手机 AR 滤镜，根据指南针方向给摄像画面染色，原地转一圈就扫过整个光谱。变体：让两位同学面对面站着，彼此看到对方是互补色。
+
+#### Contact — Olafur Eliasson (2014)
+- 视频: https://www.youtube.com/watch?v=NXXuyotR8us
+- 交互类型: 感知与视觉艺术, 手势与身体, 传送门与世界替换
+- 平台与技术: 投影, mirrors, light line, shadow
+- 创意点子: 一道地平线加一面镜子，就足以在墙后造出一个世界；AR 传送门也可以用同样极简的线索。
+- 作品内容: 在路易威登基金会，地上一道光线变成地平线：镜子、移动的阴影和黑暗，让观众像是走在一颗行星的边缘。
+- 关键技术: 一道贴近地面的光缝被落地镜复制成无尽的地平线，一盏缓慢旋转的灯把观众的影子投在上面（可能如此）。
+- 课堂练习: 在 AR 里沿真实墙面画一道发光的地平线，线后渲染一个镜像的房间，让追踪到的同学身体沿线投下虚拟影子。变体：让地平线慢慢倾斜，房间仿佛在翻滚。
+
+#### Ice Watch — Olafur Eliasson (2014)
+- 视频: https://www.youtube.com/watch?v=qd-JRGBKSXA
+- 交互类型: 地点与城市, 实体物件, 信息与界面
+- 平台与技术: 桌面, Greenlandic glacial ice, public square
+- 创意点子: 触摸正在融化的冰让气候数据变得可触可感，这是数据 AR 的一课：让人把数字握在手里。
+- 作品内容: Eliasson 与地质学家 Minik Rosing 合作，把十二块从格陵兰海面打捞的浮冰摆成钟面，放在哥本哈根、巴黎（COP21 期间）和伦敦的广场上，任其在人们触摸中融化。
+- 关键技术: 从格陵兰冰盖崩解入峡湾的冰被打捞，用冷藏集装箱运输，再摆成钟面形状。
+- 课堂练习: 在广场上把十二块 AR 冰块摆成钟面，并按当天气温实时融化；变体：每块冰显示走完一圈所需的时间里格陵兰失去了多少冰。
+
+#### Riverbed — Olafur Eliasson (2014)
+- 视频: https://www.youtube.com/watch?v=s_xA_8ps_Co
+- 交互类型: 空间理解, 手势与身体, 感知与视觉艺术
+- 平台与技术: 桌面, Icelandic stones, water, museum rooms
+- 创意点子: 把博物馆地面替换成需要攀爬的风景，改变了身体的移动方式，这是全房间 AR 替换的有力案例。
+- 作品内容: 在丹麦路易斯安那现代艺术博物馆，一整个展厅被来自冰岛的石头和砾石填满，一条溪流从中穿过，观众在博物馆内沿河床行走。
+- 关键技术: 数吨岩石被运入并铺在展厅地面上，水泵驱动的溪流在各房间中循环。
+- 课堂练习: 用 ARKit 场景重建把走廊地面替换成由岩石和流水组成的 AR 河床，并尊重真实的墙壁和门洞；变体：水依据手机测得的地面坡度向低处流。
+
+#### Earth Speakr — Olafur Eliasson (2020)
+- 视频: https://www.youtube.com/watch?v=oneExExNwZw
+- 交互类型: 面部, 声音, 地点与城市
+- 平台与技术: 手机, face tracking, mobile AR
+- 创意点子: 孩子把自己的脸和声音借给树木、河流，让地球开口说话
+- 作品内容: 一款面向儿童的 AR 应用：孩子们录下自己的声音和面部表情，把它们“借给”世界上的地点和物体——树木、河流、建筑——让它们为地球发声。
+- 关键技术: 面部追踪捕捉孩子的表情和声音，并将其映射到手机摄像头检测到的真实物体上放置的 AR“脸”上。
+- 课堂练习: 用AR面部驱动（如Snap Lens或Reality Composer）把自己的表情贴到校园的一棵树上，录一句“树想说的话”；变化：全班的树组成一场对话。
 
 ### Daniel Rozin
 
@@ -10480,6 +10515,93 @@ Matt Pyke 的工作室为美术馆、品牌和建筑创作数字生命体、人�
 - 关键技术: 一个印有岩石图像的大型充气外壳覆盖在桥体和步道上（美联社拍摄的延时影像）。
 - 课堂练习: 扫描校园里的一座小桥或通道，在 AR 中把它的表面换成洞穴材质，并在里面加入滴水声；变体：桥上无人的时间越长，洞里的钟乳石长得越多。
 
+### MIT Fluid Interfaces — Pattie Maes & Pranav Mistry
+
+*MIT Media Lab 由 Pattie Maes 领导的研究组；Pranav Mistry 是其最知名的博士生*
+
+Pattie Maes 的 Fluid Interfaces 研究组致力于打造可穿戴与增强型界面，将数字信息融入日常生活。Pranav Mistry 的 SixthSense（2009）将一台袖珍投影仪、一个摄像头和彩色指套组合成手势驱动的可穿戴计算机，成为 TED 史上观看次数最多的演示之一。
+
+#### Quickies: Intelligent Sticky Notes — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2008)
+- 视频: https://www.youtube.com/watch?v=EO0zbH6DSbw
+- 交互类型: 实体物件, 信息与界面
+- 平台与技术: 桌面, digital pen, RFID
+- 创意点子: 让最普通的纸质便利贴拥有数字记忆，能被搜索、会主动提醒你。
+- 作品内容: 借助数码笔和 RFID 采集手写的纸质便利贴，使它们可以被搜索、能提醒你，还能被电脑重新找到。
+- 关键技术: 数码笔（Anoto 式点阵纸）记录每张便利贴上的笔迹，便利贴中的 RFID 标签则用来识别它，再通过手写识别把纸质便利贴变成可搜索、可定位的记录。
+- 课堂练习: 用手机拍摄手写便利贴，调用 OCR（如 Tesseract.js 或系统文本识别）存成可搜索列表，并给每张便利贴贴一个二维码或 NFC 标签，扫码即可跳到它的数字记录；变体：让便利贴在某个时间或地点“主动提醒”你。
+
+#### SixthSense (WUW – Wear Ur World) — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2009)
+- 视频: https://vimeo.com/17567999
+- 交互类型: 手势与身体, 投影增强, 信息与界面
+- 平台与技术: 可穿戴, 投影, pico projector, webcam, color marker tracking
+- 创意点子: 把投影仪和摄像头挂在胸前，让整个世界、甚至自己的手掌都变成可用手势操作的屏幕。
+- 作品内容: 一个挂在胸前的装置，内含口袋投影仪、镜子和摄像头，能把界面投射到墙面、纸张和手上；系统追踪指尖的彩色指套，你可以用手指框出画面拍照、在手掌上拨号，或看到投射在报纸上的实时数据。
+- 关键技术: 网络摄像头通过颜色阈值和色块追踪来跟踪彩色指套，经镜子折射的微型投影仪把 UI 渲染到佩戴者面前的任何表面上；摄像头与投影仪大致共轴，因此手势可以对应到投影内容上。
+- 课堂练习: 用手机前置摄像头加 MediaPipe Hands（或给指尖贴彩色胶带做颜色追踪）识别“双手取景框”等 3 个手势，并用小投影仪把对应界面投在桌面或手掌上；变体：只保留一个你每天真正会用的手势功能，并论证它为什么值得“挂在身上”。
+
+#### WUW / SixthSense gesture demo reel — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2009)
+- 视频: https://www.youtube.com/watch?v=ZfV4R4x2SK0
+- 交互类型: 手势与身体, 投影增强, 空间绘画与创作
+- 平台与技术: 可穿戴, 投影, pico projector, webcam
+- 创意点子: 用手指画一个圈就看时间，拿起一本书就看到评分——信息随手势出现在实物上。
+- 作品内容: Pranav Mistry 亲自制作的可穿戴手势界面演示片：在空中画画、手腕上投影出手表、增强的登机牌和书籍。
+- 关键技术: 胸前的网络摄像头通过彩色标记追踪指尖，驱动一套手势词汇（空中绘画、轻点手腕看表），同时微型投影仪把响应内容原位投射到身体或印刷品上。
+- 课堂练习: 用 MediaPipe Hands 在网页里实现“空中画线”：食指捏合开始画、张手结束，把轨迹投影到墙上或叠加在摄像头画面中；变体：给轨迹加上一种物理属性（会下落、会褪色或会被风吹走）。
+
+#### LuminAR — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2010)
+- 视频: https://vimeo.com/52899256
+- 交互类型: 投影增强, 实体物件, 手势与身体
+- 平台与技术: 投影, pico projector, robotic arm, depth camera
+- 创意点子: 把台灯换成会自己转头的投影机器人，桌面上的任何地方都能变成触控界面。
+- 作品内容: Natan Linder 设计的机器人台灯，它的“灯泡”是一套投影仪-摄像头：灯臂会自行移动，把互动界面投到桌面上、跟随物体并扫描文档。
+- 关键技术: 一对投影仪-摄像头安装在电动多关节灯臂的头部，摄像头上的计算机视觉（配合深度感知）决定灯臂指向哪里，从而把界面投射到桌面上，并扫描下方的物体。
+- 课堂练习: 把一台小投影仪和手机固定在台灯支架上，用摄像头检测桌上的纸张或手，把按钮、提示投影到该物体旁边；变体：给台灯设计一种“性格”，比如在你离开时低头、看到新物体时凑过去（可用舵机或手动摆拍演示）。
+
+#### AfterMath: Seeing the Future through AR — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2015)
+- 视频: https://vimeo.com/130279501
+- 交互类型: 空间理解, 感知与视觉艺术
+- 平台与技术: 手机, AR, physics simulation
+- 创意点子: 用AR提前预演物理世界的'下一秒'，看见即将发生的后果。
+- 作品内容: 把平板对准一处真实场景，AR 会预测并显示接下来将发生的事情，比如某个物理动作之后，物体会往哪里掉落、朝哪里滚动。
+- 关键技术: 平板借助 AR 追踪场景，把其中的实体物体重建或拟合为刚体，再将物理模拟向前推演，把预测出的运动轨迹以半透明“残影”叠加渲染出来。
+- 课堂练习: 在 Unity + AR Foundation 中检测桌面平面，放一个虚拟球并用物理引擎预演它被推出后的轨迹，以半透明残影显示“未来 2 秒”；变体：显示多个可能的未来分支，让用户选择想要的那一个。
+
+#### Invisibilia: Revealing Invisible Data — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2015)
+- 视频: https://vimeo.com/141926009
+- 交互类型: 信息与界面, 感知与视觉艺术
+- 平台与技术: 手机, AR, IoT
+- 创意点子: 把看不见的无线信号和数据流可视化在空间里。
+- 作品内容: 一种 AR 视图，把联网设备周围看不见的信号（如 Wi-Fi 信号场和数据流）以叠加图层的形式呈现在房间中。
+- 关键技术: 通过 AR（标记或已知锚点）注册各设备的位置，采集 Wi-Fi 信号强度、数据包活动等网络数据，并在每台设备周围渲染成体积场或粒子流。
+- 课堂练习: 用 AR Foundation 或 WebXR 在路由器、手机、音箱位置放置锚点，读取手机测到的 Wi-Fi 信号强度（或用模拟数据）渲染成粒子云和数据流线；变体：可视化另一种看不见的东西，比如噪声、温度或二氧化碳浓度。
+
+#### HoloARt: Painting with Holograms — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2016)
+- 视频: https://vimeo.com/202652308
+- 交互类型: 空间绘画与创作, 空间理解, 手势与身体
+- 平台与技术: 头显, HoloLens, Unity
+- 创意点子: 在真实房间里用手甩出全息颜料，颜料会粘在真实墙面上。
+- 作品内容: Judith Amores 和 Pattie Maes 让用户在 HoloLens 中用手势作画，泼出的全息颜料会粘在真实表面上并往下滴。
+- 关键技术: HoloLens 空间映射提供房间网格，手势生成颜料粒子，粒子与网格碰撞后在真实表面上留下贴花并进行滴落模拟。
+- 课堂练习: 用 AR Foundation 的 Meshing（LiDAR iPhone）或平面检测，让手机点击屏幕发射颜料球，碰到真实表面后留下贴花并缓慢下流；变体：颜料的颜色或粘稠度由声音大小或手机倾斜角度控制。
+
+#### Memoro — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2024)
+- 视频: https://www.youtube.com/watch?v=fOmvnHcGcXA
+- 交互类型: 声音, 信息与界面, 多人与社交
+- 平台与技术: 可穿戴, LLM, semantic search, wearable audio
+- 创意点子: 一个记忆义肢：只在你缺的那一条信息上开口。
+- 作品内容: 一个可穿戴的音频记忆助手：在对话中推断你正想记起的内容，并轻声给出简短提示——可以在你询问时提供，也可以不等你开口就主动提供。
+- 关键技术: 把录下的对话存为可检索的记忆；大语言模型根据上下文推断当前的记忆需求，进行语义检索，并以极简的音频提示返回，支持“提问模式”和“免提问模式”。
+- 课堂练习: 把一周的课堂笔记整理成文本，存进一个小型向量库，做一个手机应用：监听现场讨论，检测到犹豫的说法（“那个叫什么来着……”）时读出一条检索到的事实。变体：把这条事实做成 AR 便利贴，贴在最初说出它的人身上。
+
+#### Plato's [AI]legory of the Cave — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2026)
+- 视频: https://samch.in/assets/images/projects/allegory-of-the-cave/cave-FINAL-compressed.mp4
+- 交互类型: 投影增强, 实体物件, 游戏与玩法
+- 平台与技术: 投影, projector, camera, LLM, Matter.js, ESP32, electromagnet
+- 创意点子: 一个只以影子形式存在的 AI 角色，把你摆放的物体当成它的世界，还会反过来推它们。
+- 作品内容: 拨动一个真实的电灯开关，投影出的“影子人”便醒来，他唯一的目标就是把灯再关掉；观众用真实的积木、框架和台阶挡住他的路，他会攀爬、放弃，或者一脚踢开，而被踢的积木真的会动。作者为 Sam Chin（MIT Media Lab Responsive Environments 组）与 Skye Gao、Leonie Dong、Cathy Fang（Fluid Interfaces 组）和 Alejandro Lopez-Rodriguez；获 2026 年林茨电子艺术节 Expanded 大会 Expanded Play Gallery 的最佳展品奖。
+- 关键技术: 摄像头对投影画面做阈值分割，把影子、人物、地面和开关转换成 ASCII 符号交给大语言模型，由它在 Matter.js 物理世界里选择走、跳、爬或踢；一旦决定踢，ESP32 便驱动电磁铁，推动内嵌磁铁的积木。
+- 课堂练习: 把一个火柴人投影到桌面上，用网络摄像头把同学们放在桌上的物体的影子变成碰撞体（先做阈值分割，再把轮廓转成 Matter.js 或 p5.js 刚体）；给火柴人一个目标，比如走到一张纸做的开关前，让它在影子上走、跳、攀爬。变体：每一步都把场景的 ASCII 地图发给大语言模型，让它决定火柴人的下一步动作。
+
 ### Matthew Hallberg
 
 *AR 开发者、YouTuber；Snap Spectacles 开发者*
@@ -11560,84 +11682,6 @@ Keiichi Matsuda（松田圭一）受过建筑学训练，是设计师兼电影�
 - 关键技术: 把 Quest 房间模型中的天花板平面从透视画面中遮罩掉，替换为渲染出的天空穹顶，于是星星透过天花板显现，而墙面依旧是真实的。
 - 课堂练习: 检测天花板平面后用遮罩把它替换成星空球面，通过手机仰头观看；变体：用手机指南针让星座方位与真实方向一致。
 
-### MIT Fluid Interfaces — Pattie Maes & Pranav Mistry
-
-*MIT Media Lab 由 Pattie Maes 领导的研究组；Pranav Mistry 是其最知名的博士生*
-
-Pattie Maes 的 Fluid Interfaces 研究组致力于打造可穿戴与增强型界面，将数字信息融入日常生活。Pranav Mistry 的 SixthSense（2009）将一台袖珍投影仪、一个摄像头和彩色指套组合成手势驱动的可穿戴计算机，成为 TED 史上观看次数最多的演示之一。
-
-#### Quickies: Intelligent Sticky Notes — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2008)
-- 视频: https://www.youtube.com/watch?v=EO0zbH6DSbw
-- 交互类型: 实体物件, 信息与界面
-- 平台与技术: 桌面, digital pen, RFID
-- 创意点子: 让最普通的纸质便利贴拥有数字记忆，能被搜索、会主动提醒你。
-- 作品内容: 借助数码笔和 RFID 采集手写的纸质便利贴，使它们可以被搜索、能提醒你，还能被电脑重新找到。
-- 关键技术: 数码笔（Anoto 式点阵纸）记录每张便利贴上的笔迹，便利贴中的 RFID 标签则用来识别它，再通过手写识别把纸质便利贴变成可搜索、可定位的记录。
-- 课堂练习: 用手机拍摄手写便利贴，调用 OCR（如 Tesseract.js 或系统文本识别）存成可搜索列表，并给每张便利贴贴一个二维码或 NFC 标签，扫码即可跳到它的数字记录；变体：让便利贴在某个时间或地点“主动提醒”你。
-
-#### SixthSense (WUW – Wear Ur World) — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2009)
-- 视频: https://vimeo.com/17567999
-- 交互类型: 手势与身体, 投影增强, 信息与界面
-- 平台与技术: 可穿戴, 投影, pico projector, webcam, color marker tracking
-- 创意点子: 把投影仪和摄像头挂在胸前，让整个世界、甚至自己的手掌都变成可用手势操作的屏幕。
-- 作品内容: 一个挂在胸前的装置，内含口袋投影仪、镜子和摄像头，能把界面投射到墙面、纸张和手上；系统追踪指尖的彩色指套，你可以用手指框出画面拍照、在手掌上拨号，或看到投射在报纸上的实时数据。
-- 关键技术: 网络摄像头通过颜色阈值和色块追踪来跟踪彩色指套，经镜子折射的微型投影仪把 UI 渲染到佩戴者面前的任何表面上；摄像头与投影仪大致共轴，因此手势可以对应到投影内容上。
-- 课堂练习: 用手机前置摄像头加 MediaPipe Hands（或给指尖贴彩色胶带做颜色追踪）识别“双手取景框”等 3 个手势，并用小投影仪把对应界面投在桌面或手掌上；变体：只保留一个你每天真正会用的手势功能，并论证它为什么值得“挂在身上”。
-
-#### WUW / SixthSense gesture demo reel — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2009)
-- 视频: https://www.youtube.com/watch?v=ZfV4R4x2SK0
-- 交互类型: 手势与身体, 投影增强, 空间绘画与创作
-- 平台与技术: 可穿戴, 投影, pico projector, webcam
-- 创意点子: 用手指画一个圈就看时间，拿起一本书就看到评分——信息随手势出现在实物上。
-- 作品内容: Pranav Mistry 亲自制作的可穿戴手势界面演示片：在空中画画、手腕上投影出手表、增强的登机牌和书籍。
-- 关键技术: 胸前的网络摄像头通过彩色标记追踪指尖，驱动一套手势词汇（空中绘画、轻点手腕看表），同时微型投影仪把响应内容原位投射到身体或印刷品上。
-- 课堂练习: 用 MediaPipe Hands 在网页里实现“空中画线”：食指捏合开始画、张手结束，把轨迹投影到墙上或叠加在摄像头画面中；变体：给轨迹加上一种物理属性（会下落、会褪色或会被风吹走）。
-
-#### LuminAR — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2010)
-- 视频: https://vimeo.com/52899256
-- 交互类型: 投影增强, 实体物件, 手势与身体
-- 平台与技术: 投影, pico projector, robotic arm, depth camera
-- 创意点子: 把台灯换成会自己转头的投影机器人，桌面上的任何地方都能变成触控界面。
-- 作品内容: Natan Linder 设计的机器人台灯，它的“灯泡”是一套投影仪-摄像头：灯臂会自行移动，把互动界面投到桌面上、跟随物体并扫描文档。
-- 关键技术: 一对投影仪-摄像头安装在电动多关节灯臂的头部，摄像头上的计算机视觉（配合深度感知）决定灯臂指向哪里，从而把界面投射到桌面上，并扫描下方的物体。
-- 课堂练习: 把一台小投影仪和手机固定在台灯支架上，用摄像头检测桌上的纸张或手，把按钮、提示投影到该物体旁边；变体：给台灯设计一种“性格”，比如在你离开时低头、看到新物体时凑过去（可用舵机或手动摆拍演示）。
-
-#### AfterMath: Seeing the Future through AR — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2015)
-- 视频: https://vimeo.com/130279501
-- 交互类型: 空间理解, 感知与视觉艺术
-- 平台与技术: 手机, AR, physics simulation
-- 创意点子: 用AR提前预演物理世界的'下一秒'，看见即将发生的后果。
-- 作品内容: 把平板对准一处真实场景，AR 会预测并显示接下来将发生的事情，比如某个物理动作之后，物体会往哪里掉落、朝哪里滚动。
-- 关键技术: 平板借助 AR 追踪场景，把其中的实体物体重建或拟合为刚体，再将物理模拟向前推演，把预测出的运动轨迹以半透明“残影”叠加渲染出来。
-- 课堂练习: 在 Unity + AR Foundation 中检测桌面平面，放一个虚拟球并用物理引擎预演它被推出后的轨迹，以半透明残影显示“未来 2 秒”；变体：显示多个可能的未来分支，让用户选择想要的那一个。
-
-#### Invisibilia: Revealing Invisible Data — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2015)
-- 视频: https://vimeo.com/141926009
-- 交互类型: 信息与界面, 感知与视觉艺术
-- 平台与技术: 手机, AR, IoT
-- 创意点子: 把看不见的无线信号和数据流可视化在空间里。
-- 作品内容: 一种 AR 视图，把联网设备周围看不见的信号（如 Wi-Fi 信号场和数据流）以叠加图层的形式呈现在房间中。
-- 关键技术: 通过 AR（标记或已知锚点）注册各设备的位置，采集 Wi-Fi 信号强度、数据包活动等网络数据，并在每台设备周围渲染成体积场或粒子流。
-- 课堂练习: 用 AR Foundation 或 WebXR 在路由器、手机、音箱位置放置锚点，读取手机测到的 Wi-Fi 信号强度（或用模拟数据）渲染成粒子云和数据流线；变体：可视化另一种看不见的东西，比如噪声、温度或二氧化碳浓度。
-
-#### HoloARt: Painting with Holograms — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2016)
-- 视频: https://vimeo.com/202652308
-- 交互类型: 空间绘画与创作, 空间理解, 手势与身体
-- 平台与技术: 头显, HoloLens, Unity
-- 创意点子: 在真实房间里用手甩出全息颜料，颜料会粘在真实墙面上。
-- 作品内容: Judith Amores 和 Pattie Maes 让用户在 HoloLens 中用手势作画，泼出的全息颜料会粘在真实表面上并往下滴。
-- 关键技术: HoloLens 空间映射提供房间网格，手势生成颜料粒子，粒子与网格碰撞后在真实表面上留下贴花并进行滴落模拟。
-- 课堂练习: 用 AR Foundation 的 Meshing（LiDAR iPhone）或平面检测，让手机点击屏幕发射颜料球，碰到真实表面后留下贴花并缓慢下流；变体：颜料的颜色或粘稠度由声音大小或手机倾斜角度控制。
-
-#### Memoro — MIT Fluid Interfaces — Pattie Maes & Pranav Mistry (2024)
-- 视频: https://www.youtube.com/watch?v=fOmvnHcGcXA
-- 交互类型: 声音, 信息与界面, 多人与社交
-- 平台与技术: 可穿戴, LLM, semantic search, wearable audio
-- 创意点子: 一个记忆义肢：只在你缺的那一条信息上开口。
-- 作品内容: 一个可穿戴的音频记忆助手：在对话中推断你正想记起的内容，并轻声给出简短提示——可以在你询问时提供，也可以不等你开口就主动提供。
-- 关键技术: 把录下的对话存为可检索的记忆；大语言模型根据上下文推断当前的记忆需求，进行语义检索，并以极简的音频提示返回，支持“提问模式”和“免提问模式”。
-- 课堂练习: 把一周的课堂笔记整理成文本，存进一个小型向量库，做一个手机应用：监听现场讨论，检测到犹豫的说法（“那个叫什么来着……”）时读出一条检索到的事实。变体：把这条事实做成 AR 便利贴，贴在最初说出它的人身上。
-
 ### Mar Gonzalez-Franco
 
 *Google 研究科学家，领导 Blended Interaction Research & Devices 实验室（曾任职微软研究院）*
@@ -12526,6 +12570,58 @@ Apple 的 ARKit 和 visionOS 团队发布了首款多人 ARKit 示例游戏 Swif
 - 作品内容: 在 Vision Pro 上，你的墙上打开了一扇传送门：一只蝴蝶落在你伸出的指尖上，恐龙朝你走来，并会对你的移动或伸手作出反应。
 - 关键技术: 渲染一个锚定在墙上、通向完整环境的传送门，并根据用户头部和手部的位置驱动生物的行为。
 - 课堂练习: 用手机AR在墙上放一个门户，里面的角色会随手机靠近而后退或前进；变化：伸出手（手部检测）时让一只虚拟蝴蝶停在手上。
+
+### Chris Harrison — CMU Future Interfaces Group
+
+*卡内基梅隆大学 HCII 教授；Future Interfaces Group（FIGLAB）主任*
+
+Chris Harrison 不断发明新方法，把皮肤、墙面、桌面和各种日常表面变成交互式显示屏与传感器。与 Microsoft Research 合作的 Skinput 和 OmniTouch 将界面投射到身体上，FIGLAB 也持续产出面向身体和环境的 AR 输入技术。
+
+#### Skinput — Chris Harrison — CMU Future Interfaces Group (2010)
+- 视频: https://www.youtube.com/watch?v=g3XPUdW9Ryg
+- 交互类型: 手势与身体, 投影增强
+- 平台与技术: 可穿戴, 投影, bio-acoustic sensing, pico projector
+- 创意点子: 用手臂当触摸屏：轻敲皮肤不同位置就能操作投影在身上的菜单。
+- 作品内容: 一个装有振动传感器的臂环能检测手指在前臂和手上的敲击，微型投影仪则把菜单和游戏直接投射在皮肤上。
+- 关键技术: 臂环上的压电振动传感器捕捉敲击在骨骼和软组织中传播的生物声学信号，再由 SVM 根据频谱特征判断敲击位置。
+- 课堂练习: 把手机贴在前臂上，用加速度计记录敲击手臂不同位置的震动，用 Teachable Machine（声音或自定义特征）训练 3 个位置的分类器，并把菜单投影或显示在手臂上；变体：把敲击换成在桌面、墙面等其他身体外物体上。
+
+#### OmniTouch — Chris Harrison — CMU Future Interfaces Group, Microsoft Research — Hrvoje Benko & Andy Wilson (2011)
+- 视频: https://www.youtube.com/watch?v=Pz17lbjOFn8
+- 交互类型: 手势与身体, 投影增强, 空间理解
+- 平台与技术: 可穿戴, 投影, depth camera, pico projector
+- 创意点子: 肩上的深度相机+投影，把手掌、墙面、笔记本随时变成多点触控屏。
+- 作品内容: 一套戴在肩上的深度相机和投影仪，能随时把手掌、墙面、笔记本和桌面变成多点触控表面。
+- 关键技术: 肩戴式深度相机在深度图像中寻找类似手指的圆柱体，并通过判断指尖是否距其下方表面仅几毫米来确定触摸；同时经过标定的微型投影仪把界面投射到检测到的表面上。
+- 课堂练习: 用深度相机（RealSense、Kinect 或 LiDAR iPhone）检测手指与桌面的深度差来判断触摸，把一个投影键盘放在笔记本或手掌上；变体：让界面自动选择最大的可用平面出现。
+
+#### LightAnchors — Chris Harrison — CMU Future Interfaces Group (2019)
+- 视频: https://www.youtube.com/watch?v=435OSV8Hudw
+- 交互类型: 信息与界面, 实体物件
+- 平台与技术: 手机, computer vision, LED signaling
+- 创意点子: 让设备上的小指示灯'闪'出数据，手机一照就浮现实时标签。
+- 作品内容: 日常设备上闪烁的点光源在广播数据；手机摄像头将其解码，并在恒温器、路由器和汽车上锚定实时 AR 标签。
+- 关键技术: LED 以手机摄像头可检测的频率、按已知前导码模式闪烁；应用在多帧中寻找亮点，把时间上的闪烁模式解码为数据，并在光点的图像位置锚定标签。
+- 课堂练习: 让 Arduino 或另一部手机的屏幕闪烁编码（如 8 位 ID），用手机摄像头逐帧检测亮点并解码，在亮点位置显示对应的 AR 标签；变体：把闪烁的信息做成“秘密消息”，只有扫到的人才能看到。
+
+#### EgoTouch — Chris Harrison — CMU Future Interfaces Group (2024)
+- 视频: https://www.youtube.com/watch?v=7JwgIm1f1ss
+- 交互类型: 手势与身体
+- 平台与技术: 头显, headset cameras, machine learning
+- 创意点子: 只用头显自带摄像头，就能把手臂皮肤变成触控按钮。
+- 作品内容: 利用 AR/VR 头显上现有的摄像头检测你对自己皮肤的触摸，无需额外硬件，就能把手掌和前臂变成按钮和滑块。
+- 关键技术: 一个基于头显相机图像训练的卷积神经网络（CNN）根据皮肤的外观和明暗推断手指是否触碰到手掌或前臂，以及触碰位置，不需要额外的传感器。
+- 课堂练习: 用手机摄像头拍手掌，用 Teachable Machine 训练“触摸/悬停”两类图像，并结合 MediaPipe 指尖位置把手掌分成 4 个按钮；变体：用手掌上的按钮控制 HoloKit 或网页中的一个小游戏。
+
+#### SoundBubble — Chris Harrison — CMU Future Interfaces Group (2026)
+- 视频: https://www.youtube.com/watch?v=UDyzusbP8C8
+- 源代码: https://github.com/FIGLAB/SoundBubble
+- 交互类型: 声音, 手势与身体, 实体物件
+- 平台与技术: 头显, microphone-array beamforming, hand tracking
+- 创意点子: 在指尖放一个虚拟麦克风，让你摸到的每一个表面都能被“听见”。
+- 作品内容: 头显或眼镜里已有的麦克风被“瞄准”到你的指尖，指尖移到哪里就听到哪里，于是敲桌子、手指划过表面、皮肤与皮肤的摩擦，或者拨动一个无源小部件，都能变成输入。作者 Daehwa Kim 与 Chris Harrison（卡内基梅隆大学 Future Interfaces Group），CHI 2026。
+- 关键技术: 根据手部追踪得到的三维指尖位置，对头显麦克风阵列做波束成形，把手指接触产生的微弱声音从环境噪声中分离出来。
+- 课堂练习: 用手机或笔记本的麦克风，借助 Teachable Machine 的音频模型识别手指在桌上的三种声音（轻敲、刮擦、叩击），并把每一种映射到一个 AR 或屏幕效果。变体：把桌子变成一套鼓，每种声音触发不同的采样。
 
 ### Christian Holz
 
@@ -13594,6 +13690,75 @@ Garrett Gunnell 以 Acerola 为名制作长篇视频：每期从某个游戏或�
 - 关键技术: “雨影”的做法是在阵雨开始时静躺在干燥地面上，等周围地面湿透后再站起来。
 - 课堂练习: 用人体分割（Lens Studio 或 MediaPipe）捕捉用户剪影，在 AR 中把它作为逐渐淡去的影子贴花留在地面上；变体：多人踩过同一位置时影子消退得更快。
 
+### Autodesk Research (Fraser Anderson, Tovi Grossman, George Fitzmaurice et al.)
+
+*企业 HCI 研究团队*
+
+Autodesk 的用户界面研究团队为制作与学习打造 AR 工具：投影式笔迹叠加、AR 动作镜像、装配教程创作工具，以及双向 MR 远程指导。
+
+#### PenLight — Autodesk Research (Fraser Anderson, Tovi Grossman, George Fitzmaurice et al.) (2009)
+- 视频: https://www.youtube.com/watch?v=9pQz-YviPOA
+- 交互类型: 投影增强, 空间绘画与创作, 实体物件
+- 平台与技术: 投影, 可穿戴, digital pen, pico projector
+- 创意点子: 笔尖自带投影，写在纸上的同时把数字图层投在纸上。
+- 作品内容: 一支内置微型投影仪的数码笔，能把建筑平面图图层等数字内容直接叠加到你正在书写的纸上。
+- 关键技术: 在点阵纸上追踪笔的位置，并在笔尖周围投射经过空间配准的叠加内容。
+- 课堂练习: 用手机投影仪对准一张打印的平面图，从上方投射“隐藏的水管/电路层”，学生用笔描出；变化：用手机AR替代投影，比较手持与投影的体验。
+
+#### YouMove — Autodesk Research (Fraser Anderson, Tovi Grossman, George Fitzmaurice et al.) (2013)
+- 视频: https://www.youtube.com/watch?v=DsZ-9opi150
+- 交互类型: 手势与身体, 信息与界面
+- 平台与技术: 投影, 桌面, Kinect, half-silvered mirror, skeleton tracking
+- 创意点子: AR魔镜把老师的动作叠在你的镜像上，一步步教你跳。
+- 作品内容: 一面 AR 镜子先录下专家的动作，再在学习者的镜像上叠加骨架引导和反馈来训练他们，并逐步撤去引导。
+- 关键技术: 在大面积半透半反镜后方用 Kinect 进行骨架追踪，绘制与用户镜像对齐的录制动作引导，并为动作的准确度打分。
+- 课堂练习: 用手机前摄+人体姿态识别（如MediaPipe/Effect House）叠加一个“老师骨架”，学生跟着做一套广播操并获得评分；变化：逐步淡化骨架直到完全隐藏。
+
+#### Ivy: Spatially Situated Visual Programming — Autodesk Research (Fraser Anderson, Tovi Grossman, George Fitzmaurice et al.) (2017)
+- 视频: https://www.youtube.com/watch?v=Gn8sBvKHHYk
+- 交互类型: 信息与界面, 空间理解, 空间绘画与创作
+- 平台与技术: 头显, visual programming, IoT, HTC Vive
+- 创意点子: 在真实房间里用连线把灯、传感器“编程”起来。
+- 作品内容: 在 VR/AR 中，用户能在智能环境中各个传感器和执行器的实际所在位置看到它们，并在空间中用可视化编程连线把它们连接起来。
+- 关键技术: 把节点图控件锚定在每台设备的实际物理位置上，让用户在 3D 空间中于设备之间绘制数据流连接。
+- 课堂练习: 给教室里的灯、门、窗贴二维码，用手机AR显示它们的“节点”，学生画线组合“门开→灯亮”的规则（可用Home自动化模拟）；变化：规则由两人合作一个画输入一个画输出。
+
+#### HydroRing — Autodesk Research (Fraser Anderson, Tovi Grossman, George Fitzmaurice et al.) (2018)
+- 视频: https://www.youtube.com/watch?v=ofRJ80eyEQw
+- 交互类型: 手势与身体, 实体物件
+- 平台与技术: 可穿戴, 头显, liquid flow haptics, HoloLens
+- 创意点子: 用流动的液体在指尖产生冷热和压感，又不妨碍摸真实物体。
+- 作品内容: 一枚薄薄的指环，通过指尖上的乳胶管泵送温热、冰凉或脉动的液体，产生压力、振动和温度提示，同时不妨碍触摸真实物体。
+- 关键技术: 用泵和加热器驱动液体流过贴在指腹上的细管，通过调节流量和温度呈现触觉效果。
+- 课堂练习: 让同学手指分别接触冷水袋和温水袋，同时在手机AR中看到“冰块/火焰”，讨论视觉与触觉一致时的真实感；变化：故意让视觉与温度相反。
+
+#### AuthAR — Autodesk Research (Fraser Anderson, Tovi Grossman, George Fitzmaurice et al.) (2019)
+- 视频: https://www.youtube.com/watch?v=75GGfsBshvs
+- 交互类型: 信息与界面, 实体物件
+- 平台与技术: 头显, HoloLens, Kinect, tutorial authoring
+- 创意点子: 边组装边自动生成AR教程。
+- 作品内容: 专家组装家具时，系统同步录制视频和三维追踪数据，顺手生成一份 AR 组装教程，学习者随后戴上头显照着操作即可。
+- 关键技术: 把物体追踪与同步视频采集结合起来，让每个组装步骤都成为带视频片段和注释的空间锚定 AR 指引。
+- 课堂练习: 分成两人一组：一人组装乐高时用手机录制每一步，另一人用Reality Composer把每步视频/箭头放在对应零件位置上，给第三人使用；变化：教程不许用文字。
+
+#### Loki — Autodesk Research (Fraser Anderson, Tovi Grossman, George Fitzmaurice et al.) (2019)
+- 视频: https://www.youtube.com/watch?v=cBN1XZXZw3Y
+- 交互类型: 多人与社交, 手势与身体, 信息与界面
+- 平台与技术: 头显, VR/AR telepresence, RGB-D capture, recording and playback
+- 创意点子: 师生双向混合现实远程教学，可在视频、3D和虚拟复本间切换。
+- 作品内容: 一个双向的混合现实远程临场系统：老师和学习者都可以在视频、3D 捕捉和虚拟复本视图之间切换，用来演示实体操作任务。
+- 关键技术: 串流双方空间的 RGB-D 点云，任一用户都可以在对方的环境中录制、标注和回放 3D 演示。
+- 课堂练习: 搭建两间教室间的视频通话+手机AR远程折纸课：老师的手部动作录成短视频挂在学生AR桌面上；变化：学生也能回传自己的错误动作让老师标注。
+
+#### PlayWrite — Autodesk Research (Fraser Anderson, Tovi Grossman, George Fitzmaurice et al.) (2026)
+- 视频: https://www.youtube.com/watch?v=RHvioD_b2Hc
+- 交互类型: 游戏与玩法, 空间绘画与创作, 手势与身体
+- 平台与技术: 头显, mixed-reality headset, multi-agent LLM pipeline
+- 创意点子: 用“玩”代替文字提示：把故事演出来，让 AI 把它写下来。
+- 作品内容: 通过“玩”来写故事：在混合现实里像摆弄玩具一样移动虚拟角色和道具，AI 智能体把每个动作转成一个故事节拍，以弹珠的形式排在时间线上，再由大语言模型按你排好的顺序写出最终故事。作者 Esen K. Tütüncü、Qian Zhou、Frederik Brudy、George Fitzmaurice 与 Fraser Anderson（Autodesk Research），CHI 2026。
+- 关键技术: 多智能体 AI 流程把对虚拟角色和道具的直接操作解读成结构化的“意图帧”，显示为可重新排列的故事弹珠，再由大语言模型写成文字。
+- 课堂练习: 拍下自己在桌上摆弄两个玩具、演出三个小场景的过程，用视觉语言模型描述每段视频，把描述写在可以调换顺序的卡片上，再让大语言模型按这个顺序讲出故事。变体：打乱卡片顺序，比较生成的故事有何不同。
+
 ### Blair MacIntyre — Georgia Tech Augmented Environments Lab
 
 *佐治亚理工学院教授（Augmented Environments Lab）；后任 Mozilla（WebXR）及 JP Morgan 首席研究科学家*
@@ -13750,48 +13915,6 @@ Blair MacIntyre（Feiner 的学生）主持佐治亚理工学院的 Augmented En
 - 关键技术: 这个实体控制器与 HoloLens 场景对齐，带驱动的滑块既读取用户输入，也会移动以反映其他地方做出的选择。
 - 课堂练习: 在桌上把三把尺子当作坐标轴，用图像标记追踪，并在手机 AR 中于其上方显示 3D 散点图；在每把尺子上夹一个夹子来筛选数据。变体：让两个人同时筛选。
 
-### Chris Harrison — CMU Future Interfaces Group
-
-*卡内基梅隆大学 HCII 教授；Future Interfaces Group（FIGLAB）主任*
-
-Chris Harrison 不断发明新方法，把皮肤、墙面、桌面和各种日常表面变成交互式显示屏与传感器。与 Microsoft Research 合作的 Skinput 和 OmniTouch 将界面投射到身体上，FIGLAB 也持续产出面向身体和环境的 AR 输入技术。
-
-#### Skinput — Chris Harrison — CMU Future Interfaces Group (2010)
-- 视频: https://www.youtube.com/watch?v=g3XPUdW9Ryg
-- 交互类型: 手势与身体, 投影增强
-- 平台与技术: 可穿戴, 投影, bio-acoustic sensing, pico projector
-- 创意点子: 用手臂当触摸屏：轻敲皮肤不同位置就能操作投影在身上的菜单。
-- 作品内容: 一个装有振动传感器的臂环能检测手指在前臂和手上的敲击，微型投影仪则把菜单和游戏直接投射在皮肤上。
-- 关键技术: 臂环上的压电振动传感器捕捉敲击在骨骼和软组织中传播的生物声学信号，再由 SVM 根据频谱特征判断敲击位置。
-- 课堂练习: 把手机贴在前臂上，用加速度计记录敲击手臂不同位置的震动，用 Teachable Machine（声音或自定义特征）训练 3 个位置的分类器，并把菜单投影或显示在手臂上；变体：把敲击换成在桌面、墙面等其他身体外物体上。
-
-#### OmniTouch — Chris Harrison — CMU Future Interfaces Group, Microsoft Research — Hrvoje Benko & Andy Wilson (2011)
-- 视频: https://www.youtube.com/watch?v=Pz17lbjOFn8
-- 交互类型: 手势与身体, 投影增强, 空间理解
-- 平台与技术: 可穿戴, 投影, depth camera, pico projector
-- 创意点子: 肩上的深度相机+投影，把手掌、墙面、笔记本随时变成多点触控屏。
-- 作品内容: 一套戴在肩上的深度相机和投影仪，能随时把手掌、墙面、笔记本和桌面变成多点触控表面。
-- 关键技术: 肩戴式深度相机在深度图像中寻找类似手指的圆柱体，并通过判断指尖是否距其下方表面仅几毫米来确定触摸；同时经过标定的微型投影仪把界面投射到检测到的表面上。
-- 课堂练习: 用深度相机（RealSense、Kinect 或 LiDAR iPhone）检测手指与桌面的深度差来判断触摸，把一个投影键盘放在笔记本或手掌上；变体：让界面自动选择最大的可用平面出现。
-
-#### LightAnchors — Chris Harrison — CMU Future Interfaces Group (2019)
-- 视频: https://www.youtube.com/watch?v=435OSV8Hudw
-- 交互类型: 信息与界面, 实体物件
-- 平台与技术: 手机, computer vision, LED signaling
-- 创意点子: 让设备上的小指示灯'闪'出数据，手机一照就浮现实时标签。
-- 作品内容: 日常设备上闪烁的点光源在广播数据；手机摄像头将其解码，并在恒温器、路由器和汽车上锚定实时 AR 标签。
-- 关键技术: LED 以手机摄像头可检测的频率、按已知前导码模式闪烁；应用在多帧中寻找亮点，把时间上的闪烁模式解码为数据，并在光点的图像位置锚定标签。
-- 课堂练习: 让 Arduino 或另一部手机的屏幕闪烁编码（如 8 位 ID），用手机摄像头逐帧检测亮点并解码，在亮点位置显示对应的 AR 标签；变体：把闪烁的信息做成“秘密消息”，只有扫到的人才能看到。
-
-#### EgoTouch — Chris Harrison — CMU Future Interfaces Group (2024)
-- 视频: https://www.youtube.com/watch?v=7JwgIm1f1ss
-- 交互类型: 手势与身体
-- 平台与技术: 头显, headset cameras, machine learning
-- 创意点子: 只用头显自带摄像头，就能把手臂皮肤变成触控按钮。
-- 作品内容: 利用 AR/VR 头显上现有的摄像头检测你对自己皮肤的触摸，无需额外硬件，就能把手掌和前臂变成按钮和滑块。
-- 关键技术: 一个基于头显相机图像训练的卷积神经网络（CNN）根据皮肤的外观和明暗推断手指是否触碰到手掌或前臂，以及触碰位置，不需要额外的传感器。
-- 课堂练习: 用手机摄像头拍手掌，用 Teachable Machine 训练“触摸/悬停”两类图像，并结合 MediaPipe 指尖位置把手掌分成 4 个按钮；变体：用手掌上的按钮控制 HoloKit 或网页中的一个小游戏。
-
 ### Clémence Debaig (Unwired Dance Theatre)
 
 *舞蹈艺术家、创客与创意技术人；Unwired Dance Theatre 创办人*
@@ -13930,6 +14053,84 @@ AR 可视化专家：研究隐藏结构的 X 光式与半透明视图、紧凑�
 - 关键技术: 采集大量经过配准的图像，为远程协助者渲染场景的新视角，再把他们的三维标注锚定回现场的追踪空间中。
 - 课堂练习: 让学生甲用手机从多个角度拍一个桌面故障（如接线），学生乙在照片上标注步骤，甲再用AR标签还原到现场；变化：限定乙只能看3张照片。
 
+### Disney Research — Ivan Poupyrev, Robert Sumner & colleagues
+
+*Disney 位于匹兹堡、苏黎世和洛杉矶的研究实验室；Ivan Poupyrev 在加入 Google ATAP 之前曾在此领导交互研究*
+
+Disney Research 探索充满趣味和魔力的 AR：Ivan Poupyrev 的 REVEL 和 AIREAL 为投影与虚拟内容加入了触感，Robert Sumner 的苏黎世团队让儿童涂色画在 AR 中活了起来，Magic Bench 则让人无需佩戴眼镜就能与 CG 角色同坐一张长椅。
+
+#### REVEL — Disney Research — Ivan Poupyrev, Robert Sumner & colleagues (2012)
+- 视频: https://www.youtube.com/watch?v=L7DGq8SddEQ
+- 交互类型: 实体物件, 手势与身体, 投影增强
+- 平台与技术: 投影, reverse electrovibration
+- 创意点子: 往人体里注入微弱信号，让投影出的虚拟物体摸起来有纹理。
+- 作品内容: Olivier Bau 和 Ivan Poupyrev 提出的反向电振动技术，向用户身体注入一个微弱信号，让真实表面上投影或 AR 呈现的虚拟物体拥有可以触摸到的纹理。
+- 关键技术: 反向电振动向用户身体注入微弱的时变电信号，在滑动的手指与任意接地的导电表面之间产生振荡的静电吸引力，被感知为纹理，并可针对每个虚拟物体分别调制。
+- 课堂练习: 用手机震动（Vibration API 或 Unity Handheld.Vibrate）在 AR 中模拟触感纹理：手指划过不同虚拟物体时播放不同频率和节奏的震动（REVEL 的电刺激不适合课堂复现）；变体：让同学闭眼仅凭震动猜出是哪种材质。
+
+#### AIREAL — Disney Research — Ivan Poupyrev, Robert Sumner & colleagues (2013)
+- 视频: https://www.youtube.com/watch?v=xaFBjUJj00M
+- 交互类型: 手势与身体, 游戏与玩法
+- 平台与技术: 投影, 桌面, air vortex, Kinect
+- 创意点子: 用空气涡环炮让你在空中'摸到'虚拟的蝴蝶和皮球。
+- 作品内容: Rajinder Sodhi、Ivan Poupyrev、Matthew Glisson 和 Ali Israr 用一台 3D 打印的涡环炮发射空气环，让你能在空中感受到虚拟的蝴蝶和皮球。
+- 关键技术: 安装在云台上的柔性喷嘴由扬声器驱动产生空气涡环，并对准由深度相机追踪到的用户手部，在自由空间中提供局部的触觉脉冲。
+- 课堂练习: 用纸杯或塑料瓶加气球膜做一个简易空气炮，配合手机 AR 中出现的虚拟蝴蝶，由一位同学在蝴蝶“碰到”手时手动发射空气环；变体：设计一个只有触感、没有视觉的“隐形”AR 生物。
+
+#### Augmented Creativity — Disney Research — Ivan Poupyrev, Robert Sumner & colleagues (2015)
+- 视频: https://www.youtube.com/watch?v=AYemmtQOf60
+- 交互类型: 空间绘画与创作, 游戏与玩法
+- 平台与技术: 手机, AR
+- 创意点子: 用AR把孩子的涂色、搭建和讲故事变成活的。
+- 作品内容: 一组连接真实与虚拟创意游戏的 AR 体验：涂色、搭建和讲故事，让实体玩具活起来。
+- 关键技术: 一系列 AR 应用通过图像追踪和基于模型的追踪来识别实体创作物（涂好色的画、搭好的玩具），从中提取颜色与形状，驱动对应的虚拟角色动起来。
+- 课堂练习: 让学生用纸、黏土或乐高做一件实体作品，拍照后用 Lens Studio 或 Reality Composer 让它“活”起来（加动画、声音或会说话的脸）；变体：作品在 AR 中的行为必须由它的某个实体特征决定。
+
+#### Live Texturing of AR Characters from Colored Drawings — Disney Research — Ivan Poupyrev, Robert Sumner & colleagues (2015)
+- 视频: https://www.youtube.com/watch?v=SWzurBQ81CM
+- 交互类型: 空间绘画与创作, 实体物件, 游戏与玩法
+- 平台与技术: 手机, texture synthesis, Vuforia
+- 创意点子: 孩子涂色的画一拿起平板就变成立体会动的角色，颜色完全是自己涂的。
+- 作品内容: 孩子在涂色书上涂好一页，平板立刻把画中的角色变成带着他们自己配色的三维动画形象，就连看不到的背面也有颜色。
+- 关键技术: 追踪并校正涂色页面，通过预先计算的映射把画上的颜色采样到三维角色的 UV 贴图中，被遮挡的部分则从可见区域做纹理合成查找来填补。
+- 课堂练习: 设计一张涂色线稿并在 Unity 中做一个对应的 3D 模型，用 AR 图像追踪拍到页面后把页面图像通过 UV 贴到模型上（可直接用平面映射近似）；变体：让涂色影响角色的行为，比如红色越多越暴躁。
+
+#### Magic Bench — Disney Research — Ivan Poupyrev, Robert Sumner & colleagues (2017)
+- 视频: https://www.youtube.com/watch?v=JnLk2_Xbr90
+- 交互类型: 手势与身体, 多人与社交, 游戏与玩法
+- 平台与技术: 桌面, depth camera, haptics, 3D compositing
+- 创意点子: 坐上长椅，屏幕里的小象就坐到你身边，长椅还会跟着震动。
+- 作品内容: 坐到长椅上，就能在一块像镜子一样的大屏幕里看到自己身边坐着一头 CG 大象或其他角色，它会对你做出反应，长椅还会随之震动，全程无需佩戴眼镜。
+- 关键技术: 深度相机重建长椅区域，使 CG 角色能以正确的深度顺序和遮挡关系合成到镜像视频中，长椅内的执行器同步提供触觉效果。
+- 课堂练习: 用 Unity 或 Lens Studio 做一个“魔法镜子”：摄像头画面左右翻转显示在大屏上，用人体分割让虚拟角色站在人身后或身前（按深度遮挡），并用椅子下的手机震动配合角色动作；变体：角色对坐下的人做出不同反应。
+
+#### Makeup Lamps — Disney Research — Ivan Poupyrev, Robert Sumner & colleagues (2017)
+- 视频: https://www.youtube.com/watch?v=Ilgu3aFCphs
+- 交互类型: 面部, 投影增强, 表演与舞台
+- 平台与技术: 投影, high-speed projector, face tracking
+- 创意点子: 用高速投影把动态妆容实时'画'在表演者移动的脸上。
+- 作品内容: Amit Bermano 与同事借助高速投影仪—相机系统，把动态妆容实时投射到表演者运动中的脸上。
+- 关键技术: 高速相机追踪面部特征点，与之同轴标定的低延迟投影仪把妆容渲染到脸上，延迟短到在运动中投影也能始终贴合。
+- 课堂练习: 用 MediaPipe Face Mesh 追踪一位同学的脸，把彩绘纹样投影到其面部（或在 Lens Studio 中做成滤镜），并测量头部快速转动时的错位程度；变体：让妆容随说话、表情或音乐节奏变化。
+
+#### AR Poser — Disney Research — Ivan Poupyrev, Robert Sumner & colleagues (2018)
+- 视频: https://www.youtube.com/watch?v=Ug-bzFEN8H8
+- 交互类型: 手势与身体, 游戏与玩法
+- 平台与技术: 手机, pose estimation
+- 创意点子: 拍照时自动放一个模仿你姿势的虚拟角色站在你旁边。
+- 作品内容: 一款手机应用，能识别照片中你的姿势，并加入一个迪士尼风格的数字角色模仿这个姿势，与你一起合影。
+- 关键技术: 二维姿态估计从照片中提取用户骨骼，关键点被重定向到一个已绑定的角色上，以镜像或互补的姿势渲染并合成在用户旁边。
+- 课堂练习: 用 MediaPipe Pose 读取合照中的人体关键点，把它们映射到 three.js 中的一个简单绑定角色（或 2D 纸片人），让角色摆出同样或对称的姿势；变体：让角色总是做出“捣乱”的反向动作。
+
+#### LookingGlass: Generative Anamorphoses — Disney Research — Ivan Poupyrev, Robert Sumner & colleagues (2025)
+- 视频: https://www.youtube.com/watch?v=B3AZay43688
+- 交互类型: 感知与视觉艺术
+- 平台与技术: 桌面, rectified flow, diffusion, anamorphosis, Laplacian pyramid warping
+- 创意点子: 一张图，两种含义：你看到什么，取决于你透过什么去看。
+- 作品内容: 由 AI 生成的图像：直接看是一幅完整的画面，换成从镜子里或透过透镜去看，却变成另一幅完全不同的图像。作者 Pascal Chang、Sergio Sancho、Jingwei Tang、Markus Gross 与 Vinicius C. Azevedo（苏黎世联邦理工学院与 DisneyResearch|Studios），CVPR 2025 口头报告，并在 SIGGRAPH 2025 Emerging Technologies 展出。
+- 关键技术: 引导潜空间 rectified flow 图像生成模型同时满足两个视图（直接看到的图像和经过镜面或透镜变形后的图像），并用一种对频率敏感的“拉普拉斯金字塔变形”步骤，让两种读法都保持清晰。
+- 课堂练习: 打印一张图，把镜面贴膜卷成圆柱，用免费的变形画工具或一段简短的 p5.js 极坐标变形草图，藏进一幅只有在圆柱镜里才会出现的第二幅图；再在手机 AR 里做一个反向版本，让摄像头画面把隐藏的图“展开”出来。变体：藏一句话，只有两个人从相对两侧用手机看时才会出现。
+
 ### Hart Woolery (2020CV)
 
 *2020CV 创始人兼首席技术官*
@@ -14007,6 +14208,84 @@ AR 可视化专家：研究隐藏结构的 X 光式与半透明视图、紧凑�
 - 作品内容: 一座涂鸦风格的微缩滑板公园出现在咖啡桌上，Hart 像玩手指滑板玩具一样，用两根手指驾驶一块小小的虚拟滑板在其中穿梭。
 - 关键技术: 手部追踪把食指和中指指尖当作滑手的双脚，虚拟滑板很可能根据它们的姿态，在微缩公园的坡道上进行物理运动。
 - 课堂练习: 在 WebXR 或 Lens Studio 中做一个桌面微缩滑板公园，把两个追踪到的指尖映射到一块滑板上，手指抬起时滑板就能起跳；变体：按滑板在空中停留的时间给技巧打分。
+
+### Ishikawa Watanabe Laboratory (University of Tokyo)
+
+*Masatoshi Ishikawa 与 Yoshihiro Watanabe 的实验室，1000 fps 视觉与高速投影的先驱*
+
+Masatoshi Ishikawa（石川正俊）的实验室研发高速视觉芯片和 1000 fps 的 DynaFlash 投影仪，实现了动态投影映射：影像能紧贴运动、弯曲和变形的表面，且没有可察觉的延迟。
+
+#### DynaFlash — Ishikawa Watanabe Laboratory (University of Tokyo) (2015)
+- 视频: https://www.youtube.com/watch?v=L8kjdObjZpY
+- 交互类型: 投影增强, 实体物件, 感知与视觉艺术
+- 平台与技术: 投影, DynaFlash, high-speed vision
+- 创意点子: 千帧投影仪让图像紧紧贴在你手中挥动的纸上。
+- 作品内容: 一台每秒 1000 帧、延迟仅 3 毫秒的投影仪，即使手中的纸被快速挥动、弯折和移动，投出的图像也始终牢牢贴在纸面上。
+- 关键技术: 采用 DLP 芯片输出二值帧的 1000 fps 投影仪，配合对纸面标记的高速视觉追踪，整个闭环延迟约 3 毫秒，使投影图像始终锁定在移动、弯曲的表面上。
+- 课堂练习: 用普通投影仪 + 摄像头追踪一张移动的纸（用四角标记或颜色检测），把图像实时投影到纸上，测量并记录挥动时的错位；变体：利用延迟本身设计一种“拖尾”美学效果。
+
+#### Dynamic Projection Mapping onto Deforming Non-Rigid Surfaces — Ishikawa Watanabe Laboratory (University of Tokyo) (2016)
+- 视频: https://www.youtube.com/watch?v=-bh1MHuA5jU
+- 交互类型: 投影增强, 实体物件, 感知与视觉艺术
+- 平台与技术: 投影, high-speed camera, DynaFlash
+- 创意点子: 布料怎么揉捏折叠，投影的图案就怎么跟着变形，像印上去一样。
+- 作品内容: 在布料和纸张折叠、拉伸的同时向其投射图像，借助高速追踪，纹理看起来就像印在运动的材料上一样。
+- 关键技术: 高速相机追踪可变形表面上肉眼不可见的红外墨水标记，每帧根据点阵重建表面网格，把纹理变形贴合上去，再由高速投影仪投射出来。
+- 课堂练习: 在一块布或 T 恤上画一个点阵网格，用摄像头检测网格点（OpenCV 斑点检测），把图案按网格变形后投影回去，让投影随布料褶皱弯曲；变体：投影一件“会动的印花”，比如游动的鱼。
+
+#### DynaFlash v2 and Post Reality — Ishikawa Watanabe Laboratory (University of Tokyo) (2018)
+- 视频: https://www.youtube.com/watch?v=QDppJ9NWtaE
+- 交互类型: 投影增强, 感知与视觉艺术
+- 平台与技术: 投影, DynaFlash v2
+- 创意点子: 高速投影让物体看起来像被'改写'了材质，现实本身成了屏幕。
+- 作品内容: 第二代高速投影机展示了“后现实”效果：把纹理、线框和各种错觉投射到快速移动的物体和人身上。
+- 关键技术: 以高帧率输出 8 位灰度的高速投影机，配合毫秒级视觉追踪，把纹理和线框投射到快速移动的物体上而几乎察觉不到延迟，让增强效果看起来像是物体本身的一部分。
+- 课堂练习: 在 TouchDesigner 中追踪一个手持的白色物体（纸板或球），把线框或纹理投影在上面，并通过缩小投影区域和预测运动来减少延迟；变体：让投影揭示物体“内部”看不见的结构。
+
+#### MIDAS Projection — Ishikawa Watanabe Laboratory (University of Tokyo) (2018)
+- 视频: https://www.youtube.com/watch?v=c40cxE-dfPg
+- 交互类型: 投影增强, 感知与视觉艺术
+- 平台与技术: 投影, high-speed depth sensing, DynaFlash
+- 创意点子: 不需要标记和模型，让移动中的物体看起来换了一种材质。
+- 作品内容: 无需标记、也无需模型的动态投影映射，让物体在移动时看起来像是由另一种材质（金属、木头）做成的。
+- 关键技术: 高速深度感知每帧测量移动物体的表面法线，逐帧计算材质着色模型（例如金属反射、木纹）并投射出去，让物体看起来就是由这种材质制成的。
+- 课堂练习: 用深度相机或已知形状（白色立方体）估计表面法线，在 TouchDesigner 中渲染金属或木纹材质并投影回物体，转动物体观察高光是否跟随；变体：让物体看起来是“液体”或“毛绒”材质。
+
+#### VarioLight — Ishikawa Watanabe Laboratory (University of Tokyo) (2018)
+- 视频: https://www.youtube.com/watch?v=XEseo-orRDI
+- 交互类型: 投影增强, 表演与舞台, 手势与身体
+- 平台与技术: 投影, galvanometer mirrors, high-speed vision
+- 创意点子: 高速转镜追着舞者满场跑，把影像精确投在移动的人身上。
+- 作品内容: 一套由反射镜导向的高速投影系统，能在整个舞台上追踪舞者，并把影像投射到他们身上而不发生漂移。
+- 关键技术: 两面振镜在高速视觉追踪器的驱动下高速引导投影光束，使一个小投影区域能在大舞台上跟随移动的表演者。
+- 课堂练习: 把投影仪装在舵机云台上（或只在画面中移动一个投影光斑），用摄像头追踪跑动的同学，让一个图案始终落在其身上；变体：光斑追踪的目标由舞者的动作切换（举手时转向另一人）。
+
+#### ElaMorph Projection — Ishikawa Watanabe Laboratory (University of Tokyo) (2020)
+- 视频: https://www.youtube.com/watch?v=uWq-a52X-7g
+- 交互类型: 投影增强, 感知与视觉艺术
+- 平台与技术: 投影, dynamic projection mapping
+- 创意点子: 只靠投影就让坚硬的物体看起来像橡皮一样弹性变形。
+- 作品内容: 仅凭投影，就让一个坚硬的三维物体在运动时看起来像被弹性拉伸和变形，利用的是高速追踪与人的感知机制。
+- 关键技术: 高速追踪刚性物体的运动，并根据由该运动驱动的弹性形变模拟来扭曲投影的明暗和纹理，借助感知错觉使物体看起来像在拉伸。
+- 课堂练习: 追踪一个手持的白色纸盒，给投影在上面的图案加上随加速度拉伸和回弹的形变（可用弹簧模型），让观众觉得盒子是软的；变体：做一段“硬物变软”的短视频，并调查观众是否真的被骗。
+
+#### VarioLight 2: Rhythmic Gymnastics — Ishikawa Watanabe Laboratory (University of Tokyo) (2021)
+- 视频: https://www.youtube.com/watch?v=9X66YZTb_hA
+- 交互类型: 投影增强, 表演与舞台, 手势与身体
+- 平台与技术: 投影, high-speed vision, galvanometer mirrors
+- 创意点子: 投影追着体操运动员的球和彩带，在表演中给它们'上色'。
+- 作品内容: 大范围动态投影跟随艺术体操运动员的球和彩带，在整套动作中把光效投射到器械上。
+- 关键技术: 高速视觉追踪体操球和彩带，振镜引导投影仪的光路，在整套动作中让光效始终贴合在快速运动的器械上。
+- 课堂练习: 用摄像头颜色追踪一个抛接的彩色球，在投影仪或屏幕上让光效和粒子跟随球的轨迹，配合一段音乐完成 30 秒表演；变体：光效由球的速度或高度驱动音乐变化。
+
+#### Impression-Guided Projection Mapping Makeup — Ishikawa Watanabe Laboratory (University of Tokyo) (2026)
+- 视频: https://www.youtube.com/watch?v=xLcoilAGIns
+- 交互类型: 面部, 投影增强
+- 平台与技术: 投影, dynamic projection mapping, high-speed projector, face tracking, text-to-colour model
+- 创意点子: 试戴一个词的感觉：生成的妆容颜色直接出现在你自己的脸上，而不是屏幕上。
+- 作品内容: 用户输入一个印象词，比如“优雅”，模型就给出相配的眼影、腮红和唇色，高速投影仪把这些颜色直接画在她转动的脸上；她拿着手镜查看效果，不断调整，直到找到最衬自己肤色的那一组。作者为 Kemeng Zhang、Hao-Lun Peng 和 Yoshihiro Watanabe（东京科学大学 Watanabe 实验室），发表于 2026 年的 International Journal of Human–Computer Interaction。
+- 关键技术: “文本到妆容颜色”模型把印象词转换成配色，再通过高速人脸追踪的动态投影映射把颜色投到运动的脸上，用户在“投影在环”的循环中边看边调。
+- 课堂练习: 做一个“词语试色”装置：让大模型 API 为一个情绪词返回三个十六进制颜色，再用便宜的投影仪和网络摄像头人脸网格（MediaPipe）把颜色投到白色面具或志愿者的脸颊上，并遮掉眼睛区域，让颜色跟着脸移动。变体：让颜色随用户说话的语气慢慢变化。
 
 ### Johnny Chung Lee
 
@@ -14708,66 +14987,6 @@ AR 开发者，常与 Stijn Spanhove 合作开发 Spectacles 镜头，并凭借�
 - 关键技术: 每个游戏都在 MadMapper 中编写，输出到 LED 像素灯带，并实时读取简单的实体按钮输入。
 - 课堂练习: 用一条 60 像素的 LED 灯带（或只有一像素高的画布）和两个按钮编一个一维游戏，比如拔河或躲子弹；变体：做成双人游戏，两位玩家分别站在走廊两端。
 
-### Autodesk Research (Fraser Anderson, Tovi Grossman, George Fitzmaurice et al.)
-
-*企业 HCI 研究团队*
-
-Autodesk 的用户界面研究团队为制作与学习打造 AR 工具：投影式笔迹叠加、AR 动作镜像、装配教程创作工具，以及双向 MR 远程指导。
-
-#### PenLight — Autodesk Research (Fraser Anderson, Tovi Grossman, George Fitzmaurice et al.) (2009)
-- 视频: https://www.youtube.com/watch?v=9pQz-YviPOA
-- 交互类型: 投影增强, 空间绘画与创作, 实体物件
-- 平台与技术: 投影, 可穿戴, digital pen, pico projector
-- 创意点子: 笔尖自带投影，写在纸上的同时把数字图层投在纸上。
-- 作品内容: 一支内置微型投影仪的数码笔，能把建筑平面图图层等数字内容直接叠加到你正在书写的纸上。
-- 关键技术: 在点阵纸上追踪笔的位置，并在笔尖周围投射经过空间配准的叠加内容。
-- 课堂练习: 用手机投影仪对准一张打印的平面图，从上方投射“隐藏的水管/电路层”，学生用笔描出；变化：用手机AR替代投影，比较手持与投影的体验。
-
-#### YouMove — Autodesk Research (Fraser Anderson, Tovi Grossman, George Fitzmaurice et al.) (2013)
-- 视频: https://www.youtube.com/watch?v=DsZ-9opi150
-- 交互类型: 手势与身体, 信息与界面
-- 平台与技术: 投影, 桌面, Kinect, half-silvered mirror, skeleton tracking
-- 创意点子: AR魔镜把老师的动作叠在你的镜像上，一步步教你跳。
-- 作品内容: 一面 AR 镜子先录下专家的动作，再在学习者的镜像上叠加骨架引导和反馈来训练他们，并逐步撤去引导。
-- 关键技术: 在大面积半透半反镜后方用 Kinect 进行骨架追踪，绘制与用户镜像对齐的录制动作引导，并为动作的准确度打分。
-- 课堂练习: 用手机前摄+人体姿态识别（如MediaPipe/Effect House）叠加一个“老师骨架”，学生跟着做一套广播操并获得评分；变化：逐步淡化骨架直到完全隐藏。
-
-#### Ivy: Spatially Situated Visual Programming — Autodesk Research (Fraser Anderson, Tovi Grossman, George Fitzmaurice et al.) (2017)
-- 视频: https://www.youtube.com/watch?v=Gn8sBvKHHYk
-- 交互类型: 信息与界面, 空间理解, 空间绘画与创作
-- 平台与技术: 头显, visual programming, IoT, HTC Vive
-- 创意点子: 在真实房间里用连线把灯、传感器“编程”起来。
-- 作品内容: 在 VR/AR 中，用户能在智能环境中各个传感器和执行器的实际所在位置看到它们，并在空间中用可视化编程连线把它们连接起来。
-- 关键技术: 把节点图控件锚定在每台设备的实际物理位置上，让用户在 3D 空间中于设备之间绘制数据流连接。
-- 课堂练习: 给教室里的灯、门、窗贴二维码，用手机AR显示它们的“节点”，学生画线组合“门开→灯亮”的规则（可用Home自动化模拟）；变化：规则由两人合作一个画输入一个画输出。
-
-#### HydroRing — Autodesk Research (Fraser Anderson, Tovi Grossman, George Fitzmaurice et al.) (2018)
-- 视频: https://www.youtube.com/watch?v=ofRJ80eyEQw
-- 交互类型: 手势与身体, 实体物件
-- 平台与技术: 可穿戴, 头显, liquid flow haptics, HoloLens
-- 创意点子: 用流动的液体在指尖产生冷热和压感，又不妨碍摸真实物体。
-- 作品内容: 一枚薄薄的指环，通过指尖上的乳胶管泵送温热、冰凉或脉动的液体，产生压力、振动和温度提示，同时不妨碍触摸真实物体。
-- 关键技术: 用泵和加热器驱动液体流过贴在指腹上的细管，通过调节流量和温度呈现触觉效果。
-- 课堂练习: 让同学手指分别接触冷水袋和温水袋，同时在手机AR中看到“冰块/火焰”，讨论视觉与触觉一致时的真实感；变化：故意让视觉与温度相反。
-
-#### AuthAR — Autodesk Research (Fraser Anderson, Tovi Grossman, George Fitzmaurice et al.) (2019)
-- 视频: https://www.youtube.com/watch?v=75GGfsBshvs
-- 交互类型: 信息与界面, 实体物件
-- 平台与技术: 头显, HoloLens, Kinect, tutorial authoring
-- 创意点子: 边组装边自动生成AR教程。
-- 作品内容: 专家组装家具时，系统同步录制视频和三维追踪数据，顺手生成一份 AR 组装教程，学习者随后戴上头显照着操作即可。
-- 关键技术: 把物体追踪与同步视频采集结合起来，让每个组装步骤都成为带视频片段和注释的空间锚定 AR 指引。
-- 课堂练习: 分成两人一组：一人组装乐高时用手机录制每一步，另一人用Reality Composer把每步视频/箭头放在对应零件位置上，给第三人使用；变化：教程不许用文字。
-
-#### Loki — Autodesk Research (Fraser Anderson, Tovi Grossman, George Fitzmaurice et al.) (2019)
-- 视频: https://www.youtube.com/watch?v=cBN1XZXZw3Y
-- 交互类型: 多人与社交, 手势与身体, 信息与界面
-- 平台与技术: 头显, VR/AR telepresence, RGB-D capture, recording and playback
-- 创意点子: 师生双向混合现实远程教学，可在视频、3D和虚拟复本间切换。
-- 作品内容: 一个双向的混合现实远程临场系统：老师和学习者都可以在视频、3D 捕捉和虚拟复本视图之间切换，用来演示实体操作任务。
-- 关键技术: 串流双方空间的 RGB-D 点云，任一用户都可以在对方的环境中录制、标注和回放 3D 演示。
-- 课堂练习: 搭建两间教室间的视频通话+手机AR远程折纸课：老师的手部动作录成短视频挂在学生AR桌面上；变化：学生也能回传自己的错误动作让老师标注。
-
 ### AΦE / A+E Lab (Aoi Nakamura & Esteban Lecoq)
 
 *沉浸式舞蹈团体与实验室；AR、VR 与 AI 驱动舞蹈作品的创作者*
@@ -14921,74 +15140,74 @@ Autodesk 的用户界面研究团队为制作与学习打造 AR 工具：投影�
 - 关键技术: 手机 App 沿路线根据 GPS 位置触发口述影像音轨，让每段描述都对应听者眼前的场景。
 - 课堂练习: 为校园里的三个地点各写一段 30 秒的口述影像，描述一位想象中的舞者，并在网页 App 中按位置触发；变体：其中一段描述让舞者就站在听者身后。
 
-### Disney Research — Ivan Poupyrev, Robert Sumner & colleagues
+### David Lindlbauer
 
-*Disney 位于匹兹堡、苏黎世和洛杉矶的研究实验室；Ivan Poupyrev 在加入 Google ATAP 之前曾在此领导交互研究*
+*卡内基梅隆大学 HCII 助理教授；领导 Augmented Perception Lab*
 
-Disney Research 探索充满趣味和魔力的 AR：Ivan Poupyrev 的 REVEL 和 AIREAL 为投影与虚拟内容加入了触感，Robert Sumner 的苏黎世团队让儿童涂色画在 AR 中活了起来，Magic Bench 则让人无需佩戴眼镜就能与 CG 角色同坐一张长椅。
+David Lindlbauer 研究能够适应人与情境的混合现实：从与 Andy Wilson 合作的 Remixed Reality——在房间的实时三维副本中编辑空间与时间——到他在苏黎世联邦理工学院和 CMU 开展的优化驱动型 MR 界面研究。
 
-#### REVEL — Disney Research — Ivan Poupyrev, Robert Sumner & colleagues (2012)
-- 视频: https://www.youtube.com/watch?v=L7DGq8SddEQ
-- 交互类型: 实体物件, 手势与身体, 投影增强
-- 平台与技术: 投影, reverse electrovibration
-- 创意点子: 往人体里注入微弱信号，让投影出的虚拟物体摸起来有纹理。
-- 作品内容: Olivier Bau 和 Ivan Poupyrev 提出的反向电振动技术，向用户身体注入一个微弱信号，让真实表面上投影或 AR 呈现的虚拟物体拥有可以触摸到的纹理。
-- 关键技术: 反向电振动向用户身体注入微弱的时变电信号，在滑动的手指与任意接地的导电表面之间产生振荡的静电吸引力，被感知为纹理，并可针对每个虚拟物体分别调制。
-- 课堂练习: 用手机震动（Vibration API 或 Unity Handheld.Vibrate）在 AR 中模拟触感纹理：手指划过不同虚拟物体时播放不同频率和节奏的震动（REVEL 的电刺激不适合课堂复现）；变体：让同学闭眼仅凭震动猜出是哪种材质。
+#### Combining Shape-Changing Interfaces and Spatial AR — David Lindlbauer (2016)
+- 视频: https://www.youtube.com/watch?v=fWREdKL2Kus
+- 交互类型: 投影增强, 实体物件, 感知与视觉艺术
+- 平台与技术: 投影, projector, actuated objects
+- 创意点子: 投影+会变形的实物，让物体看上去能伸出自己本来的边界。
+- 作品内容: 投影与可变形物体协同工作，使实体物体的外观能够延伸并运动到其真实形状之外。
+- 关键技术: 对受驱动的物体进行追踪，并与投影仪标定，使投影图像把物体的可见形态延伸到其实体形状之外，且在运动中保持配准。
+- 课堂练习: 用一个舵机转动的纸盒和投影仪做投影映射，让投影把纸盒“延长”成一个动物，盒子动时投影的四肢跟着动；变体：让投影和实物运动故意错位，制造一个诡异的效果。
 
-#### AIREAL — Disney Research — Ivan Poupyrev, Robert Sumner & colleagues (2013)
-- 视频: https://www.youtube.com/watch?v=xaFBjUJj00M
-- 交互类型: 手势与身体, 游戏与玩法
-- 平台与技术: 投影, 桌面, air vortex, Kinect
-- 创意点子: 用空气涡环炮让你在空中'摸到'虚拟的蝴蝶和皮球。
-- 作品内容: Rajinder Sodhi、Ivan Poupyrev、Matthew Glisson 和 Ali Israr 用一台 3D 打印的涡环炮发射空气环，让你能在空中感受到虚拟的蝴蝶和皮球。
-- 关键技术: 安装在云台上的柔性喷嘴由扬声器驱动产生空气涡环，并对准由深度相机追踪到的用户手部，在自由空间中提供局部的触觉脉冲。
-- 课堂练习: 用纸杯或塑料瓶加气球膜做一个简易空气炮，配合手机 AR 中出现的虚拟蝴蝶，由一位同学在蝴蝶“碰到”手时手动发射空气环；变体：设计一个只有触感、没有视觉的“隐形”AR 生物。
+#### Changing the Appearance of Real-World Objects by Modifying Their Surroundings — David Lindlbauer (2017)
+- 视频: https://www.youtube.com/watch?v=2gez_joXaiE
+- 交互类型: 投影增强, 感知与视觉艺术
+- 平台与技术: 投影, projector, perceptual illusions
+- 创意点子: 不动物体本身，只改它周围的光，物体看起来就变了颜色。
+- 作品内容: 投影改变的是真实物体周围的环境，利用人对颜色和亮度的感知规律，让物体本身看起来发生了变化。
+- 关键技术: 投影仪并不投射到物体上，而是改变其周围区域的颜色和亮度，利用同时对比和明度恒常性，使未被投影的物体被感知为发生了变化。
+- 课堂练习: 把一张灰色纸片放在桌上，只对它周围投影不同颜色和亮度的背景，让观众判断纸片的颜色是否改变；变体：用这个错觉在一个静止物体上制造“心跳”或“呼吸”的感觉。
 
-#### Augmented Creativity — Disney Research — Ivan Poupyrev, Robert Sumner & colleagues (2015)
-- 视频: https://www.youtube.com/watch?v=AYemmtQOf60
-- 交互类型: 空间绘画与创作, 游戏与玩法
-- 平台与技术: 手机, AR
-- 创意点子: 用AR把孩子的涂色、搭建和讲故事变成活的。
-- 作品内容: 一组连接真实与虚拟创意游戏的 AR 体验：涂色、搭建和讲故事，让实体玩具活起来。
-- 关键技术: 一系列 AR 应用通过图像追踪和基于模型的追踪来识别实体创作物（涂好色的画、搭好的玩具），从中提取颜色与形状，驱动对应的虚拟角色动起来。
-- 课堂练习: 让学生用纸、黏土或乐高做一件实体作品，拍照后用 Lens Studio 或 Reality Composer 让它“活”起来（加动画、声音或会说话的脸）；变体：作品在 AR 中的行为必须由它的某个实体特征决定。
+#### Remixed Reality — David Lindlbauer, Microsoft Research — Hrvoje Benko & Andy Wilson (2018)
+- 视频: https://www.youtube.com/watch?v=GoSQTPfrdCc
+- 交互类型: 传送门与世界替换, 空间理解, 感知与视觉艺术
+- 平台与技术: 头显, Kinect array, VR HMD, 3D reconstruction
+- 创意点子: 把现实当素材来'剪辑'：复制、擦除、倒带你身边的真实世界。
+- 作品内容: 房间的实时 3D 重建显示在 VR 头显中，并可以实时编辑：复制或擦除物体和人、让时间倒流，或改变空间的几何形态。
+- 关键技术: 一组经过标定的 Kinect 生成房间的实时 3D 重建并在 VR 头显中渲染，点云中的任意区域都可以被复制、删除、重新着色，或缓存下来按时间回放。
+- 课堂练习: 用手机 AR 的实时摄像头画面 + 分割模型（如 MediaPipe 或 SAM 的网页版）选中画面中的一个人或物体并“擦除”（用背景修补）或复制一份；变体：给画面加一个“时间滑块”，可以回看 10 秒前这个位置是什么样。
 
-#### Live Texturing of AR Characters from Colored Drawings — Disney Research — Ivan Poupyrev, Robert Sumner & colleagues (2015)
-- 视频: https://www.youtube.com/watch?v=SWzurBQ81CM
-- 交互类型: 空间绘画与创作, 实体物件, 游戏与玩法
-- 平台与技术: 手机, texture synthesis, Vuforia
-- 创意点子: 孩子涂色的画一拿起平板就变成立体会动的角色，颜色完全是自己涂的。
-- 作品内容: 孩子在涂色书上涂好一页，平板立刻把画中的角色变成带着他们自己配色的三维动画形象，就连看不到的背面也有颜色。
-- 关键技术: 追踪并校正涂色页面，通过预先计算的映射把画上的颜色采样到三维角色的 UV 贴图中，被遮挡的部分则从可见区域做纹理合成查找来填补。
-- 课堂练习: 设计一张涂色线稿并在 Unity 中做一个对应的 3D 模型，用 AR 图像追踪拍到页面后把页面图像通过 UV 贴到模型上（可直接用平面映射近似）；变体：让涂色影响角色的行为，比如红色越多越暴躁。
+#### Context-Aware Online Adaptation of MR Interfaces — David Lindlbauer (2019)
+- 视频: https://www.youtube.com/watch?v=SAmmTUw96Mg
+- 交互类型: 信息与界面, 注视
+- 平台与技术: 头显, HoloLens, combinatorial optimization
+- 创意点子: MR界面像懂你一样，根据你正在做什么自动决定显示多少、放在哪。
+- 作品内容: 一个优化器根据用户当前的任务和认知负荷，持续决定显示哪些虚拟应用、放在哪里、展示多少细节。
+- 关键技术: 整数线性规划根据由任务估算的认知负荷和效用模型，为每个应用决定是否显示、放在何处以及以何种细节层级呈现，并在情境变化时重新求解。
+- 课堂练习: 在手机 AR 里放 5 个虚拟信息面板（时间、消息、天气、导航、音乐），写一个简单规则或打分函数，根据用户是否在走动、说话或打字自动隐藏或缩小面板；变体：让用户可以“贿赂”系统保留某个面板，讨论谁拥有控制权。
 
-#### Magic Bench — Disney Research — Ivan Poupyrev, Robert Sumner & colleagues (2017)
-- 视频: https://www.youtube.com/watch?v=JnLk2_Xbr90
-- 交互类型: 手势与身体, 多人与社交, 游戏与玩法
-- 平台与技术: 桌面, depth camera, haptics, 3D compositing
-- 创意点子: 坐上长椅，屏幕里的小象就坐到你身边，长椅还会跟着震动。
-- 作品内容: 坐到长椅上，就能在一块像镜子一样的大屏幕里看到自己身边坐着一头 CG 大象或其他角色，它会对你做出反应，长椅还会随之震动，全程无需佩戴眼镜。
-- 关键技术: 深度相机重建长椅区域，使 CG 角色能以正确的深度顺序和遮挡关系合成到镜像视频中，长椅内的执行器同步提供触觉效果。
-- 课堂练习: 用 Unity 或 Lens Studio 做一个“魔法镜子”：摄像头画面左右翻转显示在大屏上，用人体分割让虚拟角色站在人身后或身前（按深度遮挡），并用椅子下的手机震动配合角色动作；变体：角色对坐下的人做出不同反应。
+#### RealityReplay — David Lindlbauer (2023)
+- 视频: https://www.youtube.com/watch?v=wCrh6PpyqUY
+- 交互类型: 空间理解, 感知与视觉艺术, 信息与界面
+- 平台与技术: 头显, mixed reality, change detection
+- 创意点子: 在原地回放你没注意到的变化，看见刚刚发生过什么。
+- 作品内容: 混合现实系统检测你没在看的时候房间里发生的变化，并在原地回放，例如显示是谁挪动了某个物体。
+- 关键技术: 混合现实系统维护房间的 3D 模型，检测发生在用户视野之外的几何与外观变化，并在原地以动画重建的形式回放记录下来的变化事件。
+- 课堂练习: 用固定在角落的手机摄像头拍桌面，通过帧差检测物体被移动的时刻，并把这一段录像在 AR 中叠加回原位置回放；变体：只给用户提示“这里变了”，让他们猜发生了什么再揭晓。
 
-#### Makeup Lamps — Disney Research — Ivan Poupyrev, Robert Sumner & colleagues (2017)
-- 视频: https://www.youtube.com/watch?v=Ilgu3aFCphs
-- 交互类型: 面部, 投影增强, 表演与舞台
-- 平台与技术: 投影, high-speed projector, face tracking
-- 创意点子: 用高速投影把动态妆容实时'画'在表演者移动的脸上。
-- 作品内容: Amit Bermano 与同事借助高速投影仪—相机系统，把动态妆容实时投射到表演者运动中的脸上。
-- 关键技术: 高速相机追踪面部特征点，与之同轴标定的低延迟投影仪把妆容渲染到脸上，延迟短到在运动中投影也能始终贴合。
-- 课堂练习: 用 MediaPipe Face Mesh 追踪一位同学的脸，把彩绘纹样投影到其面部（或在 Lens Studio 中做成滤镜），并测量头部快速转动时的错位程度；变体：让妆容随说话、表情或音乐节奏变化。
+#### MiniMates — David Lindlbauer (2025)
+- 视频: https://www.youtube.com/watch?v=fukfCSvmo44
+- 交互类型: 多人与社交, 空间理解
+- 平台与技术: 头显, AR, avatars
+- 创意点子: 把远程会议的人缩成桌上的小人，小房间也能开AR会议。
+- 作品内容: 远程会议的参与者以迷你化身的形式出现在你的桌面上，即使物理空间很小，AR 会议也能进行。
+- 关键技术: 远程参与者以缩小的化身呈现，布局算法把他们安排在可用的桌面区域内，同时对他们的视线和指向进行重定向，使其对准本地对应的物体。
+- 课堂练习: 在 AR Foundation 中检测桌面，把三位远程同学的视频头像放在迷你化身上并排布在桌上，头像朝向正在说话的人；变体：让化身的大小随发言时长或音量变化。
 
-#### AR Poser — Disney Research — Ivan Poupyrev, Robert Sumner & colleagues (2018)
-- 视频: https://www.youtube.com/watch?v=Ug-bzFEN8H8
-- 交互类型: 手势与身体, 游戏与玩法
-- 平台与技术: 手机, pose estimation
-- 创意点子: 拍照时自动放一个模仿你姿势的虚拟角色站在你旁边。
-- 作品内容: 一款手机应用，能识别照片中你的姿势，并加入一个迪士尼风格的数字角色模仿这个姿势，与你一起合影。
-- 关键技术: 二维姿态估计从照片中提取用户骨骼，关键点被重定向到一个已绑定的角色上，以镜像或互补的姿势渲染并合成在用户旁边。
-- 课堂练习: 用 MediaPipe Pose 读取合照中的人体关键点，把它们映射到 three.js 中的一个简单绑定角色（或 2D 纸片人），让角色摆出同样或对称的姿势；变体：让角色总是做出“捣乱”的反向动作。
+#### Shadows of Reality — David Lindlbauer (2025)
+- 视频: https://www.youtube.com/watch?v=eipjYqtDhrk
+- 交互类型: 投影增强, 多人与社交, 空间理解
+- 平台与技术: 头显, 投影, mixed-reality headset, floor projection
+- 创意点子: 给私人的虚拟内容投下一道公开的影子，让身边的人知道哪里不该走过去。
+- 作品内容: 头显用户眼前的虚拟窗口别人看不见，但天花板上的投影仪会把它们的“影子”画在地板上，于是穿过房间的旁人会绕开这些窗口，而不是直接走进去。作者为 Talha Khan、Abigail Zimmerman、Edward Andrews、David Lindlbauer 和 Jacob Biehl（卡内基梅隆大学 Augmented Perception Lab），发表于 ACM SUI 2025，比较了常亮的影子与只在即将碰撞时出现的影子。
+- 关键技术: 把 MR 用户虚拟面板的位置和大小映射到真实房间里，实时把它们的“落地轮廓”投影到地板上，可以一直显示，也可以只在旁人快要撞上时出现（旁人的位置可能由外部系统追踪）。
+- 课堂练习: 把手机 AR 或 WebXR 场景和一台便宜的投影仪连起来：同学每在房间里放一个虚拟面板，就通过 WebSocket 把它在地面上的轮廓发给笔记本电脑，由投影仪在地板对应位置投出一块柔和的灰色矩形（用四个胶带标记点做校准）。变体：只有当别人靠近时，影子才逐渐变深。
 
 ### GoSpooky
 
@@ -15059,75 +15278,6 @@ Disney Research 探索充满趣味和魔力的 AR：Ivan Poupyrev 的 REVEL 和 
 - 关键技术: Quest 3 的环境网格生成精细的场景网格并作为物理碰撞体，扔出的雪球会与真实家具碰撞并留下雪痕。
 - 课堂练习: 用带 LiDAR 的手机或 Quest 场景网格做一个“扔出去就留下痕迹”的游戏：每次击中都在真实墙面留下颜料印记。变体：印记一分钟后慢慢融化消失。
 
-### Ishikawa Watanabe Laboratory (University of Tokyo)
-
-*Masatoshi Ishikawa 与 Yoshihiro Watanabe 的实验室，1000 fps 视觉与高速投影的先驱*
-
-Masatoshi Ishikawa（石川正俊）的实验室研发高速视觉芯片和 1000 fps 的 DynaFlash 投影仪，实现了动态投影映射：影像能紧贴运动、弯曲和变形的表面，且没有可察觉的延迟。
-
-#### DynaFlash — Ishikawa Watanabe Laboratory (University of Tokyo) (2015)
-- 视频: https://www.youtube.com/watch?v=L8kjdObjZpY
-- 交互类型: 投影增强, 实体物件, 感知与视觉艺术
-- 平台与技术: 投影, DynaFlash, high-speed vision
-- 创意点子: 千帧投影仪让图像紧紧贴在你手中挥动的纸上。
-- 作品内容: 一台每秒 1000 帧、延迟仅 3 毫秒的投影仪，即使手中的纸被快速挥动、弯折和移动，投出的图像也始终牢牢贴在纸面上。
-- 关键技术: 采用 DLP 芯片输出二值帧的 1000 fps 投影仪，配合对纸面标记的高速视觉追踪，整个闭环延迟约 3 毫秒，使投影图像始终锁定在移动、弯曲的表面上。
-- 课堂练习: 用普通投影仪 + 摄像头追踪一张移动的纸（用四角标记或颜色检测），把图像实时投影到纸上，测量并记录挥动时的错位；变体：利用延迟本身设计一种“拖尾”美学效果。
-
-#### Dynamic Projection Mapping onto Deforming Non-Rigid Surfaces — Ishikawa Watanabe Laboratory (University of Tokyo) (2016)
-- 视频: https://www.youtube.com/watch?v=-bh1MHuA5jU
-- 交互类型: 投影增强, 实体物件, 感知与视觉艺术
-- 平台与技术: 投影, high-speed camera, DynaFlash
-- 创意点子: 布料怎么揉捏折叠，投影的图案就怎么跟着变形，像印上去一样。
-- 作品内容: 在布料和纸张折叠、拉伸的同时向其投射图像，借助高速追踪，纹理看起来就像印在运动的材料上一样。
-- 关键技术: 高速相机追踪可变形表面上肉眼不可见的红外墨水标记，每帧根据点阵重建表面网格，把纹理变形贴合上去，再由高速投影仪投射出来。
-- 课堂练习: 在一块布或 T 恤上画一个点阵网格，用摄像头检测网格点（OpenCV 斑点检测），把图案按网格变形后投影回去，让投影随布料褶皱弯曲；变体：投影一件“会动的印花”，比如游动的鱼。
-
-#### DynaFlash v2 and Post Reality — Ishikawa Watanabe Laboratory (University of Tokyo) (2018)
-- 视频: https://www.youtube.com/watch?v=QDppJ9NWtaE
-- 交互类型: 投影增强, 感知与视觉艺术
-- 平台与技术: 投影, DynaFlash v2
-- 创意点子: 高速投影让物体看起来像被'改写'了材质，现实本身成了屏幕。
-- 作品内容: 第二代高速投影机展示了“后现实”效果：把纹理、线框和各种错觉投射到快速移动的物体和人身上。
-- 关键技术: 以高帧率输出 8 位灰度的高速投影机，配合毫秒级视觉追踪，把纹理和线框投射到快速移动的物体上而几乎察觉不到延迟，让增强效果看起来像是物体本身的一部分。
-- 课堂练习: 在 TouchDesigner 中追踪一个手持的白色物体（纸板或球），把线框或纹理投影在上面，并通过缩小投影区域和预测运动来减少延迟；变体：让投影揭示物体“内部”看不见的结构。
-
-#### MIDAS Projection — Ishikawa Watanabe Laboratory (University of Tokyo) (2018)
-- 视频: https://www.youtube.com/watch?v=c40cxE-dfPg
-- 交互类型: 投影增强, 感知与视觉艺术
-- 平台与技术: 投影, high-speed depth sensing, DynaFlash
-- 创意点子: 不需要标记和模型，让移动中的物体看起来换了一种材质。
-- 作品内容: 无需标记、也无需模型的动态投影映射，让物体在移动时看起来像是由另一种材质（金属、木头）做成的。
-- 关键技术: 高速深度感知每帧测量移动物体的表面法线，逐帧计算材质着色模型（例如金属反射、木纹）并投射出去，让物体看起来就是由这种材质制成的。
-- 课堂练习: 用深度相机或已知形状（白色立方体）估计表面法线，在 TouchDesigner 中渲染金属或木纹材质并投影回物体，转动物体观察高光是否跟随；变体：让物体看起来是“液体”或“毛绒”材质。
-
-#### VarioLight — Ishikawa Watanabe Laboratory (University of Tokyo) (2018)
-- 视频: https://www.youtube.com/watch?v=XEseo-orRDI
-- 交互类型: 投影增强, 表演与舞台, 手势与身体
-- 平台与技术: 投影, galvanometer mirrors, high-speed vision
-- 创意点子: 高速转镜追着舞者满场跑，把影像精确投在移动的人身上。
-- 作品内容: 一套由反射镜导向的高速投影系统，能在整个舞台上追踪舞者，并把影像投射到他们身上而不发生漂移。
-- 关键技术: 两面振镜在高速视觉追踪器的驱动下高速引导投影光束，使一个小投影区域能在大舞台上跟随移动的表演者。
-- 课堂练习: 把投影仪装在舵机云台上（或只在画面中移动一个投影光斑），用摄像头追踪跑动的同学，让一个图案始终落在其身上；变体：光斑追踪的目标由舞者的动作切换（举手时转向另一人）。
-
-#### ElaMorph Projection — Ishikawa Watanabe Laboratory (University of Tokyo) (2020)
-- 视频: https://www.youtube.com/watch?v=uWq-a52X-7g
-- 交互类型: 投影增强, 感知与视觉艺术
-- 平台与技术: 投影, dynamic projection mapping
-- 创意点子: 只靠投影就让坚硬的物体看起来像橡皮一样弹性变形。
-- 作品内容: 仅凭投影，就让一个坚硬的三维物体在运动时看起来像被弹性拉伸和变形，利用的是高速追踪与人的感知机制。
-- 关键技术: 高速追踪刚性物体的运动，并根据由该运动驱动的弹性形变模拟来扭曲投影的明暗和纹理，借助感知错觉使物体看起来像在拉伸。
-- 课堂练习: 追踪一个手持的白色纸盒，给投影在上面的图案加上随加速度拉伸和回弹的形变（可用弹簧模型），让观众觉得盒子是软的；变体：做一段“硬物变软”的短视频，并调查观众是否真的被骗。
-
-#### VarioLight 2: Rhythmic Gymnastics — Ishikawa Watanabe Laboratory (University of Tokyo) (2021)
-- 视频: https://www.youtube.com/watch?v=9X66YZTb_hA
-- 交互类型: 投影增强, 表演与舞台, 手势与身体
-- 平台与技术: 投影, high-speed vision, galvanometer mirrors
-- 创意点子: 投影追着体操运动员的球和彩带，在表演中给它们'上色'。
-- 作品内容: 大范围动态投影跟随艺术体操运动员的球和彩带，在整套动作中把光效投射到器械上。
-- 关键技术: 高速视觉追踪体操球和彩带，振镜引导投影仪的光路，在整套动作中让光效始终贴合在快速运动的器械上。
-- 课堂练习: 用摄像头颜色追踪一个抛接的彩色球，在投影仪或屏幕上让光效和粒子跟随球的轨迹，配合一段音乐完成 30 秒表演；变体：光效由球的速度或高度驱动音乐变化。
-
 ### Jamie Gledhill
 
 *视听艺术家、交互设计师*
@@ -15187,6 +15337,66 @@ Masatoshi Ishikawa（石川正俊）的实验室研发高速视觉芯片和 1000
 - 作品内容: 对彼得伯勒 Nene Park 里一座有四个门洞的公共雕塑进行的互动改造：穿过一个门洞会奏响由当地人录制的号角曲中的一个声部，只有穿过全部四个门洞（通常需要一群人一起）才能奏出完整号角曲并解锁下一首。
 - 关键技术: 每个门洞里的传感器检测有人经过，触发四声部录音中对应的一部分；控制器判断四个门洞都被触发后，切换到下一首号角曲。
 - 课堂练习: 在教室的四个门口或椅子间隙贴上四个便宜的运动传感器，每个触发歌曲的一个声部，只有五秒内四个都被触发时才播放完整歌曲；变体：穿过的顺序会改变编曲。
+
+### Judith Amores
+
+*研究者（MIT Media Lab 博士；Microsoft Research）*
+
+HCI 研究者，从巴塞罗那到 MIT Media Lab 和 Google Creative Lab 都制作过趣味 AR 原型，并在 Microsoft Research 与 Jaron Lanier 合作研究多人 AR。
+
+#### Augmented Menu — Judith Amores (2014)
+- 视频: https://www.youtube.com/watch?v=Z5_jopA_rJk
+- 交互类型: 声音, 信息与界面, 面部
+- 平台与技术: 手机, marker-based AR, lip sync
+- 创意点子: 一个虚拟服务员出现在餐桌上，为你介绍今日菜单。
+- 作品内容: 一位虚拟 AR 服务员出现在餐桌上，带着自动生成的手势、面部表情和口型同步，为食客介绍今日菜单并与他们交谈。
+- 关键技术: 锚定在桌面标记上的虚拟角色通过程序化方式生成动画，手势、头部朝向和口型同步都由音频输入驱动。
+- 课堂练习: 做一张 AR 菜单卡：扫一下出现一个会说话的 3D 角色介绍菜品（Reality Composer + TTS）；加一个变化：角色会看向离它最近的人。
+
+#### Qbox: AR Magic Toy — Judith Amores (2014)
+- 视频: https://www.youtube.com/watch?v=t3FpKu0xYQI
+- 交互类型: 实体物件, 游戏与玩法
+- 平台与技术: 手机, marker-based AR
+- 创意点子: 把玩具放进魔法盒，透过屏幕它就活了。
+- 作品内容: 把一个小玩具放进盒子，透过 AR 界面，它就活了过来，能与盒子、孩子以及周围的世界互动。
+- 关键技术: 通过追踪盒子上的标记，把放入的玩具对应的动画虚拟版本叠加在实体玩具之上（大概率结合了标记或玩具识别）。
+- 课堂练习: 做一个贴有识别图的纸盒，放入不同玩具时（换不同卡片）AR 里出现不同动画；加一个变化：摇晃盒子会让角色晕倒。
+
+#### Reality Masher: multi-person AR — Judith Amores (2015)
+- 视频: https://www.youtube.com/watch?v=EfxMPXbvCLw
+- 交互类型: 多人与社交, 空间理解
+- 平台与技术: 头显, HoloLens
+- 创意点子: 多人戴头显，在同一个房间里共享同一批全息物体。
+- 作品内容: 微软研究院与 Jaron Lanier 合作的原型：几个人戴着早期的 HoloLens 头显，在同一个房间里共享并把玩同一批全息影像。
+- 关键技术: 多台 HoloLens 设备共享同一个空间锚点，使全息影像对每位参与者来说都位于同一物理位置。
+- 课堂练习: 用 Lens Studio Connected Lens 或 8th Wall 共享会话，让两台手机看到同一只虚拟宠物并轮流喂它；加一个变化：一人只能看到、另一人只能听到。
+
+#### Draw and Dance — Judith Amores, Anna Fusté (2017)
+- 视频: https://www.youtube.com/watch?v=q_0HZ14EA_Y
+- 交互类型: 空间绘画与创作, 声音, 游戏与玩法
+- 平台与技术: 手机, Unity, ARCore, Vuforia, API.AI
+- 创意点子: 画一个火柴人，它就在现实中跟着周围的声音和音乐跳舞。
+- 作品内容: 在手机上画一个火柴人，它就会变成一个 AR 舞者，随着周围的音乐和声音起舞，甚至会跳上 Google Home 音箱，跟着它播放的声音跳舞。
+- 关键技术: 把 2D 绘画绑定到火柴人骨骼上，用 ARCore 锚定，并由麦克风音量以及通过 API.AI 识别的语音指令驱动动画。
+- 课堂练习: 用 Scratch/p5.js 或 Lens Studio 让学生画的角色随麦克风音量跳舞并放到 AR 里；加一个变化：两个角色听到不同音高会跳不同舞步。
+
+#### Invisible Highway — Judith Amores, Anna Fusté (2017)
+- 视频: https://www.youtube.com/watch?v=9ZhqsuWF96I
+- 交互类型: 空间绘画与创作, 实体物件, 空间理解
+- 平台与技术: 手机, Unity, Tango, Arduino
+- 创意点子: 在 AR 里画一条路，真实的小车就沿着它开。
+- 作品内容: 在 AR 中于地面上画出一条路径，一辆真实的机器人小车就会沿着它穿过房间，同时手机还会沿途生成公路和风景。
+- 关键技术: 借助 Tango 追踪把绘制的 AR 路径转换为世界坐标，并作为途经点发送给机器人小车，小车的位置被持续追踪以沿路径行驶。
+- 课堂练习: 用平板在地上'画'一条 AR 路线，再让 micro:bit 小车按坐标开过去（可用摄像头俯拍追踪）；加一个变化：路上放虚拟障碍，小车要绕行。
+
+#### Storycaster — Judith Amores, Microsoft Research — Hrvoje Benko & Andy Wilson (2026)
+- 视频: https://www.youtube.com/watch?v=ckCtta27LJQ
+- 交互类型: 投影增强, 声音, 传送门与世界替换
+- 平台与技术: 投影, projectors, generative image and audio models, LLM narrator agent, speech recognition
+- 创意点子: 把故事说出来，房间的墙就变成故事本身。
+- 作品内容: 整个房间成了你口述故事的舞台：生成式 AI 把投影画面铺满墙面，旁白智能体引导你推进剧情，环境音和对白随之生成，房间里的真实物件也能被变成故事元素——全程不用戴头显。作者 Naisha Agarwal、Judith Amores 与 Andrew D. Wilson（Microsoft Research），CHI 2026。
+- 关键技术: 语音指令驱动大语言模型旁白，为每一幕生成画面、环境音与对白；系统借助房间的实时摄像头画面，把生成的图像以环绕式柱面投影铺到墙上，与真实空间融为一体。
+- 课堂练习: 把一台便宜的投影仪对准墙面，把语音转文字接到大语言模型，让它每次写一句场景描述，再把这句话交给图像生成模型，结果铺满整面墙投出来，并配上相应的环境音循环。变体：把一件真实物品举到摄像头前，让故事把它收编成一个角色。
 
 ### Jun Nishida
 
@@ -15256,6 +15466,75 @@ Masatoshi Ishikawa（石川正俊）的实验室研发高速视觉芯片和 1000
 - 作品内容: 几位指导者的肌肉信号经电刺激汇入一位访客的手臂，让新手在与他人“共享身体”的状态下打出高难度的鼓点。
 - 关键技术: 结合定制的生物信号采集模块、多通道肌肉电刺激器、视觉与触觉节拍提示，以及把指导者肌肉映射到学习者身上的软件。
 - 课堂练习: 把一段双手鼓点拆给三名学生：两人随着手机节拍器的闪光在鼓手肩上点拍，鼓手只按触觉提示击鼓；变体：用手机录下来，用不同颜色标出每个人的贡献。
+
+### Ken Nakagaki
+
+*芝加哥大学助理教授；主持 Actuated Experience Lab（AxLab）*
+
+曾任 MIT Tangible Media 研究员，打造可变形的线、机器人集群和机械外壳，让数字信息在人们周围以实体方式移动。
+
+#### LineFORM — Ken Nakagaki, MIT Tangible Media Group — Hiroshi Ishii (2015)
+- 视频: https://www.youtube.com/watch?v=XB1U0oTj8lE
+- 交互类型: 实体物件, 信息与界面
+- 平台与技术: 桌面, 可穿戴, servo chain, shape-changing interface
+- 创意点子: 一条会自己弯曲的“线”，既能显示信息又能约束你的手。
+- 作品内容: 一条由舵机模块串成的蛇形链，能弯成各种形状、缠绕手腕、充当实体的曲线图，还能约束用户手部的动作。
+- 关键技术: 把舵机单元串联成链，用逆运动学计算各关节角度，使这条线能摆出目标曲线或对触碰作出反应。
+- 课堂练习: 用吸管和扭扭棒做一条可弯曲的实体线，再用手机AR沿着线显示流动的数据或音乐波形；变化：同学改变线的形状时AR内容同步变化。
+
+#### AnimaStage — Ken Nakagaki, MIT Tangible Media Group — Hiroshi Ishii (2016)
+- 视频: https://vimeo.com/221508021
+- 交互类型: 实体物件, 表演与舞台, 空间绘画与创作
+- 平台与技术: 桌面, actuated stage, paper craft
+- 创意点子: 在一个会动的舞台上，把纸片和手工道具变成会动的木偶。
+- 作品内容: 一个桌面舞台，下方隐藏着一组执行器阵列，能让放在上面的纸艺和 3D 打印小人动起来，把手工道具变成木偶。
+- 关键技术: 驱动柔性舞台表面下方的线性执行器阵列，推动、倾斜和弹跳附着在表面上的物体，让它们按脚本表演动作。
+- 课堂练习: 用纸板和手机振动（或小电机）做一个会抖动的纸偶舞台，并用手机AR叠加表情与台词；变化：让观众拍手的节奏驱动舞台动作。
+
+#### ChainFORM — Ken Nakagaki, MIT Tangible Media Group — Hiroshi Ishii (2016)
+- 视频: https://www.youtube.com/watch?v=Ler01uKHhcs
+- 交互类型: 实体物件, 手势与身体
+- 平台与技术: 桌面, 可穿戴, modular servo chain, touch sensing, LEDs
+- 创意点子: 可拼接的智能链条，能感触、显示和变形。
+- 作品内容: 内置触摸感应、角度感应和 LED 的模块化链条，可以拼接成能变形的条带、可穿戴设备或小生物。
+- 关键技术: 每个模块都在共享总线上集成了舵机、角度传感器、电容式触摸板和 LED，因此整条链既能记录也能重放自身的形状。
+- 课堂练习: 用积木或纸链条做一个“会记录形状”的原型，同时用手机AR给每一节标上颜色和数值；变化：把链条缠在手腕上变成可穿戴提醒器。
+
+#### HERMITS — Ken Nakagaki, MIT Tangible Media Group — Hiroshi Ishii (2020)
+- 视频: https://www.youtube.com/watch?v=nsi4DsiAWs8
+- 交互类型: 实体物件, 游戏与玩法
+- 平台与技术: 桌面, toio robots, mechanical shells, 3D printing
+- 创意点子: 像寄居蟹换壳一样，小机器人钻进不同外壳就获得新功能。
+- 作品内容: 小型自走机器人可以钻进可互换的机械外壳——杠杆、曲柄、载具——像寄居蟹换壳一样获得新的物理交互能力。
+- 关键技术: 使用带位置追踪的 toio 机器人驶入被动式 3D 打印外壳，外壳中的齿轮和杠杆把机器人的运动转换为新的驱动或输入方式。
+- 课堂练习: 给一个遥控小车设计三种纸板“外壳”（推土铲、旗帜、小屋），用手机AR标注每个外壳的功能；变化：让小车根据二维码自动识别换上的外壳。
+
+#### Buoyancé — Ken Nakagaki (2025)
+- 视频: https://www.youtube.com/watch?v=v9mNKIILt_s
+- 交互类型: 实体物件, 信息与界面
+- 平台与技术: 桌面, mobile robots, helium balloons, string reeling
+- 创意点子: 机器人拉着氦气球升降，在空中形成可交互的立体显示。
+- 作品内容: 移动机器人用细绳收放氦气球，让它们升降，在桌面上方形成漂浮的三维显示和可交互的空中物体。
+- 关键技术: 每台桌面机器人通过收放系绳设定气球高度，同时移动自身来设定 x-y 位置，于是整个机器人集群可以在三维空间中布置漂浮的点。
+- 课堂练习: 用气球、线和手动升降把桌面变成空中柱状图，再用手机AR给每个气球叠加标签；变化：同学拉动气球改变高度，AR中的数据随之更新。
+
+#### Shape n' Swarm — Ken Nakagaki (2025)
+- 视频: https://www.youtube.com/watch?v=5u0M9yL7tyY
+- 交互类型: 实体物件, 声音, 手势与身体
+- 平台与技术: 桌面, swarm robots, LLM, hand tracking
+- 创意点子: 用手比划加一句话，机器人群就排出并动起你想要的形状。
+- 作品内容: 用户用双手塑造一个形状，再用语言描述它；大语言模型据此规划一群桌面小机器人该如何排列和移动，把这个形状表现出来并让它动起来。
+- 关键技术: 把手绘形状输入与大语言模型结合，由模型为群体界面输出机器人的目标位置和运动脚本。
+- 课堂练习: 让同学用语音描述一个动物，由ChatGPT生成一组坐标，再由几名同学手持纸片按坐标在地面上排出这个形状；变化：要求形状“动起来”（如鸟扇动翅膀）。
+
+#### BloomBeacon — Ken Nakagaki (2026)
+- 视频: https://www.youtube.com/watch?v=ir3hBJ-Z51c
+- 交互类型: 手势与身体, 信息与界面, 感知与视觉艺术
+- 平台与技术: 桌面, persistence-of-vision display, capacitive touch sensing, motor
+- 创意点子: 一块只在需要的时间和地点才真正出现、用完就消失的屏幕。
+- 作品内容: 一个小巧的装置能凭空“绽放”出一块触摸屏：一根柔软的线高速旋转，视觉暂留让它变成一片可读、可触的发光表面——可以立在纸质地图上显示天气，在音箱旁显示专辑封面，或者在货架边缘提醒没戴手套就去拿化学品的人。作者 Willa Yunqi Yang、Justice T. Andersen、David Dajun Yuan 与 Ken Nakagaki（芝加哥大学 AxLab），CHI 2026。
+- 关键技术: 一根带拱形电极的柔软旋转线，利用视觉暂留在空中显示图像，同时在扫出的表面上感应触摸；叶片经过特别设计以减少手指对旋转的干扰，并用算法识别短暂而嘈杂的触碰信号。
+- 课堂练习: 先不用硬件做一个“绽放式”显示原型：在手机 AR 里，把一块圆盘面板锚定在真实物体（地图、音箱或盆栽）上方，只有摄像头靠近时才以旋转动画展开，并只显示一条一眼能看懂的信息。变体：只有遇到危险时才绽放，比如手靠近高温物体的时候。
 
 ### Lemieux Pilon 4D Art (Michel Lemieux & Victor Pilon)
 
@@ -16595,66 +16874,6 @@ Shopify 首席 AR/VR 工程师，以 Pushmatrix 之名发布简短且常常走�
 - 关键技术: 每片叶子的可变电阻读数被映射为无人机的横滚、俯仰和高度，同时用长曝光照片记录 LED 的路径。
 - 课堂练习: 用 AR 追踪把一个虚拟光点附着在移动的真实物体上（玩具车、你的手、走路的朋友），让它在房间里留下持久的发光轨迹。变体：改让随机的或类似植物的信号去操控一架虚拟无人机。
 
-### David Lindlbauer
-
-*卡内基梅隆大学 HCII 助理教授；领导 Augmented Perception Lab*
-
-David Lindlbauer 研究能够适应人与情境的混合现实：从与 Andy Wilson 合作的 Remixed Reality——在房间的实时三维副本中编辑空间与时间——到他在苏黎世联邦理工学院和 CMU 开展的优化驱动型 MR 界面研究。
-
-#### Combining Shape-Changing Interfaces and Spatial AR — David Lindlbauer (2016)
-- 视频: https://www.youtube.com/watch?v=fWREdKL2Kus
-- 交互类型: 投影增强, 实体物件, 感知与视觉艺术
-- 平台与技术: 投影, projector, actuated objects
-- 创意点子: 投影+会变形的实物，让物体看上去能伸出自己本来的边界。
-- 作品内容: 投影与可变形物体协同工作，使实体物体的外观能够延伸并运动到其真实形状之外。
-- 关键技术: 对受驱动的物体进行追踪，并与投影仪标定，使投影图像把物体的可见形态延伸到其实体形状之外，且在运动中保持配准。
-- 课堂练习: 用一个舵机转动的纸盒和投影仪做投影映射，让投影把纸盒“延长”成一个动物，盒子动时投影的四肢跟着动；变体：让投影和实物运动故意错位，制造一个诡异的效果。
-
-#### Changing the Appearance of Real-World Objects by Modifying Their Surroundings — David Lindlbauer (2017)
-- 视频: https://www.youtube.com/watch?v=2gez_joXaiE
-- 交互类型: 投影增强, 感知与视觉艺术
-- 平台与技术: 投影, projector, perceptual illusions
-- 创意点子: 不动物体本身，只改它周围的光，物体看起来就变了颜色。
-- 作品内容: 投影改变的是真实物体周围的环境，利用人对颜色和亮度的感知规律，让物体本身看起来发生了变化。
-- 关键技术: 投影仪并不投射到物体上，而是改变其周围区域的颜色和亮度，利用同时对比和明度恒常性，使未被投影的物体被感知为发生了变化。
-- 课堂练习: 把一张灰色纸片放在桌上，只对它周围投影不同颜色和亮度的背景，让观众判断纸片的颜色是否改变；变体：用这个错觉在一个静止物体上制造“心跳”或“呼吸”的感觉。
-
-#### Remixed Reality — David Lindlbauer, Microsoft Research — Hrvoje Benko & Andy Wilson (2018)
-- 视频: https://www.youtube.com/watch?v=GoSQTPfrdCc
-- 交互类型: 传送门与世界替换, 空间理解, 感知与视觉艺术
-- 平台与技术: 头显, Kinect array, VR HMD, 3D reconstruction
-- 创意点子: 把现实当素材来'剪辑'：复制、擦除、倒带你身边的真实世界。
-- 作品内容: 房间的实时 3D 重建显示在 VR 头显中，并可以实时编辑：复制或擦除物体和人、让时间倒流，或改变空间的几何形态。
-- 关键技术: 一组经过标定的 Kinect 生成房间的实时 3D 重建并在 VR 头显中渲染，点云中的任意区域都可以被复制、删除、重新着色，或缓存下来按时间回放。
-- 课堂练习: 用手机 AR 的实时摄像头画面 + 分割模型（如 MediaPipe 或 SAM 的网页版）选中画面中的一个人或物体并“擦除”（用背景修补）或复制一份；变体：给画面加一个“时间滑块”，可以回看 10 秒前这个位置是什么样。
-
-#### Context-Aware Online Adaptation of MR Interfaces — David Lindlbauer (2019)
-- 视频: https://www.youtube.com/watch?v=SAmmTUw96Mg
-- 交互类型: 信息与界面, 注视
-- 平台与技术: 头显, HoloLens, combinatorial optimization
-- 创意点子: MR界面像懂你一样，根据你正在做什么自动决定显示多少、放在哪。
-- 作品内容: 一个优化器根据用户当前的任务和认知负荷，持续决定显示哪些虚拟应用、放在哪里、展示多少细节。
-- 关键技术: 整数线性规划根据由任务估算的认知负荷和效用模型，为每个应用决定是否显示、放在何处以及以何种细节层级呈现，并在情境变化时重新求解。
-- 课堂练习: 在手机 AR 里放 5 个虚拟信息面板（时间、消息、天气、导航、音乐），写一个简单规则或打分函数，根据用户是否在走动、说话或打字自动隐藏或缩小面板；变体：让用户可以“贿赂”系统保留某个面板，讨论谁拥有控制权。
-
-#### RealityReplay — David Lindlbauer (2023)
-- 视频: https://www.youtube.com/watch?v=wCrh6PpyqUY
-- 交互类型: 空间理解, 感知与视觉艺术, 信息与界面
-- 平台与技术: 头显, mixed reality, change detection
-- 创意点子: 在原地回放你没注意到的变化，看见刚刚发生过什么。
-- 作品内容: 混合现实系统检测你没在看的时候房间里发生的变化，并在原地回放，例如显示是谁挪动了某个物体。
-- 关键技术: 混合现实系统维护房间的 3D 模型，检测发生在用户视野之外的几何与外观变化，并在原地以动画重建的形式回放记录下来的变化事件。
-- 课堂练习: 用固定在角落的手机摄像头拍桌面，通过帧差检测物体被移动的时刻，并把这一段录像在 AR 中叠加回原位置回放；变体：只给用户提示“这里变了”，让他们猜发生了什么再揭晓。
-
-#### MiniMates — David Lindlbauer (2025)
-- 视频: https://www.youtube.com/watch?v=fukfCSvmo44
-- 交互类型: 多人与社交, 空间理解
-- 平台与技术: 头显, AR, avatars
-- 创意点子: 把远程会议的人缩成桌上的小人，小房间也能开AR会议。
-- 作品内容: 远程会议的参与者以迷你化身的形式出现在你的桌面上，即使物理空间很小，AR 会议也能进行。
-- 关键技术: 远程参与者以缩小的化身呈现，布局算法把他们安排在可用的桌面区域内，同时对他们的视线和指向进行重定向，使其对准本地对应的物体。
-- 课堂练习: 在 AR Foundation 中检测桌面，把三位远程同学的视频头像放在迷你化身上并排布在桌上，头像朝向正在说话的人；变体：让化身的大小随发言时长或音量变化。
-
 ### Dilmer Valecillos
 
 *XR 开发者与教育者（Learn XR）*
@@ -17260,117 +17479,6 @@ Dynamicland 脱胎于 Bret Victor 的 Communications Design Group（HARC）。�
 - 作品内容: 一件时长 15 分钟的视听装置：光投射在一幅技术线稿上，探讨蓝图作为一切结构起点的意义。
 - 关键技术: 将投影映射到一幅技术线稿上，与印刷线条精确对齐的线条动画不断搭建又拆解出各种结构。
 - 课堂练习: 打印一张建筑或机器的线稿，投影一段让它逐步“建造”再“拆解”的线条动画；变体：让建造过程在某一步出错，并从错误中长出另一种结构。
-
-### Judith Amores
-
-*研究者（MIT Media Lab 博士；Microsoft Research）*
-
-HCI 研究者，从巴塞罗那到 MIT Media Lab 和 Google Creative Lab 都制作过趣味 AR 原型，并在 Microsoft Research 与 Jaron Lanier 合作研究多人 AR。
-
-#### Augmented Menu — Judith Amores (2014)
-- 视频: https://www.youtube.com/watch?v=Z5_jopA_rJk
-- 交互类型: 声音, 信息与界面, 面部
-- 平台与技术: 手机, marker-based AR, lip sync
-- 创意点子: 一个虚拟服务员出现在餐桌上，为你介绍今日菜单。
-- 作品内容: 一位虚拟 AR 服务员出现在餐桌上，带着自动生成的手势、面部表情和口型同步，为食客介绍今日菜单并与他们交谈。
-- 关键技术: 锚定在桌面标记上的虚拟角色通过程序化方式生成动画，手势、头部朝向和口型同步都由音频输入驱动。
-- 课堂练习: 做一张 AR 菜单卡：扫一下出现一个会说话的 3D 角色介绍菜品（Reality Composer + TTS）；加一个变化：角色会看向离它最近的人。
-
-#### Qbox: AR Magic Toy — Judith Amores (2014)
-- 视频: https://www.youtube.com/watch?v=t3FpKu0xYQI
-- 交互类型: 实体物件, 游戏与玩法
-- 平台与技术: 手机, marker-based AR
-- 创意点子: 把玩具放进魔法盒，透过屏幕它就活了。
-- 作品内容: 把一个小玩具放进盒子，透过 AR 界面，它就活了过来，能与盒子、孩子以及周围的世界互动。
-- 关键技术: 通过追踪盒子上的标记，把放入的玩具对应的动画虚拟版本叠加在实体玩具之上（大概率结合了标记或玩具识别）。
-- 课堂练习: 做一个贴有识别图的纸盒，放入不同玩具时（换不同卡片）AR 里出现不同动画；加一个变化：摇晃盒子会让角色晕倒。
-
-#### Reality Masher: multi-person AR — Judith Amores (2015)
-- 视频: https://www.youtube.com/watch?v=EfxMPXbvCLw
-- 交互类型: 多人与社交, 空间理解
-- 平台与技术: 头显, HoloLens
-- 创意点子: 多人戴头显，在同一个房间里共享同一批全息物体。
-- 作品内容: 微软研究院与 Jaron Lanier 合作的原型：几个人戴着早期的 HoloLens 头显，在同一个房间里共享并把玩同一批全息影像。
-- 关键技术: 多台 HoloLens 设备共享同一个空间锚点，使全息影像对每位参与者来说都位于同一物理位置。
-- 课堂练习: 用 Lens Studio Connected Lens 或 8th Wall 共享会话，让两台手机看到同一只虚拟宠物并轮流喂它；加一个变化：一人只能看到、另一人只能听到。
-
-#### Draw and Dance — Judith Amores, Anna Fusté (2017)
-- 视频: https://www.youtube.com/watch?v=q_0HZ14EA_Y
-- 交互类型: 空间绘画与创作, 声音, 游戏与玩法
-- 平台与技术: 手机, Unity, ARCore, Vuforia, API.AI
-- 创意点子: 画一个火柴人，它就在现实中跟着周围的声音和音乐跳舞。
-- 作品内容: 在手机上画一个火柴人，它就会变成一个 AR 舞者，随着周围的音乐和声音起舞，甚至会跳上 Google Home 音箱，跟着它播放的声音跳舞。
-- 关键技术: 把 2D 绘画绑定到火柴人骨骼上，用 ARCore 锚定，并由麦克风音量以及通过 API.AI 识别的语音指令驱动动画。
-- 课堂练习: 用 Scratch/p5.js 或 Lens Studio 让学生画的角色随麦克风音量跳舞并放到 AR 里；加一个变化：两个角色听到不同音高会跳不同舞步。
-
-#### Invisible Highway — Judith Amores, Anna Fusté (2017)
-- 视频: https://www.youtube.com/watch?v=9ZhqsuWF96I
-- 交互类型: 空间绘画与创作, 实体物件, 空间理解
-- 平台与技术: 手机, Unity, Tango, Arduino
-- 创意点子: 在 AR 里画一条路，真实的小车就沿着它开。
-- 作品内容: 在 AR 中于地面上画出一条路径，一辆真实的机器人小车就会沿着它穿过房间，同时手机还会沿途生成公路和风景。
-- 关键技术: 借助 Tango 追踪把绘制的 AR 路径转换为世界坐标，并作为途经点发送给机器人小车，小车的位置被持续追踪以沿路径行驶。
-- 课堂练习: 用平板在地上'画'一条 AR 路线，再让 micro:bit 小车按坐标开过去（可用摄像头俯拍追踪）；加一个变化：路上放虚拟障碍，小车要绕行。
-
-### Ken Nakagaki
-
-*芝加哥大学助理教授；主持 Actuated Experience Lab（AxLab）*
-
-曾任 MIT Tangible Media 研究员，打造可变形的线、机器人集群和机械外壳，让数字信息在人们周围以实体方式移动。
-
-#### LineFORM — Ken Nakagaki, MIT Tangible Media Group — Hiroshi Ishii (2015)
-- 视频: https://www.youtube.com/watch?v=XB1U0oTj8lE
-- 交互类型: 实体物件, 信息与界面
-- 平台与技术: 桌面, 可穿戴, servo chain, shape-changing interface
-- 创意点子: 一条会自己弯曲的“线”，既能显示信息又能约束你的手。
-- 作品内容: 一条由舵机模块串成的蛇形链，能弯成各种形状、缠绕手腕、充当实体的曲线图，还能约束用户手部的动作。
-- 关键技术: 把舵机单元串联成链，用逆运动学计算各关节角度，使这条线能摆出目标曲线或对触碰作出反应。
-- 课堂练习: 用吸管和扭扭棒做一条可弯曲的实体线，再用手机AR沿着线显示流动的数据或音乐波形；变化：同学改变线的形状时AR内容同步变化。
-
-#### AnimaStage — Ken Nakagaki, MIT Tangible Media Group — Hiroshi Ishii (2016)
-- 视频: https://vimeo.com/221508021
-- 交互类型: 实体物件, 表演与舞台, 空间绘画与创作
-- 平台与技术: 桌面, actuated stage, paper craft
-- 创意点子: 在一个会动的舞台上，把纸片和手工道具变成会动的木偶。
-- 作品内容: 一个桌面舞台，下方隐藏着一组执行器阵列，能让放在上面的纸艺和 3D 打印小人动起来，把手工道具变成木偶。
-- 关键技术: 驱动柔性舞台表面下方的线性执行器阵列，推动、倾斜和弹跳附着在表面上的物体，让它们按脚本表演动作。
-- 课堂练习: 用纸板和手机振动（或小电机）做一个会抖动的纸偶舞台，并用手机AR叠加表情与台词；变化：让观众拍手的节奏驱动舞台动作。
-
-#### ChainFORM — Ken Nakagaki, MIT Tangible Media Group — Hiroshi Ishii (2016)
-- 视频: https://www.youtube.com/watch?v=Ler01uKHhcs
-- 交互类型: 实体物件, 手势与身体
-- 平台与技术: 桌面, 可穿戴, modular servo chain, touch sensing, LEDs
-- 创意点子: 可拼接的智能链条，能感触、显示和变形。
-- 作品内容: 内置触摸感应、角度感应和 LED 的模块化链条，可以拼接成能变形的条带、可穿戴设备或小生物。
-- 关键技术: 每个模块都在共享总线上集成了舵机、角度传感器、电容式触摸板和 LED，因此整条链既能记录也能重放自身的形状。
-- 课堂练习: 用积木或纸链条做一个“会记录形状”的原型，同时用手机AR给每一节标上颜色和数值；变化：把链条缠在手腕上变成可穿戴提醒器。
-
-#### HERMITS — Ken Nakagaki, MIT Tangible Media Group — Hiroshi Ishii (2020)
-- 视频: https://www.youtube.com/watch?v=nsi4DsiAWs8
-- 交互类型: 实体物件, 游戏与玩法
-- 平台与技术: 桌面, toio robots, mechanical shells, 3D printing
-- 创意点子: 像寄居蟹换壳一样，小机器人钻进不同外壳就获得新功能。
-- 作品内容: 小型自走机器人可以钻进可互换的机械外壳——杠杆、曲柄、载具——像寄居蟹换壳一样获得新的物理交互能力。
-- 关键技术: 使用带位置追踪的 toio 机器人驶入被动式 3D 打印外壳，外壳中的齿轮和杠杆把机器人的运动转换为新的驱动或输入方式。
-- 课堂练习: 给一个遥控小车设计三种纸板“外壳”（推土铲、旗帜、小屋），用手机AR标注每个外壳的功能；变化：让小车根据二维码自动识别换上的外壳。
-
-#### Buoyancé — Ken Nakagaki (2025)
-- 视频: https://www.youtube.com/watch?v=v9mNKIILt_s
-- 交互类型: 实体物件, 信息与界面
-- 平台与技术: 桌面, mobile robots, helium balloons, string reeling
-- 创意点子: 机器人拉着氦气球升降，在空中形成可交互的立体显示。
-- 作品内容: 移动机器人用细绳收放氦气球，让它们升降，在桌面上方形成漂浮的三维显示和可交互的空中物体。
-- 关键技术: 每台桌面机器人通过收放系绳设定气球高度，同时移动自身来设定 x-y 位置，于是整个机器人集群可以在三维空间中布置漂浮的点。
-- 课堂练习: 用气球、线和手动升降把桌面变成空中柱状图，再用手机AR给每个气球叠加标签；变化：同学拉动气球改变高度，AR中的数据随之更新。
-
-#### Shape n' Swarm — Ken Nakagaki (2025)
-- 视频: https://www.youtube.com/watch?v=5u0M9yL7tyY
-- 交互类型: 实体物件, 声音, 手势与身体
-- 平台与技术: 桌面, swarm robots, LLM, hand tracking
-- 创意点子: 用手比划加一句话，机器人群就排出并动起你想要的形状。
-- 作品内容: 用户用双手塑造一个形状，再用语言描述它；大语言模型据此规划一群桌面小机器人该如何排列和移动，把这个形状表现出来并让它动起来。
-- 关键技术: 把手绘形状输入与大语言模型结合，由模型为群体界面输出机器人的目标位置和运动脚本。
-- 课堂练习: 让同学用语音描述一个动物，由ChatGPT生成一组坐标，再由几名同学手持纸片按坐标在地面上排出这个形状；变化：要求形状“动起来”（如鸟扇动翅膀）。
 
 ### Lightform (Brett Jones & Kevin Karsch)
 
@@ -20521,6 +20629,48 @@ Motion Bank 于 2010 年从 The Forsythe Company 发展而来，研究数字舞�
 - 关键技术: 在墨尔本对着黑背景拍摄的实时高清画面，经网络传输后投到阿德莱德舞台上的 Eyeliner 薄膜上。
 - 课堂练习: 用视频通话连接两个房间，抠掉背景，用 WebRTC 和 WebXR 把远方的人作为真人大小的 AR 形象放进另一个房间；变体：让远方的人能指向房间里的真实物体。
 
+### Mustafa Doga Dogan
+
+*人机交互研究者；Adobe Research 研究科学家（博士毕业于 MIT CSAIL）*
+
+在 MIT CSAIL 的 Stefanie Mueller 人机交互工程组攻读博士，研究隐形标签和面向制造的交互界面；曾与谷歌合作完成 XR-Objects，在东京大学做过访问博士后，现为 Adobe Research 巴塞尔的研究科学家。
+
+#### InfraredTags — Mustafa Doga Dogan (2022)
+- 视频: https://www.youtube.com/watch?v=-8NWIsyY-2E
+- 交互类型: 实体物件, 信息与界面
+- 平台与技术: 手机, 3D printing, infrared camera, ArUco
+- 创意点子: 把 AR 标记藏进物体内部，让物体本身悄悄成为标记。
+- 作品内容: 二维码和 ArUco 标记被 3D 打印在马克杯、路由器、音箱等日常物品内部，肉眼看不见，手机上的红外相机却能读出来；把手机对准物品，就能调出它的控制界面或 Wi-Fi 密码。
+- 关键技术: 物体用可透红外的耗材打印，标记的每一位是外壳内部的空气间隙，在近红外图像中呈现出不同的亮度。
+- 课堂练习: 把纸质标记贴在一层半透明塑料下面，从背后打光，再做一个手机 AR 应用，检测到隐藏标记时弹出控制面板。变体：在每位同学的物体里藏一条不同的秘密消息。
+
+#### BrightMarker — Mustafa Doga Dogan (2023)
+- 视频: https://www.youtube.com/watch?v=M5YNR6cVIiM
+- 交互类型: 实体物件, 手势与身体
+- 平台与技术: 手机, 头显, 3D printing, fluorescent filament, infrared camera
+- 创意点子: 物体里藏着只有特殊相机才看得见的发光标记，让它们变成可追踪的道具。
+- 作品内容: 用红外荧光耗材把标记打印进彩色物体里；手机或头显上的小型成像模块只看得到发光的标记，让物体变成可追踪的道具，比如用旋钮调节 AR 音量的音箱，或当作 VR 触觉道具的球拍。
+- 关键技术: 红外荧光耗材把入射光转换成更长的波长，相机前的滤光片只让这种发射光通过，因此无论物体表面是什么颜色，标记都保持高对比度。
+- 课堂练习: 在家用物品上贴出紫外荧光或逆反射胶带图案，用手机相机加手电筒追踪它们，驱动 AR 滑块和按钮。变体：同一个物体哪一面朝上，就控制不同的东西。
+
+#### StandARone — Mustafa Doga Dogan (2023)
+- 视频: https://www.youtube.com/watch?v=LGzQMHaABmg
+- 交互类型: 实体物件, 信息与界面
+- 平台与技术: 手机, infrared watermark, inkjet printing
+- 创意点子: 纸质文档本身就携带着它的 AR 体验，藏在墨水里。
+- 作品内容: 一张打印出来的餐厅菜单自带 AR 应用：纸上隐形的红外水印编码了 AR 内容，手机扫描页面就能显示可交互的菜品和个性化选项，无需下载任何东西。
+- 关键技术: AR 场景描述被编码进机器可读的水印，用喷墨打印机以吸收红外的墨水印出，再由带红外相机的手机解码。
+- 课堂练习: 设计一张海报，它的 AR 层编码在一个印得很淡（白底浅黄）的二维码里，写一个只根据码中文字生成场景的网页 AR。变体：两张海报一起被扫描时会合成第三个场景。
+
+#### XR-penter — Mustafa Doga Dogan (2025)
+- 视频: https://www.youtube.com/watch?v=F5o5gKcjsQI
+- 交互类型: 空间理解, 实体物件, 空间绘画与创作
+- 平台与技术: 头显, mixed reality headset, scene mesh
+- 创意点子: 用你手头真有的废木料，在原地设计家具。
+- 作品内容: 业余木工把一堆废木板录入混合现实头显，在房间里按真实尺寸用这些木板设计一把椅子，然后在锯切和钻孔之前看到叠加在真实木板上的切割线。
+- 关键技术: 头显记录每块废木板的尺寸，借助场景网格把设计框架与地面对齐，并在实物木板上叠加切割位置。
+- 课堂练习: 测量五块纸板，把它们作为虚拟积木导入 Quest 或手机 AR 场景，让学生只用这些积木按真实尺寸拼出一张凳子。变体：凳子必须正好放进教室的某个角落。
+
 ### Nakata Nobuyuki (nobnak)
 
 *数字艺术装置图形程序员*
@@ -21035,6 +21185,48 @@ Motion Bank 于 2010 年从 The Forsythe Company 发展而来，研究数字舞�
 - 作品内容: 在 Apple [AR]T Walk 上，一个闪闪发光的液态形体在城市中蹦跳、挑逗、歌唱，参与者拿着手机争相去“抓”住它。
 - 关键技术: 锚定位置的 ARKit 动画配合空间音频，沿路径移动，把漫步变成一场追逐。
 - 课堂练习: 做一个 AR 生物：手机靠近到两米内时它就沿路径逃跑，并发出越靠近越响的声音；变体：只有两名玩家一起把它逼到角落才能抓住它。
+
+### Robert Xiao
+
+*不列颠哥伦比亚大学助理教授；曾为 CMU FIGLAB 博士生*
+
+Robert Xiao 构建了 FIGLAB 的多个投影式 AR 系统（WorldKit、Desktopography、LumiWatch），并与 Microsoft Research 合作开发了 MRTouch，为 HoloLens 加入了在真实表面上的触控功能。
+
+#### WorldKit — Robert Xiao, Chris Harrison — CMU Future Interfaces Group (2013)
+- 视频: https://www.youtube.com/watch?v=YkEd_wHXMwE
+- 交互类型: 投影增强, 空间绘画与创作, 手势与身体
+- 平台与技术: 投影, Kinect, projector
+- 创意点子: 用手在任意桌面墙面上'刷'一下，就长出一个可触控的按钮或滑杆。
+- 作品内容: 只需挥手一扫，就能把界面“刷”到任何表面上：按钮、滑块和显示区域会被投影到你画出的位置，并且可以触控。
+- 关键技术: 经过标定的 Kinect 和投影仪让用户用手“涂”出一块区域；该区域内的深度图被用作触摸感应表面，涂出的区域则成为一个投影控件。
+- 课堂练习: 用投影仪 + 摄像头实现：用手在墙上画一个矩形区域，系统在这里生成一个投影按钮或滑块，碰到时切换灯光或音乐；变体：让同学在教室里“布置”出一个只用投影的工作台。
+
+#### Desktopography — Robert Xiao, Chris Harrison — CMU Future Interfaces Group (2017)
+- 视频: https://www.youtube.com/watch?v=L5mCxfjk6hc
+- 交互类型: 投影增强, 空间理解, 实体物件
+- 平台与技术: 投影, depth camera, projector
+- 创意点子: 投影在桌面上的窗口会自动绕开水杯和纸张，与杂物和平共处。
+- 作品内容: 投影在真实桌面上的应用会避让、缩放并移动，绕开咖啡杯、纸张和笔记本电脑，让数字杂物与实体杂物得以共存。
+- 关键技术: 深度相机分割出桌上的实体物体，布局优化器移动并缩放投影窗口，避免被这些物体遮挡，同时让窗口尽量靠近其上一次的位置。
+- 课堂练习: 用俯视摄像头检测桌上的物体轮廓（OpenCV 前景分割），让投影的便签窗口在碰到杯子或书时自动弹开或缩小；变体：让窗口“依附”在某个物体上，物体移走窗口也跟走。
+
+#### LumiWatch — Robert Xiao, Chris Harrison — CMU Future Interfaces Group (2018)
+- 视频: https://www.youtube.com/watch?v=VJNMrulWJ3k
+- 交互类型: 手势与身体, 投影增强
+- 平台与技术: 可穿戴, laser projector, time-of-flight sensors
+- 创意点子: 第一块真正能用的投影手表，把触控屏直接打在你的前臂上。
+- 作品内容: 第一款功能完备的投影智能手表：激光投影仪加上深度感知，把一块触摸屏投到你的前臂上。
+- 关键技术: 表身内的小型激光扫描投影仪经梯形校正后投射到前臂上，表壳边缘的一排飞行时间（ToF）传感器测量手指在手臂上的位置，实现一维/二维触控。
+- 课堂练习: 用手机当“手表”：通过手机前置摄像头 + MediaPipe 检测手指在手臂上的位置，映射为一条滑块控制音量，并用小投影或屏幕显示反馈；变体：设计一个只能在手臂上完成、无法在手机屏幕上做的交互。
+
+#### MRTouch — Robert Xiao, Microsoft Research — Hrvoje Benko & Andy Wilson (2018)
+- 视频: https://www.youtube.com/watch?v=ATNKTJthfC4
+- 交互类型: 手势与身体, 空间理解
+- 平台与技术: 头显, HoloLens, depth sensing
+- 创意点子: 让HoloLens的全息界面贴在真实墙面上，可以直接用手指点按。
+- 作品内容: 为 HoloLens 增加了在真实墙面和桌面上的触控输入：用户可以在任意表面上拉出虚拟屏幕，并直接点按。
+- 关键技术: 把 HoloLens 的深度帧分割成若干平面，在深度图中检测指尖，当指尖与平面的距离小于一个很小的阈值时记为一次触摸，让用户在真实表面上拉出虚拟屏幕。
+- 课堂练习: 在 AR Foundation 中检测墙面平面，用 AR 手部追踪或 MediaPipe 指尖位置判断是否贴近平面，贴近时可拉出一个矩形屏幕并在上面点击；变体：在门、窗、黑板上各放一个与其功能相关的虚拟屏幕。
 
 ### SCE London Studio
 
@@ -24278,48 +24470,6 @@ Naimark 曾在 MIT 建筑机器小组（参与 Aspen Moviemap）、Atari Researc
 - 关键技术: 存在感应器（很可能是运动或深度传感器）实时调节每个可单独控制的发光元件的亮度与闪烁。
 - 课堂练习: 在不同高度挂十二颗 LED，用摄像头运动检测，让离移动者最近的几颗像烛火一样闪烁；变体：只有房间完全安静时，它们才会平静下来。
 
-### Mustafa Doga Dogan
-
-*人机交互研究者；Adobe Research 研究科学家（博士毕业于 MIT CSAIL）*
-
-在 MIT CSAIL 的 Stefanie Mueller 人机交互工程组攻读博士，研究隐形标签和面向制造的交互界面；曾与谷歌合作完成 XR-Objects，在东京大学做过访问博士后，现为 Adobe Research 巴塞尔的研究科学家。
-
-#### InfraredTags — Mustafa Doga Dogan (2022)
-- 视频: https://www.youtube.com/watch?v=-8NWIsyY-2E
-- 交互类型: 实体物件, 信息与界面
-- 平台与技术: 手机, 3D printing, infrared camera, ArUco
-- 创意点子: 把 AR 标记藏进物体内部，让物体本身悄悄成为标记。
-- 作品内容: 二维码和 ArUco 标记被 3D 打印在马克杯、路由器、音箱等日常物品内部，肉眼看不见，手机上的红外相机却能读出来；把手机对准物品，就能调出它的控制界面或 Wi-Fi 密码。
-- 关键技术: 物体用可透红外的耗材打印，标记的每一位是外壳内部的空气间隙，在近红外图像中呈现出不同的亮度。
-- 课堂练习: 把纸质标记贴在一层半透明塑料下面，从背后打光，再做一个手机 AR 应用，检测到隐藏标记时弹出控制面板。变体：在每位同学的物体里藏一条不同的秘密消息。
-
-#### BrightMarker — Mustafa Doga Dogan (2023)
-- 视频: https://www.youtube.com/watch?v=M5YNR6cVIiM
-- 交互类型: 实体物件, 手势与身体
-- 平台与技术: 手机, 头显, 3D printing, fluorescent filament, infrared camera
-- 创意点子: 物体里藏着只有特殊相机才看得见的发光标记，让它们变成可追踪的道具。
-- 作品内容: 用红外荧光耗材把标记打印进彩色物体里；手机或头显上的小型成像模块只看得到发光的标记，让物体变成可追踪的道具，比如用旋钮调节 AR 音量的音箱，或当作 VR 触觉道具的球拍。
-- 关键技术: 红外荧光耗材把入射光转换成更长的波长，相机前的滤光片只让这种发射光通过，因此无论物体表面是什么颜色，标记都保持高对比度。
-- 课堂练习: 在家用物品上贴出紫外荧光或逆反射胶带图案，用手机相机加手电筒追踪它们，驱动 AR 滑块和按钮。变体：同一个物体哪一面朝上，就控制不同的东西。
-
-#### StandARone — Mustafa Doga Dogan (2023)
-- 视频: https://www.youtube.com/watch?v=LGzQMHaABmg
-- 交互类型: 实体物件, 信息与界面
-- 平台与技术: 手机, infrared watermark, inkjet printing
-- 创意点子: 纸质文档本身就携带着它的 AR 体验，藏在墨水里。
-- 作品内容: 一张打印出来的餐厅菜单自带 AR 应用：纸上隐形的红外水印编码了 AR 内容，手机扫描页面就能显示可交互的菜品和个性化选项，无需下载任何东西。
-- 关键技术: AR 场景描述被编码进机器可读的水印，用喷墨打印机以吸收红外的墨水印出，再由带红外相机的手机解码。
-- 课堂练习: 设计一张海报，它的 AR 层编码在一个印得很淡（白底浅黄）的二维码里，写一个只根据码中文字生成场景的网页 AR。变体：两张海报一起被扫描时会合成第三个场景。
-
-#### XR-penter — Mustafa Doga Dogan (2025)
-- 视频: https://www.youtube.com/watch?v=F5o5gKcjsQI
-- 交互类型: 空间理解, 实体物件, 空间绘画与创作
-- 平台与技术: 头显, mixed reality headset, scene mesh
-- 创意点子: 用你手头真有的废木料，在原地设计家具。
-- 作品内容: 业余木工把一堆废木板录入混合现实头显，在房间里按真实尺寸用这些木板设计一把椅子，然后在锯切和钻孔之前看到叠加在真实木板上的切割线。
-- 关键技术: 头显记录每块废木板的尺寸，借助场景网格把设计框架与地面对齐，并在实物木板上叠加切割位置。
-- 课堂练习: 测量五块纸板，把它们作为虚拟积木导入 Quest 或手机 AR 场景，让学生只用这些积木按真实尺寸拼出一张凳子。变体：凳子必须正好放进教室的某个角落。
-
 ### NAKED, INC. (Ryotaro Muramatsu)
 
 *投影映射与沉浸式活动创意公司*
@@ -24978,6 +25128,48 @@ Snap 官方认证镜头创作者，她的妆容、时尚和卡通滤镜已被使
 - 关键技术: 一个全屏像素着色器检测源图像的边缘，并叠加基于哈希噪声的笔触，笔触密度随亮度变化，很可能用一个缩放系数控制笔触大小。
 - 课堂练习: 把铅笔着色器作为后期处理加在 AR Foundation 应用的相机画面上，让真实世界看起来像手绘，而虚拟物体保持彩色。变体：手机指向的地方从素描渐变回照片。
 
+### Raffaello D'Andrea / Verity
+
+*机器人学家；苏黎世联邦理工学院教授，Verity 创始人*
+
+加拿大、意大利、瑞士籍工程师，Kiva Systems 联合创始人、Verity 创始人；他在苏黎世联邦理工学院的“飞行器竞技场”做出了无人机搭建的建筑、与太阳马戏团合作的短片 SPARKED，以及 Metallica 和百老汇演出中的室内无人机群。
+
+#### Flight Assembled Architecture (with Gramazio Kohler) — Raffaello D'Andrea / Verity (2011)
+- 视频: https://www.youtube.com/watch?v=uhfBB5mm2HM
+- 交互类型: 空间理解, 感知与视觉艺术
+- 平台与技术: 桌面, quadcopters, motion capture, foam bricks
+- 创意点子: 飞行器可以在人到不了的地方建造；AR 可以按顺序展示每一条航线和每一块放下的构件，预演这种空中建造。
+- 作品内容: 小型四旋翼逐块抓起泡沫砖，在展厅里把 1500 块砖垒成一座六米高的弯曲高塔，这是第一座由飞行机器人建造的建筑。
+- 关键技术: 室内动作捕捉系统追踪四旋翼的位置，软件根据数字建筑模型规划每一块砖的抓取和放置路径。
+- 课堂练习: 编写一个 AR 虚拟无人机群：它们从真实桌面上取积木，每秒一块，把积木在地面上搭成一座塔，并显示飞行路线。变体：建到一半时让同学修改塔的设计，看无人机重新规划。
+
+#### SPARKED (with Cirque du Soleil) — Raffaello D'Andrea / Verity (2014)
+- 视频: https://www.youtube.com/watch?v=6C8OJsHfmpI
+- 交互类型: 表演与舞台, 手势与身体
+- 平台与技术: 投影, quadcopters, motion capture, choreography
+- 创意点子: 一个会飞的灯罩只靠节奏和动作就成了角色；AR 物体也可以从它们如何靠近和远离人的方式中获得性格。
+- 作品内容: 在与太阳马戏团合作的一部短片里，十架套着灯罩的四旋翼围着一位电工在工坊中起舞，成了各有情绪的角色。
+- 关键技术: 室内四旋翼由动作捕捉追踪，按与演员和音乐同步的编排轨迹飞行，用轻质灯罩当作服装。
+- 课堂练习: 做三盏漂浮在同学身边、会对人作出反应的 AR 灯：一盏害羞（逃开），一盏好奇（跟随），一盏困倦（被忽视时慢慢下沉）。变体：去掉所有面孔和颜色，看大家是否还能说出它们的情绪。
+
+#### Metallica WorldWired Tour indoor drone swarm — Raffaello D'Andrea / Verity (2017)
+- 视频: https://www.youtube.com/watch?v=A4TBvBfPNVg
+- 交互类型: 表演与舞台, 声音, 多人与社交
+- 平台与技术: 投影, indoor drones, local positioning
+- 创意点子: 观众头顶的光点无需屏幕就能形成共同的焦点；AR 演出可以在头顶放几个漂浮的光点，而不是一块平面的虚拟屏幕。
+- 作品内容: 在 Metallica 的 WorldWired 巡演中，一群发光的小无人机在体育馆舞台上方悬停起舞，在乐队头顶组成不断变化的星座。
+- 关键技术: Verity 的室内无人机不用 GPS，而是依靠本地定位系统，按演出提示自主地飞出带冗余的编队。
+- 课堂练习: 上演一段 AR 演出片段：副歌时 20 个发光球聚集到表演者头顶，鼓点一响就四散，由音频节拍检测触发。变体：让房间里所有手机同步，每个人看到同一群光球。
+
+#### The Way of Water — Raffaello D'Andrea / Verity (2025)
+- 视频: https://www.youtube.com/watch?v=G4cM6xbG7PA
+- 交互类型: 表演与舞台, 地点与城市, 感知与视觉艺术
+- 平台与技术: 投影, autonomous water drones, distributed control, timeline choreography
+- 创意点子: 像给舞者编舞一样，在时间轴上编排一群发光的小机器人；在 AR 里，一群锚定在场地上的光点也能把池塘或广场变成舞台。
+- 作品内容: 夜晚的威尼斯潟湖上，24 艘亮着灯的自主水面无人船随音乐变换队形，把水面变成一幅流动的光与水花之画。项目由 Aswin Ramachandran 在 Raffaello D'Andrea 领导的苏黎世联邦理工学院动态系统与控制研究所主导，参展 2025 年威尼斯双年展期间的 Time Space Existence 展（Forte Marghera）；其编舞框架发表于 arXiv 2607.02174（2026）。
+- 关键技术: 分布式控制让各艘船以约 5 厘米的导航精度保持同步，一个类似音乐制作软件（DAW）的“Studio”时间轴按音乐编排每艘船的路线、喷嘴和灯光。
+- 课堂练习: 用手机 AR（AR Foundation 或 8th Wall）在真实的池塘、喷泉或地面上编排 12 个发光的虚拟浮标，在一条与 60 秒音乐同步的简单时间轴上为它们的路线和颜色打关键帧。变体：让每位观众用自己的手机控制一个浮标，挑战大家一起保持队形。
+
 ### Random Studio
 
 *体验设计工作室*
@@ -25229,48 +25421,6 @@ Snap 官方认证镜头创作者，她的妆容、时尚和卡通滤镜已被使
 - 作品内容: 一条从地面升起、戛然止于半空的弧形土坡位于得克萨斯州一处牧场的干湖中；Smithson 在勘测时因飞机失事遇难，由 Nancy Holt 与朋友们完成。
 - 关键技术: 泥土和红色页岩被堆成一条上升的弧形坡道，构成一个直径约 46 米的开口圆。
 - 课堂练习: 站在真实坡道或楼梯的尽头，用一条延伸到空中的 AR 坡道把它接续下去；变体：只有有人在真实坡道上行走时，虚拟坡道才会生长。
-
-### Robert Xiao
-
-*不列颠哥伦比亚大学助理教授；曾为 CMU FIGLAB 博士生*
-
-Robert Xiao 构建了 FIGLAB 的多个投影式 AR 系统（WorldKit、Desktopography、LumiWatch），并与 Microsoft Research 合作开发了 MRTouch，为 HoloLens 加入了在真实表面上的触控功能。
-
-#### WorldKit — Robert Xiao, Chris Harrison — CMU Future Interfaces Group (2013)
-- 视频: https://www.youtube.com/watch?v=YkEd_wHXMwE
-- 交互类型: 投影增强, 空间绘画与创作, 手势与身体
-- 平台与技术: 投影, Kinect, projector
-- 创意点子: 用手在任意桌面墙面上'刷'一下，就长出一个可触控的按钮或滑杆。
-- 作品内容: 只需挥手一扫，就能把界面“刷”到任何表面上：按钮、滑块和显示区域会被投影到你画出的位置，并且可以触控。
-- 关键技术: 经过标定的 Kinect 和投影仪让用户用手“涂”出一块区域；该区域内的深度图被用作触摸感应表面，涂出的区域则成为一个投影控件。
-- 课堂练习: 用投影仪 + 摄像头实现：用手在墙上画一个矩形区域，系统在这里生成一个投影按钮或滑块，碰到时切换灯光或音乐；变体：让同学在教室里“布置”出一个只用投影的工作台。
-
-#### Desktopography — Robert Xiao, Chris Harrison — CMU Future Interfaces Group (2017)
-- 视频: https://www.youtube.com/watch?v=L5mCxfjk6hc
-- 交互类型: 投影增强, 空间理解, 实体物件
-- 平台与技术: 投影, depth camera, projector
-- 创意点子: 投影在桌面上的窗口会自动绕开水杯和纸张，与杂物和平共处。
-- 作品内容: 投影在真实桌面上的应用会避让、缩放并移动，绕开咖啡杯、纸张和笔记本电脑，让数字杂物与实体杂物得以共存。
-- 关键技术: 深度相机分割出桌上的实体物体，布局优化器移动并缩放投影窗口，避免被这些物体遮挡，同时让窗口尽量靠近其上一次的位置。
-- 课堂练习: 用俯视摄像头检测桌上的物体轮廓（OpenCV 前景分割），让投影的便签窗口在碰到杯子或书时自动弹开或缩小；变体：让窗口“依附”在某个物体上，物体移走窗口也跟走。
-
-#### LumiWatch — Robert Xiao, Chris Harrison — CMU Future Interfaces Group (2018)
-- 视频: https://www.youtube.com/watch?v=VJNMrulWJ3k
-- 交互类型: 手势与身体, 投影增强
-- 平台与技术: 可穿戴, laser projector, time-of-flight sensors
-- 创意点子: 第一块真正能用的投影手表，把触控屏直接打在你的前臂上。
-- 作品内容: 第一款功能完备的投影智能手表：激光投影仪加上深度感知，把一块触摸屏投到你的前臂上。
-- 关键技术: 表身内的小型激光扫描投影仪经梯形校正后投射到前臂上，表壳边缘的一排飞行时间（ToF）传感器测量手指在手臂上的位置，实现一维/二维触控。
-- 课堂练习: 用手机当“手表”：通过手机前置摄像头 + MediaPipe 检测手指在手臂上的位置，映射为一条滑块控制音量，并用小投影或屏幕显示反馈；变体：设计一个只能在手臂上完成、无法在手机屏幕上做的交互。
-
-#### MRTouch — Robert Xiao, Microsoft Research — Hrvoje Benko & Andy Wilson (2018)
-- 视频: https://www.youtube.com/watch?v=ATNKTJthfC4
-- 交互类型: 手势与身体, 空间理解
-- 平台与技术: 头显, HoloLens, depth sensing
-- 创意点子: 让HoloLens的全息界面贴在真实墙面上，可以直接用手指点按。
-- 作品内容: 为 HoloLens 增加了在真实墙面和桌面上的触控输入：用户可以在任意表面上拉出虚拟屏幕，并直接点按。
-- 关键技术: 把 HoloLens 的深度帧分割成若干平面，在深度图中检测指尖，当指尖与平面的距离小于一个很小的阈值时记为一次触摸，让用户在真实表面上拉出虚拟屏幕。
-- 课堂练习: 在 AR Foundation 中检测墙面平面，用 AR 手部追踪或 MediaPipe 指尖位置判断是否贴近平面，贴近时可拉出一个矩形屏幕并在上面点击；变体：在门、窗、黑板上各放一个与其功能相关的虚拟屏幕。
 
 ### Romain Tardy
 
@@ -27884,39 +28034,6 @@ Oliver Kreylos 开发了开源的 Augmented Reality Sandbox：Kinect 扫描真�
 - 关键技术: 水流改变空心钢球的重心，使其缓慢摇晃、转动，镜面持续映照这座历史庭院。
 - 课堂练习: 在真实庭院中放一组镜面球，用 AR 环境探针让它们反射真实环境，并随虚拟水流缓慢摇晃。变体：让球面映出与现实不同的季节。
 
-### Raffaello D'Andrea / Verity
-
-*机器人学家；苏黎世联邦理工学院教授，Verity 创始人*
-
-加拿大、意大利、瑞士籍工程师，Kiva Systems 联合创始人、Verity 创始人；他在苏黎世联邦理工学院的“飞行器竞技场”做出了无人机搭建的建筑、与太阳马戏团合作的短片 SPARKED，以及 Metallica 和百老汇演出中的室内无人机群。
-
-#### Flight Assembled Architecture (with Gramazio Kohler) — Raffaello D'Andrea / Verity (2011)
-- 视频: https://www.youtube.com/watch?v=uhfBB5mm2HM
-- 交互类型: 空间理解, 感知与视觉艺术
-- 平台与技术: 桌面, quadcopters, motion capture, foam bricks
-- 创意点子: 飞行器可以在人到不了的地方建造；AR 可以按顺序展示每一条航线和每一块放下的构件，预演这种空中建造。
-- 作品内容: 小型四旋翼逐块抓起泡沫砖，在展厅里把 1500 块砖垒成一座六米高的弯曲高塔，这是第一座由飞行机器人建造的建筑。
-- 关键技术: 室内动作捕捉系统追踪四旋翼的位置，软件根据数字建筑模型规划每一块砖的抓取和放置路径。
-- 课堂练习: 编写一个 AR 虚拟无人机群：它们从真实桌面上取积木，每秒一块，把积木在地面上搭成一座塔，并显示飞行路线。变体：建到一半时让同学修改塔的设计，看无人机重新规划。
-
-#### SPARKED (with Cirque du Soleil) — Raffaello D'Andrea / Verity (2014)
-- 视频: https://www.youtube.com/watch?v=6C8OJsHfmpI
-- 交互类型: 表演与舞台, 手势与身体
-- 平台与技术: 投影, quadcopters, motion capture, choreography
-- 创意点子: 一个会飞的灯罩只靠节奏和动作就成了角色；AR 物体也可以从它们如何靠近和远离人的方式中获得性格。
-- 作品内容: 在与太阳马戏团合作的一部短片里，十架套着灯罩的四旋翼围着一位电工在工坊中起舞，成了各有情绪的角色。
-- 关键技术: 室内四旋翼由动作捕捉追踪，按与演员和音乐同步的编排轨迹飞行，用轻质灯罩当作服装。
-- 课堂练习: 做三盏漂浮在同学身边、会对人作出反应的 AR 灯：一盏害羞（逃开），一盏好奇（跟随），一盏困倦（被忽视时慢慢下沉）。变体：去掉所有面孔和颜色，看大家是否还能说出它们的情绪。
-
-#### Metallica WorldWired Tour indoor drone swarm — Raffaello D'Andrea / Verity (2017)
-- 视频: https://www.youtube.com/watch?v=A4TBvBfPNVg
-- 交互类型: 表演与舞台, 声音, 多人与社交
-- 平台与技术: 投影, indoor drones, local positioning
-- 创意点子: 观众头顶的光点无需屏幕就能形成共同的焦点；AR 演出可以在头顶放几个漂浮的光点，而不是一块平面的虚拟屏幕。
-- 作品内容: 在 Metallica 的 WorldWired 巡演中，一群发光的小无人机在体育馆舞台上方悬停起舞，在乐队头顶组成不断变化的星座。
-- 关键技术: Verity 的室内无人机不用 GPS，而是依靠本地定位系统，按演出提示自主地飞出带冗余的编队。
-- 课堂练习: 上演一段 AR 演出片段：副歌时 20 个发光球聚集到表演者头顶，鼓点一响就四散，由音频节拍检测触发。变体：让房间里所有手机同步，每个人看到同一群光球。
-
 ### Ralfonso
 
 *动态、光与互动雕塑家*
@@ -29207,6 +29324,30 @@ Anhong Guo 领导 Human-AI Lab，研究面向无障碍与物理世界交互的 A
 - 作品内容: 地面上打开一个发光传送门，沙发、椅子和桌子从里面喷涌而出，在用户周围翻滚堆叠，物理效果逼真，精致得像后期合成的特效镜头。
 - 关键技术: Lens Studio 的物理刚体与地面碰撞，粒子特效和手部追踪负责触发并引导家具喷出（推测）。
 - 课堂练习: 做一个 Lens：一个手势打开传送门，向房间里倾倒 20 个物理物体；变体：这些物体必须是同学们扫描或建模的房间里的真实物品。
+
+### Asier Marzo — UpnaLab (Public University of Navarra)
+
+*纳瓦拉公立大学研究员；领导 UpnaLab（声悬浮、非接触触觉、空中显示与体积显示）*
+
+Asier Marzo 的 UpnaLab 把计算机科学、物理和电子结合起来制作交互装置，他本人以 TinyLev 等开源声悬浮装置闻名。近期论文包括 FlexiVol——一台装有弹性漫射屏、可以把手伸进去的体积显示器，以及 StreamFog——用超声波驾驭一柱柱雾气，把它们当作可移动的投影屏。
+
+#### FlexiVol — Asier Marzo — UpnaLab (Public University of Navarra) (2025)
+- 视频: https://www.youtube.com/watch?v=4wwKOXxX9Ck
+- 交互类型: 手势与身体, 投影增强, 感知与视觉艺术
+- 平台与技术: 投影, swept volumetric display, elastic diffuser, high-speed projector
+- 创意点子: 把体积显示器里的硬质屏幕换成弹力带，三维影像就伸手可及。
+- 作品内容: 一台可以把手伸进去的体积显示器：真正的三维图像被画在一块振荡的弹性漫射屏上，手指能直接探入显示空间去选取、对接和描绘虚拟物体，不用戴头显。作者 Elodie Bouzbib、Iosune Sarasate、Unai Javier Fernández、Iván Fernández、Manuel López-Amo、Iñigo Ezcurdia 与 Asier Marzo（纳瓦拉公立大学 UpnaLab），CHI 2025。
+- 关键技术: 扫掠式体积显示器把快速切换的图像切片投到振荡的弹性涤纶—氨纶带上，并校正拉伸带来的变形，所以手指按压漫射屏也不会破坏三维图像。
+- 课堂练习: 模拟一个“可伸入”的体积：在框架上绷一块弹力布，从背面投影，再用深度相机或 MediaPipe 检测手指按入的位置，让这一戳能拖动投影出来的三维物体。变体：把按入的深浅映射到你触到的物体深度层。
+
+#### StreamFog — Asier Marzo — UpnaLab (Public University of Navarra) (2026)
+- 视频: https://www.youtube.com/watch?v=nuUFdCtVGsk
+- 交互类型: 投影增强, 手势与身体, 感知与视觉艺术
+- 平台与技术: 投影, ultrasonic transducers, acoustic streaming, fog screen, projector
+- 创意点子: 用声音驾驭雾气，让空中的影像能在你身边移动。
+- 作品内容: 超声波束能在几百毫秒内把一柱柱雾气升起、移动、推开，让它们充当投影屏；手可以穿过图像而不把它打散，好几根雾柱还能在一款混合现实桌面游戏上来回滑动。作者 Unai Javier Fernández、Iván Fernández、Josu Irisarri、Iñigo Ezcurdia 与 Asier Marzo（纳瓦拉公立大学 UpnaLab），CHI 2026。
+- 关键技术: 超声波束（很可能来自相控换能器阵列）产生声流，即一股受约束的气流，能快速、可控地带动雾滴，于是雾柱可以在投影仪下被塑形和移动，手穿过时也基本保持稳定。
+- 课堂练习: 用超声波雾化器、电脑风扇和一段管子做一面雾幕，用便宜投影仪把一个小角色投到雾上，再用摄像头加 MediaPipe 做手部追踪，让手穿过时角色作出反应。变体：把雾柱装到电动滑轨上移动，让投影跟着它走。
 
 ### Birmingham Royal Ballet (Virtual Stage)
 
@@ -30526,6 +30667,30 @@ Merge 生产 Merge Cube——一个印有图案的泡沫立方体，手机可以
 - 关键技术: 物体的位置很可能是针对两个视点、两个目标剪影求解出来的，每个悬挂元素都落在同时满足两条视线的位置上。
 - 课堂练习: 放置一组 AR 方块，让它们从正面拼出一个词，从侧面拼出另一个词；用两个正交的像素网格计算位置。变体：选两个互相“争辩”的词。
 
+### Mohamed Kari
+
+*混合现实研究者；在普林斯顿与 Parastoo Abtahi 合作完成 Reality Promises（曾任职于 Porsche 与苏黎世联邦理工学院）*
+
+Mohamed Kari 做的混合现实不只是给世界“贴图”，而是去改写物理世界本身。他与 Christian Holz 合作的 TransforMR 把街上的行人和车辆替换成虚拟角色，还做了 SoundsRide；在普林斯顿与 Parastoo Abtahi 合作的 Reality Promises 里，你在 MR 中对房间做的事，会由一台隐身机器人在真实房间里替你完成。
+
+#### Reality Promises — Mohamed Kari (2025)
+- 视频: https://www.youtube.com/watch?v=SdDXvIB79j0
+- 交互类型: 实体物件, 感知与视觉艺术, 空间理解
+- 平台与技术: 头显, video-passthrough MR headset, mobile manipulator robot, 3D Gaussian Splatting
+- 创意点子: 先让虚拟魔法立刻“移动”真实物体，再让一台隐身机器人在幕后兑现承诺。
+- 作品内容: 戴上混合现实头显，一只卡通蜜蜂仿佛叼起了真实的薯片筒，一盆植物和一盒椰子水也听你指挥飞到房间另一头；在你看不见的地方，一台移动机器人悄悄把真实物体搬到虚拟物体落下的位置。作者 Mohamed Kari 与 Parastoo Abtahi（普林斯顿大学），UIST 2025 最佳论文。
+- 关键技术: 预先用 Gaussian Splatting 扫描整个房间，头显据此渲染出“没有机器人”的画面把它抹掉；与用户共用同一坐标系的移动机械臂机器人，则在规划好的“脱钩—重新耦合”时刻之间完成每一次虚拟操作对应的真实搬运。
+- 课堂练习: 做一个“绿野仙踪”式版本：在手机 AR（AR Foundation 或 Lens Studio）里，让一个虚拟小生物把真实杯子“搬”到标记点，趁镜头转开时由躲在一旁的队友把真杯子挪过去，再让镜头转回来。变体：把“承诺”显示出来——在真实物体将会出现的位置留下一圈发光轮廓。
+
+#### X-OOHRI (Explainable OOHRI) — Mohamed Kari (2026)
+- 视频: https://www.youtube.com/watch?v=eFOGPiuS-9Q
+- 交互类型: 信息与界面, 实体物件
+- 平台与技术: 头显, Meta Quest 3, Unity, GPT-5.1, Hello Robot Stretch 3, ROS2
+- 创意点子: 在让机器人动手之前，先用 AR 把它的能力边界直接标在物体上。
+- 作品内容: 戴上 Quest 3，房间里的物体都被标注出家用机器人能对它们做什么、不能做什么：颜色编码和解释标签说明原因，环形菜单列出可执行的动作，用户拖动物体的虚拟分身来设定目标，真实的 Stretch 机器人随后去完成。作者为 Lauren W. Wang、Mohamed Kari 和 Parastoo Abtahi（普林斯顿大学 Situated Interactions Lab），发表于 HRI 2026。
+- 关键技术: 视觉语言模型（GPT-5.1）把透视画面和机器人扫描结果转换成以物体为单位的可供性与限制描述，Unity 在 Quest 3 上把它们渲染成提示符号，确认后的指令通过 ROS2 发给 Hello Robot Stretch 3。
+- 课堂练习: 在桌上挑五件物体，假设有一台只能举起 300 克、手臂只够得到 40 厘米的机器人，判断它能对每件物体做什么；然后用 AR Foundation 或 Lens Studio 做一个手机 AR 场景，把每件物体标成绿、黄或红色，点一下就显示一句原因。变体：不自己写原因，而是拍一张照片，让视觉语言模型来写。
+
 ### Mojang Studios (Minecraft Earth)
 
 *游戏工作室；Minecraft Earth*
@@ -31546,6 +31711,21 @@ LEGO 的 Hidden Side 系列（2019）把实体积木套装与手机应用相结�
 - 关键技术: 动画的每一帧被径向排列在同一个打印物体中；它旋转时，一个静止的投影光面每次只照亮其中一帧的切片。
 - 课堂练习: 在 AR 中用一个人物的 24 个定格姿势排成一个环并让它旋转，只渲染穿过虚拟光面的那个姿势。变体：让观众用手机移动光面来“拖动”时间。
 
+### Alexandra Ion — Interactive Structures Lab (Carnegie Mellon)
+
+*卡内基梅隆大学人机交互研究所助理教授；主持 Interactive Structures Lab*
+
+Alexandra Ion 的实验室设计交互材料与机器人结构，从超材料机构到会变形的房间。她与 Scott E. Hudson 以及 Violet Yinuo Han、Jesse T. Gonzalez 等学生一起，探索会自己移动来帮助人的日常物品和空间。
+
+#### Towards Unobtrusive Physical AI — Alexandra Ion — Interactive Structures Lab (Carnegie Mellon) (2025)
+- 视频: https://www.youtube.com/watch?v=x3IRVDR3SjM
+- 交互类型: 实体物件, 空间理解
+- 平台与技术: 桌面, LLM, small mobile robots, camera-based scene perception
+- 创意点子: 给日常物品赋予意图，让它们主动挪过来帮你。
+- 作品内容: 普通物品会在你开口前悄悄帮忙：比如你整理文件时订书机自己滑过来，或者你快要靠上台面时刀先挪开。大语言模型观察场景、推测你想做什么，再决定哪件物品该动。作者 Violet Yinuo Han、Jesse T. Gonzalez、Christina Yang、Zhiruo Wang、Scott E. Hudson 与 Alexandra Ion（卡内基梅隆大学），UIST 2025。
+- 关键技术: 基于大语言模型的架构感知环境与用户活动，进行时空推理以推断用户目标，再结合每件物品的属性生成相应动作，由小型机器人底座执行（很可能藏在物品下方）。
+- 课堂练习: 在手机或头显 AR 里给桌上三件真实物品加上虚拟“意图气泡”：把相机画面交给多模态大模型推测用户正在做什么，再用幽灵箭头动画标出每件物品为了帮忙会移动到哪里。变体：让其中一件物品拒绝移动，并说明理由。
+
 ### Alexandre Rivaux (Bonjour Lab)
 
 *创意技术人、Bonjour Lab 联合创始人*
@@ -32124,6 +32304,21 @@ Hubris 以及 Quest 3 混合现实小镇建造游戏 Wall Town Wonders 的开发
 - 关键技术: 把场景理解得到的墙面平面用作建造网格，使建筑附着在竖直表面上，角色也沿着墙面行走。
 - 课堂练习: 用手机AR竖直平面检测在教室墙上放置小房子和小人，小人沿墙“行走”；变化：墙上的真实窗户或海报成为小镇的地标。
 
+### Daisuke Iwai — XR Group, University of Osaka
+
+*大阪大学基础工学研究科教授，XR Group 负责人*
+
+Daisuke Iwai 的团队研发投影仪与摄像头结合的系统，让投射出的光表现得像材质一样：不留影子的投影映射、能在明亮房间里使用的投影，以及看起来就是物体本身颜色与纹理的投影。团队也研究无透镜成像和多投影仪标定。
+
+#### Shadowless Projection Mapping (Synthetic Aperture Projector) — Daisuke Iwai — XR Group, University of Osaka (2026)
+- 视频: https://www.youtube.com/watch?v=DEDGYcM5H84
+- 交互类型: 投影增强, 感知与视觉艺术, 实体物件
+- 平台与技术: 投影, multi-projector array, synthetic aperture projection, blur compensation
+- 创意点子: 从足够多的方向同时打光，让手再也投不出影子，投影就开始像物体本身的材质。
+- 作品内容: 天花板上的 25 台投影仪同时照亮同一张桌面；当手或手臂伸进来时，其余投影仪会补上被挡住的光，投出来的颜色和纹理不会留下影子，看上去就像直接涂在物体上的颜料。作者 Takahiro Okamoto、Masaki Takeuchi、Masataka Sawayama 与 Daisuke Iwai（大阪大学、北海道大学），IEEE VR 2026 最佳论文（IEEE TVCG）。
+- 关键技术: 大量相互重叠的投影仪组合成一台“合成孔径”的大孔径投影仪，任何遮挡物只会挡住其中一小部分光线；再用离线的去模糊补偿，修复多幅叠加图像之间亚像素错位造成的模糊。
+- 课堂练习: 用两三台廉价投影仪（或装进纸盒投影器的手机）从不同角度对准同一个盒子，用 MapMap 或 TouchDesigner 之类的投影映射工具把同一张纹理分别对齐，比较只开一台和全部打开时手的影子有什么不同；变体：让每台投影仪的颜色略有不同，让手的影子变成一圈彩色轮廓，而不是一个黑洞。
+
 ### Doug Wheeler
 
 *艺术家；“光与空间”运动*
@@ -32139,6 +32334,21 @@ Hubris 以及 Quest 3 混合现实小镇建造游戏 Wall Town Wonders 的开发
 - 关键技术: 弧形墙面、向上弯入墙体的地面，以及均匀漫射、缓慢编程的灯光，去掉了所有判断距离的视觉线索。
 - 课堂练习: 在 WebXR 里用一块虚拟表面盖住一面真实墙，让它的亮度渐变慢慢抹掉边缘，直到看起来像开阔的空间。变体：加一个悬浮的小点，测试它会加强还是削弱深度感。
 
+### Dzmitry Tsetserukou — Skoltech Intelligent Space Robotics Lab
+
+*斯科尔科沃科技学院（Skoltech）的机器人研究者，领导该校的智能空间机器人实验室*
+
+Tsetserukou 的团队研究人与无人机、人与机器人的交互，把空中机器人与触觉反馈、投影和大语言模型结合在一起。HoverAI 让一架无人机自带投影仪、屏幕和会对话的虚拟形象。
+
+#### HoverAI — Dzmitry Tsetserukou — Skoltech Intelligent Space Robotics Lab (2026)
+- 视频: https://www.youtube.com/watch?v=FYU8qzoQSK0
+- 交互类型: 声音, 投影增强, 面部
+- 平台与技术: 投影, drone, MEMS laser projector, Whisper, LLM, XTTS v2
+- 创意点子: 一个自带“脸”的飞行助手，飞到哪里都能把自己的意图说清楚。
+- 作品内容: 一架无人机悬停在人面前，听人说话，再通过一个口型同步的虚拟形象来回答：这个形象由机上的激光投影仪投在它自带的小屏幕上，还会根据眼前的人调整外观。作者为 Yuhua Jin、Nikita Kuzmin、Georgii Demianchuk、Mariya Lezina、Fawad Mehboob、Issatay Tokmurziyev、Miguel Altamirano Cabrera、Muhammad Ahsan Mustafa 和 Dzmitry Tsetserukou（Skoltech），发表于 HRI 2026 的 Late-Breaking Report。
+- 关键技术: 机载 RGB 摄像头和麦克风的数据依次经过语音活动检测、Whisper 语音识别、结合检索的大语言模型意图分类和 XTTS v2 语音合成；MEMS 激光投影仪把口型同步的虚拟形象投在机头的半刚性屏幕上。
+- 课堂练习: 把手机贴在绑着自拍杆的纸板“无人机”上，运行一个会说话的虚拟形象网页（语音识别 + 大模型 API + 语音合成，嘴巴随音量张合），举着它走到同学面前，为他们指引楼里的方向。变体：让虚拟形象的表情随听者站得远近而变化。
+
 ### Elly Oldman
 
 *插画师，《无尽之画》（The Infinite Drawing）作者*
@@ -32153,6 +32363,22 @@ Hubris 以及 Quest 3 混合现实小镇建造游戏 Wall Town Wonders 的开发
 - 作品内容: Elly Oldman 的“无尽之画”被做成铺满墙面的巨型黑白壁画和地面拼图；观众把平板对准画面，她那则生态寓言里的角色便动了起来。
 - 关键技术: 印刷画面的各个局部作为平板 AR 应用（由 Artefacto 开发）的识别图，叠加 &Friends 用相同线条风格制作的逐帧动画。
 - 课堂练习: 在长卷纸上合作画一幅黑白长画，挑出五个细节，用 Artivive 或 Lens Studio 的图像识别让它们在 AR 中动起来；变体：藏一段只有两台平板同时对准才会出现的动画。
+
+### Enrico Rukzio — Ulm University HCI (Pascal Jansen)
+
+*乌尔姆大学媒体信息学研究所教授；博士研究员 Pascal Jansen 主导其中的汽车介导现实研究*
+
+Enrico Rukzio 在乌尔姆大学的团队研究车内交互、混合现实与共享空间。Pascal Jansen 开发了开源工具 MIRAGE，能在真实道路上实时增加、删除和改写物体的样子；更早的 ShARe 则给 AR 头显加上投影仪，让佩戴者身边的人也能参与进来。
+
+#### MIRAGE — Enrico Rukzio — Ulm University HCI (Pascal Jansen) (2026)
+- 视频: https://www.youtube.com/watch?v=MMBduUx9ZG4
+- 源代码: https://github.com/J-Britten/MIRAGE
+- 交互类型: 感知与视觉艺术, 传送门与世界替换, 地点与城市
+- 平台与技术: 头显, Varjo XR-3, object detection, segmentation, depth estimation, inpainting
+- 创意点子: 把道路当作可编辑的现实：增加、删除或改写车里的人看到的东西。
+- 作品内容: 坐在真实道路上行驶的真车里，乘客透过视频透视头显看到被实时改写的交通画面：车辆加上轮廓和图标，分散注意力的东西被抹掉，另一些物体被换了样子——共有 15 种增强、削减与改造现实的效果。作者 Pascal Jansen、Julian Britten、Mark Colley、Markus Sasalovici 与 Enrico Rukzio（乌尔姆大学，联合 UCL 与 Mercedes-Benz），CHI 2026。
+- 关键技术: 透视摄像头的画面实时经过目标检测、分割、深度估计和图像修补模型，结果用于生成叠加、删除和外观替换，并显示在视频透视头显中（道路实测使用 Varjo XR-3）；该工具已开源。
+- 课堂练习: 从汽车或自行车上录一段街景视频，用分割模型（例如在 notebook 里跑 YOLO 或 SAM）处理，做出三个版本：给所有行人描边、抹掉所有广告牌、把每辆车变成卡通。变体：判断哪一种效果在驾驶时绝不能允许，并说明理由。
 
 ### Eric Freeman
 
@@ -32366,6 +32592,21 @@ Dogstudio 创始人 Henry Daubrez 与 Samuel Honigstein 构思并制作了首届
 - 关键技术: 每个实体画框都是节日应用的图像目标，应用在画框上渲染一件实时生成的作品（参与艺术家包括 Bruno Simon、Matt DesLauriers 和 Edan Kwan）。
 - 课堂练习: 在校园里挂五个空纸画框，每个都是图像目标，在 WebAR 中加载不同同学的生成式作品；变体：作品随一天中的时间变化。
 
+### Hideki Koike — Koike Lab (Institute of Science Tokyo)
+
+*东京科学大学（原东京工业大学）教授；领导 Koike Lab*
+
+Hideki Koike 的实验室从 2000 年前后的 EnhancedDesk 起就在做投影仪—摄像头交互，同时研究动作捕捉与技能训练。近期与 Shio Miyafuji 合作的工作利用高速投影和人眼的时间特性，让图像只对以特定方式移动的眼睛可见，或让颜色只沿着运动物体的轨迹出现。
+
+#### A Display Visible Only During Gaze Fixation on Moving Objects — Hideki Koike — Koike Lab (Institute of Science Tokyo) (2025)
+- 视频: https://www.youtube.com/watch?v=4W7_OK8vhOI
+- 交互类型: 注视, 投影增强, 感知与视觉艺术
+- 平台与技术: 投影, high-speed projector, smooth-pursuit eye movement, striped patterns
+- 创意点子: 把信息藏在眼睛的运动方式里，而不是藏在视线所及之处。
+- 作品内容: 一种只有“移动中的眼睛”才看得见的投影画面：路边标识一直隐形，直到行人边走边盯着手机时才显现；表面上的内容也只有在你的目光跟着描画的手指一起滑动时才会浮现。作者 Ryusuke Miyazaki、Shio Miyafuji、Kyeongwan Kim 与 Hideki Koike（东京科学大学），UIST 2025（附录论文）。
+- 关键技术: 高速投影仪快速闪现条纹图案：对静止的眼睛来说它很可能融合成一片平淡的底色，而当眼睛朝特定方向追随移动物体时，另一幅图像才会显现。
+- 课堂练习: 先在屏幕上体验这个原理：用 p5.js 做高频条纹动画，让静止观看者看不见一个字，再尝试在眼睛追随移动小点时让它显现，并比较 60 Hz 与 120 Hz 屏幕的效果。变体：设计一条只给路过的行人看的信息。
+
 ### Ho Tzu Nyen
 
 *以历史与理论为素材的艺术家、电影人*
@@ -32380,6 +32621,21 @@ Dogstudio 创始人 Henry Daubrez 与 Samuel Honigstein 构思并制作了首届
 - 作品内容: 把手机指向天空，会出现巨大的动漫风格机甲，同时朗读一段京都学派的文本；指向地面，会出现一位正在瓦解的学者和另一段文本；指向地平线则什么也看不到，只听见谈论“绝对无”的声音。
 - 关键技术: 手机 AR 通过陀螺仪读取设备俯仰角，在三层场景和音轨之间切换。
 - 课堂练习: 做一个 WebXR 或手机网页，根据手机朝上、朝下或水平，播放三段不同的音频故事；变体：水平方向时屏幕上完全不显示任何东西。
+
+### IE Robotics & AI Lab — Eduardo Castelló Ferrer
+
+*IE 大学科学与技术学院的机器人与人工智能实验室（CyPhy Life, Robotics & AI Lab），由 Eduardo Castelló Ferrer 领导*
+
+这个实验室研究与人共处日常空间的机器人。其 AIfred 项目在桌面机械臂末端装上投影仪，让生成式 AI 的帮助直接落在学生正在书写的纸上；它的前身是 2025 年的机器人学习伙伴 Alfred。
+
+#### AIfred — IE Robotics & AI Lab — Eduardo Castelló Ferrer (2026)
+- 视频: https://www.youtube.com/watch?v=713YKEyMPpI
+- 交互类型: 投影增强, 空间绘画与创作, 信息与界面
+- 平台与技术: 投影, robot arm, mini projector, overhead camera, Gemini, OptiTrack
+- 创意点子: 把 AI 的回答放在笔尖旁边，而不是另一块屏幕上。
+- 作品内容: 一只末端装着投影仪的小型机械臂注视着学生的书桌，学生一指，它就把 AI 的帮助直接投在手写内容旁边：数学提示、生成的图像和绘画引导线。作者为 Gregorio Orlando、Milan Groshev 和 Eduardo Castelló Ferrer（IE 大学机器人与人工智能实验室），2026 年发布于 arXiv，已投稿 ICRA 2027；他们的研究发现，撤掉帮助之后，用它学习的学生比在笔记本电脑上用 ChatGPT 的学生记住得更多。
+- 关键技术: 顶置摄像头拍下纸面并识别指向手势，Gemini 模型理解裁切出的画面并生成提示或图像，再由机械臂把末端的投影仪对准桌面上的合适位置（原型中用 OptiTrack 追踪位姿）。
+- 课堂练习: 在书桌上方架一台手机投影或微型投影仪，用网络摄像头拍下一道手写数学题，连同“只给一个提示，不超过 10 个字”的指令发给多模态大模型 API，再通过四角校准把提示投在题目旁边几厘米处。变体：不投文字，改投一张浅浅的草图，让学生照着描。
 
 ### Imogen Heap
 
@@ -32410,6 +32666,21 @@ Dogstudio 创始人 Henry Daubrez 与 Samuel Honigstein 构思并制作了首届
 - 作品内容: 用手指向两样真实的东西，比如两包零食或两件衬衫，Lens 会毫不犹豫地替你选一个，依据是你的个人档案、天气、时间和你以往的选择。作品由 Inna Horobchuk、Volodymyr Kurbatov、Candice Branchereau 和 Marcin Polakowski 在约 24 小时内完成，获得 Snap Lensathon 2025 Spectacles 赛道第一名。
 - 关键技术: 每帧画面发送给 Gemini，返回被指向的两个物体的边界框和选择结果；深度缓存把答案放回三维空间，Supabase 中保存的个人档案（星座、饮食、历史选择）参与推理，因此不同的人会得到不同的决定。
 - 课堂练习: 用手机或 WebXR 做一个原型：用户用摄像头框住两样东西，视觉语言模型必须选一个并用一句话说明理由，拿同学的午餐来测试。变体：让一桌人共享一个档案，由眼镜替整桌人做决定。
+
+### Inseok Hwang (POSTECH)
+
+*浦项科技大学（POSTECH）计算机科学与工程系教师*
+
+Inseok Hwang 在 POSTECH 的团队研究移动与泛在计算系统，让人们手里现有的设备做更多事。与 Seungwon Yang、Suwon Yoon、Jeongwon Choi 合作的 Chameleon，把平放在桌上的手机变成一扇透明窗，桌边的每个人都能共享窗里的 AR 内容。
+
+#### Chameleon — Inseok Hwang (POSTECH) (2025)
+- 视频: https://www.youtube.com/watch?v=lcBdWX592iQ
+- 交互类型: 实体物件, 多人与社交, 感知与视觉艺术
+- 平台与技术: 手机, smartphone, inertial sensing, language-model-assisted pattern generation
+- 创意点子: 把平放在桌上的手机变成一扇通向共享 AR 的透明窗。
+- 作品内容: 把手机平放在桌上，它好像消失了：屏幕显示出它身下的桌面纹理，再加上锚定在桌面上、围坐的人都能看到的数字内容；手机在桌上滑动时，内容依然停在原处。作者 Seungwon Yang、Suwon Yoon、Jeongwon Choi 与 Inseok Hwang（POSTECH），UIST 2025 海报论文。
+- 关键技术: 手机伺机采集周围桌面的样子，借助语言模型辅助的图案生成，在屏幕上铺满与之匹配的纹理；同时用增强过的惯性传感追踪它在桌面上的滑动，让锚定内容保持不动。
+- 课堂练习: 给桌面拍一张照片，让平放在原位的手机全屏显示这张照片，再在“玻璃下面”画一只会动的小生物；挪动手机时，手动或用简单的光流平移裁切区域，让小生物留在原地。变体：同一张桌上的两部手机共享同一个隐藏世界。
 
 ### Iregular (Daniel Iregui)
 
@@ -32456,6 +32727,21 @@ Dogstudio 创始人 Henry Daubrez 与 Samuel Honigstein 构思并制作了首届
 - 作品内容: 蓬松、被阳光照亮的云在天空中飘动，密度和覆盖率实时变化。
 - 关键技术: 光线步进着色器采样由天气图和高度梯度塑形的三维噪声（很可能采用《地平线：零之曙光》的 Perlin-Worley 方法），并在每一步向太阳方向做短距离步进估算光照；代码是作者的本科毕业设计。
 - 课堂练习: 把云的体积缩小成一个小盒子，用 AR Foundation 放在真实桌面上方，用估计的主光方向照亮它。变体：用户对着麦克风吹气时，让它向桌面落下雨滴粒子。
+
+### Jake Bhattacharyya
+
+*声音设计师与音频 AR 研究者；在格拉斯哥大学师从 Stephen Brewster 攻读博士*
+
+Jake Bhattacharyya 研究音频增强现实中真实声音与虚拟声音之间的“声音联结”：由真实鸟叫和汽车引擎声召唤生物的游戏、会对街头声音作出反应的音乐，以及 Sonomancer 等音频 AR 游戏里的声音手势操控。
+
+#### Birds of a Feather Augment Together — Jake Bhattacharyya (2025)
+- 视频: https://www.youtube.com/watch?v=CJI5Hh0aKdI
+- 交互类型: 声音, 游戏与玩法, 地点与城市
+- 平台与技术: 手机, audio AR, sound classification, spatial audio
+- 创意点子: 把真实的声景当作控制器：世界自己发出的声音，决定增强层里出现什么。
+- 作品内容: 一款会“听”真实世界的音频 AR 游戏：一声鸟叫或一辆驶过的汽车，就会在你周围召唤出可以听见的虚拟生物；配套的音乐播放器也会随环境声音自动滤波、调整音量。作者 Jacob Bhattacharyya、Alessandro Vinciarelli 与 Stephen Brewster（格拉斯哥大学），ISMAR 2025。
+- 关键技术: “声音联结”：应用对实时麦克风输入（鸟叫、引擎等环境声）进行分类，用识别出的每种声音触发空间化的虚拟音频，或调节音乐播放的滤波效果，很可能运行在手机加耳机上。
+- 课堂练习: 在手机网页里用一个免费的声音分类器（Teachable Machine 音频模型或 TensorFlow.js 里的 YAMNet），让每种识别出的声音（拍手、关门、狗叫）在你周围某处生成一段短促的空间音效或一张 AR 贴纸。变体：种一座“安静花园”，只有当周围的街道安静下来时它才会开花。
 
 ### Jakob Kudsk Steensen
 
@@ -32531,6 +32817,21 @@ Jeremy Hight 参与创作了最早的 GPS 触发叙事之一 34 North 118 West�
 - 作品内容: 一款 Instagram 人脸特效，给脸覆上一层闪亮、带虹彩的塑料质感皮肤，随着你的动作折射光线；它在 2018 年走红，推动了 AR 滤镜艺术家这股潮流的兴起。
 - 关键技术: 给人脸网格重新贴上有光泽的材质，使用虹彩或 matcap 环境反射，高光会随头部转动而移动。
 - 课堂练习: 用 Effect House 或 Lens Studio 给脸部网格一个彩虹色的 Matcap 材质，观察转头时高光的变化；变体：把材质换成一种你身边真实物件的质感。
+
+### John Desnoyers-Stewart
+
+*沉浸式媒体艺术家与研究者；与西蒙菲莎大学 iSpace Lab 合作创作了 Star-Stuff 和 Synedelica*
+
+John Desnoyers-Stewart 创作社交 VR 与混合现实艺术作品，用身体和感官把人联结起来：在 Star-Stuff 里，两位参与者变成彼此吸引的星座；在 Synedelica 里，声音重新描绘了你身边的真实房间。
+
+#### Synedelica — John Desnoyers-Stewart (2025)
+- 视频: https://www.youtube.com/watch?v=RzrbK5P-Im8
+- 交互类型: 声音, 感知与视觉艺术, 多人与社交
+- 平台与技术: 头显, Meta Quest passthrough, audio analysis, shaders
+- 创意点子: 让声音重新描绘你眼前的真实世界，让一屋子的人变成同一件乐器。
+- 作品内容: 戴上混合现实头显，你所在房间的实时画面会随周围的音乐和人声被重新“着色”，共享的空间变成一场大家一起演奏的通感灯光秀。作者 John Desnoyers-Stewart、Noah Miller 与 Bernhard E. Riecke（西蒙菲莎大学 iSpace Lab），SIGGRAPH 2025 Art Papers。
+- 关键技术: 实时分析头显周围拾取到的声音，用它驱动叠加在透视摄像头画面上的着色器效果（很可能把音量和不同频段映射为颜色、扭曲和拖影）；这件作品最早在 2023 年作为 Meta Quest 应用发布。
+- 课堂练习: 在 Lens Studio、Effect House 或 Quest 透视着色器里，把麦克风音量和低音映射成摄像头画面上的色彩偏移和波纹扭曲，然后让全班一起拍手、哼唱、说话来试；变体：把安静设为触发条件，只有当所有人都不出声时，世界才变得五彩斑斓。
 
 ### John Edmark
 
@@ -33030,6 +33331,21 @@ Masquerade Technologies 由 Eugene Nevgen、Sergey Gonchar 和 Andrew Yanchurevi
 - 关键技术: 手机上的实时人脸特征点追踪每帧拟合一个人脸网格，再把动态面具和换脸贴图变形贴合上去。
 - 课堂练习: 在 Lens Studio 或 Effect House 里做一个面部面具，用户张嘴或挑眉时就切换成另一个角色。变体：用户每眨一次眼，面具就老一点。
 
+### Make Lab (KAIST) — Andrea Bianchi
+
+*韩国科学技术院（KAIST）工业设计系的人机交互研究组，由副教授 Andrea Bianchi 领导*
+
+Andrea Bianchi 的 Make Lab 站在设计与工程的交界处，为创客和设计师开发电子原型、数字制造、混合现实交互以及触觉和机器人界面方面的工具。与 Adobe Research 合作的 AdapTest 让设计师直接在头显里创作会随房间环境变化的 XR 界面。
+
+#### AdapTest — Make Lab (KAIST) — Andrea Bianchi, Mustafa Doga Dogan (2026)
+- 视频: https://www.youtube.com/watch?v=imBZi7NmE6o
+- 交互类型: 空间理解, 信息与界面
+- 平台与技术: 头显, Apple Vision Pro, visionOS, SwiftUI, React
+- 创意点子: 为界面将要“住”的房间来设计它：距离、光线和遮挡都成了设计的输入。
+- 作品内容: 设计师戴着 Apple Vision Pro，选中悬浮界面中的元素，写下规则，比如“距离超过 2.5 米：隐藏四个元素、把一个元素放大 1.2 倍”，或“光线暗”“被遮挡”时怎么变；然后并排比较各个版本，再在房间里走动，看它们实时切换。作者为 Jungwoo Rhee、Guhn Lee、Yumin Jung、Mustafa Doga Dogan、Kongpyung Justin Moon 和 Andrea Bianchi（KAIST Make Lab 与 Adobe Research），发表于 ACM ISS 2026。
+- 关键技术: React 网页编辑器和 SwiftUI 编写的 visionOS 应用共用同一个项目；规则引擎读取实时的距离、亮度和遮挡数值，为显示成空间窗口的 HTML 界面套用对应版本的 CSS。
+- 课堂练习: 用 WebXR 或手机 AR 做一个信息面板，准备“近、远、暗”三个 CSS 版本，再写几条“如果……就……”规则，根据相机距离和画面平均亮度在版本之间切换；在房间里走动、调暗灯光来测试。变体：再加一条规则，处理真实物体挡住面板一部分的情况。
+
 ### MalyaWka (Pavel)
 
 *技术美术；着色器开发者*
@@ -33229,6 +33545,22 @@ Markus Lanxinger 是海牙 Plinth B.V. 和 Lightfield Industries 的创始人，
 - 作品内容: 一部在 Merge Cube 上游玩的互动分支故事：每一章都以小型立体场景的形式出现在掌心，玩家转动方块并在其中做出选择。
 - 关键技术: Merge Cube 各面的图案被当作多面图像目标进行追踪，立体场景跟随方块旋转，玩家通过转动方块来做出选择。
 - 课堂练习: 用纸盒六面贴图像标记做一个自制 Merge Cube，在盒子上显示一个小故事场景，转到不同面时做出不同选择；变体：摇晃盒子会让场景里下雨。
+
+### Minchen Li — Simulation Intelligence Group, CMU
+
+*卡内基梅隆大学计算机科学系助理教授*
+
+Minchen Li 的团队把基于物理的仿真与 AI 结合，用于图形学和机器人；他提出的 Incremental Potential Contact（IPC）方法让稳健的摩擦接触仿真真正可用，并获得 2021 年 ACM SIGGRAPH 杰出博士论文奖。VR-Doh 则把这类物理仿真变成你手中实时的虚拟黏土。
+
+#### VR-Doh — Minchen Li — Simulation Intelligence Group, CMU (2025)
+- 视频: https://www.youtube.com/watch?v=Vdjg6W9O3Ss
+- 源代码: https://github.com/Simulation-Intelligence/VR-Doh
+- 交互类型: 空间绘画与创作, 手势与身体
+- 平台与技术: 头显, Material Point Method, 3D Gaussian Splatting, hand tracking, Unity
+- 创意点子: 当回应你双手的是材料本身而不是菜单时，XR 里的雕塑才变得自然。
+- 作品内容: 在 VR 里用双手挤压、捏、拉伸一团虚拟面团，它会像真正的黏土一样变形，并保持新的形状。作者 Zhaofeng Luo、Zhitong Cui、Shijian Luo、Mengyu Chu 与 Minchen Li（卡内基梅隆大学、北京大学、浙江大学），SIGGRAPH 2025（ACM TOG）。
+- 关键技术: 定制的物质点法（MPM）根据手部接触和手势实时模拟弹塑性材料，再用 3D Gaussian Splatting 渲染结果；开源代码可以导入 Unity。
+- 课堂练习: 克隆 VR-Doh 的代码仓库（或在 Unity 里配合 Quest 手部追踪用一个简单的软体资源），设计一个透视 AR 小游戏：一团虚拟黏土放在真实桌面上，要把它捏成能贴合某个真实物体（比如马克杯把手）的形状。变体：让黏土有“记忆”，没人碰它时会慢慢爬回原来的形状。
 
 ### Naho Matsuda
 
@@ -33548,6 +33880,21 @@ Job Simulator 和 Vacation Simulator 的开发商，如今在 Android XR 上引�
 - 关键技术: 为布什维克增强现实介入展而作：生存舱的 3D 模型通过移动 AR 浏览器定位在 Irving 街和 Flushing 大道的路口。
 - 课堂练习: 为一场近未来灾难设计一件荒诞的 AR“求生装置”，把它放在学生每天等待的地方。变体：点击它就播放一段电视购物广告。
 
+### Pengcheng An — ai{DEAL} Studio (SUSTech)
+
+*南方科技大学设计学院教师；领导 ai{DEAL} Studio*
+
+Pengcheng An 的工作室为学习与游戏设计具身 AI，从机器人、玩具到面向儿童的 AR 活动。ProjecTA 给一台半人形教学机器人装上投影仪，让它的指向手势化作落在真实物体上的高亮和说明。
+
+#### ProjecTA — Pengcheng An — ai{DEAL} Studio (SUSTech) (2026)
+- 视频: https://www.youtube.com/watch?v=6Rf5PFRwySU
+- 交互类型: 投影增强, 手势与身体, 信息与界面
+- 平台与技术: 投影, semi-humanoid robot, projector, speech synthesis
+- 创意点子: 让机器人的指向手势化作一束光，直接落在它所指的东西上。
+- 作品内容: 一台半人形教学机器人带人参观创客空间，它不用胸前的屏幕，而是“用光来指”：一边讲解，一边把箭头、高亮和分步说明投到它手势所指的设备上。作者 Hanqing Zhou、Yichuan Zhang、Zihan Zhang、Wei Zhang、Chao Wang 与 Pengcheng An（南方科技大学、深圳大学与 Honda Research Institute Europe），CHI 2026。
+- 关键技术: 装在能做手势的机器人身上的投影仪，把叠加图形投到实物旁边，并与机器人的语音和指向性手臂动作同步，让视觉、语言和手势三种线索指向同一目标。
+- 课堂练习: 把微型投影仪装到玩具机器人、转台或台灯支架上，为桌上三件物品编一段 60 秒的导览：每到一件就转向它、投出高亮并播放一句语音讲解。变体：去掉声音，看看只靠光和动作能不能完成讲解。
+
 ### Peter Uithoven
 
 *交互设计师；Doodle3D 联合创始人*
@@ -33608,6 +33955,21 @@ Physio 3D 开发了一款 Vision Pro 理疗应用，把三维动作指导和实�
 - 关键技术: GPS 和指南针朝向确定佩戴者在城市中的位置，开放交通数据提供站点、线路和车辆实时位置，每辆车按其相对佩戴者的地理方位和距离渲染出来。
 - 课堂练习: 用某个城市的开放实时公交 API，加上手机的 GPS 和指南针，在手机 AR 或 WebXR 中画出指向下一班公交的箭头和距离标签。变体：不显示画面，只用一个随公交靠近而变响的声音来表示它。
 
+### Ping-Hsuan Han — XR Lab, National Taipei University of Technology
+
+*台北科技大学互动设计系副教授，XR Lab 负责人*
+
+Ping-Hsuan Han 的实验室专做多感官 XR 体验，几乎每年都出现在 SIGGRAPH、SIGGRAPH Asia 和 ISMAR 上：从用你自家家具“扮演”身体的巨型虚拟宠物，到运动游戏和沉浸式叙事。他的团队曾凭借把现场音乐同步成振动的 XR 作品 Actualities，获得 SIGGRAPH 2023 沉浸式体验类 Best in Show。
+
+#### Monsteroom — Ping-Hsuan Han — XR Lab, National Taipei University of Technology (2025)
+- 视频: https://www.youtube.com/watch?v=mYD1xmgQeVg
+- 交互类型: 实体物件, 传送门与世界替换, 游戏与玩法
+- 平台与技术: 头显, VR, substitutional reality, movable furniture, smart home devices
+- 创意点子: 让你自家的家具和电器，变成一只大到装不进屋子的宠物的身体。
+- 作品内容: 在家戴上 VR 头显，你和一只巨型虚拟宠物同处一室；它一动，真实的可移动家具就跟着挪动，智能家电也随之响应，仿佛它庞大的身体真的就在房间里。作者 Jung Shen、Yen-Hua Lai、Meng-Wei Lu、Erick Fernando Bautista Munoz、Chieh-Hsin Liu、Chun-Wen Lin、Tse-Yu Pan 与 Ping-Hsuan Han（台北科技大学 XR Lab），SIGGRAPH 2025 Immersive Pavilion。
+- 关键技术: 采用“替代现实”的做法：虚拟房间与真实房间对齐，可移动的家具和联网的智能家居设备与宠物动画同步触发（很可能借助头显定位和智能家居网关），在巨大的尺度上提供触感、运动和环境提示。
+- 课堂练习: 在 Quest 透视或手机 AR 场景里放一只巨型生物，让它的尾巴扫过一张真实的桌子；尾巴经过的那一刻，由队友拉动绳子挪动一个真实的盒子，或打开一台台式风扇。变体：把生物改成很小的一只，只让一件日常物品（杯子、台灯）成为它唯一能挪动的东西。
+
 ### Pixelcase
 
 *沉浸式媒体工作室（VR、360 视频、AR）*
@@ -33622,6 +33984,21 @@ Physio 3D 开发了一款 Vision Pro 理疗应用，把三维动作指导和实�
 - 作品内容: 站在霍比屯片场的小路上，手机里出现一扇悬在空中的门，走进去就置身于一个拍摄下来的 360° 世界。
 - 关键技术: 移动 AR 应用（可能是 ARKit）放置一个传送门，门内用模板遮罩显示 360° 拍摄的环境，跨过门槛后环境会包围用户。
 - 课堂练习: 用 AR Foundation 和模板着色器做一扇传送门，门内显示校园另一处的 360° 照片；变体：只有在真实地面上敲两下，门才会打开。
+
+### Qingzhu (Rachel) Zhang
+
+*加州大学伯克利分校多感官混合现实设计师与研究者*
+
+Qingzhu Zhang 打造把身体感受转化为视觉的混合现实系统：Taste as Form 把味道、口感和咀嚼可视化；SentiSing 是一个由情绪驱动、用于富有表现力的歌唱的 VR 环境，曾在 SIGGRAPH 2026 展出。
+
+#### Taste as Form — Qingzhu (Rachel) Zhang (2026)
+- 视频: https://www.youtube.com/watch?v=YOYLN3olZB0
+- 交互类型: 实体物件, 感知与视觉艺术, 面部
+- 平台与技术: 头显, mixed reality, computer vision, sEMG, generative visuals
+- 创意点子: 让味道变得可见：每一口都化作一个形状，它的节奏就是你自己的咀嚼。
+- 作品内容: 戴着混合现实头显吃东西时，眼前的食物会长出实时生成的形状与色彩：味道决定形态和配色，口感决定这些形态如何运动，而你咀嚼的节奏让它们绽放又消散。作者 Qingzhu Zhang（加州大学伯克利分校）与 Yunting Zhao，ISMAR 2026 演示。
+- 关键技术: 计算机视觉估计食物的味道、口感和颜色，表面肌电（sEMG）传感器追踪咀嚼动作，两路数据一起驱动一个生成式视觉系统，它的几何形态、材质物理和节奏都跟随每一口变化。
+- 课堂练习: 先做一张把味道映射为形态的对照表（酸对应尖刺、甜对应圆润），然后在 Lens Studio 或手机 AR 里把这个形状固定在餐盘上方，用手机麦克风捕捉到的咀嚼声驱动它的脉动。变体：吃到一半时把映射对调，问问大家食物的味道是否开始变了。
 
 ### Raymond Salvatore Harmon
 
@@ -33804,6 +34181,21 @@ Sony 的 Japan Studio 与 Wizards of the Coast 合作推出了 The Eye of Judgme
 - 关键技术: 餐具被焊成一个立体骨架，从某一个光照方向看，它的轮廓与一幅摩托车图吻合；其他角度只有一团混乱。
 - 课堂练习: 把一个看似随机的尖刺网格导入 AR 场景，配一盏虚拟灯，渲染出一个自行车形状的影子，让用户绕着它移动光源。变体：用桌上真实的餐具作为被追踪的投影物体。
 
+### Shogo Fukushima — Hacking Reality Lab, Kyushu University
+
+*九州大学信息科学与电气工程学部副教授*
+
+Shogo Fukushima 设计各种俏皮的界面来“掰弯”日常感知：比如通过轻轻拉耳朵来导航的 Pull-navi，以及随你自己的笑声同步播放笑声音轨的“笑声增强器”。他的 Mountless Aerial HMD 把 VR 光学系统从头上移到了椅子里。
+
+#### Mountless Aerial HMDs — Shogo Fukushima — Hacking Reality Lab, Kyushu University (2026)
+- 视频: https://www.youtube.com/watch?v=zpb6OBOEohw
+- 交互类型: 传送门与世界替换, 感知与视觉艺术
+- 平台与技术: 头显, aerial imaging, micromirror array, stereoscopic display, gyroscope
+- 创意点子: 把头戴显示器从头上拿下来：光学系统装在椅子里，影像悬浮在你眼睛所在的空中。
+- 作品内容: 坐进一把椅子，一个立体的虚拟世界就悬浮在你眼前，脸上没有任何头显；转动椅子，画面也跟着你转。作者 Shogo Fukushima（九州大学），SIGGRAPH 2026 Emerging Technologies。
+- 关键技术: 装在椅子上的空中成像光学系统（大尺寸显示屏、消色差凸透镜、反射镜和微镜阵列）为左右眼分别形成悬浮的影像，椅子上的陀螺仪在座椅转动时同步旋转虚拟相机。
+- 课堂练习: 用纸箱、一块亚克力板和一台平板电脑做一个“佩珀尔幻象”式的观看箱，装在转椅上，在 WebXR 或 Unity 场景里读取平板的陀螺仪，让悬浮的影像随椅子一起转动。变体：为躺在床上的人设计一个场景，把观看箱挂在枕头上方。
+
 ### Sigur Rós
 
 *冰岛后摇乐队；Magic Leap 声景作品 Tónandi 的共同创作者*
@@ -33926,6 +34318,21 @@ OneJS（把 JavaScript 界面带进 Unity）的开发者，也做了 Spark2D：�
 - 作品内容: 一个《Super Mario World》关卡被弯成一圈环绕着玩家；你原地转身跟着马里奥前进，还能伸手抓住漂浮在真实空间中的道具，再把它们丢给马里奥。
 - 关键技术: 关卡几何被包裹到以 ARKit 世界原点为中心的圆柱面上，转动手机即可卷动游戏画面，通过射线拾取可以移动道具。
 - 课堂练习: 把一个 2D 小游戏的关卡'卷'成围着玩家的一圈（在 Unity 或 Reality Composer 里），玩家原地转身来推进；加一个变化：玩家必须蹲下才能看到隐藏关。
+
+### Sung-Hee Lee — Motion Computing Lab, KAIST
+
+*KAIST 文化技术研究生院教授，Motion Computing Lab 负责人*
+
+Sung-Hee Lee 的实验室为 VR、AR 和远程临场建模并驱动数字人、化身与虚拟角色，比如以化身形式出现在你自己房间里的远方伙伴，以及能理解空间的情境化 XR 智能体。Voronoi Rooms 把多个人的房间叠在一起，让每个人都能走进别人的空间。
+
+#### Voronoi Rooms — Sung-Hee Lee — Motion Computing Lab, KAIST (2026)
+- 视频: https://www.youtube.com/watch?v=v80tBL1Y1rQ
+- 交互类型: 多人与社交, 空间理解, 传送门与世界替换
+- 平台与技术: 头显, MR telepresence, room alignment, Voronoi diagram
+- 创意点子: 远程临场不必缩到几个房间的“交集”里；让每个人的房间都保持可见，并交给离得最近的那个人。
+- 作品内容: 身处不同房间的人戴上 MR 头显，各自的房间被叠在一起：重叠的地面成为共享空间，不重叠的部分也保持可见，别人可以走进去；大家走动时，由 Voronoi 划分实时决定哪里显示谁的房间。作者 Taehei Kim、Jihun Shin、Hyeshim Kim、Hyuckjin Jang、Jiho Kang 与 Sung-Hee Lee（KAIST），ACM TOG，SIGGRAPH 2026 宣讲。
+- 关键技术: 先对齐各个房间，使共享的地面面积最大；再把不共享的区域渲染给远程用户，这些区域相互重叠时，以每个用户的位置生成 Voronoi 图来分配可见性，并随人的移动实时重算。
+- 课堂练习: 把两间教室的平面图描在同一张纸上，找出最大的重叠区；然后在 Unity 或 WebXR 中，于透视画面里显示搭档房间的轮廓，并按离谁更近给每块地面上色（两点 Voronoi 划分）。变体：加入第三个“房间”，它是一个虚构的地方，比如林间空地，只在没有人站着的地方出现。
 
 ### Sutu (Stuart Campbell)
 
@@ -34189,6 +34596,21 @@ Wenbo Tao 开发 Apple Vision Pro 应用，例如用实时特效重绘房间网�
 - 作品内容: 在 iPad 上放一个薄塑料锥，锥里就浮现出一个三维物体；把显示器在底座上旋转时，画面始终保持正确的透视（UIST 2017 视频）。
 - 关键技术: Unity 应用读取平板的陀螺仪来判断观众的相对方向，从这个方向渲染物体并对图像预先变形，使它在锥面上的反射看起来是不变形、透视正确的三维物体。
 - 课堂练习: 为手机做一个佩珀尔幻象金字塔或锥体，输入经过预变形的 AR Foundation 场景渲染，用手机陀螺仪或前置摄像头的人脸追踪更新视角。变体：在锥体里显示一位同学的实时三维扫描。
+
+### Xueyang Wang (Tsinghua University)
+
+*清华大学人机交互研究者，研究 XR 与智能眼镜*
+
+Xueyang Wang 研究沉浸式系统如何扎根于真实房间、并尊重身边的旁观者，从摄像头眼镜的隐私控制到感知房间的 VR。与 Robert Xiao、Xin Yi、Hewu Li 等合作的 Roomify，把扫描后的房间换上 VR 主题，同时让每面墙、每件家具都留在真实的位置。
+
+#### Roomify — Xueyang Wang (Tsinghua University), Robert Xiao (2026)
+- 视频: https://www.youtube.com/watch?v=zPEOMXafHVA
+- 交互类型: 传送门与世界替换, 空间理解
+- 平台与技术: 头显, VR headset, room scanning, scene understanding, generative AI
+- 创意点子: 彻底改换房间的风格，却保留它的几何结构，让虚拟世界依然可以安全触碰。
+- 作品内容: 把你自己的房间换个主题搬进 VR：现场扫描之后，AI 把每面真实的墙和每件家具映射成同一位置上的主题化虚拟对应物，于是幻想世界保留了房间布局，你仍然可以坐到真实的椅子上。作者 Xueyang Wang、Qinxuan Cen、Weitao Bi、Yunxiang Ma、Xin Yi、Robert Xiao、Xinyi Fu 与 Hewu Li（清华大学等），CHI 2026。
+- 关键技术: 场景理解为扫描后的房间几何与家具打上标签，AI 空间推理把每件物品映射成占地和功能相同、但符合主题的虚拟物体，生成的环境先在混合现实中编辑，再在 VR 中预览。
+- 课堂练习: 用手机（Polycam 或 Scaniverse）扫描房间，列出每件家具及其尺寸，请大语言模型为选定主题给出尺寸相同的替代物；在 Unity 或 WebXR 里把这些替代物叠放在扫描模型上，走一遍。变体：选一个主题，让床必须变成一样你绝不会躺上去的东西。
 
 ### Yasuhito Nagatomo
 
