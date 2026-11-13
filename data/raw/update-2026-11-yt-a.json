@@ -1,0 +1,377 @@
+{
+ "batch": "update-2026-11-yt-a",
+ "creators": [],
+ "works": [
+  {
+   "id": "takashi-yoshinaga--finger-framing-copy-paste",
+   "creator_ids": [
+    "takashi-yoshinaga"
+   ],
+   "title": "Spatial Copy-Paste with Finger Framing",
+   "year": 2026,
+   "description": "On Meta Quest, you frame a real object with your fingers like a photographer and hold your gaze on it; the object is cut out, turned into a 3D copy, and can be grabbed and pasted anywhere in the room. He copies a monitor, a score book, a cat house and the cat itself, and the copies are shared live with a second device.",
+   "description_zh": "在 Meta Quest 上，用手指像摄影师取景那样把一个真实物体框起来，再盯着它看一会儿；这个物体就会被抠出来变成三维副本，可以用手抓起、贴到房间里的任何地方。他依次复制了显示器、乐谱、猫窝，最后连猫本身也复制了，而且这些副本会实时同步到另一台设备上。",
+   "idea_en": "Copy-paste for the physical world, with no words: a finger frame is the selection tool.",
+   "idea_zh": "不用一个字就能对现实世界“复制粘贴”：手指搭成的取景框就是选择工具。",
+   "technique": "Hand tracking detects the finger frame, a dwell on its centre grabs the passthrough camera view, SAM 3.1 segments the framed object, and the masked pixels plus depth become a textured point cloud that can be grabbed and synced over the network.",
+   "technique_zh": "手部追踪识别手指搭成的取景框，注视框中心片刻即截取透视摄像头画面，由 SAM 3.1 分割出框内物体，再结合深度把抠出的像素变成带纹理的点云，可以抓取并通过网络同步。",
+   "exercise_en": "Build a phone AR prototype where a two-handed finger frame (or an on-screen rectangle as a fallback) selects a region of the camera image, cut the object out with a segmentation model or background removal, and place the cutout as a billboard in AR that you can drag around. Twist: paste the copy on a friend's phone so the same object appears in their room.",
+   "exercise_zh": "做一个手机 AR 原型：用双手手指搭成的取景框（或者退而求其次，用屏幕上的矩形框）选中摄像头画面中的一块区域，用分割模型或去背景工具把物体抠出来，再把抠图作为可拖动的面片放进 AR 场景。变体：把副本“粘贴”到朋友的手机上，让同一个物体出现在对方的房间里。",
+   "interaction": [
+    "hand-body",
+    "spatial-mapping",
+    "multiplayer-social"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Meta Quest",
+    "SAM 3.1",
+    "hand tracking",
+    "point cloud",
+    "Unity"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "TZjJ6B52NwM",
+    "url": "https://www.youtube.com/watch?v=TZjJ6B52NwM"
+   },
+   "source_url": "https://www.youtube.com/watch?v=TZjJ6B52NwM",
+   "ai_cat": "understand"
+  },
+  {
+   "id": "takashi-yoshinaga--generative-ux-action-guide",
+   "creator_ids": [
+    "takashi-yoshinaga"
+   ],
+   "title": "Generative UX × AR: Spatial Action Guide",
+   "year": 2026,
+   "description": "Instead of a menu designed in advance, an AI looks at the live headset view and works out what each object in the room can do: the door offers Open and Close, and once it is open only Close remains; instruments are told apart and given their own actions.",
+   "description_zh": "界面里没有提前设计好的菜单，而是由 AI 观察头显的实时画面，自己推断房间里每个物体能做什么：门会给出“打开”和“关上”两个选项，门开着时就只剩“关上”；不同乐器也会被分辨出来，各自得到对应的操作。",
+   "idea_en": "The interface is not designed but generated: the scene itself decides which actions are offered.",
+   "idea_zh": "界面不是设计出来的，而是生成出来的：由眼前的场景决定能做哪些操作。",
+   "technique": "A vision-language model (Qwen, with reasoning turned on) runs in a loop over passthrough frames, returning objects, their positions and currently possible operations, which are drawn as spatial labels the user can pick.",
+   "technique_zh": "一个视觉语言模型（Qwen，开启推理）在循环中不断读取透视画面，返回物体、位置以及当前可执行的操作，再以空间标签的形式显示出来供用户选择。",
+   "exercise_en": "Send a phone camera frame to a vision-language model every few seconds and ask it for a JSON list of objects with two or three verbs each; show the verbs as tappable AR labels and log what users choose. Twist: make the model update the verbs after each choice, so a door that was opened can now only be closed.",
+   "exercise_zh": "每隔几秒把手机摄像头的一帧画面发给视觉语言模型，让它返回一个 JSON 列表：每个物体配两三个动词；把这些动词做成可点击的 AR 标签，并记录用户选了什么。变体：让模型在每次选择后更新可选动词，比如门被打开以后，就只能选“关上”。",
+   "interaction": [
+    "data-information",
+    "spatial-mapping"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Meta Quest",
+    "Qwen",
+    "vision-language model",
+    "Unity"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "C_CDQJI7wLk",
+    "url": "https://www.youtube.com/watch?v=C_CDQJI7wLk"
+   },
+   "source_url": "https://www.youtube.com/watch?v=dLFhfkQ40qE",
+   "ai_cat": "understand"
+  },
+  {
+   "id": "takashi-yoshinaga--holotuberkit-pinned-views",
+   "creator_ids": [
+    "takashi-yoshinaga"
+   ],
+   "title": "HoloTuberKit: Pin the Remote 3D Views You Need",
+   "year": 2026,
+   "description": "A remote iPhone streams its LiDAR view into a Meta Quest as a live 3D point cloud; when the remote camera moves on, a button press freezes the current view where it was captured, so the remote space is gradually pinned into your room piece by piece.",
+   "description_zh": "远端的 iPhone 把 LiDAR 画面作为实时三维点云串流到 Meta Quest 上；远端摄像头移开时，按一下按钮就能把当前画面冻结在它被拍下的位置，于是远方的空间被一块一块地“钉”进你的房间。",
+   "idea_en": "Telepresence that leaves fragments behind: live remote views can be pinned as frozen 3D snapshots.",
+   "idea_zh": "会留下碎片的远程临场：把实时的远程画面钉成凝固的三维快照。",
+   "technique": "iPhone TrueDepth/LiDAR depth and color are streamed as point clouds with the device pose; on a button press the current cloud is copied into a persistent buffer at its captured pose, and passthrough can be toggled to compare it with the real room.",
+   "technique_zh": "iPhone 的 TrueDepth/LiDAR 深度和颜色连同设备位姿一起以点云形式串流；按下按钮时，当前点云按拍摄时的位姿复制进一个常驻缓存，还可以开关透视，与真实房间对比。",
+   "exercise_en": "Stream a phone's camera to a second device and, whenever the viewer taps, freeze the current frame as a floating photo placed at the sender's position and orientation in shared AR space. Twist: let the frozen frames fade over a minute so the remote place exists only as a trail of recent glances.",
+   "exercise_zh": "把一部手机的摄像头画面串流到另一台设备上，观看者每点一下，就把当前画面冻结成一张悬浮照片，放在共享 AR 空间中发送者当时的位置和朝向上。变体：让冻结的画面在一分钟内逐渐淡去，远方的地方只以“最近几眼”的痕迹存在。",
+   "interaction": [
+    "multiplayer-social",
+    "spatial-mapping",
+    "perception-art"
+   ],
+   "platform": [
+    "headset",
+    "phone"
+   ],
+   "tech": [
+    "Meta Quest",
+    "iPhone LiDAR",
+    "TrueDepth",
+    "point cloud",
+    "Unity"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "l7lXi9xHXiU",
+    "url": "https://www.youtube.com/watch?v=l7lXi9xHXiU"
+   },
+   "source_url": "https://www.youtube.com/watch?v=uLes9dVG8OA"
+  },
+  {
+   "id": "stijn-spanhove--lego-from-your-pile",
+   "creator_ids": [
+    "stijn-spanhove"
+   ],
+   "title": "AI designs LEGO from your pile",
+   "year": 2026,
+   "description": "Take a photo of a loose pile of LEGO through Spectacles: Gemini counts every brick and designs a figure buildable from exactly those pieces. Press your hand on the table and the finished model appears as a hologram with instructions and LEGO-style buttons lying flat on the table, while the bricks you need next glow on the real pile.",
+   "description_zh": "戴着 Spectacles 给一堆散乱的 LEGO 拍张照：Gemini 数清每一块积木，设计出一个刚好能用这些积木拼出来的模型。把手按在桌上，成品就以全息影像出现，说明和 LEGO 风格的按钮平铺在桌面上，而下一步要用的积木会在真实的积木堆里发光。",
+   "idea_en": "The AI reads what you already have and turns your own messy pile into step-by-step instructions highlighted in place.",
+   "idea_zh": "AI 读懂你手头已有的东西，把你自己那堆乱七八糟的积木变成就地高亮的分步说明。",
+   "technique": "A captured frame goes to Gemini 4 Argon, which inventories the bricks, plans a stable build and returns per-step parts; the lens localizes those bricks on the pile to highlight them and anchors the hologram and buttons to the table plane. The lens itself was written and tested by an AI coding agent (CLAD) inside Lens Studio 5.15.",
+   "technique_zh": "把拍下的画面发给 Gemini 4 Argon，由它清点积木、规划一个稳固的搭法并返回每一步所需零件；镜头在积木堆里定位这些积木并高亮，同时把全息模型和按钮锚定在桌面上。镜头本身由 AI 编程代理 CLAD 在 Lens Studio 5.15 中编写和测试。",
+   "exercise_en": "Photograph a pile of random objects (pens, cups, blocks) with a phone, ask a vision model to propose something to build from only those items with numbered steps, and show each step as AR boxes drawn around the items to use next. Twist: have the model check a photo of your result after each step and correct you.",
+   "exercise_zh": "用手机拍一堆随手可得的物品（笔、杯子、积木），让视觉模型只用这些东西提出一个可以搭建的作品并给出编号步骤，再在 AR 中用方框圈出下一步要用的物品。变体：每一步完成后拍下成果，让模型检查并纠正你。",
+   "interaction": [
+    "tangible-object",
+    "data-information",
+    "hand-body"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Snap Spectacles",
+    "Lens Studio",
+    "Gemini 4 Argon",
+    "CLAD"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "yfUh9xc58JI",
+    "url": "https://www.youtube.com/watch?v=yfUh9xc58JI"
+   },
+   "source_url": "https://www.youtube.com/watch?v=yfUh9xc58JI",
+   "ai_cat": "understand"
+  },
+  {
+   "id": "laan-labs--sonar-ruler",
+   "creator_ids": [
+    "laan-labs"
+   ],
+   "title": "Sonar Ruler",
+   "year": 2026,
+   "description": "An iPhone app that measures distance with sound alone: two phones trade near-ultrasonic chirps to measure the gap between them as one slides along a tape measure, and a single phone plays a sweep and shows the echo from a wall as a bright line that moves as you step closer.",
+   "description_zh": "一款只用声音测距的 iPhone 应用：两部手机互相发送接近超声的啁啾声，在其中一部沿卷尺滑动时测出彼此间距；单独一部手机则播放扫频音，把墙面的回声显示成一条亮线，你走近时亮线也跟着移动。",
+   "idea_en": "The phone becomes a bat: space is sensed through echoes instead of cameras or LiDAR.",
+   "idea_zh": "手机变成了蝙蝠：不靠摄像头或 LiDAR，而是靠回声感知空间。",
+   "technique": "Two-way acoustic ranging with 17.5–20 kHz chirps avoids clock sync between phones; the echo mode plays a 1–15 kHz sweep and uses FFT pulse compression to build a range profile every ~64 ms, drawn as a live echo waterfall, with the speed of sound corrected by room temperature.",
+   "technique_zh": "用 17.5–20 kHz 的啁啾声做双向声学测距，两部手机无需时钟同步；回声模式播放 1–15 kHz 扫频音，用 FFT 脉冲压缩每约 64 毫秒生成一次距离剖面，画成实时回声瀑布图，并根据室温校正声速。",
+   "exercise_en": "In the browser, play a short click through the laptop or phone speaker, record with the microphone, find the echo peak by cross-correlation and convert the delay to metres (343 m/s, halved); visualise it as a moving line. Twist: map the measured distance to the size of an AR object so it grows as you approach a wall.",
+   "exercise_zh": "在浏览器里用电脑或手机扬声器播放一声短促的“咔哒”，用麦克风录下，通过互相关找到回声峰值，把延迟换算成距离（343 米/秒，再除以二），并画成一条会移动的线。变体：把测得的距离映射到一个 AR 物体的大小上，让它在你走近墙壁时变大。",
+   "interaction": [
+    "voice-sound",
+    "spatial-mapping",
+    "data-information"
+   ],
+   "platform": [
+    "phone"
+   ],
+   "tech": [
+    "iOS",
+    "Swift",
+    "acoustic ranging",
+    "FFT"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "lLIBLh3eD74",
+    "url": "https://www.youtube.com/watch?v=lLIBLh3eD74"
+   },
+   "source_url": "https://sonarruler.com"
+  },
+  {
+   "id": "bilawal-sidhu--gods-eye-view-of-time",
+   "creator_ids": [
+    "bilawal-sidhu"
+   ],
+   "title": "God's Eye View of Time",
+   "year": 2026,
+   "description": "A short phone video of a mother deer walking with her fawns is rebuilt as a 4D scene in which every moment of the walk is visible at once, a frozen trail of bodies you can orbit; the same approach replays summer and winter in one place, the TED conference from 500 photos, and a reconstructed flight.",
+   "description_zh": "一段手机拍下的母鹿带着小鹿走过的短视频，被重建成一个 4D 场景：这段行走的每一个瞬间同时可见，像一串凝固的身体轨迹，可以绕着它看；同样的方法还能在同一地点重放夏天和冬天，用 500 张照片重建 TED 大会，以及还原一次飞行事故。",
+   "idea_en": "See time as space: a 4D reconstruction lays every moment of an event side by side so you can walk around it.",
+   "idea_zh": "把时间看成空间：4D 重建把一件事的每个瞬间并排摆开，让你可以绕着它走。",
+   "technique": "4D reconstruction from casual video (likely dynamic Gaussian splatting) separates the moving subjects per frame and places them in one shared static scene, then renders all time steps at once; larger scenes are geolocated on Google photorealistic 3D tiles in his open-source God's Eye View app.",
+   "technique_zh": "对随手拍的视频做 4D 重建（很可能是动态高斯泼溅），逐帧分离出运动主体并放进同一个静态场景，再把所有时间步同时渲染出来；更大的场景则在他开源的 God's Eye View 应用里地理定位到 Google 写实 3D 瓦片地图上。",
+   "exercise_en": "Film a friend walking across a room with a fixed phone, cut them out of every tenth frame with background removal, and place the cutouts as billboards along their path in a WebXR or Reality Composer scene so the whole walk stands in space at once. Twist: let viewers scrub a slider that highlights one moment and dims the rest.",
+   "exercise_zh": "用固定的手机拍朋友走过房间，每隔十帧用去背景工具把人抠出来，再把这些抠图作为面片沿着行走路线放进 WebXR 或 Reality Composer 场景，让整段行走同时立在空间中。变体：加一个滑块，拖动时高亮某一刻、让其他时刻变暗。",
+   "interaction": [
+    "perception-art",
+    "location-geo",
+    "data-information"
+   ],
+   "platform": [
+    "desktop",
+    "web"
+   ],
+   "tech": [
+    "4D reconstruction",
+    "Gaussian splatting",
+    "Google Photorealistic 3D Tiles"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "rVlRQakpOME",
+    "url": "https://www.youtube.com/watch?v=rVlRQakpOME"
+   },
+   "source_url": "https://maptheworld.ai",
+   "code_url": "https://github.com/bilawalsidhu/gods-eye-view",
+   "related_cat": "trace"
+  },
+  {
+   "id": "greg-madison--sphenomenon",
+   "creator_ids": [
+    "greg-madison"
+   ],
+   "title": "Sphenomenon",
+   "year": 2026,
+   "description": "A real handheld sphere becomes the controller and the canvas on Apple Vision Pro: virtual worlds, toys and games are mapped onto and around the ball, so you roll, turn and squeeze a physical object instead of poking at floating panels.",
+   "description_zh": "在 Apple Vision Pro 上，一个真实的手持球体同时成为控制器和画布：虚拟世界、玩具和游戏被映射到球上和球的周围，你转动、翻滚、握住的是一个实物，而不是去戳空中漂浮的面板。",
+   "idea_en": "One simple physical object, a ball, gives every virtual experience something real to hold.",
+   "idea_zh": "一个简单的实物——一个球——让每一种虚拟体验都有了可以真正握在手里的东西。",
+   "technique": "The sphere is tracked in 6DoF by the headset (likely visionOS object tracking or markers on the ball) and virtual content is anchored to its surface and interior, so the real object supplies passive haptics; he plans to release it as open source.",
+   "technique_zh": "头显对球体进行六自由度追踪（很可能使用 visionOS 的物体追踪或球上的标记），虚拟内容锚定在球面和球内，由真实物体提供被动触觉；作者计划将其开源。",
+   "exercise_en": "Put an image marker on a ball or orange and, with an AR library that tracks images, anchor a tiny planet, snow globe or maze onto it so turning the real object turns the virtual world. Twist: make tilting the ball roll a virtual marble inside it.",
+   "exercise_zh": "在一个球或橙子上贴一张图像标记，用支持图像追踪的 AR 库把一个小星球、雪花球或迷宫锚定在上面，让转动实物就能转动虚拟世界。变体：倾斜球体时，让里面的一颗虚拟弹珠滚动起来。",
+   "interaction": [
+    "tangible-object",
+    "hand-body",
+    "game-play"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Apple Vision Pro",
+    "visionOS"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "DR4J8KKz-4s",
+    "url": "https://www.youtube.com/watch?v=DR4J8KKz-4s"
+   },
+   "source_url": "https://sphenomenon.com"
+  },
+  {
+   "id": "pedro-lopes--electrotactile-thermal-referral",
+   "creator_ids": [
+    "pedro-lopes"
+   ],
+   "title": "Electrotactile Improves Thermal Referral",
+   "year": 2026,
+   "description": "A single thermal actuator makes warmth or cold feel as if it is coming from other spots on the skin, steered by small electrical touch signals instead of vibration; in VR this lets users feel the chill of an open freezer or a cold can without a buzzing sensation. By Wen Li, Rong Ni, Bozhi Tian and Pedro Lopes (UIST 2026).",
+   "description_zh": "只用一个温度执行器，借助微弱的电触觉信号（而不是振动）把冷热感“转移”到皮肤上的其他位置；在 VR 里，用户能感受到打开冰箱时扑面的凉意或冰凉的易拉罐，却不会有嗡嗡的振动感。作者为 Wen Li、Rong Ni、Bozhi Tian 和 Pedro Lopes（UIST 2026）。",
+   "idea_en": "Trick the skin: a light tactile cue tells the brain where a temperature is, so one heater can feel like many.",
+   "idea_zh": "骗过皮肤：轻微的触觉提示告诉大脑温度来自哪里，于是一个加热器就能让人感觉到很多处冷热。",
+   "technique": "Thermal referral: a Peltier element on one site provides heat or cold while electrotactile stimulation at nearby electrodes localises the sensation there; compared with vibrotactile referral it raises cold referral rates and keeps the tactile sensation minimal for non-contact events.",
+   "technique_zh": "热感转移：一个帕尔贴元件在某处提供冷热，同时附近电极施加电触觉刺激，把感觉定位到那里；与振动触觉相比，它提高了冷感的转移率，并在非接触的热事件中把触感降到最低。",
+   "exercise_en": "Explore referred sensations safely: hold a cool spoon against one fingertip while a classmate lightly taps a neighbouring finger in sync, and record where the cold seems to be; then design an AR scene (an ice cube, a campfire) that would use this trick. Twist: pair a phone's vibration with a visual of frost to see if sight alone can make a spot feel colder.",
+   "exercise_zh": "安全地体验“转移感觉”：把一把冰凉的勺子贴在一根指尖上，同时让同学同步轻敲旁边的手指，记录凉意似乎出现在哪里；然后设计一个会用到这种错觉的 AR 场景（冰块、篝火）。变体：把手机振动和结霜的画面配在一起，看看仅凭视觉能否让某处感觉更冷。",
+   "interaction": [
+    "hand-body",
+    "perception-art"
+   ],
+   "platform": [
+    "headset",
+    "wearable"
+   ],
+   "tech": [
+    "electrotactile stimulation",
+    "Peltier",
+    "VR"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "iwoeuEEQqQg",
+    "url": "https://www.youtube.com/watch?v=iwoeuEEQqQg"
+   },
+   "source_url": "https://lab.plopes.org"
+  },
+  {
+   "id": "daito-manabe--timber-timbre",
+   "creator_ids": [
+    "daito-manabe"
+   ],
+   "title": "Timber Timbre",
+   "year": 2026,
+   "description": "Living plants in a wooden modular case built by Karimoku Furniture play a modular synthesizer: tiny changes in the plants' electrical potential, together with visitors' movement, shape the sound and the projected visuals. Shown at Karimoku Research Center, Tokyo, October 2026.",
+   "description_zh": "放在 Karimoku 家具打造的木制模块箱里的活植物“演奏”着一台模块合成器：植物电位的细微变化与观众的移动一起塑造着声音和投影画面。2026 年 10 月展出于东京 Karimoku Research Center。",
+   "idea_en": "Plants become performers: their invisible bioelectric signals, nudged by people nearby, are made audible and visible.",
+   "idea_zh": "植物成为演奏者：它们看不见的生物电信号，在附近人群的扰动下，变成可以听见、看见的东西。",
+   "technique": "Electrodes on the plants feed a custom sensor system whose potential readings, together with camera-tracked visitor motion, are mapped to control voltages for a modular synth and to real-time visuals; much of the software and case design was co-developed with Claude.",
+   "technique_zh": "植物上的电极连接定制传感系统，其电位读数与摄像头追踪到的观众动作一起，被映射为模块合成器的控制电压和实时影像；大部分软件和箱体设计是与 Claude 合作完成的。",
+   "exercise_en": "Use a Makey Makey or an Arduino capacitive input on a potted plant so touching or approaching its leaves triggers sounds, then show a phone AR visual (rings, pollen particles) around the plant that pulses with each reading. Twist: let the plant's slow drift set the tempo when nobody is near.",
+   "exercise_zh": "用 Makey Makey 或 Arduino 电容输入连接一盆植物，让触摸或靠近叶片时触发声音，再在手机 AR 中围绕植物显示随读数脉动的视觉效果（光环、花粉粒子）。变体：没人靠近时，让植物信号的缓慢漂移来决定节奏。",
+   "interaction": [
+    "voice-sound",
+    "tangible-object",
+    "perception-art"
+   ],
+   "platform": [
+    "projection"
+   ],
+   "tech": [
+    "modular synthesizer",
+    "plant bioelectric sensor",
+    "Claude"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "2fwM4jq0W_s",
+    "url": "https://www.youtube.com/watch?v=2fwM4jq0W_s"
+   },
+   "source_url": "https://projects.daito.ws/timber-timbre/",
+   "related_cat": "responsive"
+  },
+  {
+   "id": "will-pappenheimer--overpainter",
+   "creator_ids": [
+    "will-pappenheimer"
+   ],
+   "title": "OverPainter series (ColorField Painter 2)",
+   "year": 2026,
+   "description": "Holding an iPad over an autumn pasture, the artist virtually repaints the field's actual surfaces with a 1960s Color Field painting pattern, while a voiceover questions why one would paint a landscape this way. Part of a 2026 series of AR apps that overpaint objects and surroundings with different aesthetic strategies.",
+   "description_zh": "艺术家举着 iPad 对着一片秋天的牧场，用 1960 年代色域绘画的图案把田野的真实表面虚拟地重新涂了一遍，画外音则追问为什么要这样去画一片风景。这是 2026 年一组 AR 应用系列的一部分，它们用不同的美学策略“覆盖重绘”物体和周围环境。",
+   "idea_en": "Art history as a filter on the land: a modernist painting style is spread over the real terrain it never depicted.",
+   "idea_zh": "把艺术史当作大地的滤镜：一种现代主义绘画风格被铺满在它从未描绘过的真实地形上。",
+   "technique": "A custom mobile AR app likely uses scene meshing (LiDAR or plane detection) to find surfaces and textures them with procedural paint patterns as the artist sweeps the device, recorded as a screen-capture performance.",
+   "technique_zh": "定制的移动 AR 应用很可能利用场景网格（LiDAR 或平面检测）找到表面，并在艺术家挥动设备时为其贴上程序化的绘画图案，最后以录屏表演的形式记录下来。",
+   "exercise_en": "Pick a painter (Rothko, Mondrian, Riley), write a shader or texture that imitates their pattern, and apply it to the LiDAR scene mesh or detected planes of an outdoor site so the place is repainted as you sweep your phone. Twist: record a voiceover arguing why this place deserves this style.",
+   "exercise_zh": "选一位画家（Rothko、Mondrian、Riley），写一个模仿其图案的着色器或贴图，把它应用到户外场地的 LiDAR 场景网格或检测到的平面上，让你挥动手机时整个地方被重新涂画。变体：录一段画外音，论证这个地方为什么配得上这种风格。",
+   "interaction": [
+    "drawing-creation",
+    "location-geo",
+    "perception-art"
+   ],
+   "platform": [
+    "phone"
+   ],
+   "tech": [
+    "custom AR app",
+    "iPad"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "yP9m4JHGV-8",
+    "url": "https://www.youtube.com/watch?v=yP9m4JHGV-8"
+   },
+   "source_url": "https://www.youtube.com/watch?v=S78XYter2ck"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Elizabeth Childs (Stanford) — KITE",
+   "why": "KITE, a tangible haptic robot that moves like a mouse until it meets a virtual force, so learners feel airfoil lift or molecular bonds; shown in a Microsoft Research talk video, authorship beyond the speaker unclear.",
+   "link": "https://www.microsoft.com/en-us/research/video/kite-a-kinesthetic-interface-for-tangible-exploration/",
+   "found_via": "msr-benko-wilson",
+   "status": "open"
+  }
+ ]
+}

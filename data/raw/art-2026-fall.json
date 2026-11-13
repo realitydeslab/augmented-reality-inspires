@@ -1,0 +1,570 @@
+{
+ "batch": "art-2026-fall",
+ "creators": [
+  {
+   "id": "shin-hanagata",
+   "name": "Shin Hanagata (花形槙)",
+   "role": "Japanese performance and media artist working with bodily transformation",
+   "based": "Tokyo, Japan",
+   "bio": "Shin Hanagata makes performances in which simple technology rewires the body: earlier performances such as Uber Existence (2020) and still human (2021) also played with lending out and extending the body. CHIMERIA received an Award of Distinction in Interactive Art + at Prix Ars Electronica 2026.",
+   "why": "He relocates a single sense, the eye, and lets a whole new body schema and daily life grow out of that one change.",
+   "links": {
+    "site": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "从事身体改造的日本行为与媒体艺术家",
+   "based_zh": "东京，日本",
+   "bio_zh": "花形槙用简单的技术重新“接线”身体：早期表演《Uber Existence》（2020）和《still human》（2021）同样在探索“出借”和延伸身体。《CHIMERIA》获得 2026 年 Prix Ars Electronica「Interactive Art +」类别荣誉奖（Award of Distinction）。",
+   "why_zh": "他只挪动一种感官——眼睛——就让一整套新的身体图式和日常生活从这一个改变中生长出来。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "peter-flaherty",
+   "name": "Peter Flaherty / Flaherty Pictures",
+   "role": "Director of immersive theatre, AR and projection works",
+   "based": "New York, US",
+   "bio": "Peter Flaherty runs Flaherty Pictures and directs works that mix theatre, film and spatial media, including the AR and projection-mapped haunted-house play The Dial and Marvel and Disney's Eternals AR project. Empire at Sea, commissioned by Lincoln Center and ASU Gammage, competed at Venice Immersive 2026 and received the Venice Immersive Achievement Prize.",
+   "why": "He stages AR as shared theatre: a whole audience stands around one table and watches the same holographic drama from different sides.",
+   "links": {
+    "site": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "沉浸式剧场、AR 与投影作品导演",
+   "based_zh": "纽约，美国",
+   "bio_zh": "Peter Flaherty 经营 Flaherty Pictures，导演融合剧场、电影与空间媒介的作品，包括 AR 加投影映射的鬼屋剧《The Dial》，以及漫威与迪士尼的《Eternals》AR 项目。《Empire at Sea》由林肯中心和 ASU Gammage 委约，入围 2026 年威尼斯沉浸单元（Venice Immersive）竞赛并获成就奖（Achievement Prize）。",
+   "why_zh": "他把 AR 当作共享的剧场：一整群观众围着同一张桌子，从不同方向观看同一场全息戏剧。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "celine-daemen",
+   "name": "Celine Daemen",
+   "role": "Dutch director of immersive music theatre and perception installations",
+   "based": "Netherlands",
+   "bio": "Celine Daemen makes immersive works between opera, film and installation, such as the VR opera Songs for a Passerby (2024, with Silbersee). Nothing to See Here premiered at IDFA DocLab 2025 and was shown in competition at Venice Immersive 2026.",
+   "why": "She builds 'perception instruments' that let you watch your own body from outside while the world around it quietly turns strange.",
+   "links": {
+    "site": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "荷兰沉浸式音乐剧场与感知装置导演",
+   "based_zh": "荷兰",
+   "bio_zh": "Celine Daemen 的作品介于歌剧、电影和装置之间，例如与 Silbersee 合作的 VR 歌剧《Songs for a Passerby》（2024）。《Nothing to See Here》在 2025 年 IDFA DocLab 首演，并入围 2026 年威尼斯沉浸单元竞赛。",
+   "why_zh": "她打造“感知仪器”，让你从外部看见自己的身体，而身体周围的世界正悄悄变得怪异。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ubac-studio",
+   "name": "Ubac Studio (Jiyun Park & Hyeunjoo Woo)",
+   "role": "Seoul studio for multisensory XR and wearable interfaces",
+   "based": "Seoul, South Korea",
+   "bio": "Ubac Studio is the duo Jiyun Park and Hyeunjoo Woo, who combine VR cinema with custom wearable devices. Voooooo---Peeeeee--- was shown in the Best of Experiences section of Venice Immersive 2026.",
+   "why": "They turn the size of a virtual space into air pressure you feel on your own chest.",
+   "links": {
+    "site": "http://www.ubacstudio.com",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "首尔的多感官 XR 与可穿戴界面工作室",
+   "based_zh": "首尔，韩国",
+   "bio_zh": "Ubac Studio 由 Jiyun Park 和 Hyeunjoo Woo 组成，把 VR 电影和自制的可穿戴装置结合在一起。《Voooooo---Peeeeee---》入选 2026 年威尼斯沉浸单元「Best of Experiences」板块。",
+   "why_zh": "他们把虚拟空间的大小变成压在你胸口的气压。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sophia-bulgakova",
+   "name": "Sophia Bulgakova",
+   "role": "Ukrainian sound and installation artist",
+   "based": "Netherlands",
+   "bio": "Sophia Bulgakova builds listening installations from found materials, such as Sonic Sprawl, made from insulation pipes found at an Amsterdam shipyard where many Ukrainian men worked. Spomyny continues that work and was shown in Best of Experiences at Venice Immersive 2026.",
+   "why": "She makes sound something you have to go and find with your ear, pipe by pipe, so listening becomes a search.",
+   "links": {
+    "site": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "乌克兰声音与装置艺术家",
+   "based_zh": "荷兰",
+   "bio_zh": "Sophia Bulgakova 用拾得材料搭建聆听装置，例如《Sonic Sprawl》，所用的保温管来自阿姆斯特丹一处有许多乌克兰男工的船厂。《Spomyny》延续了这一创作，入选 2026 年威尼斯沉浸单元「Best of Experiences」板块。",
+   "why_zh": "她让声音成为必须用耳朵一根管子一根管子去寻找的东西，聆听因此变成搜寻。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hanna-haaslahti",
+   "name": "Hanna Haaslahti",
+   "role": "Finnish media artist working with face capture and crowd simulation",
+   "based": "Finland",
+   "bio": "Hanna Haaslahti builds installations that pull visitors' faces into simulated societies; in Captured (2019) a scanned face was placed on a digital bully, victim or bystander. Ancestors (2025) premiered at Tampere Art Museum and Venice Immersive and received an Honorary Mention in New Animation Art at Prix Ars Electronica 2026.",
+   "why": "She uses your own face as the actor, so a story about other people becomes a story about you.",
+   "links": {
+    "site": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "以人脸捕捉和群体模拟创作的芬兰媒体艺术家",
+   "based_zh": "芬兰",
+   "bio_zh": "Hanna Haaslahti 的装置把观众的脸拉进模拟出来的社会：在《Captured》（2019）里，被扫描的面孔会被放到数字化的施暴者、受害者或旁观者身上。《Ancestors》（2025）在坦佩雷美术馆和威尼斯沉浸单元首展，并获 2026 年 Prix Ars Electronica「New Animation Art」荣誉提名。",
+   "why_zh": "她用你自己的脸当演员，于是关于别人的故事变成了关于你的故事。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ujoo-limheeyoung",
+   "name": "UJOO+LIMHEEYOUNG (우주+림희영)",
+   "role": "Korean kinetic art duo",
+   "based": "Seoul, South Korea",
+   "bio": "UJOO+LIMHEEYOUNG have worked together since 2015, building mechanical devices from everyday objects that move in odd, slightly unsettling ways. No Bird (2025) received an Honorary Mention in Interactive Art + at Prix Ars Electronica 2026.",
+   "why": "Their machines tell short, wordless stories through traces they leave and erase.",
+   "links": {
+    "site": "https://u-joolimheeyoung.blogspot.com",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "韩国动态艺术二人组",
+   "based_zh": "首尔，韩国",
+   "bio_zh": "UJOO+LIMHEEYOUNG 自 2015 年起合作，用日常物件制作动作古怪、略带不安感的机械装置。《No Bird》（2025）获 2026 年 Prix Ars Electronica「Interactive Art +」荣誉提名。",
+   "why_zh": "他们的机器通过留下又抹去的痕迹，讲述没有文字的短故事。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nowhere-media",
+   "name": "Nowhere Media (Felix Gaedtke & Gayatri Parameswaran)",
+   "role": "Immersive documentary studio",
+   "based": "Germany",
+   "bio": "Felix Gaedtke and Gayatri Parameswaran make immersive documentaries with communities, mixing 360° video, volumetric capture and physical installation. Solwata, narrated by Mark Ruffalo and made with communities in the Solomon Islands, competed at Venice Immersive 2026.",
+   "why": "They put real water and objects in your hands so a distant climate story arrives through touch as well as sight.",
+   "links": {
+    "site": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "沉浸式纪录片工作室",
+   "based_zh": "德国",
+   "bio_zh": "Felix Gaedtke 和 Gayatri Parameswaran 与社区合作制作沉浸式纪录片，结合 360° 视频、体积捕捉和实体装置。由 Mark Ruffalo 旁白、与所罗门群岛社区共同创作的《Solwata》入围 2026 年威尼斯沉浸单元竞赛。",
+   "why_zh": "他们把真实的水和物件放到你手里，让遥远的气候故事不只被看见，也被触摸到。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "shin-hanagata--chimeria",
+   "creator_ids": [
+    "shin-hanagata"
+   ],
+   "title": "CHIMERIA",
+   "year": 2025,
+   "description": "Volunteers wear a head-mounted display fed by a camera strapped to another part of their body, such as the toes or knees, so their eye effectively moves there. Five volunteers lived like this for two weeks in a Tokyo house, drinking through a tube near the 'eye' and inventing new furniture and routines; performances ran outside the Lentos museum at Ars Electronica 2026.",
+   "description_zh": "志愿者戴上头戴显示器，画面来自绑在身体其他部位（比如脚趾或膝盖）的摄像头，于是他们的“眼睛”实际上搬到了那里。五名志愿者在东京一座房子里这样生活了两周，用“眼睛”旁的软管喝流食，发明新的家具和日常习惯；2026 年林茨电子艺术节期间，表演在 Lentos 美术馆门廊下进行。",
+   "idea_en": "Move the eye to the toes and the feet become the head: one relocated camera rewrites the whole body and everything designed for it.",
+   "idea_zh": "把眼睛挪到脚趾上，脚就成了头：只改变一个摄像头的位置，就改写了整个身体以及为身体设计的一切。",
+   "technique": "A small body-mounted camera streams live video to a closed head-mounted display (video passthrough from the wrong place), likely with low latency so volunteers can walk and act; costumes and enclosures hold the rig.",
+   "technique_zh": "一个固定在身体上的小摄像头把实时画面传到封闭式头显里（等于从“错误位置”做视频透视），延迟很可能很低，志愿者才能走动和做事；服装和外壳负责固定整套设备。",
+   "exercise_en": "Mount a phone camera on your wrist or ankle and stream it (e.g. via a video-call app) to a phone in a Cardboard viewer; in pairs, try to pour water, climb stairs and find a friend. Twist: redesign one everyday object so it is easier to use with an eye in that new place.",
+   "exercise_zh": "把一部手机的摄像头固定在手腕或脚踝上，通过视频通话等方式把画面传到装在 Cardboard 眼镜里的另一部手机上；两人一组尝试倒水、上楼梯、找到同伴。变体：重新设计一件日常物品，让它更适合“眼睛”长在新位置的人使用。",
+   "interaction": [
+    "hand-body",
+    "perception-art"
+   ],
+   "platform": [
+    "headset",
+    "wearable"
+   ],
+   "tech": [
+    "head-mounted display",
+    "body-mounted camera",
+    "video passthrough"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "B7U_7kTxUWA",
+    "url": "https://www.youtube.com/watch?v=B7U_7kTxUWA"
+   },
+   "source_url": "https://ars.electronica.art/prix/en/winners/",
+   "found_via": {
+    "source": "article",
+    "url": "https://www.linz.at/medienservice/2026/files/Winners_Lentos.pdf"
+   }
+  },
+  {
+   "id": "peter-flaherty--empire-at-sea",
+   "creator_ids": [
+    "peter-flaherty"
+   ],
+   "title": "Empire at Sea",
+   "year": 2026,
+   "description": "Ten people in Apple Vision Pro headsets stand around a custom LED table on which a miniature oil rig and its residents, volumetrically captured actors, play a 22-minute drama about building a city at sea after a catastrophe. Viewers walk around the table to peek into different cabins, several conversations run at once, and the story branches.",
+   "description_zh": "十位观众戴着 Apple Vision Pro 围站在一张定制 LED 桌旁，桌上是一座微缩的石油钻井平台和它的居民——经过体积捕捉的真人演员——上演一出 22 分钟的戏：灾难之后，一群人试图在海上建城。观众绕着桌子走动，窥看不同的舱室，几段对话同时进行，故事还会分支。",
+   "idea_en": "A dollhouse theatre for AR: the real table is the stage, and where you stand decides which scene you overhear.",
+   "idea_zh": "一座为 AR 准备的“玩偶屋剧场”：真实的桌子就是舞台，你站在哪里，就决定你偷听到哪一场戏。",
+   "technique": "Actors are captured as 4D Gaussian splats (4DV.ai) and played back in a Unity scene anchored to a physical sculptural LED table, synchronised across ten Vision Pro headsets in passthrough mode.",
+   "technique_zh": "演员以 4D 高斯泼溅（4DV.ai）的形式被捕捉，在锚定于实体 LED 雕塑桌的 Unity 场景中回放，十台 Vision Pro 以透视模式同步播放。",
+   "exercise_en": "Build a tabletop AR scene (AR Foundation or Lens Studio) with three tiny rooms on a real table, each playing a looping 30-second scene; viewers must walk around the table to follow the story. Twist: rooms only play audio when you are close, so two viewers hear different halves of one conversation.",
+   "exercise_zh": "在真实桌面上用 AR Foundation 或 Lens Studio 搭一个有三个小房间的 AR 场景，每个房间循环播放 30 秒的小戏，观众必须绕着桌子走才能看懂故事。变体：只有靠近时房间才发出声音，两个观众各自听到同一段对话的不同半边。",
+   "interaction": [
+    "multiplayer-social",
+    "performance-stage",
+    "tangible-object"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Apple Vision Pro",
+    "4D Gaussian splatting",
+    "4DV.ai",
+    "Unity",
+    "LED table"
+   ],
+   "video": {
+    "platform": "mp4",
+    "id": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/08/fla_emp_teaser_260814d.mp4",
+    "url": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/08/fla_emp_teaser_260814d.mp4"
+   },
+   "source_url": "https://www.labiennale.org/en/cinema/2026/venice-immersive/empire-sea",
+   "found_via": {
+    "source": "article",
+    "url": "https://uploadvr.com/empire-at-sea-brings-a-shared-adrama-to-venice-immersive/"
+   }
+  },
+  {
+   "id": "celine-daemen--nothing-to-see-here",
+   "creator_ids": [
+    "celine-daemen"
+   ],
+   "title": "Nothing to See Here",
+   "year": 2025,
+   "description": "A box-shaped diorama is placed in a passageway; a passer-by peers through its peepholes and sees themselves from a bird's-eye view, standing in the same spot, while fictional characters, a plastic bag, a confused man and a wolf, gather around them. Odd events happen 'behind your back' while you watch your own body from above.",
+   "description_zh": "一个箱形西洋镜被摆在过道里；路人凑近窥视孔，看见从高处俯拍的自己——就站在原地——而虚构的角色，一只塑料袋、一个困惑的男人和一匹狼，渐渐聚到他身边。你一边从上方看着自己的身体，一边看着怪事在“你背后”发生。",
+   "idea_en": "A peephole that shows you yourself from above, with things happening behind your back, so you no longer trust the space you are standing in.",
+   "idea_zh": "一个能让你从上方看见自己的窥视孔，加上在你背后发生的事，让你不再相信自己所站的空间。",
+   "technique": "Likely an overhead live camera composited in real time with pre-rendered or volumetric characters and spatial sound, shown on stereo displays behind the peepholes.",
+   "technique_zh": "很可能是用头顶的实时摄像头，把画面与预先渲染或体积捕捉的角色和空间声音实时合成，在窥视孔后面的立体显示屏上播放。",
+   "exercise_en": "Mount a phone on the ceiling as a top-down camera and show its feed on a second phone in a viewer; add a virtual character (Lens Studio or TouchDesigner) that slowly walks up behind whoever is standing on the marked spot. Twist: the character only moves while the viewer is not turning around.",
+   "exercise_zh": "把一部手机装在天花板上做俯拍摄像头，把画面传到另一部装在眼镜里的手机上；用 Lens Studio 或 TouchDesigner 加一个虚拟角色，让它慢慢走到站在标记点上的人身后。变体：只有当观看者不回头时，这个角色才会移动。",
+   "interaction": [
+    "perception-art",
+    "portal-world",
+    "location-geo"
+   ],
+   "platform": [
+    "desktop"
+   ],
+   "tech": [
+    "live camera",
+    "real-time compositing",
+    "spatial audio"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "TkW5RspAF5c",
+    "url": "https://www.youtube.com/watch?v=TkW5RspAF5c"
+   },
+   "source_url": "https://www.labiennale.org/en/cinema/2026/venice-immersive/nothing-see-here",
+   "found_via": {
+    "source": "article",
+    "url": "https://thefilmverdict.com/?p=47895"
+   }
+  },
+  {
+   "id": "ubac-studio--voooooo-peeeeee",
+   "creator_ids": [
+    "ubac-studio"
+   ],
+   "title": "Voooooo---Peeeeee---",
+   "year": 2026,
+   "description": "In VR you follow a woman whose body became hollow after being turned into data; wind leaks out of her and a creature breathes inside the void. A pneumatic wearable inflates and deflates against your torso, so the expanding and collapsing virtual space is felt as pressure and breath on your own body.",
+   "description_zh": "在 VR 里，你跟随一位身体被转换成数据后变得空心的女子；风从她体内漏出，一只奇怪的生物在空洞里呼吸。一件气动可穿戴装置贴着你的躯干充气、放气，虚拟空间的膨胀和塌缩于是变成压在你身上的压力和呼吸。",
+   "idea_en": "Let the volume of a virtual space press on your chest: space becomes a feeling of breath, not only a picture.",
+   "idea_zh": "让虚拟空间的体积压在你的胸口：空间不只是画面，而是一种呼吸的感觉。",
+   "technique": "A custom pneumatic vest with air bladders, driven by valves and a pump, is timed to the VR film so inflation tracks the creature's breathing and the size of the virtual space.",
+   "technique_zh": "一件内含气囊的定制气动背心，由阀门和气泵驱动，与 VR 影片同步，充气节奏跟随生物的呼吸和虚拟空间的大小。",
+   "exercise_en": "Strap a blood-pressure cuff or a small inflatable bag (driven by an aquarium pump and Arduino relay) around a volunteer's arm, and sync its inflation to a virtual room that grows and shrinks in AR. Twist: map the pressure to how many people are in the real room instead.",
+   "exercise_zh": "在志愿者手臂上绑一个血压计袖带或小气囊（用鱼缸气泵和 Arduino 继电器驱动），让它的充气与 AR 中一个时大时小的虚拟房间同步。变体：改为让压力对应真实房间里的人数。",
+   "interaction": [
+    "hand-body",
+    "perception-art"
+   ],
+   "platform": [
+    "headset",
+    "wearable"
+   ],
+   "tech": [
+    "VR",
+    "pneumatic wearable",
+    "haptics"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "hHkrGsmv1Oo",
+    "url": "https://www.youtube.com/watch?v=hHkrGsmv1Oo"
+   },
+   "source_url": "https://www.labiennale.org/en/cinema/2026/venice-immersive/voooooo-peeeeee",
+   "related_cat": "immersive"
+  },
+  {
+   "id": "sophia-bulgakova--spomyny",
+   "creator_ids": [
+    "sophia-bulgakova"
+   ],
+   "title": "Spomyny",
+   "year": 2026,
+   "description": "Metres of insulation pipe wind through the room; visitors open one sound channel at a time and put their ear to the tubes to hear testimonies, conversations and found recordings from Ukraine during the full-scale invasion. Layering the channels assembles a non-linear story about memory.",
+   "description_zh": "几十米长的保温管在房间里蜿蜒；观众一次打开一个声道，把耳朵贴近管子，听到全面入侵期间来自乌克兰的证词、对话和网络上找到的录音。把声道一层层叠加，就拼出一个关于记忆的非线性故事。",
+   "idea_en": "Hide each voice inside a pipe so you must physically lean in to hear it; listening becomes an act of searching and closeness.",
+   "idea_zh": "把每个声音藏进一根管子里，你必须俯身贴近才能听见；聆听变成一种搜寻和靠近。",
+   "technique": "Small speakers feed recordings into individual insulation tubes that act as acoustic waveguides, with switches letting visitors activate and layer channels.",
+   "technique_zh": "小扬声器把录音送进一根根保温管，管子起到声波导管的作用，观众通过开关启动并叠加不同声道。",
+   "exercise_en": "Place five short audio clips at five spots in a room using AR spatial audio (Lens Studio or Unity) that are only audible within 30 cm, so visitors must put their head close to a wall or object to hear each one. Twist: a sixth clip only plays when two people listen at two spots at once.",
+   "exercise_zh": "用 Lens Studio 或 Unity 的 AR 空间音频，在房间里五个位置放五段短音频，只有在 30 厘米以内才能听见，观众必须把头贴近墙或物体才能听到。变体：第六段音频只有当两个人同时在两个位置聆听时才会播放。",
+   "interaction": [
+    "voice-sound",
+    "tangible-object"
+   ],
+   "platform": [
+    "desktop"
+   ],
+   "tech": [
+    "insulation pipes",
+    "multichannel audio"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "8fw0L6jP4vg",
+    "url": "https://www.youtube.com/watch?v=8fw0L6jP4vg"
+   },
+   "source_url": "https://www.labiennale.org/en/cinema/2026/venice-immersive/spomyny",
+   "related_cat": "responsive"
+  },
+  {
+   "id": "hanna-haaslahti--ancestors",
+   "creator_ids": [
+    "hanna-haaslahti"
+   ],
+   "title": "Ancestors",
+   "year": 2025,
+   "description": "Visitors step into a 'portal' where their face is captured and they meet their digital double; faces of different visitors are then merged into virtual descendants who live out a family sitcom on screen. People who stay out of the portal watch strangers' faces become a family.",
+   "description_zh": "观众走进一个“传送门”，脸部被捕捉，与自己的数字分身见面；随后不同观众的脸被融合成虚拟的后代，在屏幕上演出一部家庭情景喜剧。不进入传送门的人，则看着陌生人的脸组成一个家庭。",
+   "idea_en": "Two strangers' faces are blended into a child, so visitors become parents of a family they never met.",
+   "idea_zh": "把两个陌生人的脸融合成一个孩子，观众就成了一个素未谋面的家庭的父母。",
+   "technique": "A capture booth scans visitors' faces, then face modelling and morphing generate blended descendant faces that are applied to animated characters in a real-time 3D scene.",
+   "technique_zh": "捕捉舱扫描观众面孔，再通过人脸建模与变形生成融合后的后代面孔，贴到实时 3D 场景中的动画角色上。",
+   "exercise_en": "Use a face-mesh library (MediaPipe or Lens Studio) to capture two classmates' faces, average their landmark positions and textures, and put the blended face on an AR character standing between them. Twist: blend three faces and let viewers guess who the 'parents' are.",
+   "exercise_zh": "用 MediaPipe 或 Lens Studio 的人脸网格捕捉两位同学的脸，把他们的特征点位置和贴图取平均，再把融合后的脸放到站在两人之间的 AR 角色上。变体：融合三张脸，让观众猜谁是“父母”。",
+   "interaction": [
+    "face",
+    "multiplayer-social"
+   ],
+   "platform": [
+    "desktop"
+   ],
+   "tech": [
+    "face capture",
+    "face morphing",
+    "real-time 3D"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "qNqm9oxMLWg",
+    "url": "https://www.youtube.com/watch?v=qNqm9oxMLWg"
+   },
+   "source_url": "https://www.tampereentaidemuseo.fi/en/exhibitions/hanna-haaslahti-ancestors/",
+   "ai_cat": "body"
+  },
+  {
+   "id": "ujoo-limheeyoung--no-bird",
+   "creator_ids": [
+    "ujoo-limheeyoung"
+   ],
+   "title": "No Bird",
+   "year": 2025,
+   "description": "In a sand diorama a bird-like walking machine, carrying an artificial rose, leaves footprints, and a second machine follows and brushes them away; the bird pauses to keep its distance from the eraser. A proximity sensor wakes the pair for about two minutes when someone comes near.",
+   "description_zh": "在一个沙地西洋景里，一台挂着假玫瑰的鸟形行走机器留下脚印，另一台机器紧随其后用刷子把脚印抹掉；鸟会停下来，和“橡皮擦”保持距离。有人靠近时，接近传感器会唤醒这对机器，运行约两分钟。",
+   "idea_en": "A machine that leaves traces and another that erases them: the work is the brief moment a trace exists.",
+   "idea_zh": "一台留下痕迹的机器，另一台抹去痕迹的机器：作品就是痕迹存在的那短暂一刻。",
+   "technique": "Two stepper-motor mechanisms move on sand, one using a bird-gait linkage to print tracks and one using rotating bristles and pins to smooth them, synchronised by distance and triggered by a proximity sensor.",
+   "technique_zh": "两套步进电机机构在沙上移动：一套用模仿鸟类步态的连杆印出脚印，一套用旋转的刷毛和针把沙面抚平，二者按距离同步，并由接近传感器触发。",
+   "exercise_en": "In AR, let a virtual creature walk across a real table leaving glowing footprints, and send a second creature after it that wipes the prints away. Twist: the eraser only moves when a viewer's phone points away from it.",
+   "exercise_zh": "在 AR 中让一只虚拟生物走过真实桌面，留下发光的脚印，再派第二只生物跟在后面把脚印擦掉。变体：只有当观众的手机不对着“擦除者”时，它才会移动。",
+   "interaction": [
+    "tangible-object",
+    "perception-art"
+   ],
+   "platform": [
+    "desktop"
+   ],
+   "tech": [
+    "stepper motors",
+    "proximity sensor",
+    "sand"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "sgRFfaVz2X8",
+    "url": "https://www.youtube.com/watch?v=sgRFfaVz2X8"
+   },
+   "source_url": "https://www.designboom.com/art/robotic-bird-installation-sand-diorama-footprints-social-commentary/",
+   "related_cat": "trace"
+  },
+  {
+   "id": "studio-drift--aeolus",
+   "creator_ids": [
+    "studio-drift"
+   ],
+   "title": "Aeolus",
+   "year": 2026,
+   "description": "Hundreds of suspended glass rods with tiny lights inside fill the room; light ripples through them in undulating waves, set off by visitors' movements, as if wind were blowing through a field of glass. Shown with Carpenters at Ladbroke Hall, London, in October 2026.",
+   "description_zh": "数百根悬挂的玻璃棒内藏微小的灯，布满整个空间；光像波浪一样在棒间起伏流动，由观众的动作触发，仿佛风吹过一片玻璃田野。2026 年 10 月由 Carpenters 在伦敦 Ladbroke Hall 展出。",
+   "idea_en": "Draw wind with light: rods stay still, but a moving wave of light makes the room feel like it is breathing around you.",
+   "idea_zh": "用光来画风：玻璃棒一动不动，但流动的光波让整个房间像在你身边呼吸。",
+   "technique": "LEDs inside each glass rod are addressed individually and animated as travelling waves, likely triggered by motion or presence sensing in the space.",
+   "technique_zh": "每根玻璃棒内的 LED 都可单独控制，被编排成行进的波，很可能由空间里的动作或在场感应触发。",
+   "exercise_en": "Place a grid of 50 virtual glass rods in AR over a real floor and animate a light wave across them that starts from the viewer's position and speed. Twist: drive the wave from live wind data for your city.",
+   "exercise_zh": "在 AR 中把 50 根虚拟玻璃棒排成网格放在真实地面上，让一道光波从观看者所在位置出发、按其移动速度扫过它们。变体：用你所在城市的实时风力数据驱动光波。",
+   "interaction": [
+    "hand-body",
+    "perception-art"
+   ],
+   "platform": [
+    "desktop"
+   ],
+   "tech": [
+    "glass",
+    "LED",
+    "motion sensing"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "cmjdXM5MCRk",
+    "url": "https://www.youtube.com/watch?v=cmjdXM5MCRk"
+   },
+   "source_url": "https://www.thisiscolossal.com/2026/10/aeolus-studio-drift-light-glass-installation/",
+   "related_cat": "light"
+  },
+  {
+   "id": "nowhere-media--solwata",
+   "creator_ids": [
+    "nowhere-media"
+   ],
+   "title": "Solwata",
+   "year": 2026,
+   "description": "A mixed reality installation about rising seas in the Solomon Islands: visitors handle water and real artifacts in the room while headsets bring in 360° video, Gaussian splats and 3D animation of Martha, Francis and Lawrence, who are protecting their homes before planned relocation. You 'inhabit their world' and then return to the room you started in.",
+   "description_zh": "一件关于所罗门群岛海平面上升的混合现实装置：观众在房间里触摸水和真实器物，头显则带来 360° 视频、高斯泼溅和 3D 动画，呈现 Martha、Francis 和 Lawrence 在计划搬迁之前守护家园的故事。你先“住进他们的世界”，再回到最初的房间。",
+   "idea_en": "Real water in your hands anchors a virtual flood, so a distant climate story arrives through touch.",
+   "idea_zh": "手中真实的水为虚拟的洪水提供了锚点，遥远的气候故事于是通过触觉抵达。",
+   "technique": "Passthrough mixed reality layers 360° video, Gaussian-splat scans of island sites and 3D animation over a physical set with water and tracked props.",
+   "technique_zh": "透视式混合现实把 360° 视频、海岛场景的高斯泼溅扫描和 3D 动画叠加到一个有水和可追踪道具的实体布景上。",
+   "exercise_en": "Scan a real place as a Gaussian splat (Polycam or Luma), then build a passthrough MR scene where touching a bowl of real water makes the virtual water level in the room rise. Twist: the water only recedes when two visitors hold an object together.",
+   "exercise_zh": "用 Polycam 或 Luma 把一个真实地点扫描成高斯泼溅，再做一个透视 MR 场景：触碰一碗真实的水，房间里的虚拟水位就会上涨。变体：只有两位观众一起捧住某个物件时，水才会退去。",
+   "interaction": [
+    "tangible-object",
+    "portal-world",
+    "data-information"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "mixed reality",
+    "Gaussian splatting",
+    "360° video"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "6oc-4XB_Ac4",
+    "url": "https://www.youtube.com/watch?v=6oc-4XB_Ac4"
+   },
+   "source_url": "https://www.labiennale.org/en/cinema/2026/venice-immersive/solwata"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Tung-Yen Chou (Very Theatre) — Shifting Connections",
+   "why": "Venice Immersive 2026 competition: a collective VR piece where participants' bodies appear as glowing points and lines that connect by proximity, making social distance visible. No video yet; BiennaleChannel has not uploaded it (recheck).",
+   "link": "https://www.labiennale.org/en/cinema/2026/venice-immersive/shifting-connections",
+   "found_via": "art-2026-fall",
+   "status": "open"
+  },
+  {
+   "name": "SummitShare & Shared Histories Team — What the Record Forgot",
+   "why": "Golden Nica, Digital Humanity, Prix Ars Electronica 2026: three empty museum vitrines; colonial-era objects return only as sound, video and AR 3D surrogates. Strong AR idea, no video found.",
+   "link": "https://summitshare.co/",
+   "found_via": "art-2026-fall",
+   "status": "open"
+  },
+  {
+   "name": "Lauren Lee McCarthy — AUTO",
+   "why": "Lumen Prize 2026 finalist (Experiential Innovation): an autonomous vehicle steered by people singing together. Existing creator; no video found yet.",
+   "link": "https://lumenprize.org/2026-finalists",
+   "found_via": "art-2026-fall",
+   "status": "open"
+  },
+  {
+   "name": "Matthew Biederman — Situational Compliance",
+   "why": "Edigma Semibreve Award 2026 / Lumen 2026 finalist: an AI computer-vision system that plays Simon Says with visitors. Video exists (youtube 8ajBZV6_o8g, SEMIBREVE) but no reliable description found; verify then add.",
+   "link": "https://www.youtube.com/watch?v=8ajBZV6_o8g",
+   "found_via": "art-2026-fall",
+   "status": "open"
+  },
+  {
+   "name": "Sumio Kobayashi — Aquatic Score for a Performing Goldfish",
+   "why": "Lumen Prize 2026 finalist: software tracks a goldfish's swimming to play a piano score. Very salient; no video found.",
+   "link": "https://lumenprize.org/2026-finalists",
+   "found_via": "art-2026-fall",
+   "status": "open"
+  },
+  {
+   "name": "Camille Sauer — Le Miroir",
+   "why": "Honorary Mention, New Animation Art, Prix Ars Electronica 2026; flagged as a real-time body/mirror performance. No video or details found.",
+   "link": "https://ars.electronica.art/prix/en/winners/",
+   "found_via": "art-2026-fall",
+   "status": "open"
+  },
+  {
+   "name": "Hsin-Chien Huang — The Sculptures of Touch",
+   "why": "Honorary Mention, Digital Humanity, Prix Ars Electronica 2026 (body/perception). Artist video exists (youtube I9C4zZOw_OA) but no description of the interaction found.",
+   "link": "https://www.youtube.com/watch?v=I9C4zZOw_OA",
+   "found_via": "art-2026-fall",
+   "status": "open"
+  },
+  {
+   "name": "William Forsythe — Uplifting Instruction",
+   "why": "Described by Frieze (July 2026) as Forsythe's first AR artwork (credited to WAVA). Venue, dates and video not found.",
+   "link": "https://www.frieze.com/article/augmented-reality-opinion",
+   "found_via": "art-2026-fall",
+   "status": "open"
+  }
+ ]
+}

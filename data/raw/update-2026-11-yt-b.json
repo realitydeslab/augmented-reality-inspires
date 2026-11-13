@@ -1,0 +1,368 @@
+{
+ "batch": "update-2026-11-yt-b",
+ "creators": [],
+ "works": [
+  {
+   "id": "daisuke-iwai--aeropixels",
+   "creator_ids": [
+    "daisuke-iwai"
+   ],
+   "title": "AeroPixels",
+   "year": 2026,
+   "description": "A projector shows ordinary content, such as a circuit board diagram, while a synchronized camera sees the air in front of it: breath, a hot soldering iron or a hand-held fan appear as visible airflow, so blowing becomes an input and an unattended iron triggers a warning. By Yusuke Imoto, Takashi Amesaka and Daisuke Iwai (University of Osaka) at ACM UIST 2026.",
+   "description_zh": "投影仪播放的是普通画面，比如一块电路板的图示，而一台与之同步的相机却能“看见”画面前方的空气：呼出的气、发热的电烙铁、手持风扇吹出的风都变成可见的气流，于是吹气可以当作输入，烙铁无人看管时还会弹出警告。作者为大阪大学的 Yusuke Imoto、Takashi Amesaka 和 Daisuke Iwai，发表于 ACM UIST 2026。",
+   "idea_en": "Turn every screen into an invisible lab instrument that makes the air in front of it visible, while people still see only the normal picture.",
+   "idea_zh": "让每一块屏幕都变成一台看不见的实验仪器，把它前方的空气显形，而人眼看到的仍然只是正常画面。",
+   "technique": "The schlieren background grid is hidden inside the displayed image by alternating complementary high-frame-rate frames that the eye averages away; a camera synced to the refresh captures each frame separately and reconstructs airflow from how the grid is refracted, with corrections for misalignment and content noise on projected surfaces.",
+   "technique_zh": "把纹影成像所需的背景网格藏进显示画面里：用高帧率交替播放两帧互补图像，人眼会把它们平均掉；与刷新率同步的相机分别捕捉每一帧，根据网格被空气折射的变形重建气流，并针对投影表面的错位和画面内容噪声做了校正。",
+   "exercise_en": "Recreate background-oriented schlieren: put a fine random-dot pattern on a screen or printed sheet, film it with a phone on a tripod, and in p5.js or OpenCV compute the optical flow between a reference frame and the live frame, so a candle flame or someone's breath shows up as a moving distortion map; project that map back as colour. Twist: make blowing at a projected dandelion scatter its seeds only where the airflow actually hits.",
+   "exercise_zh": "复现“背景纹影”：在屏幕或打印纸上放一张细密的随机点图，用三脚架上的手机拍摄，在 p5.js 或 OpenCV 里计算参考帧与实时画面之间的光流，让蜡烛火焰或人的呼气显现为一张流动的畸变图，再把它以彩色投影回去。变体：对着投影出来的蒲公英吹气，只有气流真正吹到的地方种子才会飞散。",
+   "interaction": [
+    "projection",
+    "perception-art",
+    "voice-sound"
+   ],
+   "platform": [
+    "projection"
+   ],
+   "tech": [
+    "high-speed projector",
+    "synchronized camera",
+    "schlieren imaging"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "ceCwP54D7yg",
+    "url": "https://www.youtube.com/watch?v=ceCwP54D7yg"
+   },
+   "source_url": "https://www.youtube.com/watch?v=ceCwP54D7yg"
+  },
+  {
+   "id": "sean-follmer--hidden-texture",
+   "creator_ids": [
+    "sean-follmer"
+   ],
+   "title": "Reperceiving Everyday Sounds with Hidden Texture",
+   "year": 2026,
+   "description": "While someone strikes a singing bowl or holds an electric toothbrush, a neck-worn hearable briefly amplifies one subtle layer inside the sound, such as a faint overtone, so they notice it; once the device is off, people keep hearing that texture in the same everyday sound. By Yujie Tao, Mateo Larrea, Portia Wang, Jingjin Li, Takako Fujioka, Jane L. E and Sean Follmer (Stanford SHAPE Lab) at ACM UIST 2026.",
+   "description_zh": "当人敲响颂钵或握着电动牙刷时，一个挂在脖子上的“可听设备”会短暂放大声音里某一层细微的纹理，比如一缕微弱的泛音，让人注意到它；设备关掉之后，人们在同样的日常声音里依然能听见这层纹理。作者为斯坦福大学 SHAPE Lab 的 Yujie Tao、Mateo Larrea、Portia Wang、Jingjin Li、Takako Fujioka、Jane L. E 和 Sean Follmer，发表于 ACM UIST 2026。",
+   "idea_en": "Augmentation as a teacher: amplify a hidden detail for a moment, and your perception keeps it after the device is gone.",
+   "idea_zh": "把增强当作老师：只把隐藏的细节放大片刻，设备拿走之后，你的感知依然记得它。",
+   "technique": "A microphone analyses the live sound's spectrum and scores candidate texture bands by loudness, resolvability and masking, picks the most accessible one, and boosts it in the wearer's ear in real time (filter and gain details likely per sound).",
+   "technique_zh": "麦克风实时分析声音频谱，按响度、可分辨度和掩蔽效应给候选的纹理频段打分，选出最容易被听见的那一段，并实时在佩戴者耳边把它放大（具体的滤波和增益大概因声音而异）。",
+   "exercise_en": "Build a 'hearing lens' in the browser with the Web Audio API: take the microphone, show its spectrum, let students click a peak, and route only a narrow band-pass around that peak to headphones at higher gain while they tap a glass, a kettle or a bowl. Twist: switch the lens off after 30 seconds and ask whether they can still hear the band unaided.",
+   "exercise_zh": "用 Web Audio API 在浏览器里做一个“听觉放大镜”：接入麦克风并显示频谱，让同学点击其中一个峰值，只把这个峰值附近的窄带通信号放大后送到耳机里，同时让他们敲玻璃杯、水壶或碗。变体：30 秒后关掉放大镜，问他们不借助设备还能不能听见那一段声音。",
+   "interaction": [
+    "voice-sound",
+    "perception-art",
+    "tangible-object"
+   ],
+   "platform": [
+    "wearable"
+   ],
+   "tech": [
+    "hearable",
+    "microphone",
+    "real-time audio filtering"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "iljyo47oBtw",
+    "url": "https://www.youtube.com/watch?v=iljyo47oBtw"
+   },
+   "source_url": "https://dl.acm.org/doi/10.1145/3830398.3830551"
+  },
+  {
+   "id": "jun-nishida--protocall",
+   "creator_ids": [
+    "jun-nishida"
+   ],
+   "title": "ProtoCall",
+   "year": 2026,
+   "description": "A headband and chest-mounted rig watch a person working through a multi-step task such as cooking or assembly, and physically nudge them just before a likely mistake: turning their head toward the next item, gently holding back a reach for the wrong one, or correcting after an error. By Kyungyeon Lee, Kirti Kishore, Adrien Ramsamy, Atsushi Kikumoto and Jun Nishida (Embodied Dynamics Lab) at ACM UIST 2026, comparing the three strategies with 16 participants.",
+   "description_zh": "一套头带加胸前支架的装置观察人做多步骤任务，比如做饭或组装，并在可能出错之前从身体上轻推一下：把头转向下一件物品，轻轻拦住伸向错误物品的手，或者在出错后再纠正。作者为 Kyungyeon Lee、Kirti Kishore、Adrien Ramsamy、Atsushi Kikumoto 和 Jun Nishida（Embodied Dynamics Lab），发表于 ACM UIST 2026，并用 16 名参与者比较了这三种策略。",
+   "idea_en": "Guidance that arrives before the mistake, delivered to the body instead of the eyes.",
+   "idea_zh": "指导在出错之前就到来，而且是传给身体，而不是传给眼睛。",
+   "technique": "A vision-language model infers which step the user is on from a camera view and predicts the next action; actuators on a headband and a chest-mounted arm frame then apply head-turning or reach-blocking forces at the step transition.",
+   "technique_zh": "视觉语言模型根据摄像头画面推断用户正在做哪一步、预测下一步动作；随后头带和胸前支架上的执行器在步骤切换的瞬间施加转头或阻挡伸手的力。",
+   "exercise_en": "Set up a five-step drink recipe on a table, track which ingredient a student touches with a webcam and MediaPipe Hands, and when they hesitate between steps, light a small LED or play a spatial ping next to the correct next item before they reach for anything. Twist: replace the light with a gentle tap from a servo on the wrist and compare which cue people prefer.",
+   "exercise_zh": "在桌上摆好一份五个步骤的饮料配方，用网络摄像头和 MediaPipe Hands 追踪同学碰了哪种原料；当他们在两步之间犹豫时，抢在伸手之前在正确的下一件物品旁点亮一颗小 LED 或播放一个空间提示音。变体：把灯光换成手腕上舵机轻轻的一下敲击，比较大家更喜欢哪种提示。",
+   "interaction": [
+    "hand-body",
+    "gaze-attention",
+    "tangible-object"
+   ],
+   "platform": [
+    "wearable"
+   ],
+   "tech": [
+    "vision-language model",
+    "head actuation",
+    "force feedback wearable"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "F2fF3ZJTbHE",
+    "url": "https://www.youtube.com/watch?v=F2fF3ZJTbHE"
+   },
+   "source_url": "https://doi.org/10.1145/3830398.3830584",
+   "ai_cat": "understand"
+  },
+  {
+   "id": "ping-hsuan-han--douball",
+   "creator_ids": [
+    "ping-hsuan-han"
+   ],
+   "title": "DouBall",
+   "year": 2026,
+   "description": "Two players in headsets each hold a large lattice ball, but every ball carries one controller of each player, so moving your ball also moves a hand in your partner's virtual world; a single physical action produces two virtual effects, in cooperative and competitive ball games. A demo by XR Lab@NTUT at ACM VRST 2026.",
+   "description_zh": "两名戴头显的玩家各抱一个镂空大球，但每个球上都装着两位玩家各一只手柄，所以你移动自己的球，也会移动搭档虚拟世界里的一只手；一个实体动作同时产生两个虚拟效果，用于合作和对抗两种球类游戏。由台北科技大学 XR Lab 在 ACM VRST 2026 上展示。",
+   "idea_en": "Cross-wire two players' bodies through shared props, so cooperation becomes physically unavoidable.",
+   "idea_zh": "通过共用的道具把两个玩家的身体“交叉接线”，让合作在物理上无法回避。",
+   "technique": "Each 3D-printed ball holds one VR controller from player A and one from player B (asymmetric cross-coupling), so each player's two virtual hands are driven by two different people's movements.",
+   "technique_zh": "每个 3D 打印的球里各装一只玩家 A 的手柄和一只玩家 B 的手柄（不对称交叉耦合），因此每位玩家的两只虚拟手分别由两个人的动作驱动。",
+   "exercise_en": "In WebXR or Lens Studio, pair two phones so that the position of phone A steers an object in B's AR scene and vice versa, then design a game where both must catch falling balls only by moving the other person's paddle. Twist: tape both phones to one shared object and see how the game changes.",
+   "exercise_zh": "在 WebXR 或 Lens Studio 里把两部手机配对，让手机 A 的位置控制 B 的 AR 场景里的物体，反过来也一样，再设计一个游戏：两人只能通过移动对方的球拍来接住下落的球。变体：把两部手机绑在同一个共享物体上，看看游戏会怎样改变。",
+   "interaction": [
+    "multiplayer-social",
+    "tangible-object",
+    "game-play"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "VR headsets",
+    "VR controllers",
+    "3D-printed props"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "oMhnSTKf2ak",
+    "url": "https://www.youtube.com/watch?v=oMhnSTKf2ak"
+   },
+   "source_url": "https://www.youtube.com/watch?v=oMhnSTKf2ak",
+   "related_cat": "immersive"
+  },
+  {
+   "id": "qingzhu-zhang--sipping-wonder-bar",
+   "creator_ids": [
+    "qingzhu-zhang"
+   ],
+   "title": "Sipping Wonder Bar",
+   "year": 2026,
+   "description": "At a real table, a guest in a headset picks one of three cocktail menus in a dreamlike virtual bar, then mixes and sips a real drink from real cups, fruit and syrups; each sip opens a world matched to the flavour, such as a glowing botanical forest, an underwater reef or a starry sky, before the bar fades and the real room returns. A crossmodal XR cocktail experience by Qingzhu (Rachel) Zhang.",
+   "description_zh": "在一张真实的桌子前，戴头显的客人先在梦幻的虚拟酒吧里从三份鸡尾酒菜单中选一份，然后用真实的杯子、水果和糖浆亲手调制并啜饮一杯真实的饮品；每一口都会打开一个与味道相配的世界，比如发光的植物森林、海底珊瑚礁或星空，随后酒吧消散，真实的房间重新出现。这是 Qingzhu (Rachel) Zhang 创作的跨感官 XR 鸡尾酒体验。",
+   "idea_en": "Taste is the trigger: what you drink decides which world you fall into.",
+   "idea_zh": "味道就是开关：你喝下什么，决定你掉进哪个世界。",
+   "technique": "Passthrough mixed reality keeps the real glasses and ingredients visible while mixing, then the headset likely switches to a fully virtual scene keyed to the chosen recipe when the drink is lifted to the mouth.",
+   "technique_zh": "调酒时用透视混合现实让真实的杯子和原料保持可见；当饮品被举到嘴边时，头显很可能切换到一个与所选配方对应的全虚拟场景。",
+   "exercise_en": "Make three coloured drinks and tag each cup with an image marker; in an AR app, show a small world floating above whichever cup is lifted, and grow it to surround the viewer as the cup approaches the camera. Twist: let the world change with how much is left in the glass.",
+   "exercise_zh": "调三种颜色不同的饮料，在每个杯子上贴一张图像标记；在 AR 应用里，哪个杯子被举起，就在它上方浮现一个小世界，杯子越靠近镜头，这个世界就越大，直到包围观看者。变体：让世界随杯中剩余的量而变化。",
+   "interaction": [
+    "tangible-object",
+    "portal-world",
+    "perception-art"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "mixed-reality headset",
+    "passthrough",
+    "real food and drink"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "RaqQkZy_WsE",
+    "url": "https://www.youtube.com/watch?v=RaqQkZy_WsE"
+   },
+   "source_url": "https://www.youtube.com/watch?v=RaqQkZy_WsE"
+  },
+  {
+   "id": "florencia-raffa--lingo-specs",
+   "creator_ids": [
+    "florencia-raffa"
+   ],
+   "title": "Lingo Specs",
+   "year": 2026,
+   "description": "A language-learning Lens for Snap Spectacles that scans a room and pins word cards onto the real objects around you; tapping a card speaks the word with spatial audio, and holding Talk lets a cloud character correct your pronunciation, with word hunts between rooms. The same vocabulary continues on the web and an iPhone app, which also shows live translation of a nearby speaker on the glasses.",
+   "description_zh": "一款为 Snap Spectacles 打造的语言学习 Lens：扫描房间后，把单词卡片钉在你身边真实的物品上；点一下卡片，它就用空间音频读出这个词，按住 Talk 键，一个云朵角色会当场纠正你的发音，还可以在不同房间之间玩找词游戏。同一套词汇会延续到网页和 iPhone 应用里，后者还能把身边人说的话实时翻译显示在眼镜上。",
+   "idea_en": "Your own room becomes the vocabulary list: every object labels itself in the language you are learning.",
+   "idea_zh": "你自己的房间就是单词表：每件物品都用你正在学的语言给自己贴上标签。",
+   "technique": "Lens Studio and TypeScript with an AI vision model that names objects and depth estimation to anchor cards on them, AI-generated card artwork, real-time pronunciation scoring, and shared cloud state linked by a code instead of an account.",
+   "technique_zh": "用 Lens Studio 和 TypeScript 开发：AI 视觉模型识别并命名物体，深度估计把卡片锚定在物体上；卡片插图由 AI 生成，发音实时打分，云端状态通过一个链接码而非账号在设备间同步。",
+   "exercise_en": "Using a phone and an object-detection model (for example COCO-SSD in TensorFlow.js), label everything the camera sees with its word in a second language, and speak the word aloud with speech synthesis when it is tapped. Twist: hide the labels and ask the learner to find the object whose name is spoken.",
+   "exercise_zh": "用手机和一个物体检测模型（比如 TensorFlow.js 里的 COCO-SSD），把镜头看到的每件东西都用第二语言的单词标出来，点一下就用语音合成读出这个词。变体：把标签隐藏起来，读出一个词，让学习者去找出对应的物品。",
+   "interaction": [
+    "data-information",
+    "voice-sound",
+    "spatial-mapping"
+   ],
+   "platform": [
+    "headset",
+    "phone",
+    "web"
+   ],
+   "tech": [
+    "Snap Spectacles",
+    "Lens Studio",
+    "TypeScript",
+    "depth estimation",
+    "speech recognition"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "LKtdTJ0SOfA",
+    "url": "https://www.youtube.com/watch?v=LKtdTJ0SOfA"
+   },
+   "source_url": "https://lingospecs.com",
+   "ai_cat": "understand"
+  },
+  {
+   "id": "lee-vermeulen--pushing-balancing-robot",
+   "creator_ids": [
+    "lee-vermeulen"
+   ],
+   "title": "Pushing a self-balancing robot in AR",
+   "year": 2026,
+   "description": "A small physics-driven robot walks across a colourful obstacle course laid on a real table, and the only way to guide it is to poke and shove it with your bare finger; it stumbles, recovers its balance, and topples when it is hit by a rolling barrel.",
+   "description_zh": "一个由物理驱动的小机器人走在铺在真实桌面上的彩色障碍赛道上，引导它的唯一方式就是用手指去戳它、推它；它会踉跄、重新站稳，被滚来的桶撞到时还会摔倒。",
+   "idea_en": "Steer a character not with buttons but with nudges, letting physics and balance do the animation.",
+   "idea_zh": "不用按钮操控角色，而是轻轻推它，让物理和平衡去完成动画。",
+   "technique": "Hand tracking gives a fingertip collider that applies forces to an active ragdoll whose joints are driven to stay upright (a self-balancing controller), placed on a course aligned to the real table in passthrough mixed reality.",
+   "technique_zh": "手部追踪给指尖生成一个碰撞体，对一个“主动布娃娃”施加力；这个布娃娃的关节由自平衡控制器驱动，努力保持直立，整条赛道在透视混合现实中与真实桌面对齐。",
+   "exercise_en": "In Unity with AR Foundation or a Quest passthrough scene, place a capsule character with a simple upright-torque controller on a detected table plane, attach a sphere collider to the tracked fingertip, and build a three-obstacle course that can only be finished by pushing. Twist: make the character resist pushes when it is 'tired' and lean into them when it is happy.",
+   "exercise_zh": "在 Unity 的 AR Foundation 或 Quest 透视场景里，把一个带简单“保持直立”力矩控制器的胶囊角色放在检测到的桌面平面上，给被追踪的指尖挂一个球形碰撞体，再搭一条只能靠推着走完的三段障碍赛道。变体：让角色“累了”时抗拒推力，开心时顺着推力倒过去。",
+   "interaction": [
+    "hand-body",
+    "game-play",
+    "spatial-mapping"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Meta Quest",
+    "hand tracking",
+    "active ragdoll physics"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "FDmLkfCW2qk",
+    "url": "https://www.youtube.com/watch?v=FDmLkfCW2qk"
+   },
+   "source_url": "https://www.youtube.com/watch?v=FDmLkfCW2qk"
+  },
+  {
+   "id": "aoi-esteban--peter-and-the-wolf",
+   "creator_ids": [
+    "aoi-esteban"
+   ],
+   "title": "Peter and the Wolf: A Solarpunk Reimagining",
+   "year": 2026,
+   "description": "Prokofiev's tale is retold in Solha, a bio-integrated city in 2087: audiences walk through a physical set built like a giant pop-up book, and markers on it bring motion-captured dancers as 3D characters to life through Spectacles or iPads, with spoken text, music and conversational AI; relaxed device-free sessions are offered too. Directed by Aoi Nakamura and Esteban Lecoq (AΦE), with AR development by Max van Leeuwen; shown here as an R&D documentary.",
+   "description_zh": "普罗科菲耶夫的童话被搬到 2087 年一座与生物共生的城市 Solha：观众走进一个像巨型立体书一样搭建的实体布景，布景上的标记通过 Spectacles 或 iPad 唤醒由动作捕捉舞者演绎的 3D 角色，配有旁白、音乐和对话式 AI；也提供不使用设备的轻松场次。由 Aoi Nakamura 和 Esteban Lecoq（AΦE）执导，AR 开发为 Max van Leeuwen；视频为研发纪录片。",
+   "idea_en": "A pop-up book you can walk into, whose pages wake up as dancing characters when you look through glasses.",
+   "idea_zh": "一本可以走进去的立体书，透过眼镜看时，书页会醒来，变成跳舞的角色。",
+   "technique": "Image markers printed into the paper-craft set anchor AR scenes on Spectacles and iPads, where motion-captured contemporary dance drives the rigged characters, layered with spatial music and AI voice (ElevenLabs).",
+   "technique_zh": "印在纸艺布景上的图像标记为 Spectacles 和 iPad 上的 AR 场景提供锚点，动作捕捉的当代舞蹈驱动绑定好的角色，再叠加空间音乐和 AI 语音（ElevenLabs）。",
+   "exercise_en": "Build a fold-out paper scene with three image targets, record a classmate dancing with a phone motion-capture app, and make each target play one character's dance on top of the paper in an AR app. Twist: let the characters react when two pages are opened at the same time.",
+   "exercise_zh": "做一个可展开的纸质场景，上面放三个图像识别目标；用手机动作捕捉应用录下一位同学的舞蹈，在 AR 应用里让每个目标在纸面上播放一个角色的舞蹈。变体：同时翻开两页时，让角色彼此产生反应。",
+   "interaction": [
+    "tangible-object",
+    "performance-stage",
+    "hand-body"
+   ],
+   "platform": [
+    "headset",
+    "phone"
+   ],
+   "tech": [
+    "Snap Spectacles",
+    "iPad",
+    "image markers",
+    "motion capture",
+    "ElevenLabs"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "M1S6nVygbWs",
+    "url": "https://www.youtube.com/watch?v=M1S6nVygbWs"
+   },
+   "source_url": "https://aoiesteban.com/project/peterandthewolf/"
+  },
+  {
+   "id": "nonotak--satellites",
+   "creator_ids": [
+    "nonotak"
+   ],
+   "title": "SATELLITES",
+   "year": 2026,
+   "description": "In a dark, hazy room, seven pairs of motorised arms carry thin bars of light that trace endless circles in opposition to each other, slipping between harmony and conflict, synchronised to an original soundscape. Kinetic light and sound installation by NONOTAK (Noemi Schipfer and Takami Nakamoto), shown at MODE Festival in Minneapolis and Biela Noc in Bratislava in 2026.",
+   "description_zh": "在昏暗、弥漫雾气的空间里，七对电动机械臂举着细长的光条，彼此相向地画出无尽的圆圈，在和谐与冲突之间来回游移，并与原创声景同步。这是 NONOTAK（Noemi Schipfer 与 Takami Nakamoto）的动态光声装置，2026 年在明尼阿波利斯的 MODE Festival 和布拉迪斯拉发的 Biela Noc 展出。",
+   "idea_en": "A single moving line of light in haze is enough to sculpt a whole volume of space.",
+   "idea_zh": "雾气中一条移动的光线，就足以雕刻出一整片空间。",
+   "technique": "Pairs of motorised rotating arms with LED bars, choreographed with light intensity and sound so the swept bars draw volumes in haze (control system likely DMX/timecode-driven).",
+   "technique_zh": "成对的电动旋转臂装着 LED 灯条，把灯光强度与声音编排在一起，让扫过的灯条在雾气中画出体积（控制系统很可能由 DMX 或时间码驱动）。",
+   "exercise_en": "In AR, place two virtual glowing bars that rotate in opposite directions and leave short-lived trails, and add a volumetric fog shader so the swept area reads as a solid; sync their speed to a drone tone. Twist: let the viewer's distance decide whether the two bars move in harmony or collide.",
+   "exercise_zh": "在 AR 中放两根反向旋转的虚拟发光条，让它们留下短暂的拖影，再加一个体积雾着色器，使扫过的区域看起来像实体；让转速与一段持续低音同步。变体：由观众离得多远来决定两根光条是和谐地运动还是相互碰撞。",
+   "interaction": [
+    "perception-art",
+    "voice-sound"
+   ],
+   "platform": [
+    "projection"
+   ],
+   "tech": [
+    "kinetic lighting",
+    "LED bars",
+    "haze",
+    "sound"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "1YHLR-DXUlM",
+    "url": "https://www.youtube.com/watch?v=1YHLR-DXUlM"
+   },
+   "source_url": "https://www.modefestival.com/programming/satellites",
+   "related_cat": "light"
+  },
+  {
+   "id": "studio-roosegaarde--seeing-stars-aarhus",
+   "creator_ids": [
+    "studio-roosegaarde"
+   ],
+   "title": "SEEING STARS Aarhus",
+   "year": 2026,
+   "description": "On 6 September 2026 the city of Aarhus switched off its streetlights, illuminated facades and non-essential lighting around two central parks, and thousands of people gathered with live brass music to look up at the stars, with Aarhus Space Centre and Ole Rømer Observatory, closing Aarhus Festuge. Public artwork by Studio Roosegaarde (Daan Roosegaarde) about light pollution.",
+   "description_zh": "2026 年 9 月 6 日，奥胡斯市关掉了两座中心公园周边的路灯、建筑立面照明和非必要灯光，成千上万的人伴着现场铜管乐一起抬头看星星；活动与奥胡斯太空中心和 Ole Rømer 天文台合作，作为奥胡斯艺术节的闭幕之夜。这是 Studio Roosegaarde（Daan Roosegaarde）关于光污染的公共艺术作品。",
+   "idea_en": "Augment the sky by subtracting: switch a city off, and the stars become the artwork.",
+   "idea_zh": "用“减法”来增强天空：把一座城市的灯关掉，星星就成了作品。",
+   "technique": "A coordinated civic blackout of street, facade and non-essential lighting over a defined area, planned with the city and observatories, rather than any added display.",
+   "technique_zh": "在划定区域内协调关闭路灯、立面照明和非必要灯光，与市政府和天文台一同策划，而不是增加任何显示设备。",
+   "exercise_en": "Build diminished-reality AR: in a phone app, segment the bright lights and lit windows in a night camera feed and paint them black, then overlay the real star field for that location and time from a sky catalogue. Twist: let people 'switch off' one lamp at a time by tapping it and watch the stars appear.",
+   "exercise_zh": "做一个“削减现实”的 AR：在手机应用里把夜间画面中明亮的灯光和亮着的窗户分割出来涂黑，再根据星表叠加当时当地真实的星空。变体：让人点一下就“关掉”一盏灯，看着星星逐渐显现。",
+   "interaction": [
+    "location-geo",
+    "portal-world",
+    "multiplayer-social"
+   ],
+   "platform": [
+    "projection"
+   ],
+   "tech": [
+    "civic lighting control",
+    "astronomy"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "XZ2pzi52m-I",
+    "url": "https://www.youtube.com/watch?v=XZ2pzi52m-I"
+   },
+   "source_url": "https://www.studioroosegaarde.net/project/seeing-stars",
+   "related_cat": "sky"
+  }
+ ],
+ "leads": []
+}

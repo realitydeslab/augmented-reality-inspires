@@ -432,6 +432,14 @@
   "status": "covered"
  },
  {
+  "name": "Lauren Lee McCarthy — AUTO",
+  "why": "Lumen Prize 2026 finalist (Experiential Innovation): an autonomous vehicle steered by people singing together. Existing creator; no video found yet.",
+  "link": "https://lumenprize.org/2026-finalists",
+  "found_via": "art-2026-fall",
+  "status": "covered",
+  "batch": "art-2026-fall"
+ },
+ {
   "name": "Simon Pyke (Freefarm)",
   "why": "Sound designer and Matt Pyke's brother; long-time audio collaborator on Universal Everything works.",
   "link": "https://www.universaleverything.com/people",
@@ -1038,6 +1046,14 @@
   "found_via": "layar",
   "batch": "phone-consumer",
   "status": "covered"
+ },
+ {
+  "name": "AE.T.HE.R — I Gave My AI a Body. Now She Runs My Room",
+  "why": "Second episode by the same creator: a voice companion restyles his real bedroom into The Witcher, Minecraft and Night City live on Quest 3 (W-iOBGWTtpY). Consider as a restyle work if the room-replacement holds up on viewing.",
+  "link": "https://www.youtube.com/watch?v=W-iOBGWTtpY",
+  "found_via": "aether-ar",
+  "status": "covered",
+  "batch": "platforms-2026-fall"
  },
  {
   "name": "Evan Roth & James Powderly (Graffiti Research Lab)",
@@ -3144,6 +3160,38 @@
   "batch": "related-sky-light"
  },
  {
+  "name": "Andreas Fender & Dieter Schmalstieg (University of Stuttgart) — Multiverse Architecture for Desired Realities",
+  "why": "UIST 2026 tech-concept paper: an immersive app splits into parallel universes whenever input is ambiguous and quietly collapses back to the one you interact with. Only the 30 s ACM preview (v2VQGaMKry8) is online and it was not possible to see what the demos show; recheck for a full video.",
+  "link": "https://programs.sigchi.org/uist/2026/program/content/262786",
+  "found_via": "jan-gugenheimer",
+  "status": "covered",
+  "batch": "research-2026-fall"
+ },
+ {
+  "name": "Jonas Wombacher, Florian Müller & Jan Gugenheimer — Towards Choice Blindness in Extended Reality",
+  "why": "UIST 2026 poster: uses SwitchAR to secretly rotate or rearrange a whole room so people defend a choice they never made. No video yet.",
+  "link": "https://programs.sigchi.org/uist/2026/program/content/275880",
+  "found_via": "jan-gugenheimer",
+  "status": "covered",
+  "batch": "research-2026-fall"
+ },
+ {
+  "name": "Kenri Kodaka Lab (Yuka Makinouchi, Kaho Kagami et al.) — Quad Hemispheres and In-Head Particle ASMR",
+  "why": "SIGGRAPH Asia 2026 XR: head tilting makes VR spheres feel like they roll inside your head; touching extended ears turns sound into particles inside the head. A student-channel video exists (BoeWp9yhbN4) but the program has no abstract yet; recheck after the conference (1–4 Dec).",
+  "link": "https://sa2026.conference-schedule.org/",
+  "found_via": "kenri-kodaka",
+  "status": "covered",
+  "batch": "research-2026-fall"
+ },
+ {
+  "name": "Yuya Kato, Masahiro Ohta et al. — Stretched Reality",
+  "why": "SIGGRAPH Asia 2026 Emerging Technologies: deformable immersive environments through attention-aware hand redirection. No video found yet.",
+  "link": "https://sa2026.conference-schedule.org/",
+  "found_via": "masahiro-ohta",
+  "status": "covered",
+  "batch": "research-2026-fall"
+ },
+ {
   "name": "Shio Miyafuji, Arisa Kohtani & Hideki Koike — Chromotion",
   "why": "CHI 2026: controls motion-induced colour along a moving object's path with high-speed temporal additive projection; no public video found",
   "link": "https://doi.org/10.1145/3772318.3791975",
@@ -3173,6 +3221,14 @@
   "link": "https://programs.sigchi.org/chi/2026",
   "found_via": "seed",
   "status": "no_video",
+  "batch": "research-2026-hci"
+ },
+ {
+  "name": "Jonas Wombacher, Zhipeng Li & Jan Gugenheimer — SwitchAR",
+  "why": "UIST 2025: secretly switches passthrough AR to a 3D reconstruction (change blindness) to allow redirected walking in AR; only a 30 s preview and the talk are online, recheck for a full video figure",
+  "link": "https://www.youtube.com/watch?v=C1MEymMzFk8",
+  "found_via": "seed",
+  "status": "covered",
   "batch": "research-2026-hci"
  },
  {
@@ -3480,6 +3536,14 @@
   "batch": "research-2026-xr"
  },
  {
+  "name": "Kaho Kagami & Kenri Kodaka — Hands-On Magnetic Head",
+  "why": "UIST 2025 demo from Kodaka Lab (the 'magnet-head' illusion: touch and sound make a sound seem to come from inside your head); lab video exists (8fdMUg42gnI). UIST is outside this batch's venues, so it is left for the HCI round.",
+  "link": "https://www.youtube.com/watch?v=8fdMUg42gnI",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "research-2026-xr"
+ },
+ {
   "name": "Mouth Cannon Crew (Hart Woolery, Sallia Goldstein, Ben Knutson & Ruya Baraz)",
   "why": "Tongue Topple won the Lensathon 2025 Games track with a custom tongue-tip tracking ML model used to aim; a Snapchat phone Lens rather than Spectacles.",
   "link": "https://blog.lenslist.co/2025/11/06/lens-fest-2025-awards-lensathon-recap-/",
@@ -3686,6 +3750,14 @@
   "found_via": "seed",
   "status": "no_video",
   "batch": "src-pinterest"
+ },
+ {
+  "name": "Elizabeth Childs (Stanford) — KITE",
+  "why": "KITE, a tangible haptic robot that moves like a mouse until it meets a virtual force, so learners feel airfoil lift or molecular bonds; shown in a Microsoft Research talk video, authorship beyond the speaker unclear.",
+  "link": "https://www.microsoft.com/en-us/research/video/kite-a-kinesthetic-interface-for-tangible-exploration/",
+  "found_via": "msr-benko-wilson",
+  "status": "covered",
+  "batch": "update-2026-11-yt-a"
  },
  {
   "name": "Marek Simonik (Record3D)",

@@ -64,5 +64,45 @@
   "why_en": "Tell a story out loud and the walls of the room become it.",
   "why_zh": "把故事讲出来，房间的墙就变成故事本身。",
   "cat": "rewrite"
+ },
+ "takashi-yoshinaga--finger-framing-copy-paste": {
+  "why_en": "Frame a real object with your fingers and it becomes a copy you can paste anywhere.",
+  "why_zh": "用手指框住一个真实物体，它就变成可以随处粘贴的副本。",
+  "cat": "rewrite"
+ },
+ "laan-labs--sonar-ruler": {
+  "why_en": "Your phone measures the room by echo, like a bat.",
+  "why_zh": "手机像蝙蝠一样，靠回声测量房间。",
+  "cat": "senses"
+ },
+ "studio-roosegaarde--seeing-stars-aarhus": {
+  "why_en": "A whole city switches off its lights, and the stars become the artwork.",
+  "why_zh": "整座城市关灯，星星就成了作品。",
+  "cat": "invisible"
+ },
+ "hideki-koike--gaze-contingent-dual-animation": {
+  "why_en": "Follow the character with your eyes and a hidden second animation appears.",
+  "why_zh": "用眼睛追随角色，一段隐藏的动画就会出现。",
+  "cat": "invisible"
+ },
+ "shan-yuan-teng--see-through-with-the-hands": {
+  "why_en": "A camera on the wrist lets your hand see behind objects.",
+  "why_zh": "手腕上的摄像头让你的手看见物体背后。",
+  "cat": "senses"
+ },
+ "yukang-yan--remapping-time": {
+  "why_en": "The headset slows reality down for a moment so you catch what flashed by.",
+  "why_zh": "头显把现实放慢片刻，让你看清一闪而过的东西。",
+  "cat": "time"
+ },
+ "shin-hanagata--chimeria": {
+  "why_en": "Your eye moves to your toes, and your feet become your head.",
+  "why_zh": "眼睛搬到脚趾上，脚就成了头。",
+  "cat": "body"
+ },
+ "ujoo-limheeyoung--no-bird": {
+  "why_en": "One machine leaves a bird's footprints and another erases them.",
+  "why_zh": "一台机器留下鸟的脚印，另一台把它们抹掉。",
+  "cat": "time"
  }
 }

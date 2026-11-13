@@ -28110,5 +28110,408 @@
   "title": "[SIGGRAPH 2025] VR-Doh: Hands-on 3D Modeling in Virtual Reality",
   "author": "Minchen Li",
   "thumbnail": "https://i.ytimg.com/vi/Vdjg6W9O3Ss/hqdefault.jpg"
+ },
+ "youtube:B7U_7kTxUWA": {
+  "url": "https://www.youtube.com/watch?v=B7U_7kTxUWA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "B7U_7kTxUWA",
+  "title": "CHIMERIA I (2025), Shin Hanagata",
+  "author": "Shin Hanagata",
+  "thumbnail": "https://i.ytimg.com/vi/B7U_7kTxUWA/hqdefault.jpg"
+ },
+ "mp4:https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/08/fla_emp_teaser_260814d.mp4": {
+  "url": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/08/fla_emp_teaser_260814d.mp4",
+  "ok": true,
+  "platform": "mp4",
+  "id": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/08/fla_emp_teaser_260814d.mp4",
+  "content_type": "video/mp4"
+ },
+ "youtube:TkW5RspAF5c": {
+  "url": "https://www.youtube.com/watch?v=TkW5RspAF5c",
+  "ok": true,
+  "platform": "youtube",
+  "id": "TkW5RspAF5c",
+  "title": "Venice Immersive 2026 - Nothing to See Here",
+  "author": "BiennaleChannel",
+  "thumbnail": "https://i.ytimg.com/vi/TkW5RspAF5c/hqdefault.jpg"
+ },
+ "youtube:hHkrGsmv1Oo": {
+  "url": "https://www.youtube.com/watch?v=hHkrGsmv1Oo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "hHkrGsmv1Oo",
+  "title": "Venice Immersive 2026 - Voooooo---Peeeeee---",
+  "author": "BiennaleChannel",
+  "thumbnail": "https://i.ytimg.com/vi/hHkrGsmv1Oo/hqdefault.jpg"
+ },
+ "youtube:8fw0L6jP4vg": {
+  "url": "https://www.youtube.com/watch?v=8fw0L6jP4vg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "8fw0L6jP4vg",
+  "title": "Venice Immersive 2026 - Spomyny",
+  "author": "BiennaleChannel",
+  "thumbnail": "https://i.ytimg.com/vi/8fw0L6jP4vg/hqdefault.jpg"
+ },
+ "youtube:qNqm9oxMLWg": {
+  "url": "https://www.youtube.com/watch?v=qNqm9oxMLWg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "qNqm9oxMLWg",
+  "title": "Ancestors // Trailer",
+  "author": "Diversion",
+  "thumbnail": "https://i.ytimg.com/vi/qNqm9oxMLWg/hqdefault.jpg"
+ },
+ "youtube:sgRFfaVz2X8": {
+  "url": "https://www.youtube.com/watch?v=sgRFfaVz2X8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "sgRFfaVz2X8",
+  "title": "\"No Bird\"\"새는 없다\"#ujoolimheeyoung#우주림희영",
+  "author": "UJOO LIMHEEYOUNG",
+  "thumbnail": "https://i.ytimg.com/vi/sgRFfaVz2X8/hqdefault.jpg"
+ },
+ "youtube:cmjdXM5MCRk": {
+  "url": "https://www.youtube.com/watch?v=cmjdXM5MCRk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "cmjdXM5MCRk",
+  "title": "Studio DRIFT makes the invisible force of wind visible in stunning new London installation",
+  "author": "Euronews Culture",
+  "thumbnail": "https://i.ytimg.com/vi/cmjdXM5MCRk/hqdefault.jpg"
+ },
+ "youtube:6oc-4XB_Ac4": {
+  "url": "https://www.youtube.com/watch?v=6oc-4XB_Ac4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "6oc-4XB_Ac4",
+  "title": "Venice Immersive 2026 - Solwata",
+  "author": "BiennaleChannel",
+  "thumbnail": "https://i.ytimg.com/vi/6oc-4XB_Ac4/hqdefault.jpg"
+ },
+ "youtube:0d-Mc3hL0C4": {
+  "url": "https://www.youtube.com/watch?v=0d-Mc3hL0C4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "0d-Mc3hL0C4",
+  "title": "Chopin: Nocturne in C# Minor No. 20 (The Pianist), ghost hands on a real piano in mixed reality",
+  "author": "Museverse VR",
+  "thumbnail": "https://i.ytimg.com/vi/0d-Mc3hL0C4/hqdefault.jpg"
+ },
+ "youtube:XtNmiTohUcs": {
+  "url": "https://www.youtube.com/watch?v=XtNmiTohUcs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "XtNmiTohUcs",
+  "title": "I Built a $5 Apple Vision Pro",
+  "author": "brenpoly",
+  "thumbnail": "https://i.ytimg.com/vi/XtNmiTohUcs/hqdefault.jpg"
+ },
+ "youtube:j4cPzciaW-I": {
+  "url": "https://www.youtube.com/watch?v=j4cPzciaW-I",
+  "ok": true,
+  "platform": "youtube",
+  "id": "j4cPzciaW-I",
+  "title": "visionOS 27 + iOS 27 Object Tracking: Open Source Demo",
+  "author": "robomex",
+  "thumbnail": "https://i.ytimg.com/vi/j4cPzciaW-I/hqdefault.jpg"
+ },
+ "youtube:YyBdMTlvzOs": {
+  "url": "https://www.youtube.com/watch?v=YyBdMTlvzOs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "YyBdMTlvzOs",
+  "title": "I Gave My Room an AI That Can See (Mixed Reality)",
+  "author": "AE.T.HE.R",
+  "thumbnail": "https://i.ytimg.com/vi/YyBdMTlvzOs/hqdefault.jpg"
+ },
+ "youtube:ipRqi4gx46I": {
+  "url": "https://www.youtube.com/watch?v=ipRqi4gx46I",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ipRqi4gx46I",
+  "title": "ShadAR: Real-time Prompting On-demand Visual Augmentation in Augmented Reality (Video Preview)",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/ipRqi4gx46I/hqdefault.jpg"
+ },
+ "youtube:eJDhAbtXmT4": {
+  "url": "https://www.youtube.com/watch?v=eJDhAbtXmT4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "eJDhAbtXmT4",
+  "title": "uist26 video",
+  "author": "Nandi Zhang",
+  "thumbnail": "https://i.ytimg.com/vi/eJDhAbtXmT4/hqdefault.jpg"
+ },
+ "youtube:qeuP5IbMqLo": {
+  "url": "https://www.youtube.com/watch?v=qeuP5IbMqLo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "qeuP5IbMqLo",
+  "title": "Gaze-Contingent Dual Animation with High-Speed Projection (Video Preview)",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/qeuP5IbMqLo/hqdefault.jpg"
+ },
+ "youtube:OdUTXmHfDus": {
+  "url": "https://www.youtube.com/watch?v=OdUTXmHfDus",
+  "ok": true,
+  "platform": "youtube",
+  "id": "OdUTXmHfDus",
+  "title": "Relative-Motion-Aware Color Presentation with High-Speed Projection (Video Preview)",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/OdUTXmHfDus/hqdefault.jpg"
+ },
+ "youtube:geMNsx8xzUg": {
+  "url": "https://www.youtube.com/watch?v=geMNsx8xzUg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "geMNsx8xzUg",
+  "title": "【UIST2026】Body Sublimation: Designing State-Changing Extended Hand",
+  "author": "Masahiro Ohta",
+  "thumbnail": "https://i.ytimg.com/vi/geMNsx8xzUg/hqdefault.jpg"
+ },
+ "youtube:JTZwTFzjgvI": {
+  "url": "https://www.youtube.com/watch?v=JTZwTFzjgvI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "JTZwTFzjgvI",
+  "title": "See through with the hands: seamless occluded interactions in Augmented Reality - UIST26 Demo",
+  "author": "DexterousInteractionLab",
+  "thumbnail": "https://i.ytimg.com/vi/JTZwTFzjgvI/hqdefault.jpg"
+ },
+ "youtube:hpujArzf9Dw": {
+  "url": "https://www.youtube.com/watch?v=hpujArzf9Dw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "hpujArzf9Dw",
+  "title": "[UIST 2026] CinemaWorld: Generative Augmented Reality for Movie Augmentation",
+  "author": "Programmable Reality Lab",
+  "thumbnail": "https://i.ytimg.com/vi/hpujArzf9Dw/hqdefault.jpg"
+ },
+ "youtube:N7XHXBeGhe4": {
+  "url": "https://www.youtube.com/watch?v=N7XHXBeGhe4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "N7XHXBeGhe4",
+  "title": "LightShop: High-Precision Interactive Computational Light Painting (UIST 2026)",
+  "author": "Abe Davis's Research",
+  "thumbnail": "https://i.ytimg.com/vi/N7XHXBeGhe4/hqdefault.jpg"
+ },
+ "youtube:dGRznVW7-o8": {
+  "url": "https://www.youtube.com/watch?v=dGRznVW7-o8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "dGRznVW7-o8",
+  "title": "[UIST 2026] Present Drawing: Exploring Avatar-Mediated Drawing Events with Physical Traces",
+  "author": "AI techstudio",
+  "thumbnail": "https://i.ytimg.com/vi/dGRznVW7-o8/hqdefault.jpg"
+ },
+ "youtube:N11j-gLDOPI": {
+  "url": "https://www.youtube.com/watch?v=N11j-gLDOPI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "N11j-gLDOPI",
+  "title": "Neighborhood: Dynamic Spatial Alignment for Traversable Telepresence Across Remote Spaces(UIST 2026)",
+  "author": "Tay Kim",
+  "thumbnail": "https://i.ytimg.com/vi/N11j-gLDOPI/hqdefault.jpg"
+ },
+ "youtube:8fdMUg42gnI": {
+  "url": "https://www.youtube.com/watch?v=8fdMUg42gnI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "8fdMUg42gnI",
+  "title": "Hands-On Magnetic Head ILLUSION (UIST 2025, Demo) #小鷹研究室as",
+  "author": "小鷹研究室as 注文の多いからだの錯覚の研究室",
+  "thumbnail": "https://i.ytimg.com/vi/8fdMUg42gnI/hqdefault.jpg"
+ },
+ "youtube:UhUbbzSMz00": {
+  "url": "https://www.youtube.com/watch?v=UhUbbzSMz00",
+  "ok": true,
+  "platform": "youtube",
+  "id": "UhUbbzSMz00",
+  "title": "FleetScape: A Mixed Reality Sandtable for Spatial Supervision and Control of Scal... (Video Preview)",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/UhUbbzSMz00/hqdefault.jpg"
+ },
+ "youtube:TZjJ6B52NwM": {
+  "url": "https://www.youtube.com/watch?v=TZjJ6B52NwM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "TZjJ6B52NwM",
+  "title": "Spatial Copy-Paste with Finger Framing: No Typing, Just Your Hands (Re-shoot ver.)",
+  "author": "Takashi Yoshinaga",
+  "thumbnail": "https://i.ytimg.com/vi/TZjJ6B52NwM/hqdefault.jpg"
+ },
+ "youtube:C_CDQJI7wLk": {
+  "url": "https://www.youtube.com/watch?v=C_CDQJI7wLk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "C_CDQJI7wLk",
+  "title": "Generative UX × AR | Spatial Action Guide Ver.2",
+  "author": "Takashi Yoshinaga",
+  "thumbnail": "https://i.ytimg.com/vi/C_CDQJI7wLk/hqdefault.jpg"
+ },
+ "youtube:l7lXi9xHXiU": {
+  "url": "https://www.youtube.com/watch?v=l7lXi9xHXiU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "l7lXi9xHXiU",
+  "title": "HoloTuberKit: Pin the Remote 3D Views You Need",
+  "author": "Takashi Yoshinaga",
+  "thumbnail": "https://i.ytimg.com/vi/l7lXi9xHXiU/hqdefault.jpg"
+ },
+ "youtube:yfUh9xc58JI": {
+  "url": "https://www.youtube.com/watch?v=yfUh9xc58JI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "yfUh9xc58JI",
+  "title": "AI designs LEGO from your pile, AR glasses teach you to build it (Spectacles + Gemini 4 Argon)",
+  "author": "Stijn Spanhove",
+  "thumbnail": "https://i.ytimg.com/vi/yfUh9xc58JI/hqdefault.jpg"
+ },
+ "youtube:lLIBLh3eD74": {
+  "url": "https://www.youtube.com/watch?v=lLIBLh3eD74",
+  "ok": true,
+  "platform": "youtube",
+  "id": "lLIBLh3eD74",
+  "title": "Measure Distance With Sound: iPhone App vs. Tape Measure",
+  "author": "laanlabs",
+  "thumbnail": "https://i.ytimg.com/vi/lLIBLh3eD74/hqdefault.jpg"
+ },
+ "youtube:rVlRQakpOME": {
+  "url": "https://www.youtube.com/watch?v=rVlRQakpOME",
+  "ok": true,
+  "platform": "youtube",
+  "id": "rVlRQakpOME",
+  "title": "I Built a God’s Eye View of Time. The Internet Went Wild.",
+  "author": "Bilawal Sidhu",
+  "thumbnail": "https://i.ytimg.com/vi/rVlRQakpOME/hqdefault.jpg"
+ },
+ "youtube:DR4J8KKz-4s": {
+  "url": "https://www.youtube.com/watch?v=DR4J8KKz-4s",
+  "ok": true,
+  "platform": "youtube",
+  "id": "DR4J8KKz-4s",
+  "title": "I Built a VR Experience You Can Actually Touch | Sphenomenon",
+  "author": "Greg Madison",
+  "thumbnail": "https://i.ytimg.com/vi/DR4J8KKz-4s/hqdefault.jpg"
+ },
+ "youtube:iwoeuEEQqQg": {
+  "url": "https://www.youtube.com/watch?v=iwoeuEEQqQg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "iwoeuEEQqQg",
+  "title": "Electrotactile Improves Thermal Referral (UIST 2026)",
+  "author": "HCintegration",
+  "thumbnail": "https://i.ytimg.com/vi/iwoeuEEQqQg/hqdefault.jpg"
+ },
+ "youtube:2fwM4jq0W_s": {
+  "url": "https://www.youtube.com/watch?v=2fwM4jq0W_s",
+  "ok": true,
+  "platform": "youtube",
+  "id": "2fwM4jq0W_s",
+  "title": "Timber Timbre — Daito Manabe",
+  "author": "daito manabe",
+  "thumbnail": "https://i.ytimg.com/vi/2fwM4jq0W_s/hqdefault.jpg"
+ },
+ "youtube:yP9m4JHGV-8": {
+  "url": "https://www.youtube.com/watch?v=yP9m4JHGV-8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "yP9m4JHGV-8",
+  "title": "ColorField Painter 2 v2",
+  "author": "Will Pappenheimer",
+  "thumbnail": "https://i.ytimg.com/vi/yP9m4JHGV-8/hqdefault.jpg"
+ },
+ "youtube:ceCwP54D7yg": {
+  "url": "https://www.youtube.com/watch?v=ceCwP54D7yg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ceCwP54D7yg",
+  "title": "AeroPixels (ACM UIST 2026)",
+  "author": "UOsaka | XR Group",
+  "thumbnail": "https://i.ytimg.com/vi/ceCwP54D7yg/hqdefault.jpg"
+ },
+ "youtube:iljyo47oBtw": {
+  "url": "https://www.youtube.com/watch?v=iljyo47oBtw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "iljyo47oBtw",
+  "title": "Reperceiving Everyday Sounds with Hidden Texture",
+  "author": "Stanford SHAPE Lab",
+  "thumbnail": "https://i.ytimg.com/vi/iljyo47oBtw/hqdefault.jpg"
+ },
+ "youtube:F2fF3ZJTbHE": {
+  "url": "https://www.youtube.com/watch?v=F2fF3ZJTbHE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "F2fF3ZJTbHE",
+  "title": "ProtoCall: Preemptive Physical Feedback for Sequential Skill Augmentation",
+  "author": "Embodied Dynamics Lab",
+  "thumbnail": "https://i.ytimg.com/vi/F2fF3ZJTbHE/hqdefault.jpg"
+ },
+ "youtube:oMhnSTKf2ak": {
+  "url": "https://www.youtube.com/watch?v=oMhnSTKf2ak",
+  "ok": true,
+  "platform": "youtube",
+  "id": "oMhnSTKf2ak",
+  "title": "DouBall | ACM VRST 2026 Demos",
+  "author": "XR Lab@NTUT",
+  "thumbnail": "https://i.ytimg.com/vi/oMhnSTKf2ak/hqdefault.jpg"
+ },
+ "youtube:RaqQkZy_WsE": {
+  "url": "https://www.youtube.com/watch?v=RaqQkZy_WsE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "RaqQkZy_WsE",
+  "title": "ひとくちの不思議なバー Sipping Wonder Bar - XR Cocktail Experience",
+  "author": "RachelQZhang",
+  "thumbnail": "https://i.ytimg.com/vi/RaqQkZy_WsE/hqdefault.jpg"
+ },
+ "youtube:LKtdTJ0SOfA": {
+  "url": "https://www.youtube.com/watch?v=LKtdTJ0SOfA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "LKtdTJ0SOfA",
+  "title": "BIG UPDATE FOR LINGOSPECS!!! 🎉🎉🎉",
+  "author": "Florencia Raffa",
+  "thumbnail": "https://i.ytimg.com/vi/LKtdTJ0SOfA/hqdefault.jpg"
+ },
+ "youtube:FDmLkfCW2qk": {
+  "url": "https://www.youtube.com/watch?v=FDmLkfCW2qk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "FDmLkfCW2qk",
+  "title": "Prototype of pushing a self balancing robot in AR",
+  "author": "Lee Vermeulen",
+  "thumbnail": "https://i.ytimg.com/vi/FDmLkfCW2qk/hqdefault.jpg"
+ },
+ "youtube:M1S6nVygbWs": {
+  "url": "https://www.youtube.com/watch?v=M1S6nVygbWs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "M1S6nVygbWs",
+  "title": "Peter and the Wolf: A Solarpunk Reimagining R&D Documentary Video",
+  "author": "AΦE",
+  "thumbnail": "https://i.ytimg.com/vi/M1S6nVygbWs/hqdefault.jpg"
+ },
+ "youtube:1YHLR-DXUlM": {
+  "url": "https://www.youtube.com/watch?v=1YHLR-DXUlM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "1YHLR-DXUlM",
+  "title": "NONOTAK - SATELLITES at Mode Festival",
+  "author": "NONOTAK",
+  "thumbnail": "https://i.ytimg.com/vi/1YHLR-DXUlM/hqdefault.jpg"
+ },
+ "youtube:XZ2pzi52m-I": {
+  "url": "https://www.youtube.com/watch?v=XZ2pzi52m-I",
+  "ok": true,
+  "platform": "youtube",
+  "id": "XZ2pzi52m-I",
+  "title": "SEEING STARS Denmark: A City Turns Off the Lights to See the Stars",
+  "author": "studioroosegaarde",
+  "thumbnail": "https://i.ytimg.com/vi/XZ2pzi52m-I/hqdefault.jpg"
  }
 }

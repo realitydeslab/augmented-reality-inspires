@@ -80,6 +80,134 @@
   "batch": "ai-research"
  },
  {
+  "name": "Tung-Yen Chou (Very Theatre) — Shifting Connections",
+  "why": "Venice Immersive 2026 competition: a collective VR piece where participants' bodies appear as glowing points and lines that connect by proximity, making social distance visible. No video yet; BiennaleChannel has not uploaded it (recheck).",
+  "link": "https://www.labiennale.org/en/cinema/2026/venice-immersive/shifting-connections",
+  "found_via": "art-2026-fall",
+  "status": "open",
+  "batch": "art-2026-fall"
+ },
+ {
+  "name": "SummitShare & Shared Histories Team — What the Record Forgot",
+  "why": "Golden Nica, Digital Humanity, Prix Ars Electronica 2026: three empty museum vitrines; colonial-era objects return only as sound, video and AR 3D surrogates. Strong AR idea, no video found.",
+  "link": "https://summitshare.co/",
+  "found_via": "art-2026-fall",
+  "status": "open",
+  "batch": "art-2026-fall"
+ },
+ {
+  "name": "Matthew Biederman — Situational Compliance",
+  "why": "Edigma Semibreve Award 2026 / Lumen 2026 finalist: an AI computer-vision system that plays Simon Says with visitors. Video exists (youtube 8ajBZV6_o8g, SEMIBREVE) but no reliable description found; verify then add.",
+  "link": "https://www.youtube.com/watch?v=8ajBZV6_o8g",
+  "found_via": "art-2026-fall",
+  "status": "open",
+  "batch": "art-2026-fall"
+ },
+ {
+  "name": "Sumio Kobayashi — Aquatic Score for a Performing Goldfish",
+  "why": "Lumen Prize 2026 finalist: software tracks a goldfish's swimming to play a piano score. Very salient; no video found.",
+  "link": "https://lumenprize.org/2026-finalists",
+  "found_via": "art-2026-fall",
+  "status": "open",
+  "batch": "art-2026-fall"
+ },
+ {
+  "name": "Camille Sauer — Le Miroir",
+  "why": "Honorary Mention, New Animation Art, Prix Ars Electronica 2026; flagged as a real-time body/mirror performance. No video or details found.",
+  "link": "https://ars.electronica.art/prix/en/winners/",
+  "found_via": "art-2026-fall",
+  "status": "open",
+  "batch": "art-2026-fall"
+ },
+ {
+  "name": "Hsin-Chien Huang — The Sculptures of Touch",
+  "why": "Honorary Mention, Digital Humanity, Prix Ars Electronica 2026 (body/perception). Artist video exists (youtube I9C4zZOw_OA) but no description of the interaction found.",
+  "link": "https://www.youtube.com/watch?v=I9C4zZOw_OA",
+  "found_via": "art-2026-fall",
+  "status": "open",
+  "batch": "art-2026-fall"
+ },
+ {
+  "name": "William Forsythe — Uplifting Instruction",
+  "why": "Described by Frieze (July 2026) as Forsythe's first AR artwork (credited to WAVA). Venue, dates and video not found.",
+  "link": "https://www.frieze.com/article/augmented-reality-opinion",
+  "found_via": "art-2026-fall",
+  "status": "open",
+  "batch": "art-2026-fall"
+ },
+ {
+  "name": "Natasha Gubernov — ArtGuide",
+  "why": "Spectacles Community Challenge #16 (New Lens, 2nd): projects composition guides, reference images, AI feedback and on-demand 3D still lifes onto the artist's real paper or canvas. Lenslist spotlight 2026-11-04. No public video found; try her X or LinkedIn.",
+  "link": "https://blog.lenslist.co/2026/11/04/developer-spotlight-natasha-gubernov-on-traditional-art-meeting-specs/",
+  "found_via": "snap-inc",
+  "status": "open",
+  "batch": "platforms-2026-fall"
+ },
+ {
+  "name": "Shahwali Shayan — Plane Spotter",
+  "why": "Spectacles Community Challenge #16 (New Lens, 1st): Heathrow Airport as a live tabletop model driven by real flight data, with tappable aircraft cards. No public video found.",
+  "link": "https://blog.lenslist.co/2026/10/02/spectacles-community-challenge-16-winners-announcement/",
+  "found_via": "snap-inc",
+  "status": "open",
+  "batch": "platforms-2026-fall"
+ },
+ {
+  "name": "Baruch Geuze — OpenBand",
+  "why": "Spectacles Community Challenge #16 (Open Source, 1st): control Spectacles from a smartwatch with pinch and forearm gestures plus haptic feedback. Repo public; no video found (GitHub API blocked during this round).",
+  "link": "https://github.com/bgeuze/openband",
+  "found_via": "snap-inc",
+  "status": "open",
+  "batch": "platforms-2026-fall"
+ },
+ {
+  "name": "Elsa Farrokhzadeh (urbanpeppermint) — Spatial AI DJ",
+  "why": "Spectacles Community Challenge #16 (Open Source, 3rd): an AI-generated mix you shape by dragging pucks across four decks in 3D space. Has a YouTube channel (@urbanpeppermint) but no video of this Lens yet.",
+  "link": "https://github.com/urbanpeppermint/Spatial_AI_DJ",
+  "found_via": "snap-inc",
+  "status": "open",
+  "batch": "platforms-2026-fall"
+ },
+ {
+  "name": "Tim Van Leemput — ParaKo",
+  "why": "Meta VR Start 2026 entry: a tiny parasite takes root in your hand in mixed reality; feed it, catch flies with a sway of the hand, and it grows gifts that change what your hands can do. Only a 57 s trailer so far (_9iRUYeJVoE); look for gameplay.",
+  "link": "https://www.youtube.com/watch?v=_9iRUYeJVoE",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "platforms-2026-fall"
+ },
+ {
+  "name": "Abhimanyu R B — Perihelion",
+  "why": "Meta VR Start 2026 WebXR puzzle: pinch and slingshot a comet, plant gravity wells in the air, or put a real cup on your desk and it bends the comet too. Video (Ds5Jt9tzgnA) appears to be emulator footage; check for a real-desk recording.",
+  "link": "https://perihelion-three.vercel.app",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "platforms-2026-fall"
+ },
+ {
+  "name": "yi yu — Foldlings",
+  "why": "Meta VR Start 2026 WebXR origami: fold a virtual sheet with bare hands until it becomes a creature that settles on a real surface in your room. Open source (github.com/yy5652-hash/foldlings), but the video (RX2S5l6ZVmA) mixes web-build captures with Blender renders.",
+  "link": "https://yy5652-hash.github.io/foldlings/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "platforms-2026-fall"
+ },
+ {
+  "name": "Frameless Labs — The Winner Takes It All",
+  "why": "Work-in-progress mixed reality dance in a park: audience members in Quest 3 at a chess board watch dancers who perform live from Washington State and New York via VRChat. Revisit when the performance is documented (video 3yzdL1l9VJ0 is a short WIP pitch).",
+  "link": "https://www.youtube.com/watch?v=3yzdL1l9VJ0",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "platforms-2026-fall"
+ },
+ {
+  "name": "Hand-shadow MR games (Rohit Purkait — Shadowkin; 최재원 — Shadowfolk; Ankit Hemant Lade — Shadow Zoo; Design Master Solutions — WICK)",
+  "why": "A cluster of Meta VR Start 2026 WebXR entries where your hand's shadow on a real wall or paper becomes a creature or a solid bridge (Shadowfolk: move the hand toward the lantern and the shadow grows huge and soft). Strong salient idea, but all videos (MZuxKrEJJU8, QFCNsidQnxI, UDuvUWqNC5c, ZQAuG4g5L9g) are IWER-emulator footage; add the best once real-headset video exists. Code: github.com/cjw0076/shadowfolk.",
+  "link": "https://cjw0076.github.io/shadowfolk/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "platforms-2026-fall"
+ },
+ {
   "name": "Ramesh Raskar",
   "why": "MIT Media Lab (Camera Culture) professor and projector-AR pioneer (Shader Lamps, iLamps, RFIG Lamps with Johnny Lee); RFIG video exists at youtube.com/watch?v=MURwa1lWDsY.",
   "link": "https://www.media.mit.edu/people/raskar/overview/",
@@ -552,12 +680,20 @@
   "batch": "related-sky-light"
  },
  {
-  "name": "Jonas Wombacher, Zhipeng Li & Jan Gugenheimer — SwitchAR",
-  "why": "UIST 2025: secretly switches passthrough AR to a 3D reconstruction (change blindness) to allow redirected walking in AR; only a 30 s preview and the talk are online, recheck for a full video figure",
-  "link": "https://www.youtube.com/watch?v=C1MEymMzFk8",
-  "found_via": "seed",
+  "name": "Tomoki Noguchi, Naoya Koizumi et al. (UEC) — CAST-Table",
+  "why": "SIGGRAPH Asia 2026 Emerging Technologies: co-located, walk-around mid-air images that work with tangible objects on a table. No 2026 video found yet; the Koizumi lab channel posts mid-air image demos.",
+  "link": "https://sa2026.conference-schedule.org/",
+  "found_via": "hideki-koike",
   "status": "open",
-  "batch": "research-2026-hci"
+  "batch": "research-2026-fall"
+ },
+ {
+  "name": "Mirror Skin — in-situ visualisation of robot touch intent on robot skin (UIST 2026)",
+  "why": "Cephalopod-inspired robot skin that mirrors an image of the human body part it is about to touch. 30 s ACM preview only (ZEPNhaae06I); a robot display rather than AR, but a strong idea for situated intent displays.",
+  "link": "https://programs.sigchi.org/uist/2026/program/content/262957",
+  "found_via": "shan-yuan-teng",
+  "status": "open",
+  "batch": "research-2026-fall"
  },
  {
   "name": "Exertion Games Lab (Florian 'Floyd' Mueller, Monash) — XTea and other CHI 2026 body/MR papers",
@@ -580,14 +716,6 @@
   "why": "Projector-camera research at IEEE VR and ISMAR: Setup-Independent Full Projector Compensation (IEEE VR 2026 Best Paper), GS-ProCams, ProCap and DiffPC. Check for demo videos on GitHub project pages.",
   "link": "https://github.com/BingyaoHuang",
   "found_via": "daisuke-iwai",
-  "status": "open",
-  "batch": "research-2026-xr"
- },
- {
-  "name": "Kaho Kagami & Kenri Kodaka — Hands-On Magnetic Head",
-  "why": "UIST 2025 demo from Kodaka Lab (the 'magnet-head' illusion: touch and sound make a sound seem to come from inside your head); lab video exists (8fdMUg42gnI). UIST is outside this batch's venues, so it is left for the HCI round.",
-  "link": "https://www.youtube.com/watch?v=8fdMUg42gnI",
-  "found_via": "seed",
   "status": "open",
   "batch": "research-2026-xr"
  },
