@@ -1,0 +1,676 @@
+{
+ "batch": "research-2026-11b",
+ "creators": [
+  {
+   "id": "ben-pearman",
+   "name": "Ben Pearman — University of Calgary",
+   "role": "Computer science graduate researcher at the University of Calgary and alpine climber; builds 3D and mixed-reality tools for climbing navigation",
+   "based": "Calgary, Canada",
+   "bio": "Ben Pearman works with Wesley Willett's Data Experience Lab at the University of Calgary on how digital twins of rock faces can help climbers find their way. He made ThreeTopo (CHI 2026, best paper award), a 3D route guide built from drone photos of a 240-metre climb on Mount Yamnuska, and RockXR, a headset prototype presented at UIST 2026 as 'The Rock Can Talk'.",
+   "why": "Takes mixed reality out of the lab and onto a real cliff, where a wrong turn actually matters.",
+   "links": {
+    "site": "https://ucalgary.ca/news/computer-scientists-use-data-improve-rock-climbing-canadian-rockies",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "卡尔加里大学计算机科学研究生、登山攀岩者，为攀岩导航打造三维与混合现实工具",
+   "based_zh": "卡尔加里，加拿大",
+   "bio_zh": "Ben Pearman 在卡尔加里大学 Wesley Willett 的 Data Experience Lab 研究岩壁的数字孪生如何帮助攀岩者找路。他做了 ThreeTopo（CHI 2026 最佳论文奖），用无人机照片为 Yamnuska 山上一条 240 米的线路建出三维路线指南；还做了头显原型 RockXR，以“The Rock Can Talk”为题发表于 UIST 2026。",
+   "why_zh": "把混合现实从实验室带到真正的悬崖上，在那里走错一步是真的有后果的。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ville-makela",
+   "name": "Ville Mäkelä — University of Waterloo",
+   "role": "Assistant Professor at the University of Waterloo; HCI researcher working on cross-reality interaction and games",
+   "based": "Waterloo, Ontario, Canada",
+   "bio": "Ville Mäkelä's group studies what happens at the border between virtual and physical reality. With Dazhuang Teng he presented two CHI PLAY 2026 papers on interruptions during VR play: one on techniques for handling the real world without leaving VR, and Pause and Play, which keeps parts of the game visible in passthrough while you are away.",
+   "why": "Designs the moment of leaving and re-entering a virtual world, a transition most apps ignore.",
+   "links": {
+    "site": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "滑铁卢大学助理教授，研究跨现实交互与游戏的人机交互学者",
+   "based_zh": "安大略省滑铁卢，加拿大",
+   "bio_zh": "Ville Mäkelä 的团队研究虚拟与物理现实交界处发生的事。他与 Dazhuang Teng 在 CHI PLAY 2026 发表了两篇关于 VR 游戏被打断的论文：一篇研究如何不离开 VR 就处理现实中的事，另一篇 Pause and Play 则在你离开时把游戏的一部分留在透视画面里。",
+   "why_zh": "专门设计离开和重返虚拟世界的那一刻，这是多数应用忽略的过渡。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sebastian-cmentowski",
+   "name": "Sebastian Cmentowski & Panos Markopoulos — Eindhoven University of Technology",
+   "role": "HCI and games researchers at Eindhoven University of Technology's Industrial Design department, working on play for children",
+   "based": "Eindhoven, Netherlands",
+   "bio": "Sebastian Cmentowski and Panos Markopoulos, with Jules van Gurp and Shanya Migchelsen, explore 'non-visual' or screenless XR for children: virtual things that exist in the room but are conveyed only through sound, touch and movement. At CHI PLAY 2026 they showed BombQuest, a two-player bomb hunt with handheld devices, and Play Beyond Vision, a study in which 38 children chased an invisible ghost.",
+   "why": "Shows that an augmented reality does not need a display at all, only a believable invisible thing in the room.",
+   "links": {
+    "site": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "埃因霍温理工大学工业设计系的人机交互与游戏研究者，研究儿童的游戏",
+   "based_zh": "埃因霍温，荷兰",
+   "bio_zh": "Sebastian Cmentowski 和 Panos Markopoulos 与 Jules van Gurp、Shanya Migchelsen 一起探索面向儿童的“非视觉”或无屏幕 XR：虚拟的东西就在房间里，却只通过声音、触觉和身体移动来传达。在 CHI PLAY 2026 上，他们展示了用手持设备玩的双人寻弹游戏 BombQuest，以及让 38 名儿童追逐一只隐形幽灵的研究 Play Beyond Vision。",
+   "why_zh": "证明增强现实根本不需要显示屏，只需要房间里有一个让人相信的隐形之物。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "gustavo-marfia",
+   "name": "Gustavo Marfia — VARLab, University of Bologna",
+   "role": "Professor at the University of Bologna; leads the Virtual and Augmented Reality Lab (VARLab)",
+   "based": "Bologna, Italy",
+   "bio": "Gustavo Marfia's VARLab studies how people learn with mixed reality and digital twins. With Mengting Lai, Xiaoxuan Zhao, Wen Li, Shirin Hajahmadi and Pasquale Cascarano he won a Best Paper Award at IEEE ISMAR 2026 for showing that a smell present during mixed-reality training helps people repeat the skill later without the headset.",
+   "why": "Adds an invisible sense to AR training and asks what stays with you after the headset comes off.",
+   "links": {
+    "site": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "博洛尼亚大学教授，主持虚拟与增强现实实验室（VARLab）",
+   "based_zh": "博洛尼亚，意大利",
+   "bio_zh": "Gustavo Marfia 的 VARLab 研究人如何借助混合现实和数字孪生学习。他与 Mengting Lai、Xiaoxuan Zhao、Wen Li、Shirin Hajahmadi、Pasquale Cascarano 合作，证明混合现实训练时出现的气味能帮助人们之后在不戴头显的情况下重现这项技能，并因此获得 IEEE ISMAR 2026 最佳论文奖。",
+   "why_zh": "给 AR 训练加上一种看不见的感官，并追问摘下头显之后还有什么留在你身上。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "woontack-woo",
+   "name": "Woontack Woo — KAIST UVR Lab",
+   "role": "Professor at KAIST; leads the Ubiquitous Virtual Reality (UVR) Lab and the KI-ITC Augmented Reality Research Center",
+   "based": "Daejeon, South Korea",
+   "bio": "Woontack Woo's UVR Lab has worked for two decades on context-aware augmented reality and digital twins. At IEEE ISMAR 2026 the lab showed SnapPhysics (with Dieter Schmalstieg and Shohei Mori at the University of Stuttgart), a playback interface for recorded assembly work, and a Best Paper on sharing touch sensations between collaborators.",
+   "why": "Treats a mixed-reality scene as something with weight and friction, not only shape.",
+   "links": {
+    "site": "https://snapphysics-ismar2026.github.io/",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "韩国科学技术院（KAIST）教授，主持 Ubiquitous Virtual Reality（UVR）实验室和 KI-ITC 增强现实研究中心",
+   "based_zh": "大田，韩国",
+   "bio_zh": "Woontack Woo 的 UVR Lab 二十年来一直研究情境感知的增强现实和数字孪生。在 IEEE ISMAR 2026 上，实验室展示了与斯图加特大学的 Dieter Schmalstieg、Shohei Mori 合作的 SnapPhysics、一个用于回放装配过程录像的界面，以及一篇关于在协作者之间共享触感的最佳论文。",
+   "why_zh": "把混合现实场景看作有重量、有摩擦的东西，而不只是有形状。",
+   "connected_to": [
+    "shohei-mori",
+    "tu-graz-wagner-schmalstieg"
+   ],
+   "discovered_via": "shohei-mori"
+  },
+  {
+   "id": "dunhuang-cave-736-team",
+   "name": "Escaping Dunhuang Cave 736 team (Siyuan Liu, Kehan Xie, Yujie Huang, Jing Zhou et al.)",
+   "role": "Design and HCI researchers from the Hong Kong University of Science and Technology (Guangzhou), Lanzhou University and Eindhoven University of Technology",
+   "based": "Guangzhou, China",
+   "bio": "Siyuan Liu, Kehan Xie, Yujie Huang, Jing Zhou, Jiayu Cao, Jun Hu, Haiqing Xu and Mengru Xue made Escaping Dunhuang Cave 736, a body-tracking game in which players copy dance poses from the Dunhuang murals to get out of a fictional cave. It is part of the SIGGRAPH Asia 2026 XR program.",
+   "why": "Turns looking at a mural into performing it with your own body.",
+   "links": {
+    "site": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "来自香港科技大学（广州）、兰州大学和埃因霍温理工大学的设计与人机交互研究者",
+   "based_zh": "广州，中国",
+   "bio_zh": "Siyuan Liu、Kehan Xie、Yujie Huang、Jing Zhou、Jiayu Cao、Jun Hu、Haiqing Xu 和 Mengru Xue 创作了 Escaping Dunhuang Cave 736：一个身体追踪游戏，玩家要模仿敦煌壁画里的舞姿才能逃出一座虚构的洞窟。作品入选 SIGGRAPH Asia 2026 XR 单元。",
+   "why_zh": "把“看壁画”变成用自己的身体把壁画跳出来。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "taixu-dreamscape",
+   "name": "Taixu Dreamscape (Zhennan Du, Weiwei Xu et al. — Zhejiang University & Shanghai Seazon)",
+   "role": "Mixed-reality theatre production by the State Key Laboratory of CAD&CG at Zhejiang University and Shanghai Seazon Group Cultural Technology",
+   "based": "Hangzhou and Shanghai, China",
+   "bio": "Zhennan Du, Weiwei Xu, Zhuo Zhong, Xuefen Jiang and Yang Yang combine graphics research on volumetric capture with a theatre company's stagecraft. Taixu Dreamscape puts live actors and volumetric digital performers on the same physical stage for an audience wearing Apple Vision Pro; it is part of the SIGGRAPH Asia 2026 XR program.",
+   "why": "Brings volumetric performers into a real theatre at body scale, next to living actors.",
+   "links": {
+    "site": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "由浙江大学 CAD&CG 全国重点实验室与 Shanghai Seazon Group Cultural Technology 联合制作的混合现实戏剧",
+   "based_zh": "杭州、上海，中国",
+   "bio_zh": "Zhennan Du、Weiwei Xu、Zhuo Zhong、Xuefen Jiang 和 Yang Yang 把体积捕捉方面的图形学研究与剧团的舞台经验结合起来。Taixu Dreamscape（《太虚幻境》）让真人演员和体积视频数字演员出现在同一个真实舞台上，观众佩戴 Apple Vision Pro 观看；作品入选 SIGGRAPH Asia 2026 XR 单元。",
+   "why_zh": "把体积视频演员以真人大小带进真正的剧场，站在活生生的演员身边。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hicup-lab",
+   "name": "HICUP Lab — University of Primorska (Michelle U. Fernando)",
+   "role": "Human-computer interaction lab at the Faculty of Mathematics, Natural Sciences and Information Technologies (FAMNIT), University of Primorska",
+   "based": "Koper, Slovenia",
+   "bio": "HICUP Lab studies interaction with mixed reality and everyday devices. Doctoral researcher Michelle U. Fernando works there on immersive guidance for full-body motor skills, using Taekwondo as the test case; her ACM ISS 2026 Doctoral Symposium paper proposes four ways to anchor a guidance avatar around a moving learner.",
+   "why": "Asks a simple, reusable question: where should the teacher stand when the student keeps moving?",
+   "links": {
+    "site": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "普里莫尔斯卡大学数学、自然科学与信息技术学院（FAMNIT）的人机交互实验室",
+   "based_zh": "科佩尔，斯洛文尼亚",
+   "bio_zh": "HICUP Lab 研究混合现实和日常设备的交互。博士研究者 Michelle U. Fernando 在这里研究全身运动技能的沉浸式指导，以跆拳道为案例；她在 ACM ISS 2026 博士生论坛的论文提出了四种把示范化身锚定在移动中的学习者周围的方式。",
+   "why_zh": "提出一个简单又通用的问题：学生一直在动，老师该站在哪里？",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "exertion-games-lab",
+   "name": "Exertion Games Lab — Florian 'Floyd' Mueller (Monash University)",
+   "role": "Research lab at Monash University's Department of Human-Centred Computing that designs bodily play and human-computer integration",
+   "based": "Melbourne, Australia",
+   "bio": "Led by Florian 'Floyd' Mueller, the Exertion Games Lab designs technology that plays with the moving body, from sports games to devices worn on or in the body. BoulderPlay, by Nathalie Overdevest, Ayesha Tariq, Gavin Qian, Ellen Welstead-Cloud, Po-Yao 'Cosmos' Wang, Florian Daiber, Felix Kosmalla, Mueller and Don Samitha Elvitigala, mixes an AR headset and forearm vibration on a real bouldering wall.",
+   "why": "Designs AR for sweating bodies rather than for people standing still.",
+   "links": {
+    "site": "https://exertiongameslab.org/",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "莫纳什大学以人为本计算系的研究实验室，设计身体游戏与人机融合",
+   "based_zh": "墨尔本，澳大利亚",
+   "bio_zh": "Exertion Games Lab 由 Florian 'Floyd' Mueller 主持，设计与运动中的身体一起“玩”的技术，从运动游戏到穿戴在身上甚至体内的设备。BoulderPlay 由 Nathalie Overdevest、Ayesha Tariq、Gavin Qian、Ellen Welstead-Cloud、Po-Yao 'Cosmos' Wang、Florian Daiber、Felix Kosmalla、Mueller 和 Don Samitha Elvitigala 完成，在真实的抱石墙上结合了 AR 头显和前臂振动。",
+   "why_zh": "为流汗的身体设计 AR，而不是为站着不动的人。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "chris-harrison-figlab--gazetags",
+   "creator_ids": [
+    "chris-harrison-figlab"
+   ],
+   "title": "GazeTags",
+   "year": 2026,
+   "description": "Glasses or earbuds send out a narrow infrared beam in the direction your head is facing, and only the coin-sized, roughly two-dollar tags inside that beam answer with who they are and what state they are in: a plant pot reports its soil moisture, a kettle its water temperature, and you can look at a lamp and say 'turn off'. No camera is involved. By Vimal Mollyn and Chris Harrison (Carnegie Mellon University), UIST 2026.",
+   "description_zh": "眼镜或耳机朝着你头部面向的方向发出一束很窄的红外光，只有落在光束里的那些硬币大小、约两美元的标签才会回答自己是谁、处于什么状态：花盆报告土壤湿度，水壶报告水温，你还可以看着一盏灯说“关掉”。整个过程不用摄像头。作者为卡内基梅隆大学的 Vimal Mollyn 和 Chris Harrison，发表于 UIST 2026。",
+   "idea_en": "Know what the wearer is looking at without a camera: objects answer when your head points at them.",
+   "idea_zh": "不用摄像头也能知道佩戴者在看什么：头朝向哪个物体，哪个物体就应答。",
+   "technique": "The head-worn device pulses a 940 nm infrared LED with a cone of about ±20° every few seconds; each tag (an ATtiny85 microcontroller, IR receiver, IR LED and coin cell) wakes only when hit by the beam and replies over infrared with a 16-bit ID plus optional sensor data, working up to about 8 m and lasting more than a year on one battery.",
+   "technique_zh": "头戴设备每隔几秒用一颗 940 nm 红外 LED 发出约 ±20° 的锥形光束；每个标签（ATtiny85 微控制器、红外接收器、红外 LED 和纽扣电池）只有被光束照到才会唤醒，并通过红外回复 16 位 ID 和可选的传感器数据，工作距离可达约 8 米，一颗电池能用一年以上。",
+   "exercise_en": "Build a head-pointing object picker with two Arduinos: tape an infrared LED from a TV remote kit to a cap or glasses and put an IR receiver on each of three objects; when a receiver sees the coded pulse, its object lights up or speaks its name through a laptop. Test how narrow the beam must be to pick one object among three. Twist: let each object answer with a live sensor value, such as a plant's soil moisture, instead of only its name.",
+   "exercise_zh": "用两块 Arduino 做一个“用头指物”的选择器：把电视遥控套件里的红外 LED 贴在帽子或眼镜上，在三件物品上各放一个红外接收器；接收器一收到编码脉冲，对应的物品就亮起来，或通过笔记本电脑报出自己的名字。测试光束要多窄才能在三件物品中只选中一件。变体：让每件物品不只回答名字，而是回答一个实时传感器数值，比如植物的土壤湿度。",
+   "interaction": [
+    "gaze-attention",
+    "tangible-object",
+    "data-information"
+   ],
+   "platform": [
+    "wearable"
+   ],
+   "tech": [
+    "infrared LED",
+    "IR receiver",
+    "ATtiny85",
+    "smart glasses",
+    "earbuds"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "RqhU5rcE2zg",
+    "url": "https://www.youtube.com/watch?v=RqhU5rcE2zg"
+   },
+   "source_url": "https://www.figlab.com/research/2026/gazetags"
+  },
+  {
+   "id": "chris-harrison-figlab--object-agent-twins",
+   "creator_ids": [
+    "chris-harrison-figlab"
+   ],
+   "title": "Object-Agent Twins (OATs)",
+   "year": 2026,
+   "description": "A small device with a screen clips onto an everyday object, such as a plant, a shared refrigerator or a space heater, and shows an animated face whose mood follows what its sensors pick up: the plant looks tense when it needs water, the refrigerator is bored when nobody opens it, the heater is frustrated when it warms an empty room. Not AR in the strict sense, but a clear model for giving real objects a character. By Daehwa Kim and Chris Harrison (Carnegie Mellon University), UIST 2026.",
+   "description_zh": "一个带屏幕的小设备夹在日常物品上，比如一盆植物、一台共用冰箱或一台取暖器，屏幕上是一张会动的脸，情绪跟着传感器感知到的情况变化：植物缺水时显得紧张，冰箱没人开时觉得无聊，取暖器对着空房间加热时会沮丧。严格说这不是 AR，却是给真实物品赋予角色的清晰范例。作者为卡内基梅隆大学的 Daehwa Kim 和 Chris Harrison，发表于 UIST 2026。",
+   "idea_en": "Show an object's state as a character's mood instead of a number.",
+   "idea_zh": "用角色的情绪而不是数字来呈现物品的状态。",
+   "technique": "Each device carries temperature, humidity, motion, water or soil, light and occupancy sensors; the user names the object and describes it on a web page, picks the relevant sensors and edits a generated behaviour template, and the avatar's mood is then recomputed (likely by a language model) whenever the readings change or every hour.",
+   "technique_zh": "每个设备带有温度、湿度、运动、水分或土壤、光照和有人与否等传感器；用户在网页上给物品起名并描述它，选出相关的传感器，再修改系统生成的行为模板，之后每当读数变化或每隔一小时，化身的情绪就会重新计算（很可能由语言模型完成）。",
+   "exercise_en": "Give one object in the classroom a face in AR: read a single sensor (a micro:bit temperature or light value, or simply a phone's light sensor) and map three ranges to three hand-drawn expressions that float on the object through an image marker in Lens Studio or WebXR. Write one sentence the object would say in each mood. Twist: make two neighbouring objects react to each other's moods.",
+   "exercise_zh": "给教室里的一件物品在 AR 中配一张脸：读取一个传感器（micro:bit 的温度或光线数值，或者直接用手机的光线传感器），把三个数值区间对应到三种手绘表情，再用 Lens Studio 或 WebXR 的图像标记让表情浮在物品上。为每种情绪写一句这件物品会说的话。变体：让相邻的两件物品对彼此的情绪作出反应。",
+   "interaction": [
+    "tangible-object",
+    "data-information"
+   ],
+   "platform": [
+    "web"
+   ],
+   "tech": [
+    "environmental sensors",
+    "embedded display",
+    "web app",
+    "language model"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "afOTKkJjBKY",
+    "url": "https://www.youtube.com/watch?v=afOTKkJjBKY"
+   },
+   "source_url": "https://daehwakim.com/oat/",
+   "ai_cat": "agent"
+  },
+  {
+   "id": "ben-pearman--the-rock-can-talk",
+   "creator_ids": [
+    "ben-pearman"
+   ],
+   "title": "The Rock Can Talk (RockXR)",
+   "year": 2026,
+   "description": "A climber on a real cliff wears a mixed-reality headset that draws the route directly on the rock, keeps a small 3D model of the whole climb floating at their side, and answers spoken questions about where to go next. RockXR was evaluated with 16 climbers indoors and field-tested on an outdoor multi-pitch climb. By Ben Pearman (University of Calgary), UIST 2026.",
+   "description_zh": "攀岩者在真实的岩壁上戴着混合现实头显：路线直接画在岩石上，整条线路的小型三维模型一直悬浮在身旁，开口问“接下来往哪走”还能得到回答。RockXR 在室内与 16 名攀岩者做了评估，并在户外的多段线路上实地测试。作者为卡尔加里大学的 Ben Pearman，发表于 UIST 2026。",
+   "idea_en": "Three navigation views on one cliff: a miniature of the whole route, a line on the rock in front of you, and a voice you can ask.",
+   "idea_zh": "同一面岩壁上的三种导航视角：整条线路的微缩模型、眼前岩石上的路线，以及一个可以开口询问的声音。",
+   "technique": "An annotated digital 3D model of the route is aligned with the real wall so the headset can render route marks in place and a persistent world-in-miniature; third-person images rendered from the same model are given to a conversational assistant together with the route description so it can answer questions about the climber's position.",
+   "technique_zh": "带标注的线路数字三维模型与真实岩壁对齐，头显就能在原位渲染路线标记，并持续显示一个微缩世界模型；系统还从同一个模型渲染出第三人称视角的图像，连同线路描述一起交给对话助手，让它能回答与攀岩者所在位置有关的问题。",
+   "exercise_en": "Scan a staircase or a corridor route in your building with a phone LiDAR app, then build a WebXR or AR Foundation scene that shows both a hand-sized miniature of the scan with a 'you are here' dot and arrows placed on the real walls. Have classmates follow the route and say which view they used at which moment. Twist: remove the arrows and let a voice assistant that knows the route description answer questions instead.",
+   "exercise_zh": "用手机 LiDAR 应用扫描楼里的一段楼梯或走廊路线，再用 WebXR 或 AR Foundation 搭一个场景：一边是手掌大小、带“你在这里”圆点的扫描微缩模型，一边是贴在真实墙面上的箭头。请同学沿路线走一遍，说出自己在什么时刻用了哪种视图。变体：去掉箭头，改由一个了解路线描述的语音助手来回答问题。",
+   "interaction": [
+    "location-geo",
+    "data-information",
+    "voice-sound"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "mixed-reality headset",
+    "3D digital twin",
+    "world-in-miniature",
+    "conversational assistant"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "n66Am0qpTQU",
+    "url": "https://www.youtube.com/watch?v=n66Am0qpTQU"
+   },
+   "source_url": "https://www.youtube.com/watch?v=1YcD62BZago",
+   "ai_cat": "agent"
+  },
+  {
+   "id": "ville-makela--pause-and-play",
+   "creator_ids": [
+    "ville-makela"
+   ],
+   "title": "Pause and Play",
+   "year": 2026,
+   "description": "When something in the real world interrupts a VR shooter, the headset switches to passthrough but leaves a piece of the game standing in your room: your own avatar at the spot where you paused, the frozen enemies, the surrounding scenery or the pause menu. In a study with 20 players, the avatar and the enemies were preferred, because the avatar shows where to walk back to and the enemies keep the game situation in view. By Dazhuang Teng and Ville Mäkelä (University of Waterloo), CHI PLAY 2026.",
+   "description_zh": "玩 VR 射击游戏时被现实中的事打断，头显切换到透视画面，但会把游戏的一部分留在你的房间里：你暂停时所在位置上的自己的化身、定格的敌人、周围的场景，或者暂停菜单。在 20 名玩家参与的实验中，化身和敌人最受欢迎：化身告诉你该走回哪里，敌人让你一直看得到游戏局势。作者为滑铁卢大学的 Dazhuang Teng 和 Ville Mäkelä，发表于 CHI PLAY 2026。",
+   "idea_en": "Pausing a virtual world does not have to remove it: leave a bookmark of it standing in your room.",
+   "idea_zh": "暂停虚拟世界不必让它消失：在房间里留下一枚立着的“书签”。",
+   "technique": "On pause the game stops rendering the full virtual environment and shows the passthrough view with only one selected layer of game objects kept at their room-scale positions; resuming restores the rest of the scene around the same anchors.",
+   "technique_zh": "暂停时游戏不再渲染完整的虚拟环境，改为显示透视画面，只把选定的一层游戏对象保留在房间尺度的原位置上；恢复时再围绕同样的锚点把其余场景还原回来。",
+   "exercise_en": "Take any small Quest or WebXR scene and add a pause button that fades out everything except one object type while passthrough fades in; build three versions (keep a ghost of the player's position, keep the characters, keep the furniture) and have classmates walk to the door and back before resuming. Twist: let the kept object slowly change while you are away, so you can see how long you were gone.",
+   "exercise_zh": "找一个小的 Quest 或 WebXR 场景，加一个暂停按钮：透视画面淡入的同时，除了某一类对象之外的一切都淡出；做三个版本（保留玩家所在位置的幻影、保留角色、保留家具），请同学走到门口再回来，然后恢复游戏。变体：让被保留的对象在你离开期间慢慢变化，这样一眼就能看出你离开了多久。",
+   "interaction": [
+    "portal-world",
+    "game-play"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "video passthrough",
+    "VR headset",
+    "room-scale anchoring"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "goS8BD629GY",
+    "url": "https://www.youtube.com/watch?v=goS8BD629GY"
+   },
+   "source_url": "https://doi.org/10.1145/3831285"
+  },
+  {
+   "id": "sebastian-cmentowski--bombquest",
+   "creator_ids": [
+    "sebastian-cmentowski"
+   ],
+   "title": "BombQuest",
+   "year": 2026,
+   "description": "Two players walk around an empty room holding custom handheld devices and search for bombs that nobody can see. The twist is that each device reports how close the other player is to a bomb, so the pair has to keep talking to find anything. Designed for children aged 8 to 10 as an XR game with no screen or headset. By Shanya Migchelsen, Jules van Gurp, Sebastian Cmentowski and Panos Markopoulos (Eindhoven University of Technology), CHI PLAY 2026.",
+   "description_zh": "两名玩家拿着定制的手持设备在空房间里走动，寻找谁也看不见的炸弹。巧妙之处在于：每个人手里的设备报告的是对方离炸弹有多近，所以两人必须不停交流才找得到。游戏为 8 到 10 岁的儿童设计，是一款没有屏幕也没有头显的 XR 游戏。作者为埃因霍温理工大学的 Shanya Migchelsen、Jules van Gurp、Sebastian Cmentowski 和 Panos Markopoulos，发表于 CHI PLAY 2026。",
+   "idea_en": "Invisible objects in the room, and only your partner's device knows how close you are.",
+   "idea_zh": "房间里有看不见的物体，而只有同伴手里的设备知道你离它多近。",
+   "technique": "The positions of both handheld devices are tracked in the room and compared with the virtual bomb locations; each device then gives simple non-visual feedback (likely vibration, light or sound) about the co-player's distance rather than the holder's own.",
+   "technique_zh": "系统在房间里追踪两台手持设备的位置，并与虚拟炸弹的位置比较；随后每台设备给出简单的非视觉反馈（很可能是振动、灯光或声音），反映的是同伴而不是持有者自己与炸弹的距离。",
+   "exercise_en": "Make a two-phone version in the browser: each phone tracks its own position with WebXR or simply by scanning floor markers, sends it to the other phone, and that phone beeps or vibrates faster as the partner nears a hidden point. Play with the screens face down and count how many words the pair needs to find three points. Twist: give one player distance and the other direction, so neither cue is enough alone.",
+   "exercise_zh": "在浏览器里做一个双手机版本：每部手机用 WebXR 或者干脆靠扫描地面标记来追踪自己的位置，并把位置发给另一部手机；同伴越接近隐藏点，另一部手机的蜂鸣或振动就越快。把屏幕朝下来玩，数一数两人找到三个点一共要说多少个词。变体：一名玩家只得到距离，另一名只得到方向，任何一种提示单独都不够用。",
+   "interaction": [
+    "game-play",
+    "multiplayer-social",
+    "tangible-object"
+   ],
+   "platform": [
+    "wearable"
+   ],
+   "tech": [
+    "custom handheld devices",
+    "position tracking",
+    "non-visual feedback"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "zNTlNKf0yhw",
+    "url": "https://www.youtube.com/watch?v=zNTlNKf0yhw"
+   },
+   "source_url": "https://doi.org/10.1145/3800965.3834486"
+  },
+  {
+   "id": "gustavo-marfia--scent-rubiks-cube",
+   "creator_ids": [
+    "gustavo-marfia"
+   ],
+   "title": "Scent Rubik's Cube",
+   "year": 2026,
+   "description": "People learn Rubik's Cube move sequences in a mixed-reality headset: a digital twin follows the physical cube in their hands, with the move notation, arrows and feedback on each turn, while the room smells of rosemary. The next day they repeat the sequences on the bare cube without the headset, and those who meet the same scent again are more precise and report less mental effort than those in mismatched conditions (48 participants). Paper title: 'Olfactory Context Cues for Procedural Skill Transfer from Digital Twin-Based Mixed Reality Learning to Real-World Execution', by Mengting Lai, Xiaoxuan Zhao, Wen Li, Shirin Hajahmadi, Pasquale Cascarano and Gustavo Marfia (University of Bologna); Best Paper Award at IEEE ISMAR 2026.",
+   "description_zh": "参与者戴着混合现实头显学习魔方的转动序列：数字孪生跟随手中的实体魔方，同时显示转动记号、箭头和每一步的对错反馈，而房间里弥漫着迷迭香的气味。第二天他们不戴头显，在实体魔方上重复这些序列；再次闻到同一种气味的人比气味条件不一致的人转得更准，自述的脑力负担也更小（共 48 名参与者）。论文题为“Olfactory Context Cues for Procedural Skill Transfer from Digital Twin-Based Mixed Reality Learning to Real-World Execution”，作者为博洛尼亚大学的 Mengting Lai、Xiaoxuan Zhao、Wen Li、Shirin Hajahmadi、Pasquale Cascarano 和 Gustavo Marfia，获 IEEE ISMAR 2026 最佳论文奖。",
+   "idea_en": "A smell can carry a skill out of the headset: scent the training, then bring the scent back when the overlay is gone.",
+   "idea_zh": "气味可以把技能带出头显：训练时加上气味，等叠加画面消失后再把气味带回来。",
+   "technique": "The headset shows a virtual replica synchronised with the physical cube, plus animated demonstrations and correctness feedback; rosemary scent is released in the room during training, during the next-day test, both or neither, and accuracy and workload are compared across the four combinations.",
+   "technique_zh": "头显显示一个与实体魔方同步的虚拟复制品，以及动画示范和对错反馈；迷迭香气味在训练时、第二天测试时、两者都有或都没有的情况下释放到房间里，再比较这四种组合下的准确度和工作负荷。",
+   "exercise_en": "Teach a five-step paper-folding or knot sequence with AR instructions on a phone (image-anchored arrows in Lens Studio or WebXR) while half the class has a scented cotton pad, such as mint or citrus, on the desk. Two days later everyone repeats the task from memory, with the scent returned for some students, and the class compares errors and time. Twist: swap smell for a short looping sound and see whether it works as well.",
+   "exercise_zh": "用手机上的 AR 说明（在 Lens Studio 或 WebXR 中做锚定在图像上的箭头）教一套五个步骤的折纸或绳结，同时让半个班的桌上放一片带香味的棉片，比如薄荷或柑橘味。两天后所有人凭记忆重做一遍，其中一部分同学桌上重新放回香味，全班比较出错次数和用时。变体：把气味换成一小段循环播放的声音，看看效果是否一样好。",
+   "interaction": [
+    "tangible-object",
+    "data-information"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "mixed-reality headset",
+    "digital twin",
+    "object tracking",
+    "olfactory cue"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "tIIqcQXLtMA",
+    "url": "https://www.youtube.com/watch?v=tIIqcQXLtMA"
+   },
+   "source_url": "https://www.eurekalert.org/news-releases/1152311"
+  },
+  {
+   "id": "woontack-woo--snapphysics",
+   "creator_ids": [
+    "woontack-woo"
+   ],
+   "title": "SnapPhysics",
+   "year": 2026,
+   "description": "From a single photo of a table full of objects, the system rebuilds each object in 3D and estimates its mass, friction and centre of gravity, so that in VR and AR the copies slide, tip and collide in a believable way instead of all behaving like identical boxes; the video marks each estimated centre of gravity with a red dot and compares the scene with and without physical properties. By Suji Kang, Seok-Young Kim, Young Bin Kim, Taewook Ha and Woontack Woo (KAIST UVR Lab) with Dieter Schmalstieg and Shohei Mori (University of Stuttgart), IEEE ISMAR 2026.",
+   "description_zh": "只凭一张摆满物品的桌面照片，系统就把每件物品重建成三维模型，并估计它的质量、摩擦和重心，于是在 VR 和 AR 里这些复制品会以可信的方式滑动、倾倒和碰撞，而不是全都像一模一样的盒子；视频里用红点标出每个估计出的重心，并对比了有无物理属性时的场景。作者为 KAIST UVR Lab 的 Suji Kang、Seok-Young Kim、Young Bin Kim、Taewook Ha、Woontack Woo，以及斯图加特大学的 Dieter Schmalstieg 和 Shohei Mori，发表于 IEEE ISMAR 2026。",
+   "idea_en": "One snapshot should tell AR not only where things are but how heavy, slippery and tippy they are.",
+   "idea_zh": "一张照片应该告诉 AR 的不只是东西在哪里，还有它们多重、多滑、多容易倒。",
+   "technique": "A training-free pipeline reconstructs object shapes (SAM3D) and metric depth (DA3) from one image, aligns them, builds a scene graph of support and contact relations, and has a vision-language model estimate mass, friction and centre of gravity per object in support order; a ten-object scene takes about five minutes offline.",
+   "technique_zh": "这是一条无需训练的流程：从一张图像重建物体形状（SAM3D）和度量深度（DA3）并对齐，建立记录支撑与接触关系的场景图，再让视觉语言模型按支撑顺序估计每件物体的质量、摩擦和重心；一个十件物品的场景离线处理约需五分钟。",
+   "exercise_en": "Photograph five desk objects, ask a vision-language model for each one's likely mass, friction and centre of gravity, and type those values into rigidbodies on rough proxy shapes in Unity or a WebXR physics scene placed over the real desk. Push the proxies with a virtual finger and compare with pushing the real things. Twist: deliberately give one object a wrong weight and see whether classmates can spot which one feels fake.",
+   "exercise_zh": "给桌上的五件物品拍照，请视觉语言模型估计每件物品可能的质量、摩擦和重心，再把这些数值填进 Unity 或 WebXR 物理场景里粗略替身形状的刚体上，并把场景叠在真实桌面上。用虚拟手指去推这些替身，和推真实物品的感觉作比较。变体：故意给其中一件物品设一个错误的重量，看同学能不能发现哪一件显得假。",
+   "interaction": [
+    "spatial-mapping",
+    "tangible-object"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "single-image 3D reconstruction",
+    "vision-language model",
+    "scene graph",
+    "physics simulation"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "yspCycKY7Do",
+    "url": "https://www.youtube.com/watch?v=yspCycKY7Do"
+   },
+   "source_url": "https://snapphysics-ismar2026.github.io/",
+   "ai_cat": "understand"
+  },
+  {
+   "id": "dunhuang-cave-736-team--escaping-dunhuang-cave-736",
+   "creator_ids": [
+    "dunhuang-cave-736-team"
+   ],
+   "title": "Escaping Dunhuang Cave 736",
+   "year": 2026,
+   "description": "The player is trapped in a fictional Dunhuang cave and has to strike the dance poses of painted mural figures with their own body to get out. The screen shows the mural dancers and a countdown, a camera watches the player, and each pose is judged as passed or failed. By Siyuan Liu, Kehan Xie, Yujie Huang, Jing Zhou, Jiayu Cao, Jun Hu, Haiqing Xu and Mengru Xue (HKUST Guangzhou, Lanzhou University, Eindhoven University of Technology), SIGGRAPH Asia 2026 XR program.",
+   "description_zh": "玩家被困在一座虚构的敦煌洞窟里，必须用自己的身体摆出壁画人物的舞姿才能逃出去。屏幕上是壁画中的舞者和倒计时，摄像头看着玩家，每个姿势都会被判定为通过或失败。作者为 Siyuan Liu、Kehan Xie、Yujie Huang、Jing Zhou、Jiayu Cao、Jun Hu、Haiqing Xu 和 Mengru Xue（香港科技大学（广州）、兰州大学、埃因霍温理工大学），入选 SIGGRAPH Asia 2026 XR 单元。",
+   "idea_en": "The key to the cave is your body: match a thousand-year-old painted pose to move on.",
+   "idea_zh": "打开洞窟的钥匙是你的身体：摆出千年前画下的姿势才能继续前进。",
+   "technique": "Real-time body tracking from a camera extracts the player's skeleton and compares it with reference poses taken from Dunhuang mural figures (likely by joint-angle similarity within a time limit); a story layer strings the poses into an escape sequence.",
+   "technique_zh": "系统用摄像头做实时身体追踪，提取玩家的骨架，并与取自敦煌壁画人物的参考姿势作比较（很可能是在限定时间内比较关节角度的相似度）；一层故事线把这些姿势串成逃脱的过程。",
+   "exercise_en": "Pick three figures from a painting or sculpture tradition you know, trace each pose as a stick figure, and use MediaPipe Pose in the browser to unlock the next image only when the player's joint angles match the drawing within a tolerance. Twist: make it a two-player pose, where the pair must form one figure together.",
+   "exercise_zh": "从你熟悉的绘画或雕塑传统中选三个人物，把每个姿势描成火柴人，再在浏览器里用 MediaPipe Pose 实现：只有玩家的关节角度在容差范围内与图样吻合时，才解锁下一张图。变体：改成双人姿势，两个人必须一起拼成一个人物。",
+   "interaction": [
+    "hand-body",
+    "game-play"
+   ],
+   "platform": [
+    "desktop"
+   ],
+   "tech": [
+    "body tracking",
+    "pose matching",
+    "camera"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "cRuD-3EUfRI",
+    "url": "https://www.youtube.com/watch?v=cRuD-3EUfRI"
+   },
+   "source_url": "https://sa2026.conference-schedule.org/?post_type=page&p=15&id=xr_214&sess=sess278",
+   "ai_cat": "body"
+  },
+  {
+   "id": "taixu-dreamscape--taixu-dreamscape",
+   "creator_ids": [
+    "taixu-dreamscape"
+   ],
+   "title": "Taixu Dreamscape",
+   "year": 2026,
+   "description": "A theatre piece for an audience wearing Apple Vision Pro: live actors and volumetric digital performers share one physical stage, and spectators walk through the venue while body-scale digital characters stay anchored to the architecture and in sync with the live performance, lighting and sound. The introduction video also shows how the performers were recorded in a multi-camera capture rig. By Zhennan Du, Weiwei Xu, Zhuo Zhong, Xuefen Jiang and Yang Yang (Zhejiang University and Shanghai Seazon), SIGGRAPH Asia 2026 XR program.",
+   "description_zh": "一部为佩戴 Apple Vision Pro 的观众创作的戏剧：真人演员和体积视频数字演员共用同一个真实舞台，观众在场地里走动，真人大小的数字角色始终锚定在建筑上，并与现场表演、灯光和声音保持同步。介绍视频里还能看到演员在多机位采集装置中被录制的过程。作者为 Zhennan Du、Weiwei Xu、Zhuo Zhong、Xuefen Jiang 和 Yang Yang（浙江大学与 Shanghai Seazon），入选 SIGGRAPH Asia 2026 XR 单元。",
+   "idea_en": "A recorded performer can share the stage with a living one if both obey the same room and the same cue.",
+   "idea_zh": "只要服从同一个空间、同一个提示点，录制下来的演员就能和活生生的演员同台。",
+   "technique": "Performers are recorded in a multi-camera volumetric capture system and played back as 4D Gaussian splats in the headset, registered to the venue's architecture and triggered in time with the show's lighting and sound cues.",
+   "technique_zh": "演员先在多机位体积捕捉系统里被录制下来，再以 4D Gaussian Splatting 的形式在头显中回放，与场地建筑对齐，并与演出的灯光和声音提示点同步触发。",
+   "exercise_en": "Record a classmate's ten-second gesture as a volumetric clip or simply a cut-out video billboard, anchor it at a marked spot in the room with AR Foundation or a Quest scene, and rehearse a short duet in which a live performer hands an imaginary object to the recorded one on a shared audio cue. Twist: let the audience walk around and find the one spot where the handover lines up perfectly.",
+   "exercise_zh": "把同学一段十秒钟的动作录成体积视频片段，或者干脆做成抠像的视频面片，用 AR Foundation 或 Quest 场景把它锚定在房间里标好的位置，再排练一段简短的双人表演：现场表演者在同一个声音提示点上把一件想象中的物品递给录像里的人。变体：让观众四处走动，找出唯一能让“交接”完全对上的那个位置。",
+   "interaction": [
+    "performance-stage",
+    "spatial-mapping"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "Apple Vision Pro",
+    "volumetric capture",
+    "4D Gaussian Splatting"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "Hq1RdA2tTk0",
+    "url": "https://www.youtube.com/watch?v=Hq1RdA2tTk0"
+   },
+   "source_url": "https://sa2026.conference-schedule.org/?post_type=page&p=15&id=xr_143&sess=sess280"
+  },
+  {
+   "id": "hicup-lab--avatar-guidance-anchoring",
+   "creator_ids": [
+    "hicup-lab"
+   ],
+   "title": "Avatar Guidance in Mixed Reality: Four Spatial Anchoring Modes",
+   "year": 2026,
+   "description": "A concept demonstration with prerecorded Taekwondo movements shows four answers to one question: where should a guidance avatar be while the learner moves and turns? It can travel through the room on its own path (world-anchored dynamic), stay at one spot (world-anchored static), follow the learner's torso, or follow the head. The video is a simulation of the design options, not a user study. By Michelle U. Fernando (HICUP Lab, University of Primorska), ACM ISS 2026 Doctoral Symposium.",
+   "description_zh": "一段用预先录制的跆拳道动作做的概念演示，针对同一个问题给出四种答案：学习者一边移动一边转身时，示范化身应该在哪里？它可以在房间里沿自己的路线移动（世界锚定·动态）、停在一个固定位置（世界锚定·静态）、跟随学习者的躯干，或者跟随头部。视频是对这些设计选项的模拟，并非用户研究。作者为普里莫尔斯卡大学 HICUP Lab 的 Michelle U. Fernando，发表于 ACM ISS 2026 博士生论坛。",
+   "idea_en": "Where a virtual teacher is anchored (world, torso or head) changes whether you can keep watching it while you move.",
+   "idea_zh": "虚拟老师锚定在哪里（世界、躯干还是头部），决定了你移动时还能不能一直看着它。",
+   "technique": "The same motion-captured demonstration is replayed on an avatar whose root is parented either to a fixed or moving world frame, to the learner's torso, or to the head pose, so its position and facing respond differently when the learner walks and changes direction.",
+   "technique_zh": "同一段动作捕捉的示范在化身身上回放，而化身的根节点分别挂在固定或移动的世界坐标系、学习者的躯干，或头部姿态上，因此当学习者走动和转向时，化身的位置和朝向会有不同的反应。",
+   "exercise_en": "Put a looping Mixamo dance or exercise animation in a Quest passthrough or phone AR scene and add a switch for four anchors: fixed in the room, moving along the routine's path, attached to your chest direction, attached to your head. Learn an eight-count routine with each one and note when you lose sight of the avatar. Twist: add a second avatar that mirrors your own tracked body next to the teacher.",
+   "exercise_zh": "在 Quest 透视或手机 AR 场景里放一段循环播放的 Mixamo 舞蹈或健身动画，并加一个可切换四种锚定方式的开关：固定在房间里、沿动作路线移动、跟随你胸口的朝向、跟随你的头部。用每一种方式各学一套八拍动作，记下什么时候会看不到化身。变体：在老师旁边再加一个镜像你自己被追踪身体的化身。",
+   "interaction": [
+    "hand-body",
+    "data-information"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "motion capture",
+    "avatar animation",
+    "world- and body-referenced anchoring"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "EMqeresWtcs",
+    "url": "https://www.youtube.com/watch?v=EMqeresWtcs"
+   },
+   "source_url": "https://programs.sigchi.org/iss/2026/program/content/278827"
+  },
+  {
+   "id": "exertion-games-lab--boulderplay",
+   "creator_ids": [
+    "exertion-games-lab"
+   ],
+   "title": "BoulderPlay",
+   "year": 2025,
+   "description": "A boulderer wears an AR headset and vibration devices on both forearms. A virtual competitor places 3D plants on the real climbing wall; the plants hide holds and change which routes look possible, and touching one makes the forearm buzz. In a study with five climbers it turned a fixed wall into a changing one. By Nathalie Overdevest, Ayesha Tariq, Gavin Qian, Ellen Welstead-Cloud, Po-Yao 'Cosmos' Wang, Florian Daiber, Felix Kosmalla, Florian 'Floyd' Mueller and Don Samitha Elvitigala (Monash University and DFKI), SportsHCI 2025; the video was published in November 2026.",
+   "description_zh": "抱石者戴着 AR 头显，两只前臂上各绑一个振动装置。虚拟对手在真实的攀岩墙上放置三维植物；植物会挡住岩点，改变哪些路线看起来可行，碰到植物时前臂会振动。在五名攀岩者参与的研究中，它把一面固定的墙变成了会变化的墙。作者为 Nathalie Overdevest、Ayesha Tariq、Gavin Qian、Ellen Welstead-Cloud、Po-Yao 'Cosmos' Wang、Florian Daiber、Felix Kosmalla、Florian 'Floyd' Mueller 和 Don Samitha Elvitigala（莫纳什大学与 DFKI），发表于 SportsHCI 2025；视频于 2026 年 11 月公开。",
+   "idea_en": "Virtual obstacles you can see and feel change a physical wall without moving a single hold.",
+   "idea_zh": "看得见也摸得着的虚拟障碍，不挪动任何一个岩点就改变了一面实体的墙。",
+   "technique": "The headset renders 3D plants registered to positions on the bouldering wall, chosen by a virtual opponent in alternating turns; hand contact with a plant (likely detected with the headset's hand tracking) triggers the vibrotactile device on that forearm.",
+   "technique_zh": "头显把三维植物渲染在抱石墙上对应的位置，这些位置由虚拟对手在轮流进行的回合中选定；手一碰到植物（很可能由头显的手部追踪检测），就触发那只前臂上的振动装置。",
+   "exercise_en": "Tape ten paper 'holds' on a classroom wall, and in a Quest passthrough or phone AR scene let an opponent place three virtual plants over them between turns; the player must touch a sequence of free holds without brushing a plant, and a phone strapped to the forearm vibrates on contact. Twist: let the plants grow slowly during a turn, so hesitation closes the route.",
+   "exercise_zh": "在教室墙上贴十个纸做的“岩点”，在 Quest 透视或手机 AR 场景里让对手在回合之间往上面放三株虚拟植物；玩家要依次摸到没被挡住的岩点而不碰到植物，绑在前臂上的手机会在碰到时振动。变体：让植物在一个回合里慢慢长大，一犹豫路线就被封住。",
+   "interaction": [
+    "hand-body",
+    "game-play",
+    "spatial-mapping"
+   ],
+   "platform": [
+    "headset",
+    "wearable"
+   ],
+   "tech": [
+    "AR headset",
+    "vibrotactile forearm devices",
+    "hand tracking"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "i_dxiL9vjCc",
+    "url": "https://www.youtube.com/watch?v=i_dxiL9vjCc"
+   },
+   "source_url": "https://doi.org/10.1145/3749385.3749409"
+  }
+ ],
+ "leads": [
+  {
+   "name": "JangHyeon Lee, Huayu Wang, Jiadi Luo & Lawrence Kim (Simon Fraser University) — SpeakAR",
+   "why": "ACM ISS 2026 paper: AR glasses reshape how a nervous speaker sees the audience, either adding virtual elements or occluding faces; occlusion lowered anxiety. No video found yet.",
+   "link": "https://programs.sigchi.org/iss/2026/program/content/278584",
+   "found_via": "hicup-lab",
+   "status": "open"
+  },
+  {
+   "name": "Jana Hoffard, Shio Miyafuji & Hideki Koike — StringWall",
+   "why": "ACM ISS 2026: a room divider made of rubber strings that is also a projection surface and a touchable interface, tracked by a depth camera. No video on the Koike Lab channel yet.",
+   "link": "https://programs.sigchi.org/iss/2026/program/content/278822",
+   "found_via": "hideki-koike",
+   "status": "open"
+  },
+  {
+   "name": "RAI Radiotelevisione Italiana (Alberto Ciprian, Roberto Iacoviello et al.) — AURORA",
+   "why": "ACM ISS 2026 demo: say any object aloud while wearing HoloLens 2 and a textured 3D model of it is generated and placed in front of you (Whisper, FLUX, Hunyuan3D). No video found.",
+   "link": "https://programs.sigchi.org/iss/2026/program/content/278823",
+   "found_via": "hicup-lab",
+   "status": "open"
+  },
+  {
+   "name": "Tomoki Noguchi & Naoya Koizumi (University of Electro-Communications) — CAST-Table",
+   "why": "SIGGRAPH Asia 2026 Emerging Technologies: a standing mid-air image on a table that people on all sides can see and reach into, next to real objects. No video yet; recheck after the conference (1–4 Dec).",
+   "link": "https://sa2026.conference-schedule.org/?post_type=page&p=15&id=emt_113&sess=sess276",
+   "found_via": "taixu-dreamscape",
+   "status": "open"
+  },
+  {
+   "name": "Mitsuru Ito, Toshiaki Koike-Akino, Yuki Ban & Tomohiro Amemiya — HandoverLock",
+   "why": "SIGGRAPH Asia 2026 Emerging Technologies: a 'tactile timestamp' that marks the instant a virtual object passes from one hand to the other in mixed reality. No video yet.",
+   "link": "https://sa2026.conference-schedule.org/?post_type=page&p=15&id=emt_129&sess=sess275",
+   "found_via": "taixu-dreamscape",
+   "status": "open"
+  },
+  {
+   "name": "Taisei Goto, Toshiro Otsuka & Ryo Ishiyama (Kyushu University) — Monokko",
+   "why": "SIGGRAPH Asia 2026 XR: real objects become characters you speak to and stroke, answering with AI-driven behaviour. No video found; pairs well with Object-Agent Twins.",
+   "link": "https://sa2026.conference-schedule.org/?post_type=page&p=15&id=xr_206&sess=sess280",
+   "found_via": "chris-harrison-figlab",
+   "status": "open"
+  },
+  {
+   "name": "Myeongseong Kim, Ahyeon Lee, Joo-Hong Shin et al. (KIST) — Murmuration: Chromatic Chorus",
+   "why": "SIGGRAPH Asia 2026 XR: hand-made paper birds become persistent virtual agents carrying each visitor's colours and voice. No video found.",
+   "link": "https://sa2026.conference-schedule.org/?post_type=page&p=15&id=xr_183&sess=sess279",
+   "found_via": "taixu-dreamscape",
+   "status": "open"
+  },
+  {
+   "name": "Yin-Ting Lu & Neng-Hao Yu (National Taiwan University of Science and Technology) — One More",
+   "why": "SIGGRAPH Asia 2026 XR: a table tennis story that ends in a mixed-reality rally with your childhood self. No video found.",
+   "link": "https://sa2026.conference-schedule.org/?post_type=page&p=15&id=xr_154&sess=sess167",
+   "found_via": "taixu-dreamscape",
+   "status": "open"
+  },
+  {
+   "name": "Selin Choi, Sun Ah Bae, Dooyoung Kim & Woontack Woo — Object-Driven Event Retrieval with Assembled Object Interface",
+   "why": "IEEE ISMAR 2026: replay recorded mixed-reality assembly work by pointing at parts of the finished object. A 65 s video exists (https://www.youtube.com/watch?v=ZwCczDq_dow) but no paper text was available to describe it accurately; add once the paper is online.",
+   "link": "https://www.youtube.com/watch?v=ZwCczDq_dow",
+   "found_via": "woontack-woo",
+   "status": "open"
+  },
+  {
+   "name": "Jules van Gurp, Giulia Cosentino, Sebastian Cmentowski et al. — Play Beyond Vision",
+   "why": "CHI PLAY 2026 paper: 38 children locate and chase an invisible ghost using custom wearables, a study of 'non-visual XR'. Video figure exists (https://www.youtube.com/watch?v=R9ycBuAI5-A); left out for now because it overlaps with BombQuest.",
+   "link": "https://doi.org/10.1145/3831346",
+   "found_via": "sebastian-cmentowski",
+   "status": "open"
+  },
+  {
+   "name": "Falk Stock & Michael Rohs (Leibniz University Hannover) — SpellGlasses",
+   "why": "CHI PLAY 2026: smart glasses explain Magic: The Gathering cards and rules during physical play. Only a 7-minute talk recording is online (https://www.youtube.com/watch?v=Oajs9F5Oz9M); look for a demo video.",
+   "link": "https://doi.org/10.1145/3831355",
+   "found_via": "ville-makela",
+   "status": "open"
+  }
+ ]
+}

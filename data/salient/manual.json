@@ -104,5 +104,35 @@
   "why_en": "One machine leaves a bird's footprints and another erases them.",
   "why_zh": "一台机器留下鸟的脚印，另一台把它们抹掉。",
   "cat": "time"
+ },
+ "harry-banda--who-let-the-flies-in": {
+  "why_en": "Catch the flies in your room with a pair of chopsticks.",
+  "why_zh": "用一双筷子夹住房间里的苍蝇。",
+  "cat": "play"
+ },
+ "studio-roosegaarde--waterlicht": {
+  "why_en": "A sheet of blue light overhead shows how high the water could rise.",
+  "why_zh": "头顶的一片蓝光，标出水可能涨到的高度。",
+  "cat": "invisible"
+ },
+ "4th-wall-breakers--wormhole-electric-co": {
+  "why_en": "Put a hand into one hole and it comes out of another across the room.",
+  "why_zh": "把手伸进一个洞，它从房间另一头的洞里伸出来。",
+  "cat": "portal"
+ },
+ "william-forsythe--uplifting-instruction": {
+  "why_en": "AR planes tow an instruction across the sky, and reading it makes you lift your head.",
+  "why_zh": "AR 飞机拖着一条指令飞过天空，要读它就得抬起头。",
+  "cat": "rewrite"
+ },
+ "ville-makela--pause-and-play": {
+  "why_en": "Pause VR and your avatar stays standing in your real room like a bookmark.",
+  "why_zh": "暂停 VR，你的化身留在真实房间里，像一枚书签。",
+  "cat": "time"
+ },
+ "tung-yen-chou--shifting-connections": {
+  "why_en": "Bodies become points and closeness becomes lines, so a group sees its own distances.",
+  "why_zh": "身体是点、靠近是线，一群人看见彼此的距离。",
+  "cat": "invisible"
  }
 }

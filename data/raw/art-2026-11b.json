@@ -1,0 +1,506 @@
+{
+ "batch": "art-2026-11b",
+ "creators": [
+  {
+   "id": "william-forsythe",
+   "name": "William Forsythe",
+   "role": "Choreographer and artist; maker of Choreographic Objects",
+   "based": "Vermont, US",
+   "bio": "American choreographer (born 1949) who directed Ballett Frankfurt and The Forsythe Company and reshaped contemporary ballet. Since the 1990s he has also made Choreographic Objects: installations and instructions that make visitors notice how they move. Uplifting Instruction (2026), made with the AR platform WAVA, is described by Frieze as his first augmented reality work.",
+   "why": "He treats an AR object as a choreographic instruction: the artwork is the movement it causes in the viewer's body, not the 3D model.",
+   "links": {
+    "site": "https://www.williamforsythe.com",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "编舞家、艺术家；“编舞物件”（Choreographic Objects）的创作者",
+   "based_zh": "佛蒙特州，美国",
+   "bio_zh": "美国编舞家（1949 年生），曾执掌 Ballett Frankfurt 和 The Forsythe Company，重塑了当代芭蕾。自 1990 年代起，他还创作“编舞物件”（Choreographic Objects）：让观众留意自己如何移动的装置与指令。2026 年与 AR 平台 WAVA 合作的《Uplifting Instruction》被 Frieze 称为他的第一件增强现实作品。",
+   "why_zh": "他把 AR 物体当作一条编舞指令：作品不是那个三维模型，而是它在观众身体里引发的动作。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lai-kuan-yuan",
+   "name": "LAI Kuan-yuan",
+   "role": "Taiwanese independent filmmaker and XR creator",
+   "based": "Taiwan",
+   "bio": "Independent filmmaker and XR creator whose work centres on environment, culture, memory and identity. His XR pieces include The Train Hamasen, Speak to Awaken: Diving into Siraya, Pneumo Hacker and The Reflected City; Towards Jimagawod premiered in the XR Dreamland competition of the 2026 Kaohsiung Film Festival.",
+   "why": "He turns reading aloud into a shared mixed reality ritual, so literature becomes something a group performs in space.",
+   "links": {
+    "site": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "台湾独立导演、XR 创作者",
+   "based_zh": "台湾",
+   "bio_zh": "独立导演与 XR 创作者，作品关注环境、文化、记忆与身份认同。他的 XR 作品包括《The Train Hamasen》《Speak to Awaken: Diving into Siraya》《Pneumo Hacker》和《The Reflected City》；《Towards Jimagawod》在 2026 年高雄电影节 XR Dreamland 竞赛单元首映。",
+   "why_zh": "他把“朗读”变成一场多人共享的混合现实仪式，让文学成为一群人在空间里共同表演的事。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "stephanie-sphyras",
+   "name": "Stéphanie Sphyras",
+   "role": "French immersive creator; director of the mixed reality experience THE PARTY",
+   "based": "France",
+   "bio": "French creator of THE PARTY, a collective walk-through mixed reality experience made with B. Nguyen Tat and M. Deshayes. The project was a laureate of the Villa Formose Immersive XR prototyping residency and was shown as a prototype at the 2026 Kaohsiung Film Festival's XR Dreamland.",
+   "why": "She uses passthrough headsets to make strangers look at each other rather than at a virtual world: the content of the piece is the party in the room.",
+   "links": {
+    "site": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "法国沉浸式创作者；混合现实体验《THE PARTY》的导演",
+   "based_zh": "法国",
+   "bio_zh": "法国创作者，与 B. Nguyen Tat 和 M. Deshayes 共同创作了多人漫游式混合现实体验《THE PARTY》。该项目入选 Villa Formose Immersive XR 原型驻地计划，并以原型形式在 2026 年高雄电影节 XR Dreamland 展出。",
+   "why_zh": "她用透视头显让陌生人互相看见，而不是去看一个虚拟世界：作品的内容就是房间里的这场派对。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "felix-frank",
+   "name": "Felix Frank",
+   "role": "German digital artist and designer working in video mapping and light installation",
+   "based": "Munich, Germany",
+   "bio": "Digital artist and designer who grew up and studied in Munich, Paris and Barcelona, where he took a master's in motion design. He specialises in video mapping and light installations that he calls 'paintings of light', and has won awards at Tokyo Lights and Constellations de Metz.",
+   "why": "His mappings do not cover a building with pictures; they draw out the geometry the facade already has, in strict black and white.",
+   "links": {
+    "site": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "德国数字艺术家、设计师，从事建筑投影与灯光装置",
+   "based_zh": "慕尼黑，德国",
+   "bio_zh": "数字艺术家与设计师，在慕尼黑、巴黎和巴塞罗那成长与求学，并在巴塞罗那取得动态设计硕士学位。他专注于建筑投影（video mapping）和灯光装置，称之为“光的绘画”，曾在 Tokyo Lights 和 Constellations de Metz 获奖。",
+   "why_zh": "他的投影不是给建筑盖上一层图画，而是用严格的黑白把立面本身已有的几何关系“画”出来。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tung-yen-chou",
+   "name": "Tung-Yen Chou (Very Theatre)",
+   "role": "Taiwanese theatre director and new media artist; founder of Very Theatre",
+   "based": "Taipei, Taiwan",
+   "bio": "Theatre director and new media artist who founded Very Theatre in Taipei and moves between stage, film and VR. His VR works include In the Mist and Traversing the Mist; Shifting Connections, commissioned by Taipei Fine Arts Museum, was in competition at Venice Immersive 2026 and shown at IDFA DocLab 2026.",
+   "why": "He strips collective VR down to bodies as points and the lines between them, so the relationship itself becomes the image.",
+   "links": {
+    "site": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "台湾剧场导演、新媒体艺术家；Very Theatre 创办人",
+   "based_zh": "台北，台湾",
+   "bio_zh": "剧场导演与新媒体艺术家，在台北创办 Very Theatre，创作横跨剧场、电影与 VR。他的 VR 作品包括《In the Mist》和《Traversing the Mist》；由台北市立美术馆委托创作的《Shifting Connections》入围 2026 年 Venice Immersive 竞赛单元，并在 IDFA DocLab 2026 展出。",
+   "why_zh": "他把多人 VR 精简到只剩“身体是点、点之间是线”，让关系本身成为画面。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "noa-jansma",
+   "name": "Noa Jansma",
+   "role": "Dutch anti-disciplinary multimedia designer and artist",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Amsterdam-based multimedia designer whose work explores human experience in a post-natural world; earlier projects include Dear Catcallers and Buycloud. My Father is Turning into Soil (2026), made with her brother Mas Jansma, was selected for IDFA DocLab 2026.",
+   "why": "She makes one unexpected swap of scale and place, microscope footage of a grave shown where the sky should be, and a whole idea of the afterlife changes.",
+   "links": {
+    "site": "https://noajansma.com",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "role_zh": "荷兰“反学科”多媒体设计师、艺术家",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "bio_zh": "常驻阿姆斯特丹的多媒体设计师，作品探讨“后自然”世界中的人类经验；早期项目包括《Dear Catcallers》和《Buycloud》。2026 年与弟弟 Mas Jansma 合作的《My Father is Turning into Soil》入选 IDFA DocLab 2026。",
+   "why_zh": "她只做了一次出人意料的尺度与位置互换——把墓土的显微影像放到本该是天空的地方——关于“身后世界”的整个想象就变了。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "william-forsythe--uplifting-instruction",
+   "creator_ids": [
+    "william-forsythe"
+   ],
+   "title": "Uplifting Instruction",
+   "year": 2026,
+   "description": "Point a phone at the sky above Museum Voorlinden and three small airplanes fly past, each towing a black banner; read in sequence, the banners spell out an instruction that begins 'LIFT YOUR HEAD / TO THOSE ON HIGH / THEN YELL'. The work is invisible to the naked eye, is opened by scanning a QR code on the estate, and accompanies Forsythe's solo exhibition Choreographic Objects.",
+   "description_zh": "在 Museum Voorlinden 的庭园里把手机对准天空，三架小飞机依次飞过，各拖着一条黑色横幅；连起来读是一条指令，开头是“LIFT YOUR HEAD / TO THOSE ON HIGH / THEN YELL”。作品肉眼不可见，需要扫描庄园里的二维码才能打开，是 Forsythe 个展《Choreographic Objects》的户外部分。",
+   "idea_en": "A choreographer's AR piece is an instruction in the sky: to read the banners you must lift your head and turn your body, so reading the work already performs it.",
+   "idea_zh": "编舞家的 AR 作品是一条写在天上的指令：要读完横幅，你就得抬头、转身——读作品的过程就已经在执行它。",
+   "technique": "Site-specific phone AR made with WAVA, a platform that places works by AR and GPS: animated 3D airplanes with text banners are anchored high above the estate, likely on a looping flight path, so viewers must pan the phone to follow them.",
+   "technique_zh": "用 WAVA 平台制作的在地手机 AR（该平台靠 AR 与 GPS 定位作品）：带文字横幅的三维飞机动画被锚定在庄园高空，很可能沿循环航线飞行，观众必须转动手机才能跟上它们。",
+   "exercise_en": "Write a five-word instruction for the body, then build a phone AR scene (Lens Studio or 8th Wall world tracking) where a small plane tows it across the sky above your campus so slowly that readers must turn to finish it. Twist: split the sentence across two planes flying in opposite directions, so nobody can read it without moving their feet.",
+   "exercise_zh": "写一条五个词以内的身体指令，再做一个手机 AR 场景（Lens Studio 或 8th Wall 世界追踪）：一架小飞机拖着它缓缓飞过校园上空，慢到读的人必须转身才能读完。变体：把句子拆到两架反向飞行的飞机上，不挪动脚步就读不全。",
+   "interaction": [
+    "location-geo",
+    "hand-body",
+    "gaze-attention"
+   ],
+   "platform": [
+    "phone"
+   ],
+   "tech": [
+    "WAVA",
+    "geolocated AR",
+    "3D animation"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "khiUUU6TmyI",
+    "url": "https://www.youtube.com/watch?v=khiUUU6TmyI"
+   },
+   "source_url": "https://www.frieze.com/article/augmented-reality-opinion"
+  },
+  {
+   "id": "lai-kuan-yuan--towards-jimagawod",
+   "creator_ids": [
+    "lai-kuan-yuan"
+   ],
+   "title": "Towards Jimagawod",
+   "year": 2026,
+   "description": "A small group wearing headsets stands in a dark room and reads aloud passages from Black Wings, the ocean novel by Tao writer Syaman Rapongan; their voices set streaks of light, flying fish and mahi-mahi swimming across the projected walls and through the mixed reality view, interwoven with the author's own voice, figure and memories. The 18-minute piece is described as an immersive documentary and a collective XR literary ritual.",
+   "description_zh": "几位戴着头显的观众站在暗室里，朗读达悟族作家夏曼·蓝波安的海洋小说《黑色的翅膀》的片段；他们的声音让光的轨迹、飞鱼和鬼头刀在投影墙面与混合现实画面中游动起来，并与作者本人的声音、身影和记忆交织。这件 18 分钟的作品被描述为一部沉浸式纪录片，也是一场集体的 XR 文学仪式。",
+   "idea_en": "Reading a novel aloud together is the controller: the audience's voices call the ocean of the book into the room.",
+   "idea_zh": "一起朗读小说就是“控制器”：观众的声音把书里的海洋唤进了房间。",
+   "technique": "AI speech recognition follows the audience's spoken reading and drives the visuals; multi-user mixed reality headsets and room-scale projection show the same scene, likely kept in sync by a shared show-control or networked session.",
+   "technique_zh": "AI 语音识别跟随观众的朗读并驱动画面；多人混合现实头显与房间尺度的投影呈现同一个场景，很可能通过统一的演出控制或联网会话保持同步。",
+   "exercise_en": "Pick one paragraph of a text about a place, and build a WebXR or Lens Studio scene that uses speech recognition so each spoken keyword releases one creature or object into the room. Twist: require two readers to say the line in unison before the scene advances.",
+   "exercise_zh": "选一段描写某个地方的文字，做一个 WebXR 或 Lens Studio 场景：用语音识别让每个被读出的关键词在房间里放出一种生物或物件。变体：必须两位朗读者齐声读出这一句，场景才会推进。",
+   "interaction": [
+    "voice-sound",
+    "multiplayer-social",
+    "projection"
+   ],
+   "platform": [
+    "headset",
+    "projection"
+   ],
+   "tech": [
+    "mixed reality",
+    "AI speech recognition",
+    "immersive projection"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "5fQY3G-2oLQ",
+    "url": "https://www.youtube.com/watch?v=5fQY3G-2oLQ"
+   },
+   "source_url": "https://kff.tw/en/film/content/5087"
+  },
+  {
+   "id": "stephanie-sphyras--the-party",
+   "creator_ids": [
+    "stephanie-sphyras"
+   ],
+   "title": "THE PARTY",
+   "year": 2026,
+   "description": "A group of visitors of all ages walks freely through a real hall wearing passthrough headsets, still seeing each other while coloured strands and bursts trail from their hands and bodies. Stories, live performers and augmented scenes turn the room into a celebration that takes shape from the participants' movements and encounters, and each tour stop folds in local sounds and ways of gathering.",
+   "description_zh": "不同年龄的观众戴着透视头显在真实的大厅里自由走动，仍然看得见彼此，彩色的丝线与光团从他们的手和身体上拖曳出来。故事、现场表演者和增强场景把房间变成一场庆典，庆典随参与者的动作与相遇而成形；每到一地巡演，还会融入当地的声音和聚会方式。",
+   "idea_en": "Mixed reality as a party, not a world: the headset keeps everyone visible, and the augmentation exists to make people notice and move toward one another.",
+   "idea_zh": "把混合现实做成一场派对而不是一个世界：头显让每个人都保持可见，增强内容的存在只是为了让人们注意到彼此、走向彼此。",
+   "technique": "Co-located, free-roaming passthrough mixed reality for a group, with hand tracking drawing trails from each participant; headsets likely share one spatial anchor so effects line up for everyone, with live performers cueing scenes.",
+   "technique_zh": "多人同场、自由走动的透视混合现实，手部追踪从每位参与者身上拉出轨迹；头显很可能共用同一个空间锚点，让所有人看到的特效位置一致，现场表演者负责触发各个场景。",
+   "exercise_en": "Build a two-headset passthrough scene (Quest with shared spatial anchors, or two HoloKits) in which a ribbon grows between two people's hands and changes colour when they come within one metre. Twist: the ribbon only appears while both people are moving, so standing still makes the party disappear.",
+   "exercise_zh": "做一个双头显的透视场景（Quest 共享空间锚点，或两台 HoloKit）：两个人的手之间长出一条丝带，距离小于一米时变色。变体：只有两个人都在动的时候丝带才出现——站着不动，派对就消失了。",
+   "interaction": [
+    "multiplayer-social",
+    "hand-body",
+    "performance-stage"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "passthrough mixed reality",
+    "hand tracking",
+    "co-located multi-user"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "fVFH8tUvmYk",
+    "url": "https://www.youtube.com/watch?v=fVFH8tUvmYk"
+   },
+   "source_url": "https://www.youtube.com/watch?v=iryI15yJB_A"
+  },
+  {
+   "id": "olivier-ratsi--xyz",
+   "creator_ids": [
+    "olivier-ratsi"
+   ],
+   "title": "XYZ",
+   "year": 2019,
+   "description": "Black and white lines are projected across two walls and the floor of an existing room. At first they follow the three planes and stress every corner and edge; then the same lines recompose so that, from one precise viewpoint, a flat rectangle seems to float in space and the corner of the room disappears. Shown in the solo exhibition Vanishing Points in Marseille (2019–2020).",
+   "description_zh": "黑白线条被投射在一个现成房间的两面墙和地面上。起初线条顺着三个平面走，强调每一处转角和边缘；随后同样的线条重新组合，从某一个精确的视点看去，一块平整的矩形仿佛悬浮在空中，房间的墙角消失了。作品曾在马赛的个展《Vanishing Points》（2019–2020）中展出。",
+   "idea_en": "The same projected lines first reveal the room and then erase it: one viewpoint decides whether you see architecture or a floating plane.",
+   "idea_zh": "同一组投影线条先让房间显形，再把它抹掉：你看到的是建筑还是一块悬浮的平面，只取决于站的位置。",
+   "technique": "Video mapping across three adjacent planes with anamorphic projection: the line pattern is pre-distorted for a single eye point, so it reads as one flat rectangle only from there.",
+   "technique_zh": "横跨三个相邻平面的投影映射加变形投影（anamorphosis）：线条图案针对单一视点预先做了反向变形，所以只有站在那一点才会读成一块平整的矩形。",
+   "exercise_en": "Project a striped rectangle into the corner of a classroom with a cheap projector, then corner-pin and warp it (MadMapper, TouchDesigner or p5.js) until it looks flat from one taped mark on the floor; rebuild the same trick in phone AR by placing a quad that is only undistorted from one position. Twist: animate between 'lines follow the walls' and 'lines ignore the walls' and let classmates hunt for the viewpoint.",
+   "exercise_zh": "用一台便宜的投影机把条纹矩形投到教室墙角，再用 MadMapper、TouchDesigner 或 p5.js 做角点校正和变形，直到站在地上贴好的标记处看它是平的；再在手机 AR 里重做同一个把戏：放一块只有在某个位置看才不变形的面片。变体：在“线条顺着墙走”和“线条无视墙面”之间做动画切换，让同学去找那个视点。",
+   "interaction": [
+    "projection",
+    "perception-art"
+   ],
+   "platform": [
+    "projection"
+   ],
+   "tech": [
+    "video mapping",
+    "anamorphosis"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "I_oE_W-_HYA",
+    "url": "https://www.youtube.com/watch?v=I_oE_W-_HYA"
+   },
+   "source_url": "https://www.ratsi.com/",
+   "related_cat": "illusion"
+  },
+  {
+   "id": "jiabao-li--ai-mom",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "AI Mom™",
+   "year": 2026,
+   "description": "Visitors curl up in an adult-sized crib in a pink-lit room and talk to an AI mother through a tablet on the rail. Sliders set how nagging, self-sacrificing, strict and unconditionally loving she is, and while she speaks her 'subconscious' and emotions unfold as words in a projection on the wall. If you dislike her you can fire her or retune her, and all her memories of you are erased. Shown in Womb Wetware at TIAT, San Francisco, and in Affective Machine in Hangzhou (2026).",
+   "description_zh": "观众蜷进粉色灯光房间里一张成人尺寸的婴儿床，通过床栏上的平板和一位 AI 妈妈说话。几个滑杆决定她有多唠叨、多愿意牺牲、多严厉、多无条件地爱你；她说话的同时，她的“潜意识”和情绪以文字的形式在墙上的投影里展开。不喜欢她，你可以解雇她或重新调参，她关于你的全部记忆随之清空。作品 2026 年先后在旧金山 TIAT 的《Womb Wetware》和杭州的《Affective Machine》展出。",
+   "idea_en": "A mother with sliders and a delete button: showing the AI's hidden thoughts on the wall beside its sweet voice makes the gap between care and performance visible.",
+   "idea_zh": "一位带滑杆和删除键的妈妈：把 AI 藏着的念头投在墙上、放在它甜美的声音旁边，“关爱”与“表演”之间的落差就看得见了。",
+   "technique": "A conversational AI character with a synthetic voice, likely a large language model prompted by the slider values, with a camera reading the visitor's expression; a second output stream renders the character's inner monologue as projected text.",
+   "technique_zh": "一个带合成语音的对话式 AI 角色，很可能是由滑杆数值写入提示词的大语言模型，并用摄像头读取观众的表情；另一路输出把角色的内心独白渲染成投影文字。",
+   "exercise_en": "Build a voice chatbot character with three personality sliders, and show it in phone AR or on a HoloKit as a figure sitting in a real chair whose spoken answer and private thought appear as two separate floating captions. Twist: add a 'fire' button that wipes the memory, and ask testers how it felt to press it.",
+   "exercise_zh": "做一个带三个性格滑杆的语音聊天角色，用手机 AR 或 HoloKit 让它坐在一把真实的椅子上，把它说出口的回答和心里的想法显示成两行分开的悬浮字幕。变体：加一个“解雇”按钮清空记忆，再问试用者按下去时是什么感觉。",
+   "interaction": [
+    "voice-sound",
+    "projection"
+   ],
+   "platform": [
+    "projection",
+    "desktop"
+   ],
+   "tech": [
+    "conversational AI",
+    "speech",
+    "projection"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "bTqe1LXe98E",
+    "url": "https://www.youtube.com/watch?v=bTqe1LXe98E"
+   },
+   "source_url": "https://news.northeastern.edu/2026/08/17/ai-mom-art-exhibit/",
+   "related_cat": "responsive",
+   "ai_cat": "agent"
+  },
+  {
+   "id": "felix-frank--missing-interval",
+   "creator_ids": [
+    "felix-frank"
+   ],
+   "title": "Missing Interval",
+   "year": 2026,
+   "description": "An eight-minute black-and-white video mapping on the temple-like facade of the Archbishop's Seminary in Prague-Dejvice for Signal Festival 2026. It begins with thin lines that trace the windows, cornices and dome, then lets these outlines dissolve and reassemble into dense, grainy geometric patterns, as if the building were breathing.",
+   "description_zh": "2026 年 Signal Festival 期间，在布拉格 Dejvice 区神殿般的总主教神学院立面上放映的一段八分钟黑白建筑投影。它从勾勒窗户、檐口和穹顶的细线开始，然后让这些轮廓溶解、重组为密集而带颗粒感的几何图案，仿佛建筑在呼吸。",
+   "idea_en": "Do not replace the facade, reveal it: start from the lines the building already has and let them drift, so the overlay feels like the architecture dreaming.",
+   "idea_zh": "不要替换立面，而是让它显形：从建筑本来就有的线条出发，再让它们慢慢漂移，叠加的影像就像建筑自己在做梦。",
+   "technique": "Projection mapping from a precise 3D or 2D model of the facade, using only black, white and film-like grain; edges of the real architecture are used as the drawing grid, likely with several blended high-brightness projectors.",
+   "technique_zh": "基于立面精确的三维或二维模型做投影映射，只用黑、白和类似胶片的颗粒；真实建筑的边线被当作绘图网格，很可能由多台高亮度投影机融合拼接。",
+   "exercise_en": "Photograph a building front or a bookshelf, trace its edges as white lines, and in phone AR (image or plane tracking) or with a small projector align the line drawing exactly onto the real thing; then animate the lines slowly sliding out of register. Twist: allow yourself only black and white and one moment of total darkness.",
+   "exercise_zh": "拍下一栋建筑的正面或一个书架，把它的边缘描成白线，再用手机 AR（图像或平面追踪）或一台小投影机把线稿精确对齐到实物上；然后做动画，让线条缓缓滑出对位。变体：只允许使用黑和白，并安排一次完全的黑暗。",
+   "interaction": [
+    "projection",
+    "location-geo",
+    "perception-art"
+   ],
+   "platform": [
+    "projection"
+   ],
+   "tech": [
+    "projection mapping"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "gmKFmFsObyU",
+    "url": "https://www.youtube.com/watch?v=gmKFmFsObyU"
+   },
+   "source_url": "https://www.signalfestival.com/?p=13469",
+   "related_cat": "projection"
+  },
+  {
+   "id": "tung-yen-chou--shifting-connections",
+   "creator_ids": [
+    "tung-yen-chou"
+   ],
+   "title": "Shifting Connections",
+   "year": 2026,
+   "description": "A twelve-minute collective VR piece with no story and no task. Participants step through a threshold and see each other's bodies as clusters of glowing points; lines form between people as they approach, stretch as they move and let go as they part, building 'living constellations' out of proximity. Commissioned by Taipei Fine Arts Museum; in competition at Venice Immersive 2026 and shown at IDFA DocLab 2026.",
+   "description_zh": "一件十二分钟的多人 VR 作品，没有故事，也没有任务。参与者跨过一道门槛后，看到彼此的身体变成一簇簇发光的点；人与人靠近时生出连线，移动时被拉长，分开时松脱，由距离构成一片“活的星座”。作品由台北市立美术馆委托创作，入围 2026 年 Venice Immersive 竞赛单元，并在 IDFA DocLab 2026 展出。",
+   "idea_en": "Draw the distance between people: when every body is a few points and every closeness a line, a group can see its own relationships change.",
+   "idea_zh": "把人与人之间的距离画出来：当每个身体只是几个点、每一次靠近都是一条线，一群人就能看见自己的关系在变化。",
+   "technique": "Co-located multi-user VR with headset and hand tracking: each body is reduced to tracked points, and lines are generated between points of different people, likely by a distance threshold, with generative sound.",
+   "technique_zh": "多人同场 VR，使用头显与手部追踪：每个身体被简化为若干追踪点，不同人的点之间生成连线，很可能由距离阈值决定，并配有生成式声音。",
+   "exercise_en": "Use shared AR (two phones with ARKit collaborative sessions, Niantic shared AR, or two HoloKits) to draw a line between two people that brightens as they approach and snaps beyond three metres; keep the real room visible so bystanders can read it too. Twist: with three or more people, draw only the longest connection.",
+   "exercise_zh": "用共享 AR（两部手机的 ARKit 协作会话、Niantic 共享 AR，或两台 HoloKit）在两个人之间画一条线：靠近时变亮，超过三米就断开；保留真实房间可见，让旁观者也看得懂。变体：三人以上时，只画出最长的那一条连接。",
+   "interaction": [
+    "multiplayer-social",
+    "hand-body"
+   ],
+   "platform": [
+    "headset"
+   ],
+   "tech": [
+    "multi-user VR",
+    "body tracking",
+    "generative sound"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "N7DsIXusBOg",
+    "url": "https://www.youtube.com/watch?v=N7DsIXusBOg"
+   },
+   "source_url": "https://www.labiennale.org/en/cinema/2026/venice-immersive/shifting-connections",
+   "related_cat": "immersive"
+  },
+  {
+   "id": "noa-jansma--my-father-is-turning-into-soil",
+   "creator_ids": [
+    "noa-jansma"
+   ],
+   "title": "My Father is Turning into Soil",
+   "year": 2026,
+   "description": "Noa Jansma and her brother Mas filmed, through a microscope, the microbes living in the soil of their father's grave, and show them on a large projection surface hung overhead like a sky. She also sowed root vegetables in the grave, 'to taste what it means to be eaten'. In the video she presents the piece beneath the ceiling projection; it was selected for IDFA DocLab 2026.",
+   "description_zh": "Noa Jansma 和弟弟 Mas 用显微镜拍下父亲墓土里生活的微生物，并把影像投在头顶一块像天空一样悬着的大幕上。她还在墓地里种下根茎类蔬菜，“想尝一尝被吃掉意味着什么”。视频里她就在这片天顶投影下介绍作品；作品入选 IDFA DocLab 2026。",
+   "idea_en": "Put the ground where heaven should be: microscope footage of a grave, shown overhead, turns decomposition into a sky you look up to.",
+   "idea_zh": "把地下放到天堂该在的位置：墓土的显微影像被放到头顶，分解就成了一片需要仰望的天空。",
+   "technique": "Microscopy video of soil samples, enlarged and projected onto a horizontal surface above the audience, so viewers look up at it as they would at a ceiling fresco.",
+   "technique_zh": "把土壤样本的显微视频放大，投到观众头顶的水平幕面上，观众要像看天顶壁画一样仰头观看。",
+   "exercise_en": "Film something tiny from a place that matters to you with a clip-on phone macro lens or a USB microscope, then in phone AR or on a HoloKit attach the footage to the ceiling plane (or a large quad overhead outdoors) so it replaces the sky. Twist: place it exactly above the spot where the sample was taken and compare how it reads there and in the classroom.",
+   "exercise_zh": "用手机微距夹镜或 USB 显微镜，拍下一个对你有意义的地方的微小之物，再用手机 AR 或 HoloKit 把影像贴到天花板平面上（户外就放一块头顶的大面片），让它取代天空。变体：把它精确放在取样地点的正上方，比较它在那里和在教室里读起来有什么不同。",
+   "interaction": [
+    "projection",
+    "perception-art"
+   ],
+   "platform": [
+    "projection"
+   ],
+   "tech": [
+    "microscopy video",
+    "ceiling projection"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "eNSmfpdiYhI",
+    "url": "https://www.youtube.com/watch?v=eNSmfpdiYhI"
+   },
+   "source_url": "https://noajansma.com",
+   "related_cat": "projection"
+  },
+  {
+   "id": "theo-triantafyllidis--feral-metaverse-spider",
+   "creator_ids": [
+    "theo-triantafyllidis"
+   ],
+   "title": "Feral Metaverse (Spider)",
+   "year": 2026,
+   "description": "A giant six-legged spider sculpture, dressed in deconstructed trainers and stockings, fills the artist's booth at Frieze London 2026. Visitors clamber onto it, search its bristly body for game controls and screens, and together play a cooperative multiplayer game in which their avatars join a cast of feral creatures and must help one another. The video is Frieze's short film with the artist about the commission, the 2026 Frieze London Artist Award.",
+   "description_zh": "一只穿着拆解球鞋和长袜的巨型六足蜘蛛雕塑，占满了艺术家在 2026 年 Frieze London 的展位。观众爬上去，在它毛茸茸的身体上寻找游戏控制器和屏幕，一起玩一款合作式多人游戏：他们的化身加入一群“野性生物”，必须互相帮助才能过关。视频是 Frieze 为这件委托作品（2026 年 Frieze London Artist Award）拍摄的艺术家短片。",
+   "idea_en": "Make the controller a body you have to share: when a multiplayer game is played from one climbable sculpture, cooperation on screen starts with negotiating space in the room.",
+   "idea_zh": "把控制器做成一个必须共用的身体：当多人游戏要在同一座可攀爬的雕塑上操作，屏幕里的合作就从房间里对空间的协商开始。",
+   "technique": "A physical sculpture with embedded screens and custom game controls runs a networked multiplayer game built in a real-time game engine; the artist also used Google AI tools during development.",
+   "technique_zh": "实体雕塑里嵌入屏幕和定制游戏控制器，运行一款用实时游戏引擎制作的联网多人游戏；艺术家在开发过程中还使用了 Google 的 AI 工具。",
+   "exercise_en": "Tape four phones or game controllers to one large object (a table, a gym mat, a cardboard creature) so that four players must lean across each other to play a simple cooperative AR or web game. Twist: move one control somewhere that can only be reached with another player's help.",
+   "exercise_zh": "把四部手机或四个手柄固定在同一个大物件上（桌子、体操垫、纸板做的生物），让四名玩家必须越过彼此的身体才能玩一个简单的合作 AR 或网页游戏。变体：把其中一个控制器挪到必须靠另一位玩家帮忙才够得着的地方。",
+   "interaction": [
+    "game-play",
+    "multiplayer-social",
+    "tangible-object"
+   ],
+   "platform": [
+    "desktop"
+   ],
+   "tech": [
+    "game engine",
+    "custom controllers",
+    "sculpture"
+   ],
+   "video": {
+    "platform": "youtube",
+    "id": "JHB03c1wxPY",
+    "url": "https://www.youtube.com/watch?v=JHB03c1wxPY"
+   },
+   "source_url": "https://www.forma.org.uk/projects/theo-triantafyllidis-frieze-london-artist-award-2026",
+   "related_cat": "responsive"
+  }
+ ],
+ "leads": [
+  {
+   "name": "John Craig Freeman — A Boat for One: New England Sea Level Rise",
+   "why": "Geolocated AR prototype in Boston Public Garden about sea level rise. Artist's 2019 screen recording exists (youtube uhCC5hh8ifc) but no reliable description of what the AR shows was found; the 2026 'Agog Work Sample' upload (kh6ILR_4PBc) is a 12-minute reel of older works, not a video of this piece.",
+   "link": "https://www.youtube.com/watch?v=uhCC5hh8ifc",
+   "found_via": "john-craig-freeman",
+   "status": "open"
+  },
+  {
+   "name": "Luke Shannon — Replacement Character plotter-scanner",
+   "why": "Onassis ONX Award, Lumen Prize 2026: a modified document scanner plus a custom plotter makes life-sized scans of participants. Gallery video exists (youtube r72y_vOeaNk, Heft) but has no description; verify what it shows, then add as Related Art.",
+   "link": "https://lumenprize.org/2026-winners",
+   "found_via": "art-2026-11b",
+   "status": "open"
+  },
+  {
+   "name": "Gilles Jobin & Thomas Ott — Sunset Motel",
+   "why": "Reflet d'Or for best immersive experience, GIFF 2026 (Geneva). No public video found.",
+   "link": "https://2026.giff.ch/palmares-2/",
+   "found_via": "art-2026-11b",
+   "status": "open"
+  },
+  {
+   "name": "Yuhara Kazuki — First Virtual Suit",
+   "why": "Kaohsiung XR Dreamland 2026: multi-user VR plus mixed reality about making your first avatar, inspired by VRChat culture. Festival trailer exists (youtube 2WItzp-B2s0); the MR part is not described anywhere found.",
+   "link": "https://www.youtube.com/watch?v=2WItzp-B2s0",
+   "found_via": "art-2026-11b",
+   "status": "open"
+  },
+  {
+   "name": "IDFA DocLab 2026 — full selection and award winners",
+   "why": "The festival site returned errors, so the complete 2026 DocLab list and the Immersive Non-Fiction / Digital Storytelling winners could not be read; IDFA's YouTube channel has trailers for selected works (e.g. The Brush in Your Hand, Memories of Lightning, The Unabsorbed Past) that still need identifying.",
+   "link": "https://festival.idfa.nl/en/new-media/about-doclab/",
+   "found_via": "art-2026-11b",
+   "status": "open"
+  },
+  {
+   "name": "Signal Festival 2026 (Prague) — MIMIC.2, Svitlana Reinish's Living in Truth and other installations",
+   "why": "Only Felix Frank's Missing Interval has an official full-length upload so far; the other 2026 pieces appear only in visitor walk-through videos.",
+   "link": "https://www.signalfestival.com/",
+   "found_via": "art-2026-11b",
+   "status": "open"
+  },
+  {
+   "name": "Amsterdam Light Festival Edition 15, Fête des Lumières Lyon 2026, SIGGRAPH Asia 2026 Art Gallery / XR",
+   "why": "Not open yet on 2026-11-23 (Amsterdam from 26 Nov, SIGGRAPH Asia 1–4 Dec in Kuala Lumpur, Lyon 5–8 Dec); recheck for artist videos in December.",
+   "link": "https://amsterdamlightfestival.com/en/edition-15",
+   "found_via": "art-2026-11b",
+   "status": "open"
+  }
+ ]
+}

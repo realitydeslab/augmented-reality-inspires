@@ -432,9 +432,33 @@
   "status": "covered"
  },
  {
+  "name": "John Craig Freeman — A Boat for One: New England Sea Level Rise",
+  "why": "Geolocated AR prototype in Boston Public Garden about sea level rise. Artist's 2019 screen recording exists (youtube uhCC5hh8ifc) but no reliable description of what the AR shows was found; the 2026 'Agog Work Sample' upload (kh6ILR_4PBc) is a 12-minute reel of older works, not a video of this piece.",
+  "link": "https://www.youtube.com/watch?v=uhCC5hh8ifc",
+  "found_via": "john-craig-freeman",
+  "status": "covered",
+  "batch": "art-2026-11b"
+ },
+ {
+  "name": "Tung-Yen Chou (Very Theatre) — Shifting Connections",
+  "why": "Venice Immersive 2026 competition: a collective VR piece where participants' bodies appear as glowing points and lines that connect by proximity, making social distance visible. No video yet; BiennaleChannel has not uploaded it (recheck).",
+  "link": "https://www.labiennale.org/en/cinema/2026/venice-immersive/shifting-connections",
+  "found_via": "art-2026-fall",
+  "status": "covered",
+  "batch": "art-2026-fall"
+ },
+ {
   "name": "Lauren Lee McCarthy — AUTO",
   "why": "Lumen Prize 2026 finalist (Experiential Innovation): an autonomous vehicle steered by people singing together. Existing creator; no video found yet.",
   "link": "https://lumenprize.org/2026-finalists",
+  "found_via": "art-2026-fall",
+  "status": "covered",
+  "batch": "art-2026-fall"
+ },
+ {
+  "name": "William Forsythe — Uplifting Instruction",
+  "why": "Described by Frieze (July 2026) as Forsythe's first AR artwork (credited to WAVA). Venue, dates and video not found.",
+  "link": "https://www.frieze.com/article/augmented-reality-opinion",
   "found_via": "art-2026-fall",
   "status": "covered",
   "batch": "art-2026-fall"
@@ -1046,6 +1070,14 @@
   "found_via": "layar",
   "batch": "phone-consumer",
   "status": "covered"
+ },
+ {
+  "name": "Learn AR with SPECS hackathon cluster (Miller & Müller — Sound Bearings; JonathanSolvesProblems — Floorcount; Furin — Tamago Coach; Haval Zebari — Cutaway; 余梓丞 — The Incense Ball)",
+  "why": "AI-coded Specs Lenses with strong single ideas: a ring showing where a sound comes from (2AH9xMOYwoA), salsa footprints lighting on the floor on the count (n4pGnXYn0ys), a countdown ring on the pan rim for rolling tamagoyaki (K7lrDOghO_E), taking a copy of an everyday object apart (APZkHGdODLE), a Tang-dynasty gimbal incense ball you roll and dismantle (1XNjROSSUHc). All are Lens Studio preview recordings that have not run on glasses; revisit after the hackathon results.",
+  "link": "https://www.youtube.com/watch?v=2AH9xMOYwoA",
+  "found_via": "snap-inc",
+  "status": "covered",
+  "batch": "platforms-2026-11b"
  },
  {
   "name": "AE.T.HE.R — I Gave My AI a Body. Now She Runs My Room",
@@ -3160,6 +3192,54 @@
   "batch": "related-sky-light"
  },
  {
+  "name": "JangHyeon Lee, Huayu Wang, Jiadi Luo & Lawrence Kim (Simon Fraser University) — SpeakAR",
+  "why": "ACM ISS 2026 paper: AR glasses reshape how a nervous speaker sees the audience, either adding virtual elements or occluding faces; occlusion lowered anxiety. No video found yet.",
+  "link": "https://programs.sigchi.org/iss/2026/program/content/278584",
+  "found_via": "hicup-lab",
+  "status": "covered",
+  "batch": "research-2026-11b"
+ },
+ {
+  "name": "Jana Hoffard, Shio Miyafuji & Hideki Koike — StringWall",
+  "why": "ACM ISS 2026: a room divider made of rubber strings that is also a projection surface and a touchable interface, tracked by a depth camera. No video on the Koike Lab channel yet.",
+  "link": "https://programs.sigchi.org/iss/2026/program/content/278822",
+  "found_via": "hideki-koike",
+  "status": "covered",
+  "batch": "research-2026-11b"
+ },
+ {
+  "name": "Taisei Goto, Toshiro Otsuka & Ryo Ishiyama (Kyushu University) — Monokko",
+  "why": "SIGGRAPH Asia 2026 XR: real objects become characters you speak to and stroke, answering with AI-driven behaviour. No video found; pairs well with Object-Agent Twins.",
+  "link": "https://sa2026.conference-schedule.org/?post_type=page&p=15&id=xr_206&sess=sess280",
+  "found_via": "chris-harrison-figlab",
+  "status": "covered",
+  "batch": "research-2026-11b"
+ },
+ {
+  "name": "Yin-Ting Lu & Neng-Hao Yu (National Taiwan University of Science and Technology) — One More",
+  "why": "SIGGRAPH Asia 2026 XR: a table tennis story that ends in a mixed-reality rally with your childhood self. No video found.",
+  "link": "https://sa2026.conference-schedule.org/?post_type=page&p=15&id=xr_154&sess=sess167",
+  "found_via": "taixu-dreamscape",
+  "status": "covered",
+  "batch": "research-2026-11b"
+ },
+ {
+  "name": "Selin Choi, Sun Ah Bae, Dooyoung Kim & Woontack Woo — Object-Driven Event Retrieval with Assembled Object Interface",
+  "why": "IEEE ISMAR 2026: replay recorded mixed-reality assembly work by pointing at parts of the finished object. A 65 s video exists (https://www.youtube.com/watch?v=ZwCczDq_dow) but no paper text was available to describe it accurately; add once the paper is online.",
+  "link": "https://www.youtube.com/watch?v=ZwCczDq_dow",
+  "found_via": "woontack-woo",
+  "status": "covered",
+  "batch": "research-2026-11b"
+ },
+ {
+  "name": "Jules van Gurp, Giulia Cosentino, Sebastian Cmentowski et al. — Play Beyond Vision",
+  "why": "CHI PLAY 2026 paper: 38 children locate and chase an invisible ghost using custom wearables, a study of 'non-visual XR'. Video figure exists (https://www.youtube.com/watch?v=R9ycBuAI5-A); left out for now because it overlaps with BombQuest.",
+  "link": "https://doi.org/10.1145/3831346",
+  "found_via": "sebastian-cmentowski",
+  "status": "covered",
+  "batch": "research-2026-11b"
+ },
+ {
   "name": "Andreas Fender & Dieter Schmalstieg (University of Stuttgart) — Multiverse Architecture for Desired Realities",
   "why": "UIST 2026 tech-concept paper: an immersive app splits into parallel universes whenever input is ambiguous and quietly collapses back to the one you interact with. Only the 30 s ACM preview (v2VQGaMKry8) is online and it was not possible to see what the demos show; recheck for a full video.",
   "link": "https://programs.sigchi.org/uist/2026/program/content/262786",
@@ -3236,6 +3316,14 @@
   "why": "CHI 2026: look at a face or instrument in XR to isolate or mute its sound; only a 21 s author demo online",
   "link": "https://cadyxu.com/projects/moxart/",
   "found_via": "ruofei-du",
+  "status": "covered",
+  "batch": "research-2026-hci"
+ },
+ {
+  "name": "Exertion Games Lab (Florian 'Floyd' Mueller, Monash) — XTea and other CHI 2026 body/MR papers",
+  "why": "Bubble-tea cup whose headset environment an LLM retunes to change perceived flavour (CHI 2026); lab publishes many bodily-play MR papers, only talk videos found so far",
+  "link": "https://exertiongameslab.org/presentation-videos-from-chi-2026",
+  "found_via": "botao-amber-hu",
   "status": "covered",
   "batch": "research-2026-hci"
  },

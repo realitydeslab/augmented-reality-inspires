@@ -80,12 +80,52 @@
   "batch": "ai-research"
  },
  {
-  "name": "Tung-Yen Chou (Very Theatre) — Shifting Connections",
-  "why": "Venice Immersive 2026 competition: a collective VR piece where participants' bodies appear as glowing points and lines that connect by proximity, making social distance visible. No video yet; BiennaleChannel has not uploaded it (recheck).",
-  "link": "https://www.labiennale.org/en/cinema/2026/venice-immersive/shifting-connections",
-  "found_via": "art-2026-fall",
+  "name": "Luke Shannon — Replacement Character plotter-scanner",
+  "why": "Onassis ONX Award, Lumen Prize 2026: a modified document scanner plus a custom plotter makes life-sized scans of participants. Gallery video exists (youtube r72y_vOeaNk, Heft) but has no description; verify what it shows, then add as Related Art.",
+  "link": "https://lumenprize.org/2026-winners",
+  "found_via": "art-2026-11b",
   "status": "open",
-  "batch": "art-2026-fall"
+  "batch": "art-2026-11b"
+ },
+ {
+  "name": "Gilles Jobin & Thomas Ott — Sunset Motel",
+  "why": "Reflet d'Or for best immersive experience, GIFF 2026 (Geneva). No public video found.",
+  "link": "https://2026.giff.ch/palmares-2/",
+  "found_via": "art-2026-11b",
+  "status": "open",
+  "batch": "art-2026-11b"
+ },
+ {
+  "name": "Yuhara Kazuki — First Virtual Suit",
+  "why": "Kaohsiung XR Dreamland 2026: multi-user VR plus mixed reality about making your first avatar, inspired by VRChat culture. Festival trailer exists (youtube 2WItzp-B2s0); the MR part is not described anywhere found.",
+  "link": "https://www.youtube.com/watch?v=2WItzp-B2s0",
+  "found_via": "art-2026-11b",
+  "status": "open",
+  "batch": "art-2026-11b"
+ },
+ {
+  "name": "IDFA DocLab 2026 — full selection and award winners",
+  "why": "The festival site returned errors, so the complete 2026 DocLab list and the Immersive Non-Fiction / Digital Storytelling winners could not be read; IDFA's YouTube channel has trailers for selected works (e.g. The Brush in Your Hand, Memories of Lightning, The Unabsorbed Past) that still need identifying.",
+  "link": "https://festival.idfa.nl/en/new-media/about-doclab/",
+  "found_via": "art-2026-11b",
+  "status": "open",
+  "batch": "art-2026-11b"
+ },
+ {
+  "name": "Signal Festival 2026 (Prague) — MIMIC.2, Svitlana Reinish's Living in Truth and other installations",
+  "why": "Only Felix Frank's Missing Interval has an official full-length upload so far; the other 2026 pieces appear only in visitor walk-through videos.",
+  "link": "https://www.signalfestival.com/",
+  "found_via": "art-2026-11b",
+  "status": "open",
+  "batch": "art-2026-11b"
+ },
+ {
+  "name": "Amsterdam Light Festival Edition 15, Fête des Lumières Lyon 2026, SIGGRAPH Asia 2026 Art Gallery / XR",
+  "why": "Not open yet on 2026-11-23 (Amsterdam from 26 Nov, SIGGRAPH Asia 1–4 Dec in Kuala Lumpur, Lyon 5–8 Dec); recheck for artist videos in December.",
+  "link": "https://amsterdamlightfestival.com/en/edition-15",
+  "found_via": "art-2026-11b",
+  "status": "open",
+  "batch": "art-2026-11b"
  },
  {
   "name": "SummitShare & Shared Histories Team — What the Record Forgot",
@@ -128,12 +168,84 @@
   "batch": "art-2026-fall"
  },
  {
-  "name": "William Forsythe — Uplifting Instruction",
-  "why": "Described by Frieze (July 2026) as Forsythe's first AR artwork (credited to WAVA). Venue, dates and video not found.",
-  "link": "https://www.frieze.com/article/augmented-reality-opinion",
-  "found_via": "art-2026-fall",
+  "name": "Mike Kim — Sunpatch",
+  "why": "Learn AR with SPECS hackathon (Devpost): pinch a window and a patch on the floor shows where its sunlight lands now, on Dec 21 and on Jun 21; grab the sun and drag it along its path. Very clear idea, but the video (rxpjXDP3eac) is a Lens Studio preview, not recorded on glasses; add when on-device footage exists.",
+  "link": "https://www.youtube.com/watch?v=rxpjXDP3eac",
+  "found_via": "snap-inc",
   "status": "open",
-  "batch": "art-2026-fall"
+  "batch": "platforms-2026-11b"
+ },
+ {
+  "name": "Radha Rani Basak — Redline",
+  "why": "Learn AR with SPECS hackathon: fills your own empty venue with a life-size ghost crowd at a density you choose, so stewards can stand inside the 5-people-per-square-metre danger line. Video (H1h7XHV2v-U) is a Lens Studio preview only.",
+  "link": "https://www.youtube.com/watch?v=H1h7XHV2v-U",
+  "found_via": "snap-inc",
+  "status": "open",
+  "batch": "platforms-2026-11b"
+ },
+ {
+  "name": "Spectacles Community Challenge #17 winners (Aadarsh Pandey — After Hello; Natasha Gubernov — Pottery AR; Daria LASTXLR — Wondermarks; Steven Wolpe — Jurnee; Kavin Kumar — Spatial Mapper)",
+  "why": "Announced 2026-11-13: ASL-to-captions conversation aid for two people, two-handed clay throwing with a kiln and a shelf you can smash pots from, landmarks placed on a world map, an AR journal with a butterfly guide, and tracing a real projector's light outline for projection mapping. No public video found for any of them; check the creators' X, LinkedIn and r/Spectacles.",
+  "link": "https://blog.lenslist.co/2026/11/13/spectacles-community-challenge-17-winners-announcement/",
+  "found_via": "snap-inc",
+  "status": "open",
+  "batch": "platforms-2026-11b"
+ },
+ {
+  "name": "Amir Mohideen Basheer Khan — SpecsGrip",
+  "why": "Spectacles Community Challenge #17 (Open Source, 1st): Specs hand tracking mirrors all 20 joints of your hand onto a Tesollo Delto DG-5F robot hand in real time. The only video is an mp4 in the GitHub README (user-attachments/assets/089905e0-afa3-4d06-90e4-105c6f981827, checks ok) that was not watched in this round; add if it shows the real robot hand.",
+  "link": "https://github.com/amirmohideen/SpecsGrip",
+  "found_via": "snap-inc",
+  "status": "open",
+  "batch": "platforms-2026-11b"
+ },
+ {
+  "name": "Firechant — Puttscape",
+  "why": "Multiplayer mini golf for XREAL AURA (Android XR) with hand-tracked putting, a course generated from your room and a venue mode run from a Pixel Fold. The 8-minute devlog (Twiu_hiEY4U) mixes talking head and AI-generated cutscenes; look for a short see-through gameplay clip before adding.",
+  "link": "https://www.youtube.com/watch?v=Twiu_hiEY4U",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "platforms-2026-11b"
+ },
+ {
+  "name": "AnySketch Neo (Meta Quest 3 prototype)",
+  "why": "Meta VR Start 2026 entry: pin a line-art stencil on your real desk or wall in passthrough and trace it with a real pencil on real paper; any photo becomes a stencil. Real headset footage, but the video (bAr1OsbbcWQ) fails check_video (embedding disabled, HTTP 401).",
+  "link": "https://www.youtube.com/watch?v=bAr1OsbbcWQ",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "platforms-2026-11b"
+ },
+ {
+  "name": "Sushant Srikrish — Chartrise",
+  "why": "Meta VR Start 2026 entry: a strategy game laid flat on the real desk like a giant tablet, so every virtual button has a solid surface under the finger; the battle can rise into a hologram or be entered at full scale. Real Quest 3 footage (Bobl1g3LGKI); a good passive-haptics example if a further Quest round is wanted.",
+  "link": "https://www.youtube.com/watch?v=Bobl1g3LGKI",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "platforms-2026-11b"
+ },
+ {
+  "name": "Matthew Neuffer — Sneak-A-Snack",
+  "why": "Meta VR Start 2026 entry: a two-player camp game where hand shadows on a tent wall are the only way to communicate which snacks to grab. Fully VR rather than mixed reality (CUzi74dLO7Q), but a strong hand-shadow-as-language idea next to the existing hand-shadow lead.",
+  "link": "https://www.youtube.com/watch?v=CUzi74dLO7Q",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "platforms-2026-11b"
+ },
+ {
+  "name": "Clarke Plumo Dev — Soothing Bots",
+  "why": "Meta VR Start 2026 entry: sixteen floating robot heads sing a story song in mixed reality, each voice coming from its own head; wake them with a pinch, carry them around the room, and they answer a peace sign, a wave or a high five (ZVg9R9TkKnc). Not viewed frame by frame in this round.",
+  "link": "https://www.youtube.com/watch?v=ZVg9R9TkKnc",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "platforms-2026-11b"
+ },
+ {
+  "name": "Tenstud (Argi Tendo) — THROUGH",
+  "why": "Meta VR Start 2026 entry: open a portal in your wall onto a fading garden, rescue sprouts and guide rain and light with bare hands until giant blooms grow into your own room (_xMdysRSQIE, actual gameplay according to the description). Check the footage before adding.",
+  "link": "https://www.youtube.com/watch?v=_xMdysRSQIE",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "platforms-2026-11b"
  },
  {
   "name": "Natasha Gubernov — ArtGuide",
@@ -680,6 +792,46 @@
   "batch": "related-sky-light"
  },
  {
+  "name": "RAI Radiotelevisione Italiana (Alberto Ciprian, Roberto Iacoviello et al.) — AURORA",
+  "why": "ACM ISS 2026 demo: say any object aloud while wearing HoloLens 2 and a textured 3D model of it is generated and placed in front of you (Whisper, FLUX, Hunyuan3D). No video found.",
+  "link": "https://programs.sigchi.org/iss/2026/program/content/278823",
+  "found_via": "hicup-lab",
+  "status": "open",
+  "batch": "research-2026-11b"
+ },
+ {
+  "name": "Tomoki Noguchi & Naoya Koizumi (University of Electro-Communications) — CAST-Table",
+  "why": "SIGGRAPH Asia 2026 Emerging Technologies: a standing mid-air image on a table that people on all sides can see and reach into, next to real objects. No video yet; recheck after the conference (1–4 Dec).",
+  "link": "https://sa2026.conference-schedule.org/?post_type=page&p=15&id=emt_113&sess=sess276",
+  "found_via": "taixu-dreamscape",
+  "status": "open",
+  "batch": "research-2026-11b"
+ },
+ {
+  "name": "Mitsuru Ito, Toshiaki Koike-Akino, Yuki Ban & Tomohiro Amemiya — HandoverLock",
+  "why": "SIGGRAPH Asia 2026 Emerging Technologies: a 'tactile timestamp' that marks the instant a virtual object passes from one hand to the other in mixed reality. No video yet.",
+  "link": "https://sa2026.conference-schedule.org/?post_type=page&p=15&id=emt_129&sess=sess275",
+  "found_via": "taixu-dreamscape",
+  "status": "open",
+  "batch": "research-2026-11b"
+ },
+ {
+  "name": "Myeongseong Kim, Ahyeon Lee, Joo-Hong Shin et al. (KIST) — Murmuration: Chromatic Chorus",
+  "why": "SIGGRAPH Asia 2026 XR: hand-made paper birds become persistent virtual agents carrying each visitor's colours and voice. No video found.",
+  "link": "https://sa2026.conference-schedule.org/?post_type=page&p=15&id=xr_183&sess=sess279",
+  "found_via": "taixu-dreamscape",
+  "status": "open",
+  "batch": "research-2026-11b"
+ },
+ {
+  "name": "Falk Stock & Michael Rohs (Leibniz University Hannover) — SpellGlasses",
+  "why": "CHI PLAY 2026: smart glasses explain Magic: The Gathering cards and rules during physical play. Only a 7-minute talk recording is online (https://www.youtube.com/watch?v=Oajs9F5Oz9M); look for a demo video.",
+  "link": "https://doi.org/10.1145/3831355",
+  "found_via": "ville-makela",
+  "status": "open",
+  "batch": "research-2026-11b"
+ },
+ {
   "name": "Tomoki Noguchi, Naoya Koizumi et al. (UEC) — CAST-Table",
   "why": "SIGGRAPH Asia 2026 Emerging Technologies: co-located, walk-around mid-air images that work with tangible objects on a table. No 2026 video found yet; the Koizumi lab channel posts mid-air image demos.",
   "link": "https://sa2026.conference-schedule.org/",
@@ -694,14 +846,6 @@
   "found_via": "shan-yuan-teng",
   "status": "open",
   "batch": "research-2026-fall"
- },
- {
-  "name": "Exertion Games Lab (Florian 'Floyd' Mueller, Monash) — XTea and other CHI 2026 body/MR papers",
-  "why": "Bubble-tea cup whose headset environment an LLM retunes to change perceived flavour (CHI 2026); lab publishes many bodily-play MR papers, only talk videos found so far",
-  "link": "https://exertiongameslab.org/presentation-videos-from-chi-2026",
-  "found_via": "botao-amber-hu",
-  "status": "open",
-  "batch": "research-2026-hci"
  },
  {
   "name": "Guanhong Liu, Nan Cao et al. — ViviClay",
@@ -886,6 +1030,14 @@
   "found_via": "anrick-bregman",
   "status": "open",
   "batch": "specs-studios"
+ },
+ {
+  "name": "JeffXR (Conference Confetti)",
+  "why": "Conference Confetti, a universal conference guide for Even G2 glasses that loads an event's sessions, speakers and expo floor plan; featured in Even Realities' Built by You, Episode 3 (https://www.youtube.com/watch?v=ODC9BmNwZdA). Own upload and wider AR work not yet researched.",
+  "link": "https://hub.evenrealities.com/catalogue/com.jeffxr.siggraph2026?q=confetti",
+  "found_via": "even-realities",
+  "status": "open",
+  "batch": "update-2026-11b-yt"
  },
  {
   "name": "Saki Komikado (komietty)",
