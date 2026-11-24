@@ -39,6 +39,7 @@ RELATED_CATS = ROOT / "data" / "related_categories.json"
 AI_MAP = ROOT / "data" / "ai"
 AI_CATS = ROOT / "data" / "ai_categories.json"
 CACHE = ROOT / "data" / "video_cache.json"
+UPDATES = ROOT / "data" / "updates.json"
 
 INTERACTIONS = {
     "hand-body", "face", "voice-sound", "drawing-creation", "spatial-mapping", "location-geo",
@@ -242,6 +243,31 @@ def load_keys(work_ids: set, creator_ids: set) -> dict:
     return keys
 
 
+def load_updates(batches: set) -> tuple[list, dict]:
+    """What's New (data/updates.json): returns (updates for the site, batch -> date added).
+
+    A batch that is neither in an update nor in the baseline is new: it is appended to an update dated today.
+    """
+    doc = json.loads(UPDATES.read_text()) if UPDATES.exists() else {"updates": [], "baseline": sorted(batches)}
+    updates = doc.setdefault("updates", [])
+    seen = set(doc.get("baseline", [])) | {b for u in updates for b in u.get("batches", [])}
+    fresh = sorted(batches - seen)
+    if fresh:
+        today = date.today().isoformat()
+        cur = next((u for u in updates if u.get("date") == today), None)
+        if cur is None:
+            cur = {"date": today, "title_en": "", "title_zh": "", "note_en": "", "note_zh": "", "batches": []}
+            updates.append(cur)
+        cur["batches"] = sorted(set(cur["batches"]) | set(fresh))
+        logger.info("updates: %s added to the %s update", fresh, today)
+    updates.sort(key=lambda u: u.get("date", ""), reverse=True)
+    if fresh or not UPDATES.exists():
+        UPDATES.write_text(json.dumps(doc, indent=1, ensure_ascii=False) + "\n")
+    added = {b: u["date"] for u in reversed(updates) for b in u.get("batches", [])}
+    site = [{k: u.get(k, "") for k in ("date", "title_en", "title_zh", "note_en", "note_zh")} for u in updates]
+    return site, added
+
+
 def verify(works: dict, recheck: bool) -> dict:
     cache = json.loads(CACHE.read_text()) if CACHE.exists() else {}
     todo = [w["video"] for k, w in works.items() if recheck or not cache.get(k, {}).get("ok")]
@@ -384,9 +410,18 @@ def main() -> None:
     if bad_rel:
         logger.warning("Related Art works with an unknown related_cat: %d (e.g. %s)", len(bad_rel), bad_rel[:5])
     ai_cats = json.loads(AI_CATS.read_text()).get("categories", []) if AI_CATS.exists() else []
+    updates, added = load_updates({w["batch"] for w in kept} | {b for c in out_creators for b in c.get("batches", [])})
+    for w in kept:
+        if w["batch"] in added:
+            w["added"] = added[w["batch"]]
+    for c in out_creators:  # a creator is new in an update only if every batch that mentions them is that recent
+        dates = [added.get(b) for b in c.get("batches", [])]
+        if dates and all(dates):
+            c["added"] = min(dates)
+    updates = [u for u in updates if any(w.get("added") == u["date"] for w in kept)]
     data = {"generated": date.today().isoformat(), "creators": out_creators, "works": kept, "keys": keys,
             "salient_categories": cats, "vfx_categories": vfx_cats, "related_categories": related_cats,
-            "ai_categories": ai_cats}
+            "ai_categories": ai_cats, "updates": updates}
     (ROOT / "data" / "entries.json").write_text(json.dumps(data, indent=1, ensure_ascii=False))
     write_site_data(data)
     (ROOT / "data" / "leads.json").write_text(json.dumps(open_leads, indent=1, ensure_ascii=False))

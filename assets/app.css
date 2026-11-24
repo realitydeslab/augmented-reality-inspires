@@ -355,6 +355,8 @@ main { padding: 22px clamp(16px, 4vw, 56px) 60px; min-height: 60vh; }
 .scat__head { display: flex; align-items: baseline; gap: 12px; }
 .scat__title { font: 400 30px/1.05 var(--serif); letter-spacing: -.02em; margin: 0; }
 .scat__n { font-size: 12px; color: var(--accent-text); }
+.upd__date { font-size: 12px; color: var(--accent-text); margin: 0 0 8px; }
+.upd__n { font-size: 12px; white-space: nowrap; }
 .scat__desc { color: var(--muted); font-size: 14px; margin: 6px 0 18px; max-width: 62ch; }
 .watch--muted { color: var(--muted); }
 

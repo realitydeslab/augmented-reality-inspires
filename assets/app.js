@@ -8,7 +8,7 @@
   const INTERACTIONS = I18N.interactions;
   const PLATFORMS = ["phone", "headset", "projection", "web", "wearable", "desktop"];
   const ERAS = [["2005", 1990, 2009, "≤2009"], ["2010", 2010, 2014, "2010–14"], ["2015", 2015, 2019, "2015–19"], ["2020", 2020, 2030, "2020–26"]];
-  const VIEWS = ["keys", "salient", "ai", "vfx", "related", "works", "creators", "modules", "starred"];
+  const VIEWS = ["keys", "new", "salient", "ai", "vfx", "related", "works", "creators", "modules", "starred"];
 
   const creatorsById = Object.fromEntries(DATA.creators.map((c) => [c.id, c]));
   const worksById = Object.fromEntries(DATA.works.map((w) => [w.id, w]));
@@ -316,6 +316,31 @@
     currentList = list;
     return all.length;
   }
+  /* What's New: one section per update (data/updates.json), newest first, with the works it added. */
+  const UPDATES = DATA.updates || [];
+  const fmtDate = (d) => {
+    const t = new Date(d + "T00:00:00");
+    return isNaN(t) ? d : t.toLocaleDateString(lang === "zh" ? "zh-CN" : "en-GB", { year: "numeric", month: "long", day: "numeric" });
+  };
+  function renderNew() {
+    $("#newHead").innerHTML = `<div class="starred__head">
+        <h2 class="starred__title">${esc(S().new_title)}</h2>
+        <p class="starred__lede">${esc(S().new_lede)}</p></div>`;
+    currentList = [];
+    $("#newList").innerHTML = UPDATES.map((u) => {
+      const works = sorted(DATA.works.filter((w) => w.added === u.date));
+      if (!works.length) return "";
+      currentList.push(...works);
+      const nc = DATA.creators.filter((c) => c.added === u.date).length;
+      const note = lang === "zh" ? u.note_zh : u.note_en;
+      return `<section class="scat" id="new-${esc(u.date)}">
+        <p class="upd__date mono">${esc(fmtDate(u.date))}</p>
+        <div class="scat__head"><h3 class="scat__title">${esc((lang === "zh" ? u.title_zh : u.title_en) || S().new_update)}</h3></div>
+        <p class="scat__desc">${note ? esc(note) + " " : ""}<span class="upd__n mono">${esc(S().new_count(works.length, nc))}</span></p>
+        <div class="grid">${lazy(works, card, 12)}</div></section>`;
+    }).join("");
+    return currentList.length;
+  }
   function renderSalient() {
     const all = sorted(DATA.works.filter((w) => w.salient));
     return renderGrouped({ all, cats: SCATS, catOf: (w) => w.salient.cat || "", current: state.salientCat, attr: "scat", prefix: "scat",
@@ -433,16 +458,17 @@
     document.querySelectorAll(".view").forEach((v) => v.classList.toggle("is-on", v.id === "view-" + state.view));
     $("#q").value = state.q;
     $("#sort").value = state.sort;
-    $("#filters").hidden = ["keys", "starred", "salient", "ai", "vfx", "related"].includes(state.view);
+    $("#filters").hidden = ["keys", "new", "starred", "salient", "ai", "vfx", "related"].includes(state.view);
     $("#keyOnly").setAttribute("aria-pressed", state.keyOnly);
     $("#salientOnly").setAttribute("aria-pressed", state.salientOnly);
     $("#codeOnly").setAttribute("aria-pressed", state.codeOnly);
     $("#starCount").textContent = stars.size ? stars.size : "";
+    $("#newCount").textContent = UPDATES.length ? DATA.works.filter((w) => w.added === UPDATES[0].date).length || "" : "";
     renderChips();
     resetLazy();
     // drop the DOM of hidden views; switching back re-renders them anyway
     document.querySelectorAll(".view:not(.is-on) > *").forEach((el) => { if (el.innerHTML) el.innerHTML = ""; });
-    const r = { keys: renderKeys, salient: renderSalient, ai: renderAi, vfx: renderVfx, related: renderRelated, works: renderWorks, creators: renderCreators, modules: renderModules, starred: renderStarred }[state.view];
+    const r = { keys: renderKeys, new: renderNew, salient: renderSalient, ai: renderAi, vfx: renderVfx, related: renderRelated, works: renderWorks, creators: renderCreators, modules: renderModules, starred: renderStarred }[state.view];
     $("#empty").hidden = r() > 0;
     watchMore();
     lazyVideos();

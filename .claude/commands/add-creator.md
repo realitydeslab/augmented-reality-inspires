@@ -37,7 +37,7 @@ Read `data/SCHEMA.md` first. It defines the JSON format, the interaction vocabul
 
 5. **Validate.** `python3 tools/validate.py data/raw/add-<creator-id>.json` — fix every problem until it prints ✓.
 
-6. **Build.** `python3 tools/build_data.py` — this re-checks new videos and regenerates `data/entries.*`, `inspire.md`, `inspire.zh.md` and `llms.txt`. Confirm the new works appear and nothing was dropped (`data/dropped.json`).
+6. **Build.** `python3 tools/build_data.py` — this re-checks new videos and regenerates `data/entries.*`, `inspire.md`, `inspire.zh.md` and `llms.txt`. Confirm the new works appear and nothing was dropped (`data/dropped.json`). The build files the new batch under today's update in `data/updates.json` (the What's New tab); if that update has no `title_en/title_zh` and `note_en/note_zh` yet, write them (one short title, one sentence on what was added) and build again.
 
 7. **Check for duplicates.** `python3 tools/audit.py` — if the new creator or works show up as possible duplicates, resolve them (see `/tidy`).
 
@@ -48,7 +48,7 @@ Read `data/SCHEMA.md` first. It defines the JSON format, the interaction vocabul
 10. **Preview.** Serve locally if helpful: `python3 -m http.server 8931 --bind 127.0.0.1`, open `http://localhost:8931/#view=works&q=<name>`.
 
 11. **Publish** (skip with `--no-push`).
-    `git add data/raw data/salient data/overrides.json data/key_creators.json data/entries.* data/leads*.json data/dropped.json data/video_cache.json inspire.md inspire.zh.md llms.txt index.html`
+    `git add data/raw data/salient data/updates.json data/overrides.json data/key_creators.json data/entries.* data/leads*.json data/dropped.json data/video_cache.json inspire.md inspire.zh.md llms.txt index.html`
     `git commit -m "feat(data): add <Creator Name> (<n> works)"` then `git push`. GitHub Pages redeploys https://augmented.reality.design in about a minute.
 
 12. **Report** in the user's language: creator(s) added, number of works, notable pieces, new leads found, anything left out and why, and the live URL.

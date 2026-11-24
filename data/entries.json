@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23",
+ "generated": "2026-11-24",
  "creators": [
   {
    "id": "shengzhi-wu",
@@ -1378,7 +1378,8 @@
    "bio_zh": "美国编舞家（1949 年生），曾执掌 Ballett Frankfurt 和 The Forsythe Company，重塑了当代芭蕾。自 1990 年代起，他还创作“编舞物件”（Choreographic Objects）：让观众留意自己如何移动的装置与指令。2026 年与 AR 平台 WAVA 合作的《Uplifting Instruction》被 Frieze 称为他的第一件增强现实作品。",
    "why_zh": "他把 AR 物体当作一条编舞指令：作品不是那个三维模型，而是它在观众身体里引发的动作。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "lai-kuan-yuan",
@@ -1397,7 +1398,8 @@
    "bio_zh": "独立导演与 XR 创作者，作品关注环境、文化、记忆与身份认同。他的 XR 作品包括《The Train Hamasen》《Speak to Awaken: Diving into Siraya》《Pneumo Hacker》和《The Reflected City》；《Towards Jimagawod》在 2026 年高雄电影节 XR Dreamland 竞赛单元首映。",
    "why_zh": "他把“朗读”变成一场多人共享的混合现实仪式，让文学成为一群人在空间里共同表演的事。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "stephanie-sphyras",
@@ -1416,7 +1418,8 @@
    "bio_zh": "法国创作者，与 B. Nguyen Tat 和 M. Deshayes 共同创作了多人漫游式混合现实体验《THE PARTY》。该项目入选 Villa Formose Immersive XR 原型驻地计划，并以原型形式在 2026 年高雄电影节 XR Dreamland 展出。",
    "why_zh": "她用透视头显让陌生人互相看见，而不是去看一个虚拟世界：作品的内容就是房间里的这场派对。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "felix-frank",
@@ -1435,7 +1438,8 @@
    "bio_zh": "数字艺术家与设计师，在慕尼黑、巴黎和巴塞罗那成长与求学，并在巴塞罗那取得动态设计硕士学位。他专注于建筑投影（video mapping）和灯光装置，称之为“光的绘画”，曾在 Tokyo Lights 和 Constellations de Metz 获奖。",
    "why_zh": "他的投影不是给建筑盖上一层图画，而是用严格的黑白把立面本身已有的几何关系“画”出来。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "tung-yen-chou",
@@ -1454,7 +1458,8 @@
    "bio_zh": "剧场导演与新媒体艺术家，在台北创办 Very Theatre，创作横跨剧场、电影与 VR。他的 VR 作品包括《In the Mist》和《Traversing the Mist》；由台北市立美术馆委托创作的《Shifting Connections》入围 2026 年 Venice Immersive 竞赛单元，并在 IDFA DocLab 2026 展出。",
    "why_zh": "他把多人 VR 精简到只剩“身体是点、点之间是线”，让关系本身成为画面。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "noa-jansma",
@@ -1475,7 +1480,8 @@
    "bio_zh": "常驻阿姆斯特丹的多媒体设计师，作品探讨“后自然”世界中的人类经验；早期项目包括《Dear Catcallers》和《Buycloud》。2026 年与弟弟 Mas Jansma 合作的《My Father is Turning into Soil》入选 IDFA DocLab 2026。",
    "why_zh": "她只做了一次出人意料的尺度与位置互换——把墓土的显微影像放到本该是天空的地方——关于“身后世界”的整个想象就变了。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "shin-hanagata",
@@ -1494,7 +1500,8 @@
    "bio_zh": "花形槙用简单的技术重新“接线”身体：早期表演《Uber Existence》（2020）和《still human》（2021）同样在探索“出借”和延伸身体。《CHIMERIA》获得 2026 年 Prix Ars Electronica「Interactive Art +」类别荣誉奖（Award of Distinction）。",
    "why_zh": "他只挪动一种感官——眼睛——就让一整套新的身体图式和日常生活从这一个改变中生长出来。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "peter-flaherty",
@@ -1513,7 +1520,8 @@
    "bio_zh": "Peter Flaherty 经营 Flaherty Pictures，导演融合剧场、电影与空间媒介的作品，包括 AR 加投影映射的鬼屋剧《The Dial》，以及漫威与迪士尼的《Eternals》AR 项目。《Empire at Sea》由林肯中心和 ASU Gammage 委约，入围 2026 年威尼斯沉浸单元（Venice Immersive）竞赛并获成就奖（Achievement Prize）。",
    "why_zh": "他把 AR 当作共享的剧场：一整群观众围着同一张桌子，从不同方向观看同一场全息戏剧。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "celine-daemen",
@@ -1532,7 +1540,8 @@
    "bio_zh": "Celine Daemen 的作品介于歌剧、电影和装置之间，例如与 Silbersee 合作的 VR 歌剧《Songs for a Passerby》（2024）。《Nothing to See Here》在 2025 年 IDFA DocLab 首演，并入围 2026 年威尼斯沉浸单元竞赛。",
    "why_zh": "她打造“感知仪器”，让你从外部看见自己的身体，而身体周围的世界正悄悄变得怪异。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "ubac-studio",
@@ -1553,7 +1562,8 @@
    "bio_zh": "Ubac Studio 由 Jiyun Park 和 Hyeunjoo Woo 组成，把 VR 电影和自制的可穿戴装置结合在一起。《Voooooo---Peeeeee---》入选 2026 年威尼斯沉浸单元「Best of Experiences」板块。",
    "why_zh": "他们把虚拟空间的大小变成压在你胸口的气压。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "sophia-bulgakova",
@@ -1572,7 +1582,8 @@
    "bio_zh": "Sophia Bulgakova 用拾得材料搭建聆听装置，例如《Sonic Sprawl》，所用的保温管来自阿姆斯特丹一处有许多乌克兰男工的船厂。《Spomyny》延续了这一创作，入选 2026 年威尼斯沉浸单元「Best of Experiences」板块。",
    "why_zh": "她让声音成为必须用耳朵一根管子一根管子去寻找的东西，聆听因此变成搜寻。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "hanna-haaslahti",
@@ -1591,7 +1602,8 @@
    "bio_zh": "Hanna Haaslahti 的装置把观众的脸拉进模拟出来的社会：在《Captured》（2019）里，被扫描的面孔会被放到数字化的施暴者、受害者或旁观者身上。《Ancestors》（2025）在坦佩雷美术馆和威尼斯沉浸单元首展，并获 2026 年 Prix Ars Electronica「New Animation Art」荣誉提名。",
    "why_zh": "她用你自己的脸当演员，于是关于别人的故事变成了关于你的故事。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "ujoo-limheeyoung",
@@ -1612,7 +1624,8 @@
    "bio_zh": "UJOO+LIMHEEYOUNG 自 2015 年起合作，用日常物件制作动作古怪、略带不安感的机械装置。《No Bird》（2025）获 2026 年 Prix Ars Electronica「Interactive Art +」荣誉提名。",
    "why_zh": "他们的机器通过留下又抹去的痕迹，讲述没有文字的短故事。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "nowhere-media",
@@ -1631,7 +1644,8 @@
    "bio_zh": "Felix Gaedtke 和 Gayatri Parameswaran 与社区合作制作沉浸式纪录片，结合 360° 视频、体积捕捉和实体装置。由 Mark Ruffalo 旁白、与所罗门群岛社区共同创作的《Solwata》入围 2026 年威尼斯沉浸单元竞赛。",
    "why_zh": "他们把真实的水和物件放到你手里，让遥远的气候故事不只被看见，也被触摸到。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "keiichi-matsuda",
@@ -3757,7 +3771,8 @@
    "bio_zh": "4th Wall Breakers 为 Meta Quest 制作混合现实游戏，作品包括过山车搭建游戏 CoasterMania 和绘画应用 Pencil!。它在 2026 年 Meta VR Start 比赛中的参赛作品 Wormhole Electric Co. 是一款把手伸进传送门、给房间接电线的解谜游戏。",
    "why_zh": "总能找到这样的混合现实玩法：让人惊讶的不是画面，而是玩家自己的手臂。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "table-connect",
@@ -3777,7 +3792,8 @@
    "bio_zh": "Table Connect 是一个混合现实项目：身处两地的两个人各自用自己的实体棋盘，一起下同一盘棋。它以国际跳棋原型的形式参加了 2026 年 Meta VR Start 开发者比赛。",
    "why_zh": "把实体棋盘和棋子当作界面，头显只负责把对手带到桌边。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "astral-shores",
@@ -3796,7 +3812,8 @@
    "bio_zh": "Astral Shores 是 WARP-OUT 的开发者，这款混合现实打砖块游戏参加了 2026 年 Meta VR Start 开发者比赛。",
    "why_zh": "用一个全新的动作重做了最古老的街机游戏之一：你的两只手就是传送门的两端。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "pixels-of-eight",
@@ -3816,7 +3833,8 @@
    "bio_zh": "Pixels of Eight 是一人 XR 工作室。它的手指滑板模拟器 Desk Session 是为 2026 年 Meta VR Start 开发者比赛独立完成的，把扫描出来的房间变成一座迷你滑板公园。",
    "why_zh": "只用两根指尖和一张桌子就玩出一整项运动，而且评分看的是滑板真正做了什么，而不是你比了什么手势。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "michael-cummings",
@@ -3835,7 +3853,8 @@
    "bio_zh": "Michael Cummings 在 Meta Global AI Developer Hackathon（2026 年 10 月 26 日至 11 月 4 日）期间做出了 ListLens：一份显示在 Meta Ray-Ban Display 上的购物清单，他把东西放进购物篮，清单上对应的那一项就自动划掉。",
    "why_zh": "展示了眼镜上的小屏幕适合做什么：一份因为眼镜看见了你手上的动作而自己更新的清单。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "daniel-oquelis",
@@ -3854,7 +3873,8 @@
    "bio_zh": "Daniel Oquelis 为 2026 年 Meta VR Start 开发者比赛制作了 Fashion Glass，使用 Unity、Meta XR SDK、Passthrough Camera Access，并由 Decart AI 做实时重绘。它把你房间里本来就挂着的镜子变成试衣服的地方。",
    "why_zh": "找到了房间里唯一能让戴头显的人看见自己的那块表面，并把生成模型正好放在那里。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "ahmet-o-basar",
@@ -3878,7 +3898,8 @@
    "bio_zh": "Ahmet O. Basar 在 2026 年秋天的 Meta Global AI Developer Hackathon 上以独立实验原型的形式做出了 Kokobubu。这款开源 iPhone 应用听到你对一台机器的提问后，会在 AR 里一步一步标出该碰的那个控件。",
    "why_zh": "让语言模型用“指”来代替“说”：答案就是标在你该拧的那个旋钮上的记号。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "be-bi",
@@ -3897,7 +3918,8 @@
    "bio_zh": "Be Bi 为 2026 年 Meta VR Start 开发者比赛的生产力赛道制作了 Spatial (Prototyping) Studio：在这款混合现实工具里，说一句话，就能在你房间里一台真实尺寸的虚拟设备上得到一个可以操作的界面。",
    "why_zh": "把混合现实用在显示器给不了设计师的那件事上：屏幕在它将被使用的地方到底有多大。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "museverse-labs",
@@ -3921,7 +3943,8 @@
    "bio_zh": "Museverse Labs 开发了 Museverse：一款把真实钢琴或电子琴连接到头显、通过琴键上的叠加画面来教学的混合现实应用。工作室最近的演示里，一双“幽灵手”坐在玩家自己的琴上，完整弹奏古典曲目。",
    "why_zh": "把真实乐器本身变成屏幕，教学正好发生在手指要落下的位置。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "brenpoly",
@@ -3943,7 +3966,8 @@
    "bio_zh": "brenpoly 在 YouTube 上制作好玩的开源小装置：从基于树莓派的 BMO 智能体，到你刷手机太久就会生病的离线电子宠物。他的 CardboardXR 头显用一部旧手机加一个 3D 打印的观看器，做成了能识别手势的混合现实设备。",
    "why_zh": "证明一部三年前的手机、一台打印机和本地 AI，已经足够拼出一台人人都能做的空间计算设备。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "robomex",
@@ -3966,7 +3990,8 @@
    "bio_zh": "robomex 为 Apple 平台开发 AR、计算机视觉和空间 AI 产品，并在 vision.engineer 上发布开源的 visionOS 演示和技术文章，从靠物体追踪引导的菜谱应用，到整栋房子的实时全息 3D 地图。作为法定盲人，他在测试 Vision Pro 能否替人“看见”。",
    "why_zh": "每当 Apple 推出新的追踪接口，他都借此追问一个关于“看见”的实际问题，并公开代码让任何人复现。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "aether-ar",
@@ -3990,7 +4015,8 @@
    "bio_zh": "AE.T.HE.R 一集一集地记录自己如何不亲手写代码、只靠和编程智能体对话来做混合现实项目：会改造卧室风格的 AI 伙伴、被搬到自家地板上的 PS2 格斗游戏，以及一个能“看见”房间的助手。他的视频坦率交代花费、token 用量和每一次失败。",
    "why_zh": "展示了不会编程的人如今借助编程智能体能在混合现实里做到什么，也坦白了它在哪里会出问题。",
    "discovered_via": "seed",
-   "work_count": 3
+   "work_count": 3,
+   "added": "2026-11-13"
   },
   {
    "id": "scott-snibbe",
@@ -14723,7 +14749,8 @@
    "bio_zh": "Ben Pearman 在卡尔加里大学 Wesley Willett 的 Data Experience Lab 研究岩壁的数字孪生如何帮助攀岩者找路。他做了 ThreeTopo（CHI 2026 最佳论文奖），用无人机照片为 Yamnuska 山上一条 240 米的线路建出三维路线指南；还做了头显原型 RockXR，以“The Rock Can Talk”为题发表于 UIST 2026。",
    "why_zh": "把混合现实从实验室带到真正的悬崖上，在那里走错一步是真的有后果的。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "ville-makela",
@@ -14742,7 +14769,8 @@
    "bio_zh": "Ville Mäkelä 的团队研究虚拟与物理现实交界处发生的事。他与 Dazhuang Teng 在 CHI PLAY 2026 发表了两篇关于 VR 游戏被打断的论文：一篇研究如何不离开 VR 就处理现实中的事，另一篇 Pause and Play 则在你离开时把游戏的一部分留在透视画面里。",
    "why_zh": "专门设计离开和重返虚拟世界的那一刻，这是多数应用忽略的过渡。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "sebastian-cmentowski",
@@ -14761,7 +14789,8 @@
    "bio_zh": "Sebastian Cmentowski 和 Panos Markopoulos 与 Jules van Gurp、Shanya Migchelsen 一起探索面向儿童的“非视觉”或无屏幕 XR：虚拟的东西就在房间里，却只通过声音、触觉和身体移动来传达。在 CHI PLAY 2026 上，他们展示了用手持设备玩的双人寻弹游戏 BombQuest，以及让 38 名儿童追逐一只隐形幽灵的研究 Play Beyond Vision。",
    "why_zh": "证明增强现实根本不需要显示屏，只需要房间里有一个让人相信的隐形之物。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "gustavo-marfia",
@@ -14780,7 +14809,8 @@
    "bio_zh": "Gustavo Marfia 的 VARLab 研究人如何借助混合现实和数字孪生学习。他与 Mengting Lai、Xiaoxuan Zhao、Wen Li、Shirin Hajahmadi、Pasquale Cascarano 合作，证明混合现实训练时出现的气味能帮助人们之后在不戴头显的情况下重现这项技能，并因此获得 IEEE ISMAR 2026 最佳论文奖。",
    "why_zh": "给 AR 训练加上一种看不见的感官，并追问摘下头显之后还有什么留在你身上。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "woontack-woo",
@@ -14804,7 +14834,8 @@
    "bio_zh": "Woontack Woo 的 UVR Lab 二十年来一直研究情境感知的增强现实和数字孪生。在 IEEE ISMAR 2026 上，实验室展示了与斯图加特大学的 Dieter Schmalstieg、Shohei Mori 合作的 SnapPhysics、一个用于回放装配过程录像的界面，以及一篇关于在协作者之间共享触感的最佳论文。",
    "why_zh": "把混合现实场景看作有重量、有摩擦的东西，而不只是有形状。",
    "discovered_via": "shohei-mori",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "dunhuang-cave-736-team",
@@ -14823,7 +14854,8 @@
    "bio_zh": "Siyuan Liu、Kehan Xie、Yujie Huang、Jing Zhou、Jiayu Cao、Jun Hu、Haiqing Xu 和 Mengru Xue 创作了 Escaping Dunhuang Cave 736：一个身体追踪游戏，玩家要模仿敦煌壁画里的舞姿才能逃出一座虚构的洞窟。作品入选 SIGGRAPH Asia 2026 XR 单元。",
    "why_zh": "把“看壁画”变成用自己的身体把壁画跳出来。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "taixu-dreamscape",
@@ -14842,7 +14874,8 @@
    "bio_zh": "Zhennan Du、Weiwei Xu、Zhuo Zhong、Xuefen Jiang 和 Yang Yang 把体积捕捉方面的图形学研究与剧团的舞台经验结合起来。Taixu Dreamscape（《太虚幻境》）让真人演员和体积视频数字演员出现在同一个真实舞台上，观众佩戴 Apple Vision Pro 观看；作品入选 SIGGRAPH Asia 2026 XR 单元。",
    "why_zh": "把体积视频演员以真人大小带进真正的剧场，站在活生生的演员身边。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "hicup-lab",
@@ -14861,7 +14894,8 @@
    "bio_zh": "HICUP Lab 研究混合现实和日常设备的交互。博士研究者 Michelle U. Fernando 在这里研究全身运动技能的沉浸式指导，以跆拳道为案例；她在 ACM ISS 2026 博士生论坛的论文提出了四种把示范化身锚定在移动中的学习者周围的方式。",
    "why_zh": "提出一个简单又通用的问题：学生一直在动，老师该站在哪里？",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "exertion-games-lab",
@@ -14882,7 +14916,8 @@
    "bio_zh": "Exertion Games Lab 由 Florian 'Floyd' Mueller 主持，设计与运动中的身体一起“玩”的技术，从运动游戏到穿戴在身上甚至体内的设备。BoulderPlay 由 Nathalie Overdevest、Ayesha Tariq、Gavin Qian、Ellen Welstead-Cloud、Po-Yao 'Cosmos' Wang、Florian Daiber、Felix Kosmalla、Mueller 和 Don Samitha Elvitigala 完成，在真实的抱石墙上结合了 AR 头显和前臂振动。",
    "why_zh": "为流汗的身体设计 AR，而不是为站着不动的人。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-23"
   },
   {
    "id": "jan-gugenheimer",
@@ -14903,7 +14938,8 @@
    "bio_zh": "Jan Gugenheimer 的团队研究视频透视 AR 如何悄悄改写人所看到的世界：SwitchAR 会在不知不觉中把摄像头画面换成三维重建，ShadAR 则把一句话的指令变成作用于视野的实时着色器。此前他在巴黎电信学院（Télécom Paris）任教。",
    "why_zh": "把透视画面当成可以编辑的材料，追问当人们能随时改写自己的感知时会发生什么。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "yukang-yan",
@@ -14924,7 +14960,8 @@
    "bio_zh": "Yukang Yan 的团队把人的感知当作设计对象来打造 XR 系统：在 UIST 2026 上，他的实验室展示了与 Nandi Zhang 合作的 Remapping Time，凭 Sonic Stage（为盲人观众生成空间声景）获得最佳论文奖，并以 FocusAdapt（用减实现实帮助专注）获得最佳海报奖。他此前在卡内基梅隆大学做博士后。",
    "why_zh": "证明透视头显的延迟不只是缺陷，也可以是一种能拉伸、压缩的设计材料。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "masahiro-ohta",
@@ -14945,7 +14982,8 @@
    "bio_zh": "Masahiro Ohta 设计把虚拟手、隐藏的机器人和减实现实混合在一起的“延伸身体”。他与鸣海拓志研究室以及南泽孝太的 Embodied Media 团队合作的 Body Sublimation，让一只虚拟手在能穿墙的“气态”和能真正抓东西的“固态”之间切换。",
    "why_zh": "用减实现实把机器人藏起来，只留下“身体”，让远程操作变成一种伸手的感觉。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "shan-yuan-teng",
@@ -14966,7 +15004,8 @@
    "bio_zh": "Shan-Yuan Teng 打造能扩展双手感知与能力的可穿戴设备：从他在芝加哥大学 Pedro Lopes 实验室读博时做的触觉界面，到他在台大实验室的 UIST 2026 演示，包括一个能让你看到物体背后的腕部摄像头，以及一只带可卷曲触手的智能手表。",
    "why_zh": "在手腕上装了第二双眼睛，让 AR 把头看不到的东西展示给手。",
    "discovered_via": "pedro-lopes",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "abe-davis",
@@ -14987,7 +15026,8 @@
    "bio_zh": "Abe Davis 的研究位于图形学、视觉与交互的交汇处，他在麻省理工读博期间以“视觉麦克风”和视觉振动测量而闻名。与 Peter Michael、Andrew Arena、Harald Haraldsson 合作的 LightShop，把长曝光光绘变成一门有 AR 引导、投影仪辅助的手艺。",
    "why_zh": "把 AR 当成一张尚未拍出的照片的预览，让人能精确地用光作画。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "cyberagent-ai-lab",
@@ -15008,7 +15048,8 @@
    "bio_zh": "CyberAgent AI Lab 研究虚拟化身和机器人如何在日常活动中代替人出场。Kojiro Tanaka、Takuya Iwamoto 和 Yuki Okafuji 的 Present Drawing，让头显里的虚拟化身通过与隐藏的笔式绘图仪同步，在真实的纸上签名或作画。",
    "why_zh": "让虚拟化身留下实体痕迹，不在场的人也能留下真正的墨迹。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "kenri-kodaka",
@@ -15027,7 +15068,8 @@
    "bio_zh": "小鷹研理（Kenri Kodaka）的实验室（成员包括 Kaho Kagami、牧野内柚香 Yuka Makinouchi 等）用简单的道具、镜子、声音和触摸发明各种奇特的身体错觉：被拉长的皮肤、足球头、被“传送”进脑袋的光，以及被一只手拉进头里的声音。许多作品在 UIST、SIGGRAPH Asia 和美术馆展览中展出。",
    "why_zh": "把身体当成一块可以被骗过的显示屏，这正是 AR 设计者需要理解的。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "peisen-xu",
@@ -15046,7 +15088,8 @@
    "bio_zh": "Peisen Xu 研究人如何同时监管大量自主无人机。他与 Jérémie Garcia、Peter Cleveland、Wei Tsang Ooi 和 Christophe Jouffrais 合作的 FleetScape，把整个无人机编队变成一张可以绕着走的混合现实沙盘。",
    "why_zh": "把整场任务缩小成桌面上的一个世界，用双手就能读懂和操控。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-11-13"
   },
   {
    "id": "mohamed-kari",
@@ -15070,7 +15113,8 @@
    "bio_zh": "Mohamed Kari 做的混合现实不只是给世界“贴图”，而是去改写物理世界本身。他与 Christian Holz 合作的 TransforMR 把街上的行人和车辆替换成虚拟角色，还做了 SoundsRide；在普林斯顿与 Parastoo Abtahi 合作的 Reality Promises 里，你在 MR 中对房间做的事，会由一台隐身机器人在真实房间里替你完成。",
    "why_zh": "他把“MR 显示的”与“房间真正发生的”之间的落差，变成了一种设计材料。",
    "discovered_via": "christian-holz",
-   "work_count": 2
+   "work_count": 2,
+   "added": "2026-10-18"
   },
   {
    "id": "asier-marzo",
@@ -15092,7 +15136,8 @@
    "bio_zh": "Asier Marzo 的 UpnaLab 把计算机科学、物理和电子结合起来制作交互装置，他本人以 TinyLev 等开源声悬浮装置闻名。近期论文包括 FlexiVol——一台装有弹性漫射屏、可以把手伸进去的体积显示器，以及 StreamFog——用超声波驾驭一柱柱雾气，把它们当作可移动的投影屏。",
    "why_zh": "他让空中影像变得有形：光落在雾气和弹力带上，手可以从中穿过。",
    "discovered_via": "seed",
-   "work_count": 2
+   "work_count": 2,
+   "added": "2026-10-18"
   },
   {
    "id": "alexandra-ion",
@@ -15117,7 +15162,8 @@
    "bio_zh": "Alexandra Ion 的实验室设计交互材料与机器人结构，从超材料机构到会变形的房间。她与 Scott E. Hudson 以及 Violet Yinuo Han、Jesse T. Gonzalez 等学生一起，探索会自己移动来帮助人的日常物品和空间。",
    "why_zh": "她把物理世界本身——而不是屏幕——想象成会回应你的界面。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-18"
   },
   {
    "id": "enrico-rukzio",
@@ -15140,7 +15186,8 @@
    "bio_zh": "Enrico Rukzio 在乌尔姆大学的团队研究车内交互、混合现实与共享空间。Pascal Jansen 开发了开源工具 MIRAGE，能在真实道路上实时增加、删除和改写物体的样子；更早的 ShARe 则给 AR 头显加上投影仪，让佩戴者身边的人也能参与进来。",
    "why_zh": "他们把挡风玻璃外的景象当作可编辑的现实，并把安全作为设计命题。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-18"
   },
   {
    "id": "hideki-koike",
@@ -15162,7 +15209,8 @@
    "bio_zh": "Hideki Koike 的实验室从 2000 年前后的 EnhancedDesk 起就在做投影仪—摄像头交互，同时研究动作捕捉与技能训练。近期与 Shio Miyafuji 合作的工作利用高速投影和人眼的时间特性，让图像只对以特定方式移动的眼睛可见，或让颜色只沿着运动物体的轨迹出现。",
    "why_zh": "他把人类视觉的“怪癖”变成了一条显示通道。",
    "discovered_via": "seed",
-   "work_count": 3
+   "work_count": 3,
+   "added": "2026-10-18"
   },
   {
    "id": "inseok-hwang",
@@ -15183,7 +15231,8 @@
    "bio_zh": "Inseok Hwang 在 POSTECH 的团队研究移动与泛在计算系统，让人们手里现有的设备做更多事。与 Seungwon Yang、Suwon Yoon、Jeongwon Choi 合作的 Chameleon，把平放在桌上的手机变成一扇透明窗，桌边的每个人都能共享窗里的 AR 内容。",
    "why_zh": "只用一部普通手机和一张桌子，就做出了令人信服的 AR 错觉。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-18"
   },
   {
    "id": "pengcheng-an",
@@ -15204,7 +15253,8 @@
    "bio_zh": "Pengcheng An 的工作室为学习与游戏设计具身 AI，从机器人、玩具到面向儿童的 AR 活动。ProjecTA 给一台半人形教学机器人装上投影仪，让它的指向手势化作落在真实物体上的高亮和说明。",
    "why_zh": "他证明了机器人可以用光来“指”，而不必依赖胸前的屏幕。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-18"
   },
   {
    "id": "xueyang-wang",
@@ -15227,7 +15277,8 @@
    "bio_zh": "Xueyang Wang 研究沉浸式系统如何扎根于真实房间、并尊重身边的旁观者，从摄像头眼镜的隐私控制到感知房间的 VR。与 Robert Xiao、Xin Yi、Hewu Li 等合作的 Roomify，把扫描后的房间换上 VR 主题，同时让每面墙、每件家具都留在真实的位置。",
    "why_zh": "让幻想世界和你可能撞上的真实家具保持对齐。",
    "discovered_via": "robert-xiao",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-18"
   },
   {
    "id": "kaist-make-lab",
@@ -15252,7 +15303,8 @@
    "bio_zh": "Andrea Bianchi 的 Make Lab 站在设计与工程的交界处，为创客和设计师开发电子原型、数字制造、混合现实交互以及触觉和机器人界面方面的工具。与 Adobe Research 合作的 AdapTest 让设计师直接在头显里创作会随房间环境变化的 XR 界面。",
    "why_zh": "把设计师当作 XR 工具的使用者，让房间本身也成为需要设计的对象。",
    "discovered_via": "doga-dogan",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-18"
   },
   {
    "id": "ie-robotics-ai-lab",
@@ -15273,7 +15325,8 @@
    "bio_zh": "这个实验室研究与人共处日常空间的机器人。其 AIfred 项目在桌面机械臂末端装上投影仪，让生成式 AI 的帮助直接落在学生正在书写的纸上；它的前身是 2025 年的机器人学习伙伴 Alfred。",
    "why_zh": "让机器人把 AI 的帮助从屏幕上搬到手头真实的作业上。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-18"
   },
   {
    "id": "dzmitry-tsetserukou",
@@ -15294,7 +15347,8 @@
    "bio_zh": "Tsetserukou 的团队研究人与无人机、人与机器人的交互，把空中机器人与触觉反馈、投影和大语言模型结合在一起。HoverAI 让一架无人机自带投影仪、屏幕和会对话的虚拟形象。",
    "why_zh": "给会飞的机器人一张脸和一副嗓音，让无人机在共享空间里能说明自己要做什么。",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-18"
   },
   {
    "id": "daisuke-iwai",
@@ -15316,7 +15370,8 @@
    "why_zh": "他把投影当作一种感知材料来研究：光落在物体上时，什么时候才不再像是“投影”。",
    "based_zh": "大阪，日本",
    "discovered_via": "seed",
-   "work_count": 2
+   "work_count": 2,
+   "added": "2026-10-18"
   },
   {
    "id": "ping-hsuan-han",
@@ -15338,7 +15393,8 @@
    "why_zh": "他把整个家，连同家具和电器，都当作虚拟角色的触觉显示器。",
    "based_zh": "台北",
    "discovered_via": "seed",
-   "work_count": 2
+   "work_count": 2,
+   "added": "2026-10-18"
   },
   {
    "id": "shogo-fukushima",
@@ -15359,7 +15415,8 @@
    "why_zh": "他质疑的是设备形态本身：当脸上什么都不戴时，VR 会变成什么样？",
    "based_zh": "福冈，日本",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-18"
   },
   {
    "id": "sung-hee-lee",
@@ -15380,7 +15437,8 @@
    "why_zh": "他把远程临场重新理解为几个真实房间之间的协商，而不是一个共享的虚拟盒子。",
    "based_zh": "大田，韩国",
    "discovered_via": "seed",
-   "work_count": 2
+   "work_count": 2,
+   "added": "2026-10-18"
   },
   {
    "id": "john-desnoyers-stewart",
@@ -15401,7 +15459,8 @@
    "why_zh": "他用混合现实让陌生人彼此产生联结，把共享的感官变成共享的体验。",
    "based_zh": "不列颠哥伦比亚省，加拿大",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-18"
   },
   {
    "id": "jake-bhattacharyya",
@@ -15423,7 +15482,8 @@
    "why_zh": "他把真实的声景变成输入，让音频 AR 先“听”，再“说”。",
    "based_zh": "格拉斯哥，英国",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-18"
   },
   {
    "id": "qingzhu-zhang",
@@ -15444,7 +15504,8 @@
    "why_zh": "她把吃和唱，而不只是“看”，当作创作混合现实的方式。",
    "based_zh": "伯克利，美国",
    "discovered_via": "seed",
-   "work_count": 2
+   "work_count": 2,
+   "added": "2026-10-18"
   },
   {
    "id": "minchen-li",
@@ -15467,7 +15528,8 @@
    "why_zh": "他证明了，让 XR 里的手部交互显得自然的，是可信的物理，而不是更多的按钮。",
    "based_zh": "匹兹堡，美国",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-18"
   },
   {
    "id": "inna-horobchuk",
@@ -15491,7 +15553,8 @@
    "why_zh": "她擅长把看不见或抽象的东西在房间里变得可读，从 Wi-Fi 覆盖到决策疲劳，并凭这些作品赢得 Snap Lensathon 2025 和多次 Spectacles Community Challenge。",
    "based_zh": "捷克",
    "discovered_via": "snap-inc",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-14"
   },
   {
    "id": "krunal-gediya",
@@ -15515,7 +15578,8 @@
    "why_zh": "他不断把 Spectacles 与物理世界连接起来（智能家居、遥控车、笔记本屏幕、可穿戴灯带），获得两项 Lens Fest 2025 大奖，并多次在 Spectacles Community Challenge 中获奖。",
    "based_zh": "孟买，印度",
    "discovered_via": "snap-inc",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-14"
   },
   {
    "id": "lafiya-watson-ramirez",
@@ -15538,7 +15602,8 @@
    "bio_zh": "她的创作横跨 AR 设计与开发、网页和摄影；2020 年参加 Snapchat 艺术家驻留后，她做过早期的 Spectacles 游戏、入选 Niantic Lightship 示例库的地点 AR 作品 Stolen Rainbow，以及为纽约市博物馆制作的 AR 滤镜。",
    "why_zh": "她用可穿戴 AR 讲述关于仪式与记忆的互动故事，比如 Wage Love：手势和声音召唤出先祖，他们走过之处留下鲜花。",
    "discovered_via": "snap-inc",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-14"
   },
   {
    "id": "calvin-dong",
@@ -15559,7 +15624,8 @@
    "bio_zh": "Spectacles 开发者，曾与 Lien Tran 以 Mooncake Media 团队名义制作装修娃娃屋的 Lens Dream Home，并在 Specs in the City Paris 2025 黑客松上参与创作了“照片挖洞”派对游戏 Pic Seeker。",
    "why_zh": "Pic Seeker 说明，把一副眼镜在人与人之间传递，本身就可以成为一种游戏机制。",
    "discovered_via": "snap-inc",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-14"
   },
   {
    "id": "awu-chen",
@@ -15580,7 +15646,8 @@
    "bio_zh": "三人在 MIT Reality Hack 2026 上组队；Suvi Helin 原本使用 Unity，在比赛期间学会了 Lens Studio，三人共同完成了 Wake Them Up!：一个让物品讲述主人故事的 Spectacles Lens。",
    "why_zh": "他们通过提示词设计让 Gemini 始终扮演讲故事的人，而不是热心助手，为“用 AI 讲故事而非提供功能”提供了可借鉴的经验。",
    "discovered_via": "snap-inc",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-14"
   },
   {
    "id": "kshitij-parashar",
@@ -15599,7 +15666,8 @@
    "bio_zh": "他与队友 Brian Chung、Liza Karimova 和 Timera 在 2025 年 5 月 Snap 举办的 Specs in the City NYC 黑客松上，为 Spectacles 开发了同场派对游戏 Who AR You?。",
    "why_zh": "他们的游戏为共享 AR 找到了一种只有眼镜才能实现的社交用法：一条除了头顶着它的当事人以外所有人都能看到的信息。",
    "discovered_via": "snap-inc",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-14"
   },
   {
    "id": "steven-harmon",
@@ -15620,7 +15688,8 @@
    "bio_zh": "团队成员包括 Steven Harmon、Syed Akbar、Sara Jakubowicz、Ryan Bose-Roy 和 Alex Diviney，他们在 MIT Reality Hack 2026 上把 Spectacles 和一个定制的 ESP32 腕表收音机结合起来，做出了 The Time Dial。",
    "why_zh": "他们受科幻作品中时间装置启发设计的实体旋钮，为带地理信息的老照片档案提供了一种可触摸、好玩的入口。",
    "discovered_via": "snap-inc",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-14"
   },
   {
    "id": "markus-lanxinger",
@@ -15646,7 +15715,8 @@
    "why_zh": "Postmark 说明空间计算在尊重注意力时效果最好：那些安静等待、直到你看向它们才开口的物件。",
    "based_zh": "海牙，荷兰",
    "discovered_via": "snap-inc",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-14"
   },
   {
    "id": "bob-bjarke",
@@ -15667,7 +15737,8 @@
    "why_zh": "他的篮球 Lens 是一个干净利落的范例：把外部世界的数据叠回它所描述的那个真实场地上。",
    "based_zh": "美国",
    "discovered_via": "snap-inc",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-14"
   },
   {
    "id": "pieter-siekerman",
@@ -15692,7 +15763,8 @@
    "why_zh": "他不断展示 GPS、指南针和公共数据在眼镜上能做什么，从城市数据叠加到“透过楼房看到公交车”。",
    "based_zh": "阿姆斯特丹，荷兰",
    "discovered_via": "snap-inc",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-14"
   },
   {
    "id": "harry-banda",
@@ -15717,7 +15789,8 @@
    "why_zh": "他把经典游戏和益智玩法打磨成手感出色的空间游戏，Memory Grid 说明只要让玩家走起来，熟悉的玩法就会焕然一新。",
    "based_zh": "卢萨卡，赞比亚",
    "discovered_via": "snap-inc",
-   "work_count": 2
+   "work_count": 2,
+   "added": "2026-10-14"
   },
   {
    "id": "nick-ross",
@@ -15741,7 +15814,8 @@
    "bio_zh": "洛杉矶的开发者，他在个人简介中把自己的工作描述为借助 Snap 的 Specs“让计算更有人情味”。他把 Specs 原型带到城市街头，拍下陌生人的反应。",
    "why_zh": "他在对消费级设备最关键的地方测试 AR：在街头，面对从没戴过这副眼镜的人。",
    "discovered_via": "alessio-grancini",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-14"
   },
   {
    "id": "vincent-guigui",
@@ -15763,7 +15837,8 @@
    "bio_zh": "常驻巴黎的 XR 与自然用户界面专家，曾在 OCTO Technology（埃森哲旗下）带领 AR/VR 与 AI 项目，近十年来一直在做 HoloLens、眼动追踪和聊天机器人等原型。如今他为 Snap Spectacles 开发 Lens，其中包括参加 2025 年巴黎 Spectacles 黑客马拉松的作品。",
    "why_zh": "他把 AR 文字当作场景的一部分：歌词由世界里的角色和物体“携带”，而不是漂浮的字幕。",
    "discovered_via": "snap-inc",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-14"
   },
   {
    "id": "imogen-heap",
@@ -15789,7 +15864,8 @@
    "bio_zh": "获得格莱美奖的英国创作歌手和制作人，参与研发了用手势控制音乐的 Mi.Mu 手套，十多年来一直用身体动作来演奏电子音乐。",
    "why_zh": "她多年来把手势变成音乐；SPECS 上的 Sound Space 展示了当乐器真的漂浮在空中、被看见时，“身体即乐器”的想法会变成什么样。",
    "discovered_via": "snap-inc",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-14"
   },
   {
    "id": "lepub-singapore",
@@ -15813,7 +15889,8 @@
    "bio_zh": "Publicis 旗下创意公司 LePub 的新加坡办公室；其创新团队 LeGarage 专做以技术驱动的项目，例如为新加坡国家图书馆管理局打造的 Augmented Reading。",
    "why_zh": "它用 AR 眼镜为纸本慢读辩护，而不是用屏幕取代书本。",
    "discovered_via": "snap-inc",
-   "work_count": 1
+   "work_count": 1,
+   "added": "2026-10-14"
   },
   {
    "id": "joon-moon",
@@ -18305,7 +18382,8 @@
     "embeddable": true
    },
    "source_url": "https://www.youtube.com/watch?v=47Pw5VhnqPw",
-   "batch": "update-2026-11b-yt"
+   "batch": "update-2026-11b-yt",
+   "added": "2026-11-23"
   },
   {
    "id": "ian-curtis--x194197",
@@ -18509,7 +18587,8 @@
    },
    "source_url": "https://pavlo-stijn.dev/blog/posts/a-real-fly-brain-on-spectacles.html",
    "code_url": "https://github.com/PtPavloTkachenko/fly-brain-spectacles",
-   "batch": "specs-creators"
+   "batch": "specs-creators",
+   "added": "2026-10-14"
   },
   {
    "id": "aether-ar--aether-studio",
@@ -18551,7 +18630,8 @@
    },
    "source_url": "https://www.youtube.com/watch?v=dpskHAokmLk",
    "ai_cat": "cocreate",
-   "batch": "update-2026-11b-yt"
+   "batch": "update-2026-11b-yt",
+   "added": "2026-11-23"
   },
   {
    "id": "figmin-xr--ai-agent-vision",
@@ -18713,7 +18793,8 @@
    "source_url": "https://news.northeastern.edu/2026/08/17/ai-mom-art-exhibit/",
    "related_cat": "responsive",
    "ai_cat": "agent",
-   "batch": "art-2026-11b"
+   "batch": "art-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "stijn-spanhove--lego-from-your-pile",
@@ -18754,7 +18835,8 @@
    },
    "source_url": "https://www.youtube.com/watch?v=yfUh9xc58JI",
    "ai_cat": "understand",
-   "batch": "update-2026-11-yt-a"
+   "batch": "update-2026-11-yt-a",
+   "added": "2026-11-13"
   },
   {
    "id": "alessio-grancini--decart-video-call-specs",
@@ -18837,7 +18919,8 @@
    },
    "source_url": "https://arxiv.org/abs/2609.38737",
    "ai_cat": "agent",
-   "batch": "research-2026-labs"
+   "batch": "research-2026-labs",
+   "added": "2026-10-18"
   },
   {
    "id": "kaist-make-lab--adaptest",
@@ -18877,7 +18960,8 @@
     "embeddable": true
    },
    "source_url": "https://make.kaist.ac.kr/project/2026-adaptest",
-   "batch": "research-2026-labs"
+   "batch": "research-2026-labs",
+   "added": "2026-10-18"
   },
   {
    "id": "studio-drift--aeolus",
@@ -18916,7 +19000,8 @@
    },
    "source_url": "https://www.thisiscolossal.com/2026/10/aeolus-studio-drift-light-glass-installation/",
    "related_cat": "light",
-   "batch": "art-2026-fall"
+   "batch": "art-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "daisuke-iwai--aeropixels",
@@ -18955,7 +19040,8 @@
     "embeddable": true
    },
    "source_url": "https://www.youtube.com/watch?v=ceCwP54D7yg",
-   "batch": "update-2026-11-yt-b"
+   "batch": "update-2026-11-yt-b",
+   "added": "2026-11-13"
   },
   {
    "id": "snap-inc--agent-center-spectacles",
@@ -19234,7 +19320,8 @@
    },
    "source_url": "https://www.youtube.com/watch?v=LfU5jsH0Q88",
    "ai_cat": "agent",
-   "batch": "update-2026-11b-yt"
+   "batch": "update-2026-11b-yt",
+   "added": "2026-11-23"
   },
   {
    "id": "hicup-lab--avatar-guidance-anchoring",
@@ -19272,7 +19359,8 @@
     "embeddable": true
    },
    "source_url": "https://programs.sigchi.org/iss/2026/program/content/278827",
-   "batch": "research-2026-11b"
+   "batch": "research-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "ken-nakagaki--bloombeacon",
@@ -19311,7 +19399,8 @@
     "embeddable": true
    },
    "source_url": "https://www.axlab.cs.uchicago.edu/projects/bloombeacon",
-   "batch": "research-2026-hci"
+   "batch": "research-2026-hci",
+   "added": "2026-10-18"
   },
   {
    "id": "masahiro-ohta--body-sublimation",
@@ -19352,7 +19441,8 @@
     "embeddable": true
    },
    "source_url": "https://masaohta0423.github.io/body-sublimation/",
-   "batch": "research-2026-fall"
+   "batch": "research-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "sebastian-cmentowski--bombquest",
@@ -19391,7 +19481,8 @@
     "embeddable": true
    },
    "source_url": "https://doi.org/10.1145/3800965.3834486",
-   "batch": "research-2026-11b"
+   "batch": "research-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "robomex--blind-tasks-object-tracking",
@@ -19436,7 +19527,8 @@
    },
    "source_url": "https://vision.engineer/posts/object-tracking-updates-in-visionOS-27-and-iOS-27/",
    "code_url": "https://github.com/robomex/visionOS-27-iOS-27-Object-Tracking-Demo",
-   "batch": "platforms-2026-fall"
+   "batch": "platforms-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "brenpoly--cardboard-xr",
@@ -19481,7 +19573,8 @@
    },
    "source_url": "https://github.com/brenpoly/CardboardXR",
    "code_url": "https://github.com/brenpoly/CardboardXR",
-   "batch": "platforms-2026-fall"
+   "batch": "platforms-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "hugues-bruyere--carveout",
@@ -19601,7 +19694,8 @@
    },
    "source_url": "https://arxiv.org/abs/2603.08060",
    "ai_cat": "generate",
-   "batch": "research-2026-fall"
+   "batch": "research-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "ian-curtis--x222009",
@@ -19760,7 +19854,8 @@
    },
    "source_url": "https://www.jeoresearch.com/mobileeyetracking.html",
    "code_url": "https://github.com/JEOresearch/EyeTracker",
-   "batch": "update-2026-11b-yt"
+   "batch": "update-2026-11b-yt",
+   "added": "2026-11-23"
   },
   {
    "id": "max-van-leeuwen--webxr-dancing-self-scan",
@@ -19842,7 +19937,8 @@
     "embeddable": true
    },
    "source_url": "https://www.meta.com/experiences/desk-session-fingerboard-simulator/1402215322971900/",
-   "batch": "platforms-2026-11b"
+   "batch": "platforms-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "ping-hsuan-han--douball",
@@ -19882,7 +19978,8 @@
    },
    "source_url": "https://www.youtube.com/watch?v=oMhnSTKf2ak",
    "related_cat": "immersive",
-   "batch": "update-2026-11-yt-b"
+   "batch": "update-2026-11-yt-b",
+   "added": "2026-11-13"
   },
   {
    "id": "aidan-wolf--dreampark-arcade",
@@ -20075,7 +20172,8 @@
     "embeddable": true
    },
    "source_url": "https://lab.plopes.org",
-   "batch": "update-2026-11-yt-a"
+   "batch": "update-2026-11-yt-a",
+   "added": "2026-11-13"
   },
   {
    "id": "peter-flaherty--empire-at-sea",
@@ -20120,7 +20218,8 @@
     "source": "article",
     "url": "https://uploadvr.com/empire-at-sea-brings-a-shared-adrama-to-venice-immersive/"
    },
-   "batch": "art-2026-fall"
+   "batch": "art-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "dunhuang-cave-736-team--escaping-dunhuang-cave-736",
@@ -20159,7 +20258,8 @@
    },
    "source_url": "https://sa2026.conference-schedule.org/?post_type=page&p=15&id=xr_214&sess=sess278",
    "ai_cat": "body",
-   "batch": "research-2026-11b"
+   "batch": "research-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "youssef-afella--fake-real-glass",
@@ -20245,7 +20345,8 @@
    },
    "source_url": "https://www.youtube.com/watch?v=2YKrTD5lGP8",
    "ai_cat": "restyle",
-   "batch": "platforms-2026-11b"
+   "batch": "platforms-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "theo-triantafyllidis--feral-metaverse-spider",
@@ -20285,7 +20386,8 @@
    },
    "source_url": "https://www.forma.org.uk/projects/theo-triantafyllidis-frieze-london-artist-award-2026",
    "related_cat": "responsive",
-   "batch": "art-2026-11b"
+   "batch": "art-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "keijiro-takahashi--flashglitch",
@@ -20362,7 +20464,8 @@
     "embeddable": true
    },
    "source_url": "https://programs.sigchi.org/uist/2026/program/content/262857",
-   "batch": "research-2026-fall"
+   "batch": "research-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "xavi-bou--fluctus",
@@ -20635,7 +20738,8 @@
     "why_en": "Follow the character with your eyes and a hidden second animation appears.",
     "why_zh": "用眼睛追随角色，一段隐藏的动画就会出现。",
     "cat": "invisible"
-   }
+   },
+   "added": "2026-11-13"
   },
   {
    "id": "chris-harrison-figlab--gazetags",
@@ -20676,7 +20780,8 @@
     "embeddable": true
    },
    "source_url": "https://www.figlab.com/research/2026/gazetags",
-   "batch": "research-2026-11b"
+   "batch": "research-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "firedragon-game-studio--gemini-vision-navigator",
@@ -20802,7 +20907,8 @@
    },
    "source_url": "https://www.youtube.com/watch?v=dLFhfkQ40qE",
    "ai_cat": "understand",
-   "batch": "update-2026-11-yt-a"
+   "batch": "update-2026-11-yt-a",
+   "added": "2026-11-13"
   },
   {
    "id": "museverse-labs--ghost-hands-real-piano",
@@ -20844,7 +20950,8 @@
     "embeddable": true
    },
    "source_url": "https://museverse.xyz",
-   "batch": "platforms-2026-fall"
+   "batch": "platforms-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "bilawal-sidhu--gods-eye-view-of-time",
@@ -20886,7 +20993,8 @@
    "source_url": "https://maptheworld.ai",
    "code_url": "https://github.com/bilawalsidhu/gods-eye-view",
    "related_cat": "trace",
-   "batch": "update-2026-11-yt-a"
+   "batch": "update-2026-11-yt-a",
+   "added": "2026-11-13"
   },
   {
    "id": "nick-ross--miku-in-little-tokyo",
@@ -20930,7 +21038,8 @@
     "source": "x",
     "url": "https://x.com/alessiograncini/status/2105803240839467251"
    },
-   "batch": "specs-creators"
+   "batch": "specs-creators",
+   "added": "2026-10-14"
   },
   {
    "id": "takashi-yoshinaga--holotuberkit-pinned-views",
@@ -20972,7 +21081,8 @@
     "embeddable": true
    },
    "source_url": "https://www.youtube.com/watch?v=uLes9dVG8OA",
-   "batch": "update-2026-11-yt-a"
+   "batch": "update-2026-11-yt-a",
+   "added": "2026-11-13"
   },
   {
    "id": "dzmitry-tsetserukou--hoverai",
@@ -21014,7 +21124,8 @@
    },
    "source_url": "https://arxiv.org/abs/2601.13801",
    "ai_cat": "agent",
-   "batch": "research-2026-labs"
+   "batch": "research-2026-labs",
+   "added": "2026-10-18"
   },
   {
    "id": "ryo-suzuki--humanoidturk",
@@ -21052,7 +21163,8 @@
     "embeddable": true
    },
    "source_url": "https://arxiv.org/abs/2601.18975",
-   "batch": "research-2026-hci"
+   "batch": "research-2026-hci",
+   "added": "2026-10-18"
   },
   {
    "id": "aether-ar--room-ai-that-can-see",
@@ -21096,7 +21208,8 @@
    },
    "source_url": "https://www.youtube.com/watch?v=YyBdMTlvzOs",
    "ai_cat": "agent",
-   "batch": "platforms-2026-fall"
+   "batch": "platforms-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "ishikawa-watanabe-lab--projection-mapping-makeup-impressions",
@@ -21136,7 +21249,8 @@
    },
    "source_url": "https://www.vision.ict.e.titech.ac.jp/projects/dyn_makeup_gen/",
    "ai_cat": "generate",
-   "batch": "research-2026-labs"
+   "batch": "research-2026-labs",
+   "added": "2026-10-18"
   },
   {
    "id": "zhou-zhou--inner-room-dance",
@@ -21339,7 +21453,8 @@
    "source_url": "https://www.aobasar.com/projects/kokobubu/",
    "code_url": "https://github.com/aobasar/kokobubu",
    "ai_cat": "understand",
-   "batch": "platforms-2026-11b"
+   "batch": "platforms-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "stijn-spanhove--lego-ar-glasses",
@@ -21538,7 +21653,8 @@
     "embeddable": true
    },
    "source_url": "https://programs.sigchi.org/uist/2026/program/content/262714",
-   "batch": "research-2026-fall"
+   "batch": "research-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "florencia-raffa--lingo-specs",
@@ -21582,7 +21698,8 @@
    },
    "source_url": "https://lingospecs.com",
    "ai_cat": "understand",
-   "batch": "update-2026-11-yt-b"
+   "batch": "update-2026-11-yt-b",
+   "added": "2026-11-13"
   },
   {
    "id": "michael-cummings--listlens",
@@ -21623,7 +21740,8 @@
    },
    "source_url": "https://www.youtube.com/watch?v=uE6r3_Y_2BM",
    "ai_cat": "understand",
-   "batch": "platforms-2026-11b"
+   "batch": "platforms-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "takashi-yoshinaga--live-scene-analyzer",
@@ -21749,7 +21867,8 @@
     "source": "article",
     "url": "https://developers.snap.com/spectacles/spectacles-community/hackathon-showcase"
    },
-   "batch": "specs-challenge"
+   "batch": "specs-challenge",
+   "added": "2026-10-14"
   },
   {
    "id": "enrico-rukzio--mirage",
@@ -21792,7 +21911,8 @@
    "source_url": "https://arxiv.org/abs/2601.19385",
    "code_url": "https://github.com/J-Britten/MIRAGE",
    "ai_cat": "restyle",
-   "batch": "research-2026-hci"
+   "batch": "research-2026-hci",
+   "added": "2026-10-18"
   },
   {
    "id": "eyal-ofek--magicpen",
@@ -21918,7 +22038,8 @@
     "why_en": "You remember the path by walking it on the real floor instead of tapping it.",
     "why_zh": "记住的路线要用双脚在真实地板上走出来，而不是用手指点出来。",
     "cat": "play"
-   }
+   },
+   "added": "2026-10-14"
   },
   {
    "id": "keijiro-takahashi--meshslicer",
@@ -22157,7 +22278,8 @@
    },
    "source_url": "https://www.signalfestival.com/?p=13469",
    "related_cat": "projection",
-   "batch": "art-2026-11b"
+   "batch": "art-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "shogo-fukushima--mountless-aerial-hmd",
@@ -22196,7 +22318,8 @@
     "embeddable": true
    },
    "source_url": "https://doi.org/10.1145/3799826.3812427",
-   "batch": "research-2026-xr"
+   "batch": "research-2026-xr",
+   "added": "2026-10-18"
   },
   {
    "id": "noa-jansma--my-father-is-turning-into-soil",
@@ -22234,7 +22357,8 @@
    },
    "source_url": "https://noajansma.com",
    "related_cat": "projection",
-   "batch": "art-2026-11b"
+   "batch": "art-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "mar-gonzalez-franco--navig-ai-tion",
@@ -22312,7 +22436,8 @@
     "embeddable": true
    },
    "source_url": "https://programs.sigchi.org/uist/2026/program/content/262945",
-   "batch": "research-2026-fall"
+   "batch": "research-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "chris-harrison-figlab--object-agent-twins",
@@ -22352,7 +22477,8 @@
    },
    "source_url": "https://daehwakim.com/oat/",
    "ai_cat": "agent",
-   "batch": "research-2026-11b"
+   "batch": "research-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "zhuoyue-lyu--objestures",
@@ -22589,7 +22715,8 @@
     "embeddable": true
    },
    "source_url": "https://www.youtube.com/watch?v=S78XYter2ck",
-   "batch": "update-2026-11-yt-a"
+   "batch": "update-2026-11-yt-a",
+   "added": "2026-11-13"
   },
   {
    "id": "ville-makela--pause-and-play",
@@ -22632,7 +22759,8 @@
     "why_en": "Pause VR and your avatar stays standing in your real room like a bookmark.",
     "why_zh": "暂停 VR，你的化身留在真实房间里，像一枚书签。",
     "cat": "time"
-   }
+   },
+   "added": "2026-11-23"
   },
   {
    "id": "simon-east--magnitogorsk-spatial-sound-dance",
@@ -22753,7 +22881,8 @@
     "embeddable": true
    },
    "source_url": "https://aoiesteban.com/project/peterandthewolf/",
-   "batch": "update-2026-11-yt-b"
+   "batch": "update-2026-11-yt-b",
+   "added": "2026-11-13"
   },
   {
    "id": "matthew-hallberg--pokemon-cards-ar",
@@ -22876,7 +23005,8 @@
     "why_en": "A shadow character on the wall wants to switch off the real light, and you stop him by moving real objects into his way.",
     "why_zh": "墙上的影子角色想关掉真正的灯，你只能把真实的物体挡在他面前来阻止他。",
     "cat": "alive"
-   }
+   },
+   "added": "2026-10-18"
   },
   {
    "id": "autodesk-research--playwrite",
@@ -22915,7 +23045,8 @@
    },
    "source_url": "https://doi.org/10.1145/3772318.3791159",
    "ai_cat": "cocreate",
-   "batch": "research-2026-hci"
+   "batch": "research-2026-hci",
+   "added": "2026-10-18"
   },
   {
    "id": "owen-yuwono--poseidon-fft-ocean",
@@ -22994,7 +23125,8 @@
     "embeddable": true
    },
    "source_url": "https://programs.sigchi.org/uist/2026/program/content/262808",
-   "batch": "research-2026-fall"
+   "batch": "research-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "pengcheng-an--projecta",
@@ -23033,7 +23165,8 @@
     "embeddable": true
    },
    "source_url": "https://arxiv.org/abs/2601.11328",
-   "batch": "research-2026-hci"
+   "batch": "research-2026-hci",
+   "added": "2026-10-18"
   },
   {
    "id": "ludwig-sidenmark--prop-chromeleon",
@@ -23114,7 +23247,8 @@
    },
    "source_url": "https://doi.org/10.1145/3830398.3830584",
    "ai_cat": "understand",
-   "batch": "update-2026-11-yt-b"
+   "batch": "update-2026-11-yt-b",
+   "added": "2026-11-13"
   },
   {
    "id": "lee-vermeulen--pushing-balancing-robot",
@@ -23153,7 +23287,8 @@
     "embeddable": true
    },
    "source_url": "https://www.youtube.com/watch?v=FDmLkfCW2qk",
-   "batch": "update-2026-11-yt-b"
+   "batch": "update-2026-11-yt-b",
+   "added": "2026-11-13"
   },
   {
    "id": "arghya-sur--questroomscan",
@@ -23313,7 +23448,8 @@
    },
    "source_url": "https://www.youtube.com/watch?v=Vbutk2wQz0c",
    "ai_cat": "generate",
-   "batch": "update-2026-11b-yt"
+   "batch": "update-2026-11b-yt",
+   "added": "2026-11-23"
   },
   {
    "id": "alessio-grancini--decart-style-transfer-specs",
@@ -23390,7 +23526,8 @@
     "embeddable": true
    },
    "source_url": "https://programs.sigchi.org/uist/2026/program/content/262759",
-   "batch": "research-2026-fall"
+   "batch": "research-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "yukang-yan--remapping-time",
@@ -23431,7 +23568,8 @@
     "why_en": "The headset slows reality down for a moment so you catch what flashed by.",
     "why_zh": "头显把现实放慢片刻，让你看清一闪而过的东西。",
     "cat": "time"
-   }
+   },
+   "added": "2026-11-13"
   },
   {
    "id": "sean-follmer--hidden-texture",
@@ -23470,7 +23608,8 @@
     "embeddable": true
    },
    "source_url": "https://dl.acm.org/doi/10.1145/3830398.3830551",
-   "batch": "update-2026-11-yt-b"
+   "batch": "update-2026-11-yt-b",
+   "added": "2026-11-13"
   },
   {
    "id": "keijiro-takahashi--rvm-coreml",
@@ -23591,7 +23730,8 @@
    },
    "source_url": "https://arxiv.org/abs/2603.04917",
    "ai_cat": "restyle",
-   "batch": "research-2026-hci"
+   "batch": "research-2026-hci",
+   "added": "2026-10-18"
   },
   {
    "id": "nonotak--satellites",
@@ -23631,7 +23771,8 @@
    },
    "source_url": "https://www.modefestival.com/programming/satellites",
    "related_cat": "light",
-   "batch": "update-2026-11-yt-b"
+   "batch": "update-2026-11-yt-b",
+   "added": "2026-11-13"
   },
   {
    "id": "studio-roosegaarde--seeing-stars-aarhus",
@@ -23675,7 +23816,8 @@
     "why_en": "A whole city switches off its lights, and the stars become the artwork.",
     "why_zh": "整座城市关灯，星星就成了作品。",
     "cat": "invisible"
-   }
+   },
+   "added": "2026-11-13"
   },
   {
    "id": "simular--sai-fi",
@@ -23755,7 +23897,8 @@
     "embeddable": true
    },
    "source_url": "https://www.eurekalert.org/news-releases/1152311",
-   "batch": "research-2026-11b"
+   "batch": "research-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "will-pappenheimer--scorched-earth-policy",
@@ -23836,7 +23979,8 @@
     "why_en": "A camera on the wrist lets your hand see behind objects.",
     "why_zh": "手腕上的摄像头让你的手看见物体背后。",
     "cat": "senses"
-   }
+   },
+   "added": "2026-11-13"
   },
   {
    "id": "jan-gugenheimer--shadar",
@@ -23876,7 +24020,8 @@
    },
    "source_url": "https://programs.sigchi.org/uist/2026/program/content/262705",
    "ai_cat": "restyle",
-   "batch": "research-2026-fall"
+   "batch": "research-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "daisuke-iwai--shadowless-projection-mapping",
@@ -23915,7 +24060,8 @@
     "embeddable": true
    },
    "source_url": "https://doi.org/10.1109/TVCG.2026.3679111",
-   "batch": "research-2026-xr"
+   "batch": "research-2026-xr",
+   "added": "2026-10-18"
   },
   {
    "id": "tung-yen-chou--shifting-connections",
@@ -23959,7 +24105,8 @@
     "why_en": "Bodies become points and closeness becomes lines, so a group sees its own distances.",
     "why_zh": "身体是点、靠近是线，一群人看见彼此的距离。",
     "cat": "invisible"
-   }
+   },
+   "added": "2026-11-23"
   },
   {
    "id": "ian-curtis--x468078",
@@ -24039,7 +24186,8 @@
     "embeddable": true
    },
    "source_url": "https://www.youtube.com/watch?v=RaqQkZy_WsE",
-   "batch": "update-2026-11-yt-b"
+   "batch": "update-2026-11-yt-b",
+   "added": "2026-11-13"
   },
   {
    "id": "cayden-pierce--ai-tour-guide-glasses",
@@ -24200,7 +24348,8 @@
    },
    "source_url": "https://snapphysics-ismar2026.github.io/",
    "ai_cat": "understand",
-   "batch": "research-2026-11b"
+   "batch": "research-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "nowhere-media--solwata",
@@ -24239,7 +24388,8 @@
     "embeddable": true
    },
    "source_url": "https://www.labiennale.org/en/cinema/2026/venice-immersive/solwata",
-   "batch": "art-2026-fall"
+   "batch": "art-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "laan-labs--sonar-ruler",
@@ -24284,7 +24434,8 @@
     "why_en": "Your phone measures the room by echo, like a bat.",
     "why_zh": "手机像蝙蝠一样，靠回声测量房间。",
     "cat": "senses"
-   }
+   },
+   "added": "2026-11-13"
   },
   {
    "id": "imogen-heap--sound-space-specs",
@@ -24330,7 +24481,8 @@
     "why_en": "The air around her body becomes a loop station she plays with her hands and voice.",
     "why_zh": "她身体周围的空气变成一台循环录音机，用手和声音来演奏。",
     "cat": "sound"
-   }
+   },
+   "added": "2026-10-14"
   },
   {
    "id": "chris-harrison-figlab--soundbubble",
@@ -24369,7 +24521,8 @@
    },
    "source_url": "https://www.figlab.com/research/2026/soundbubble",
    "code_url": "https://github.com/FIGLAB/SoundBubble",
-   "batch": "research-2026-hci"
+   "batch": "research-2026-hci",
+   "added": "2026-10-18"
   },
   {
    "id": "takashi-yoshinaga--finger-framing-copy-paste",
@@ -24416,7 +24569,8 @@
     "why_en": "Frame a real object with your fingers and it becomes a copy you can paste anywhere.",
     "why_zh": "用手指框住一个真实物体，它就变成可以随处粘贴的副本。",
     "cat": "rewrite"
-   }
+   },
+   "added": "2026-11-13"
   },
   {
    "id": "takashi-yoshinaga--spatial-search-quest",
@@ -24498,7 +24652,8 @@
    },
    "source_url": "https://www.youtube.com/watch?v=TpSow_hkot0",
    "ai_cat": "cocreate",
-   "batch": "platforms-2026-11b"
+   "batch": "platforms-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "alessio-grancini--spectacles-reachy-mini",
@@ -24577,7 +24732,8 @@
     "embeddable": true
    },
    "source_url": "https://sphenomenon.com",
-   "batch": "update-2026-11-yt-a"
+   "batch": "update-2026-11-yt-a",
+   "added": "2026-11-13"
   },
   {
    "id": "ian-curtis--x153797",
@@ -24654,7 +24810,8 @@
    },
    "source_url": "https://www.labiennale.org/en/cinema/2026/venice-immersive/spomyny",
    "related_cat": "responsive",
-   "batch": "art-2026-fall"
+   "batch": "art-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "stijn-spanhove--rag-embeddings-in-xr",
@@ -24741,7 +24898,8 @@
     "why_en": "Tell a story out loud and the walls of the room become it.",
     "why_zh": "把故事讲出来，房间的墙就变成故事本身。",
     "cat": "rewrite"
-   }
+   },
+   "added": "2026-10-18"
   },
   {
    "id": "asier-marzo--streamfog",
@@ -24781,7 +24939,8 @@
     "embeddable": true
    },
    "source_url": "https://doi.org/10.1145/3772318.3790754",
-   "batch": "research-2026-hci"
+   "batch": "research-2026-hci",
+   "added": "2026-10-18"
   },
   {
    "id": "keijiro-takahashi--strobepages",
@@ -24859,7 +25018,8 @@
     "embeddable": true
    },
    "source_url": "https://www.youtube.com/watch?v=iryI15yJB_A",
-   "batch": "art-2026-11b"
+   "batch": "art-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "table-connect--table-connect",
@@ -24901,7 +25061,8 @@
     "embeddable": true
    },
    "source_url": "https://tableconnect.co.uk",
-   "batch": "platforms-2026-11b"
+   "batch": "platforms-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "taixu-dreamscape--taixu-dreamscape",
@@ -24939,7 +25100,8 @@
     "embeddable": true
    },
    "source_url": "https://sa2026.conference-schedule.org/?post_type=page&p=15&id=xr_143&sess=sess280",
-   "batch": "research-2026-11b"
+   "batch": "research-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "ian-curtis--x795594",
@@ -25025,7 +25187,8 @@
     "why_en": "Every bite becomes a shape above your plate, so you can see what you taste.",
     "why_zh": "每吃一口，盘子上方就长出一个形状，让你看见自己尝到的味道。",
     "cat": "senses"
-   }
+   },
+   "added": "2026-10-18"
   },
   {
    "id": "hart-woolery--tech-deck-specs",
@@ -25068,7 +25231,8 @@
     "why_en": "Two fingers become a skater riding a tiny skatepark on a café table.",
     "why_zh": "两根手指变成滑板手，在咖啡桌上的迷你滑板场里滑行。",
     "cat": "body"
-   }
+   },
+   "added": "2026-10-14"
   },
   {
    "id": "paris-ar-studio--incredible-unknowns-louvre",
@@ -25185,7 +25349,8 @@
    },
    "source_url": "https://www.youtube.com/watch?v=1YcD62BZago",
    "ai_cat": "agent",
-   "batch": "research-2026-11b"
+   "batch": "research-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "steven-harmon--the-time-dial",
@@ -25232,7 +25397,8 @@
     "source": "article",
     "url": "https://developers.snap.com/spectacles/spectacles-community/hackathon-showcase"
    },
-   "batch": "specs-challenge"
+   "batch": "specs-challenge",
+   "added": "2026-10-14"
   },
   {
    "id": "sila-sveta--holographic-ballet-swan-lake",
@@ -25352,7 +25518,8 @@
    },
    "source_url": "https://projects.daito.ws/timber-timbre/",
    "related_cat": "responsive",
-   "batch": "update-2026-11-yt-a"
+   "batch": "update-2026-11-yt-a",
+   "added": "2026-11-13"
   },
   {
    "id": "botao-amber-hu--touchport",
@@ -25473,7 +25640,8 @@
     "embeddable": true
    },
    "source_url": "https://kff.tw/en/film/content/5087",
-   "batch": "art-2026-11b"
+   "batch": "art-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "pieter-siekerman--transitview",
@@ -25522,7 +25690,8 @@
     "why_en": "You see the bus coming around the corner while a building still hides it.",
     "why_zh": "公交车还被楼挡着，你已经能看见它从拐角开过来。",
     "cat": "invisible"
-   }
+   },
+   "added": "2026-10-14"
   },
   {
    "id": "takashi-yoshinaga--memories-to-3dgs",
@@ -25731,7 +25900,8 @@
     "embeddable": true
    },
    "source_url": "https://devpost.com/software/unframed-mys018",
-   "batch": "platforms-2026-11b"
+   "batch": "platforms-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "william-forsythe--uplifting-instruction",
@@ -25775,7 +25945,8 @@
     "why_en": "AR planes tow an instruction across the sky, and reading it makes you lift your head.",
     "why_zh": "AR 飞机拖着一条指令飞过天空，要读它就得抬起头。",
     "cat": "rewrite"
-   }
+   },
+   "added": "2026-11-23"
   },
   {
    "id": "pavlo-tkachenko--vectar-air-hockey",
@@ -25818,7 +25989,8 @@
    },
    "source_url": "https://pavlo-stijn.dev/blog/posts/vectar-a-robot-that-shares-a-brain.html",
    "code_url": "https://github.com/PtPavloTkachenko/VectAR-Airhokey",
-   "batch": "specs-creators"
+   "batch": "specs-creators",
+   "added": "2026-10-14"
   },
   {
    "id": "harvard-vcg--vistar",
@@ -25898,7 +26070,8 @@
    },
    "source_url": "https://www.labiennale.org/en/cinema/2026/venice-immersive/voooooo-peeeeee",
    "related_cat": "immersive",
-   "batch": "art-2026-fall"
+   "batch": "art-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "sung-hee-lee--voronoi-rooms",
@@ -25937,7 +26110,8 @@
     "embeddable": true
    },
    "source_url": "https://doi.org/10.1145/3777900",
-   "batch": "research-2026-xr"
+   "batch": "research-2026-xr",
+   "added": "2026-10-18"
   },
   {
    "id": "astral-shores--warp-out",
@@ -25976,7 +26150,8 @@
     "embeddable": true
    },
    "source_url": "https://www.youtube.com/watch?v=GnfqQNIjkAk",
-   "batch": "platforms-2026-11b"
+   "batch": "platforms-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "studio-roosegaarde--waterlicht",
@@ -26022,7 +26197,8 @@
     "why_en": "A sheet of blue light overhead shows how high the water could rise.",
     "why_zh": "头顶的一片蓝光，标出水可能涨到的高度。",
     "cat": "invisible"
-   }
+   },
+   "added": "2026-11-23"
   },
   {
    "id": "awu-chen--wake-them-up",
@@ -26071,7 +26247,8 @@
     "why_en": "The objects in a room tell the dreams of the person who used to live with them.",
     "why_zh": "房间里的物件替不在场的主人讲出他们的梦。",
     "cat": "alive"
-   }
+   },
+   "added": "2026-10-14"
   },
   {
    "id": "harry-banda--who-let-the-flies-in",
@@ -26114,7 +26291,8 @@
     "why_en": "Catch the flies in your room with a pair of chopsticks.",
     "why_zh": "用一双筷子夹住房间里的苍蝇。",
     "cat": "play"
-   }
+   },
+   "added": "2026-11-23"
   },
   {
    "id": "jun-nishida--wiredrum",
@@ -26237,7 +26415,8 @@
     "why_en": "Put a hand into one hole and it comes out of another across the room.",
     "why_zh": "把手伸进一个洞，它从房间另一头的洞里伸出来。",
     "cat": "portal"
-   }
+   },
+   "added": "2026-11-23"
   },
   {
    "id": "mohamed-kari--x-oohri",
@@ -26278,7 +26457,8 @@
    },
    "source_url": "https://arxiv.org/abs/2601.14587",
    "ai_cat": "understand",
-   "batch": "research-2026-labs"
+   "batch": "research-2026-labs",
+   "added": "2026-10-18"
   },
   {
    "id": "1024-architecture--1d-arcade",
@@ -26361,7 +26541,8 @@
     "embeddable": true
    },
    "source_url": "https://doi.org/10.1145/3746058.3759000",
-   "batch": "research-2026-hci"
+   "batch": "research-2026-hci",
+   "added": "2026-10-18"
   },
   {
    "id": "stijn-spanhove--ai-teleport",
@@ -26954,7 +27135,8 @@
    },
    "source_url": "https://www.tampereentaidemuseo.fi/en/exhibitions/hanna-haaslahti-ancestors/",
    "ai_cat": "body",
-   "batch": "art-2026-fall"
+   "batch": "art-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "msr-izadi-holoportation--android-xr-glasses-ted",
@@ -27159,7 +27341,8 @@
    },
    "source_url": "https://www.designboom.com/technology/snapchat-ar-glasses-lenses-visuals-sounds-book-reading-spectacles-05-29-2025/",
    "ai_cat": "generate",
-   "batch": "specs-studios"
+   "batch": "specs-studios",
+   "added": "2026-10-14"
   },
   {
    "id": "ian-curtis--x996689",
@@ -27311,7 +27494,8 @@
     "embeddable": true
    },
    "source_url": "https://doi.org/10.1109/ISMAR67309.2025.00153",
-   "batch": "research-2026-xr"
+   "batch": "research-2026-xr",
+   "added": "2026-10-18"
   },
   {
    "id": "danlin-huang--body-oracle-translator",
@@ -27392,7 +27576,8 @@
     "embeddable": true
    },
    "source_url": "https://doi.org/10.1145/3749385.3749409",
-   "batch": "research-2026-11b"
+   "batch": "research-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "florencia-raffa--boulderverse",
@@ -27647,7 +27832,8 @@
     "why_en": "Your eye moves to your toes, and your feet become your head.",
     "why_zh": "眼睛搬到脚趾上，脚就成了头。",
     "cat": "body"
-   }
+   },
+   "added": "2026-11-13"
   },
   {
    "id": "andres-monroy-hernandez--capybara",
@@ -27767,7 +27953,8 @@
     "embeddable": true
    },
    "source_url": "https://arxiv.org/abs/2509.14643",
-   "batch": "research-2026-hci"
+   "batch": "research-2026-hci",
+   "added": "2026-10-18"
   },
   {
    "id": "figmin-xr--chatgpt-5-scripting",
@@ -27931,7 +28118,8 @@
     "url": "https://blog.lenslist.co/2025/11/06/lens-fest-2025-awards-lensathon-recap-/"
    },
    "ai_cat": "agent",
-   "batch": "specs-challenge"
+   "batch": "specs-challenge",
+   "added": "2026-10-14"
   },
   {
    "id": "takashi-yoshinaga--dejaviewer",
@@ -28287,7 +28475,8 @@
     "embeddable": true
    },
    "source_url": "https://doi.org/10.1145/3706598.3714315",
-   "batch": "research-2026-hci"
+   "batch": "research-2026-hci",
+   "added": "2026-10-18"
   },
   {
    "id": "keijiro-takahashi--fluo",
@@ -28846,7 +29035,8 @@
     "embeddable": true
    },
    "source_url": "https://www.youtube.com/watch?v=NodzigFGyKs",
-   "batch": "research-2026-fall"
+   "batch": "research-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "stijn-spanhove--gemini-vision-pro-assistant",
@@ -28922,7 +29112,8 @@
     "embeddable": true
    },
    "source_url": "https://www.youtube.com/watch?v=zqym4L6-6gw",
-   "batch": "specs-challenge"
+   "batch": "specs-challenge",
+   "added": "2026-10-14"
   },
   {
    "id": "violeta-ayala--huk-the-jaguaress",
@@ -29006,7 +29197,8 @@
     "embeddable": true
    },
    "source_url": "https://sa2025.conference-schedule.org/presentation/?id=xr_214&sess=sess185",
-   "batch": "research-2026-xr"
+   "batch": "research-2026-xr",
+   "added": "2026-10-18"
   },
   {
    "id": "torin-blankensmith--io-brush-recreation",
@@ -29523,7 +29715,8 @@
     "embeddable": true
    },
    "source_url": "https://arxiv.org/abs/2504.08902",
-   "batch": "research-2026-xr"
+   "batch": "research-2026-xr",
+   "added": "2026-10-18"
   },
   {
    "id": "lachlan-turczan--lucida",
@@ -29608,7 +29801,8 @@
     "why_en": "A song's lyrics turn up in the world: on a rabbit's sign, a plane's banner, and in speech bubbles over passers-by.",
     "why_zh": "歌词出现在真实世界里：兔子举的牌子上、飞机拖的横幅上，还有路人头顶的对话气泡里。",
     "cat": "rewrite"
-   }
+   },
+   "added": "2026-10-14"
   },
   {
    "id": "meta-reality-labs--meta-ray-ban-display",
@@ -29955,7 +30149,8 @@
     "embeddable": true
    },
    "source_url": "https://doi.org/10.1145/3721245.3734045",
-   "batch": "research-2026-xr"
+   "batch": "research-2026-xr",
+   "added": "2026-10-18"
   },
   {
    "id": "ian-curtis--x051024",
@@ -30159,7 +30354,8 @@
     "why_en": "One machine leaves a bird's footprints and another erases them.",
     "why_zh": "一台机器留下鸟的脚印，另一台把它们抹掉。",
     "cat": "time"
-   }
+   },
+   "added": "2026-11-13"
   },
   {
    "id": "celine-daemen--nothing-to-see-here",
@@ -30202,7 +30398,8 @@
     "source": "article",
     "url": "https://thefilmverdict.com/?p=47895"
    },
-   "batch": "art-2026-fall"
+   "batch": "art-2026-fall",
+   "added": "2026-11-13"
   },
   {
    "id": "parratoro--pop-ar",
@@ -30448,7 +30645,8 @@
     "why_en": "A photo cuts a hole in the room, and the next player has to find the real spot that fills it.",
     "why_zh": "一张照片在房间里挖出一个洞，下一位玩家要找到能把它补上的真实位置。",
     "cat": "portal"
-   }
+   },
+   "added": "2026-10-14"
   },
   {
    "id": "keijiro-takahashi--pigment-mixing",
@@ -30617,7 +30815,8 @@
     "why_en": "A postcard on the fridge speaks only while you look at it, and waits quietly when you look away.",
     "why_zh": "贴在冰箱上的明信片，只有你看着它时才开口说话，移开视线它就安静地等着。",
     "cat": "time"
-   }
+   },
+   "added": "2026-10-14"
   },
   {
    "id": "meta-rl-research--promemassist",
@@ -30941,7 +31140,8 @@
     "embeddable": true
    },
    "source_url": "https://mkari.de/reality-promises/",
-   "batch": "research-2026-hci"
+   "batch": "research-2026-hci",
+   "added": "2026-10-18"
   },
   {
    "id": "mar-gonzalez-franco--reality-proxy",
@@ -31463,7 +31663,8 @@
     "why_en": "Your private virtual windows cast real shadows on the floor, so people nearby know not to walk through them.",
     "why_zh": "你私人的虚拟窗口在地板上投下真实的影子，让身边的人知道别从中间走过。",
     "cat": "shadow"
-   }
+   },
+   "added": "2026-10-18"
   },
   {
    "id": "ken-nakagaki--shape-n-swarm",
@@ -32136,7 +32337,8 @@
     "embeddable": true
    },
    "source_url": "https://doi.org/10.1145/3736777",
-   "batch": "research-2026-xr"
+   "batch": "research-2026-xr",
+   "added": "2026-10-18"
   },
   {
    "id": "tom-ward--tales-of-the-deep",
@@ -32455,7 +32657,8 @@
    },
    "source_url": "https://arxiv.org/abs/2607.02174",
    "related_cat": "sky",
-   "batch": "research-2026-labs"
+   "batch": "research-2026-labs",
+   "added": "2026-10-18"
   },
   {
    "id": "hugues-bruyere--prompt-engineer-and-director",
@@ -32574,7 +32777,8 @@
    },
    "source_url": "https://interactive-structures.org/publications/2025-09-object-agents/",
    "ai_cat": "agent",
-   "batch": "research-2026-hci"
+   "batch": "research-2026-hci",
+   "added": "2026-10-18"
   },
   {
    "id": "keijiro-takahashi--trackpad-fluid",
@@ -32812,7 +33016,8 @@
     "embeddable": true
    },
    "source_url": "https://doi.org/10.1145/3731154",
-   "batch": "research-2026-xr"
+   "batch": "research-2026-xr",
+   "added": "2026-10-18"
   },
   {
    "id": "jon-barron--vibe-coded-ar-game-quest",
@@ -32976,7 +33181,8 @@
     "source": "article",
     "url": "https://blog.lenslist.co/2025/07/14/spectacles-community-challenge-3-winners-announcement/"
    },
-   "batch": "specs-challenge"
+   "batch": "specs-challenge",
+   "added": "2026-10-14"
   },
   {
    "id": "collusion--walking-with-pride",
@@ -33061,7 +33267,8 @@
     "why_en": "A character floats above your head that everyone in the room can see except you.",
     "why_zh": "一个角色悬在你头顶，房间里所有人都看得见，唯独你自己看不见。",
     "cat": "play"
-   }
+   },
+   "added": "2026-10-14"
   },
   {
    "id": "keiichi-matsuda--wisp-world",
@@ -72846,7 +73053,8 @@
    },
    "source_url": "https://www.ratsi.com/",
    "related_cat": "illusion",
-   "batch": "art-2026-11b"
+   "batch": "art-2026-11b",
+   "added": "2026-11-23"
   },
   {
    "id": "hart-woolery--yopuppet",
@@ -142436,6 +142644,36 @@
    "zh": "与 AI 共同创作",
    "desc_en": "Authoring, prototyping and design tools where AI and a person make AR together.",
    "desc_zh": "让人和 AI 一起做 AR 的创作、原型与设计工具。"
+  }
+ ],
+ "updates": [
+  {
+   "date": "2026-11-23",
+   "title_en": "Late-November update",
+   "title_zh": "11 月下旬更新",
+   "note_en": "New uploads from creators already in the gallery, research from ISMAR, UIST, CHI PLAY and SIGGRAPH Asia 2026, festival pieces from Kaohsiung, IDFA DocLab, Signal and Frieze, and entries to the Meta VR Start Developer Competition.",
+   "note_zh": "已收录创作者的新上传，ISMAR、UIST、CHI PLAY 和 SIGGRAPH Asia 2026 的研究，高雄、IDFA DocLab、Signal 和 Frieze 的展览作品，以及 Meta VR Start Developer Competition 的参赛作品。"
+  },
+  {
+   "date": "2026-11-13",
+   "title_en": "November update",
+   "title_zh": "11 月更新",
+   "note_en": "New uploads from creators already in the gallery, UIST and VRST 2026 research, Prix Ars Electronica and Venice Immersive 2026, and new Quest, Vision Pro and indie mixed reality pieces.",
+   "note_zh": "已收录创作者的新上传，UIST 和 VRST 2026 的研究，Prix Ars Electronica 和 Venice Immersive 2026 的作品，以及 Quest、Vision Pro 和独立开发者的混合现实新作。"
+  },
+  {
+   "date": "2026-10-18",
+   "title_en": "Research round",
+   "title_zh": "研究专题",
+   "note_en": "AR and MR research from 2025–2026: HCI conferences, XR venues and lab channels.",
+   "note_zh": "2025–2026 年的 AR 与 MR 研究：人机交互会议、XR 会议和实验室频道。"
+  },
+  {
+   "date": "2026-10-14",
+   "title_en": "Specs round",
+   "title_zh": "Specs 专题",
+   "note_en": "Recent experiences for Snap Spectacles from the community challenges, independent creators and studios.",
+   "note_zh": "近期的 Snap Spectacles 体验，来自社区挑战赛、独立创作者和工作室。"
   }
  ]
 }

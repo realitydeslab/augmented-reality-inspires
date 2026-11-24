@@ -6,6 +6,7 @@ Thirty years of augmented-reality ideas. A gallery of the most inventive AR crea
 
 ## What's inside
 
+- **What's New**: the latest updates, newest first, each with every work it added (`data/updates.json`).
 - **Salient**: simple works where the concept jumps out — one idea, minimal means, understood in seconds (`data/salient/`).
 - **AI × AR**: AR where AI is central to the idea — models that see and explain the world, agents in space, generated worlds, reality restyled live — in 6 categories (`data/ai_categories.json`, `data/ai/`).
 - **Related Art**: works that are not AR but inspire AR — land art, light, projection, fireworks, illusions, installations, stage and VR — in 10 categories (`data/related_categories.json`, `data/related/`).
@@ -79,6 +80,7 @@ YouTube embeds need `http://`; they do not play from `file://`.
 | `data/vfx_categories.json` | The 10 Visual Effects categories; a work joins the column with `vfx_cat`, and `code_url` links its source code |
 | `data/related_categories.json`, `data/related/*.json` | The 10 Related Art categories; a work joins with `related_cat` in its batch or via a mapping file (`{ "work-id": "cat" }`, `null` removes) |
 | `data/key_creators.json` | Key Creators, groups and guided tours |
+| `data/updates.json` | What's New tab: each update's date, title, note (English + Chinese) and the batches it added. The build files any batch it has not seen under an update dated that day; give that update a title and note |
 | `data/overrides.json` | Manual curation: merge creators, hide or patch works, lead status, confirmed non-duplicates |
 | `data/entries.json`, `data/entries.js`, `data/details.js` | Built dataset: `entries.json` is complete; the site loads `entries.js` (card fields) up front and `details.js` (descriptions, techniques, exercises, bios) only when a work is opened, on search, the Creators tab or export |
 | `data/sources/pinterest.json` | Pinterest pins used as discovery leads, each marked traced / untraced / not_ar / duplicate (only traced pins become works, with `found_via`) |
@@ -99,6 +101,7 @@ All videos belong to their creators and are embedded from YouTube, Vimeo, X and 
 
 ## 内容
 
+- **最近更新**：最近的几次更新，最新的排在最前，每次更新列出它新增的全部作品（`data/updates.json`）。
 - **一眼即懂**：做法简单、但概念非常突出的作品——一个想法、极简的手段，几秒就能看懂（`data/salient/`）。
 - **AI × AR**：AI 本身就是点子的 AR——看懂世界的模型、空间里的智能体、生成的世界、被实时重绘的现实——分为 6 类（`data/ai_categories.json`、`data/ai/`）。
 - **相关艺术**：不是 AR、却能启发 AR 的作品——大地艺术、光、投影、烟火、错觉、装置、舞台和 VR——分为 10 类（`data/related_categories.json`、`data/related/`）。

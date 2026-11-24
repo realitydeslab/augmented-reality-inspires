@@ -1,0 +1,102 @@
+{
+ "_note": "What's New tab. updates: newest first; each lists the batches (data/raw/<batch>.json) it added. baseline: batches from before the first listed update (not shown). The build appends any batch it has not seen to an update dated that day; give that update a title and note in both languages.",
+ "updates": [
+  {
+   "date": "2026-11-23",
+   "title_en": "Late-November update",
+   "title_zh": "11 月下旬更新",
+   "note_en": "New uploads from creators already in the gallery, research from ISMAR, UIST, CHI PLAY and SIGGRAPH Asia 2026, festival pieces from Kaohsiung, IDFA DocLab, Signal and Frieze, and entries to the Meta VR Start Developer Competition.",
+   "note_zh": "已收录创作者的新上传，ISMAR、UIST、CHI PLAY 和 SIGGRAPH Asia 2026 的研究，高雄、IDFA DocLab、Signal 和 Frieze 的展览作品，以及 Meta VR Start Developer Competition 的参赛作品。",
+   "batches": [
+    "art-2026-11b",
+    "platforms-2026-11b",
+    "research-2026-11b",
+    "update-2026-11b-yt"
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "title_en": "November update",
+   "title_zh": "11 月更新",
+   "note_en": "New uploads from creators already in the gallery, UIST and VRST 2026 research, Prix Ars Electronica and Venice Immersive 2026, and new Quest, Vision Pro and indie mixed reality pieces.",
+   "note_zh": "已收录创作者的新上传，UIST 和 VRST 2026 的研究，Prix Ars Electronica 和 Venice Immersive 2026 的作品，以及 Quest、Vision Pro 和独立开发者的混合现实新作。",
+   "batches": [
+    "art-2026-fall",
+    "platforms-2026-fall",
+    "research-2026-fall",
+    "update-2026-11-yt-a",
+    "update-2026-11-yt-b"
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "title_en": "Research round",
+   "title_zh": "研究专题",
+   "note_en": "AR and MR research from 2025–2026: HCI conferences, XR venues and lab channels.",
+   "note_zh": "2025–2026 年的 AR 与 MR 研究：人机交互会议、XR 会议和实验室频道。",
+   "batches": [
+    "research-2026-hci",
+    "research-2026-labs",
+    "research-2026-xr"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "title_en": "Specs round",
+   "title_zh": "Specs 专题",
+   "note_en": "Recent experiences for Snap Spectacles from the community challenges, independent creators and studios.",
+   "note_zh": "近期的 Snap Spectacles 体验，来自社区挑战赛、独立创作者和工作室。",
+   "batches": [
+    "specs-challenge",
+    "specs-creators",
+    "specs-studios"
+   ]
+  }
+ ],
+ "baseline": [
+  "add-adrien-m-more",
+  "add-shengzhi-wu",
+  "add-universal-everything",
+  "add-zero10-knol",
+  "add-zhuoyue-lyu",
+  "ai-creators",
+  "ai-research",
+  "arkit-prototypers",
+  "artists",
+  "hci-research",
+  "headset-mr",
+  "ian-curtis",
+  "phone-consumer",
+  "r2-art",
+  "r2-lab",
+  "r2-phone",
+  "r3-art",
+  "r3-games",
+  "r3-lab",
+  "r3-lens",
+  "r3-shopify",
+  "r4-aelab",
+  "r4-artists",
+  "r4-dance",
+  "r4-manifest-ar",
+  "r4-pioneers",
+  "r5-coders",
+  "r5-dance-net",
+  "r5-openframeworks",
+  "r5-research",
+  "r5-studios",
+  "r5-uk",
+  "related-kinetic",
+  "related-land",
+  "related-projection",
+  "related-sky-light",
+  "src-pinterest",
+  "vfx-community",
+  "vfx-keijiro-new",
+  "vfx-keijiro-old",
+  "vfx-round2-leads",
+  "vfx-x",
+  "x-round2",
+  "zach-circle"
+ ]
+}
